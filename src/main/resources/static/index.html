@@ -3,99 +3,670 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Word Learning</title>
+    <title>自考英语（二）4500词</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; background-color: #f0f2f5; }
-        .container { max-width: 900px; margin: auto; }
-        h1 { text-align: center; color: #333; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+            background: #f5f7fa;
+            color: #333;
+        }
+
+        .app-container {
+            display: flex;
+            height: 100vh;
+        }
+
+        .sidebar {
+            width: 320px;
+            background: #fff;
+            border-right: 1px solid #e4e7ed;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .sidebar-header h1 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .search-box {
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 10px 15px 10px 35px;
+            border: none;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            font-size: 14px;
+            outline: none;
+        }
+
+        .search-box input::placeholder {
+            color: rgba(255,255,255,0.7);
+        }
+
+        .search-box::before {
+            content: "🔍";
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 14px;
+        }
+
+        .catalog-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px 0;
+        }
+
+        .catalog-container::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .catalog-container::-webkit-scrollbar-thumb {
+            background: #dcdfe6;
+            border-radius: 3px;
+        }
+
+        .catalog-level1 {
+            margin: 5px 0;
+        }
+
+        .catalog-level1-title {
+            padding: 12px 20px;
+            font-size: 15px;
+            font-weight: 600;
+            color: #303133;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: background 0.2s;
+        }
+
+        .catalog-level1-title:hover {
+            background: #f5f7fa;
+        }
+
+        .catalog-level1-title .arrow {
+            font-size: 12px;
+            transition: transform 0.3s;
+        }
+
+        .catalog-level1-title.expanded .arrow {
+            transform: rotate(90deg);
+        }
+
+        .catalog-level2 {
+            display: none;
+            padding-left: 15px;
+        }
+
+        .catalog-level2.expanded {
+            display: block;
+        }
+
+        .catalog-level2-title {
+            padding: 10px 20px;
+            font-size: 14px;
+            color: #606266;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .catalog-level2-title:hover {
+            background: #f5f7fa;
+        }
+
+        .catalog-words {
+            display: none;
+            padding-left: 30px;
+        }
+
+        .catalog-words.expanded {
+            display: block;
+        }
+
+        .catalog-word-item {
+            padding: 8px 20px;
+            font-size: 13px;
+            color: #909399;
+            cursor: pointer;
+            transition: all 0.2s;
+            border-left: 3px solid transparent;
+        }
+
+        .catalog-word-item:hover {
+            background: #f5f7fa;
+            color: #667eea;
+        }
+
+        .catalog-word-item.active {
+            background: #ecf0ff;
+            color: #667eea;
+            border-left-color: #667eea;
+            font-weight: 500;
+        }
+
+        .content-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .content-header {
+            padding: 20px 30px;
+            background: #fff;
+            border-bottom: 1px solid #e4e7ed;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .content-header h2 {
+            font-size: 20px;
+            color: #303133;
+        }
+
+        .filter-controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .filter-controls select {
+            padding: 8px 15px;
+            border: 1px solid #dcdfe6;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #606266;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .filter-controls select:hover {
+            border-color: #667eea;
+        }
+
+        .content-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 30px;
+        }
+
+        .content-body::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .content-body::-webkit-scrollbar-thumb {
+            background: #dcdfe6;
+            border-radius: 4px;
+        }
 
         .word-card {
             background: #fff;
-            padding: 20px;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+            transition: transform 0.2s;
+        }
+
+        .word-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        .word-card .word-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .word-card .word-number {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 14px;
+            margin-right: 10px;
+            font-weight: 600;
+        }
+
+        .word-card .word-meta {
+            color: #909399;
+            font-size: 14px;
             margin-bottom: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-            /* 核心：保留所有空格和换行符，完美还原 md 格式 */
+        }
+
+        .word-card .markdown-content {
+            line-height: 1.8;
             white-space: pre-wrap;
             word-wrap: break-word;
-            font-family: 'Consolas', 'Monaco', monospace; /* 使用等宽字体更像编辑器 */
-            font-size: 14px;
-            line-height: 1.6;
-            color: #2c3e50;
         }
 
-        /* 强调部分 */
-        .word-card strong { color: #d35400; font-weight: bold; }
-        .word-card h1, .word-card h2, .word-card h3, .word-card h4 {
-            font-family: 'Segoe UI', sans-serif;
-            color: #2980b9;
-            border-bottom: none;
-        }
-
-        #load-more-btn {
-            display: block;
-            width: 100%;
-            padding: 15px;
-            background-color: #3498db;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 16px;
-            cursor: pointer;
+        .word-card .markdown-content h1,
+        .word-card .markdown-content h2,
+        .word-card .markdown-content h3,
+        .word-card .markdown-content h4 {
             margin-top: 20px;
+            margin-bottom: 12px;
+            font-weight: 600;
+            color: #303133;
         }
-        #load-more-btn:hover { background-color: #2980b9; }
-        #load-more-btn:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+
+        .word-card .markdown-content h1 { font-size: 1.8em; }
+        .word-card .markdown-content h2 { font-size: 1.5em; }
+        .word-card .markdown-content h3 { font-size: 1.3em; }
+        .word-card .markdown-content h4 { font-size: 1.1em; }
+
+        .word-card .markdown-content strong {
+            color: #667eea;
+            font-weight: 700;
+        }
+
+        .word-card .markdown-content hr {
+            border: none;
+            border-top: 2px solid #e4e7ed;
+            margin: 20px 0;
+        }
+
+        .word-card .markdown-content p {
+            margin-bottom: 8px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #909399;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 60px 20px;
+            color: #909399;
+        }
+
+        .no-data .icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .app-container {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                height: 40vh;
+                border-right: none;
+                border-bottom: 1px solid #e4e7ed;
+            }
+
+            .content-body {
+                padding: 15px;
+            }
+        }
     </style>
 </head>
 <body>
-<div class="container">
-    <h1>📖 自考英语单词本</h1>
-    <div id="word-list"></div>
-    <button id="load-more-btn" onclick="loadMore()">加载更多单词</button>
+<div class="app-container">
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h1>📚 自考英语（二）4500词</h1>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索单词..." oninput="handleSearch(this.value)">
+            </div>
+        </div>
+        <div class="catalog-container" id="catalogContainer">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+
+    <div class="content-area">
+        <div class="content-header">
+            <h2 id="contentTitle">单词详情</h2>
+            <div class="filter-controls">
+                <select id="filterSelect" onchange="handleFilter(this.value)">
+                    <option value="all">全部显示</option>
+                    <option value="layer1">基础必备层（800词）</option>
+                    <option value="layer2">核心必考层（1500词）</option>
+                    <option value="layer3">高频进阶层（1200词）</option>
+                    <option value="layer4">低频储备层（1000词）</option>
+                </select>
+            </div>
+        </div>
+        <div class="content-body" id="contentBody">
+            <div class="no-data">
+                <div class="icon">📖</div>
+                <p>请从左侧目录选择单词</p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
-    let currentPage = 0;
-    const pageSize = 10; // 每次加载 10 个，防止卡顿
-    let isLoading = false;
+    let allWords = [];
+    let currentFilter = 'all';
+    let catalogStructure = [];
 
-    async function loadMore() {
-        if (isLoading) return;
-        isLoading = true;
-        const btn = document.getElementById('load-more-btn');
-        btn.disabled = true;
-        btn.textContent = '加载中...';
+    marked.setOptions({
+        breaks: true,
+        gfm: true
+    });
 
+    async function init() {
         try {
-            const response = await fetch(`/api/words?page=${currentPage}&size=${pageSize}`);
-            const data = await response.json();
+            const response = await fetch('/api/all-words');
+            allWords = await response.json();
+            console.log('✅ 加载单词数量:', allWords.length);
 
-            const list = document.getElementById('word-list');
-            data.content.forEach(word => {
-                const card = document.createElement('div');
-                card.classList.add('word-card');
-                // 直接显示 content 字段，依靠 CSS white-space: pre-wrap 保留格式
-                card.textContent = word.content || `${word.word}\n${word.definition}`;
-                list.appendChild(card);
-            });
-
-            currentPage++;
-            // 如果是最后一页，隐藏按钮
-            if (data.last) {
-                btn.style.display = 'none';
+            buildCatalog();
+            if (allWords.length > 0) {
+                showWordDetail(allWords[0].id);
             }
-        } catch (err) {
-            console.error("加载失败", err);
-        } finally {
-            isLoading = false;
-            btn.disabled = false;
-            btn.textContent = '加载更多单词';
+        } catch (error) {
+            console.error('❌ 加载失败:', error);
+            document.getElementById('catalogContainer').innerHTML =
+                '<div class="no-data"><div class="icon">⚠️</div><p>加载失败，请刷新重试</p></div>';
         }
     }
 
-    // 页面加载时自动加载第一批
-    window.onload = loadMore;
+    function buildCatalog() {
+        const container = document.getElementById('catalogContainer');
+        container.innerHTML = '';
+
+        const structure = parseCatalogStructure();
+        catalogStructure = structure;
+
+        structure.forEach((level1, idx1) => {
+            const level1Div = document.createElement('div');
+            level1Div.className = 'catalog-level1';
+
+            const level1Title = document.createElement('div');
+            level1Title.className = 'catalog-level1-title';
+            level1Title.innerHTML = `<span>${level1.title}</span><span class="arrow">▶</span>`;
+            level1Title.onclick = () => {
+                level1Title.classList.toggle('expanded');
+                level1Div.querySelector('.catalog-level2').classList.toggle('expanded');
+            };
+            level1Div.appendChild(level1Title);
+
+            const level2Container = document.createElement('div');
+            level2Container.className = 'catalog-level2';
+
+            level1.children.forEach((level2, idx2) => {
+                const level2Div = document.createElement('div');
+                level2Div.className = 'catalog-level2-item';
+
+                const level2Title = document.createElement('div');
+                level2Title.className = 'catalog-level2-title';
+                level2Title.textContent = level2.title;
+                level2Title.onclick = (e) => {
+                    e.stopPropagation();
+                    const wordsDiv = level2Div.querySelector('.catalog-words');
+                    wordsDiv.classList.toggle('expanded');
+                };
+                level2Div.appendChild(level2Title);
+
+                const wordsDiv = document.createElement('div');
+                wordsDiv.className = 'catalog-words';
+
+                level2.words.forEach(word => {
+                    const wordItem = document.createElement('div');
+                    wordItem.className = 'catalog-word-item';
+                    wordItem.textContent = `${word.number} ${word.word}`;
+                    wordItem.dataset.wordId = word.id;
+                    wordItem.onclick = () => showWordDetail(word.id);
+                    wordsDiv.appendChild(wordItem);
+                });
+
+                level2Div.appendChild(wordsDiv);
+                level2Container.appendChild(level2Div);
+            });
+
+            level1Div.appendChild(level2Container);
+            container.appendChild(level1Div);
+        });
+    }
+
+    function parseCatalogStructure() {
+        const structure = [];
+        let currentLayer = null;
+        let currentCategory = null;
+
+        allWords.forEach(word => {
+            if (!word.content) return;
+
+            if (word.content.match(/^###\s+(.+)/m)) {
+                const match = word.content.match(/^###\s+(.+)/m);
+                currentLayer = {
+                    title: match[1],
+                    children: []
+                };
+                structure.push(currentLayer);
+                currentCategory = null;
+            } else if (word.content.match(/^####\s+(.+)/m) && currentLayer) {
+                const match = word.content.match(/^####\s+(.+)/m);
+                currentCategory = {
+                    title: match[1],
+                    words: []
+                };
+                currentLayer.children.push(currentCategory);
+            }
+
+            const numberMatch = word.content.match(/^(\d{3})\s+\*\*(.+?)\*\*/m);
+            if (numberMatch && currentCategory) {
+                currentCategory.words.push({
+                    id: word.id,
+                    number: numberMatch[1],
+                    word: numberMatch[2]
+                });
+            }
+        });
+
+        return structure;
+    }
+
+    function showWordDetail(wordId) {
+        const word = allWords.find(w => w.id === wordId);
+        if (!word) return;
+
+        document.querySelectorAll('.catalog-word-item').forEach(item => {
+            item.classList.remove('active');
+        });
+        const activeItem = document.querySelector(`[data-word-id="${wordId}"]`);
+        if (activeItem) {
+            activeItem.classList.add('active');
+            activeItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+
+        renderWordContent(word);
+    }
+
+    function renderWordContent(word) {
+        const contentBody = document.getElementById('contentBody');
+        const contentTitle = document.getElementById('contentTitle');
+
+        const numberMatch = word.content.match(/^(\d{3})/);
+        const number = numberMatch ? numberMatch[1] : '';
+
+        contentTitle.textContent = `单词详情`;
+
+        const card = document.createElement('div');
+        card.className = 'word-card';
+
+        const header = document.createElement('div');
+        header.style.marginBottom = '20px';
+        header.style.borderBottom = '2px solid #e4e7ed';
+        header.style.paddingBottom = '15px';
+
+        const wordTitle = document.createElement('div');
+        wordTitle.className = 'word-title';
+        wordTitle.style.display = 'flex';
+        wordTitle.style.alignItems = 'center';
+        wordTitle.style.flexWrap = 'wrap';
+
+        if (number) {
+            const numberBadge = document.createElement('span');
+            numberBadge.className = 'word-number';
+            numberBadge.textContent = number;
+            wordTitle.appendChild(numberBadge);
+        }
+
+        const wordText = document.createElement('span');
+        wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
+        wordTitle.appendChild(wordText);
+
+        header.appendChild(wordTitle);
+
+        if (word.definition) {
+            const wordMeta = document.createElement('div');
+            wordMeta.className = 'word-meta';
+            wordMeta.style.marginTop = '10px';
+            wordMeta.textContent = word.definition;
+            header.appendChild(wordMeta);
+        }
+
+        const markdownContent = document.createElement('div');
+        markdownContent.className = 'markdown-content';
+
+        // 处理 Markdown 内容，保持换行和格式
+        let content = word.content || '';
+
+        // 使用 marked.js 解析，但保留原始换行
+        const htmlContent = marked.parse(content);
+        markdownContent.innerHTML = htmlContent;
+
+        card.appendChild(header);
+        card.appendChild(markdownContent);
+
+        contentBody.innerHTML = '';
+        contentBody.appendChild(card);
+    }
+
+    function renderContent(words) {
+        const contentBody = document.getElementById('contentBody');
+        contentBody.innerHTML = '';
+
+        if (words.length === 0) {
+            contentBody.innerHTML = `
+                <div class="no-data">
+                    <div class="icon">🔍</div>
+                    <p>没有找到匹配的单词</p>
+                </div>
+            `;
+            return;
+        }
+
+        words.forEach(word => {
+            const card = document.createElement('div');
+            card.className = 'word-card';
+
+            const numberMatch = word.content.match(/^(\d{3})/);
+            const number = numberMatch ? numberMatch[1] : '';
+
+            const header = document.createElement('div');
+            header.style.marginBottom = '15px';
+
+            const wordTitle = document.createElement('div');
+            wordTitle.className = 'word-title';
+            wordTitle.style.display = 'flex';
+            wordTitle.style.alignItems = 'center';
+            wordTitle.style.flexWrap = 'wrap';
+
+            if (number) {
+                const numberBadge = document.createElement('span');
+                numberBadge.className = 'word-number';
+                numberBadge.textContent = number;
+                wordTitle.appendChild(numberBadge);
+            }
+
+            const wordText = document.createElement('span');
+            wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
+            wordTitle.appendChild(wordText);
+
+            header.appendChild(wordTitle);
+            card.appendChild(header);
+
+            const markdownContent = document.createElement('div');
+            markdownContent.className = 'markdown-content';
+            markdownContent.innerHTML = marked.parse(word.content ||
+                `单词：${word.word} | 释义：${word.definition || ''}`);
+
+            card.appendChild(markdownContent);
+            contentBody.appendChild(card);
+        });
+    }
+
+    let searchTimer = null;
+    function handleSearch(keyword) {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => {
+            if (!keyword.trim()) {
+                renderContent(allWords);
+                return;
+            }
+
+            const filtered = allWords.filter(w =>
+                w.word.toLowerCase().includes(keyword.toLowerCase()) ||
+                (w.definition && w.definition.toLowerCase().includes(keyword.toLowerCase())) ||
+                (w.content && w.content.toLowerCase().includes(keyword.toLowerCase()))
+            );
+
+            renderContent(filtered);
+            document.getElementById('contentTitle').textContent =
+                `搜索结果：${filtered.length} 个单词`;
+        }, 300);
+    }
+
+    function handleFilter(value) {
+        currentFilter = value;
+
+        let filtered = allWords;
+        if (value !== 'all') {
+            const layerMap = {
+                'layer1': '基础必备层',
+                'layer2': '核心必考层',
+                'layer3': '高频进阶层',
+                'layer4': '低频储备层'
+            };
+
+            filtered = allWords.filter(word => {
+                if (!word.content) return false;
+                return word.content.includes(layerMap[value]);
+            });
+        }
+
+        renderContent(filtered);
+        document.getElementById('contentTitle').textContent =
+            value === 'all' ? '全部单词' : document.getElementById('filterSelect').selectedOptions[0].text;
+    }
+
+    init();
 </script>
 </body>
 </html>

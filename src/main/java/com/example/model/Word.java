@@ -5,8 +5,15 @@ import jakarta.persistence.*;
 @Entity
 public class Word {
 
+    // 新增自增主键，作为第二排序依据，彻底解决同序号乱序问题
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(nullable = false, unique = true)
     private String word;
+
+    private Integer sortOrder;
     private String pronunciation;
     private String definition;
     private String synonyms;
@@ -15,17 +22,19 @@ public class Word {
     private String root;
     private String suffix;
 
-    // 明确指定为 LONGTEXT，支持存储大文本
     @Lob
     @Column(columnDefinition = "LONGTEXT")
     private String content;
 
+    // Getters & Setters
+    public Long getId() { return id; }
+    public void setId(Long id) { this.id = id; }
     public String getWord() { return word; }
     public void setWord(String word) { this.word = word; }
-
+    public Integer getSortOrder() { return sortOrder; }
+    public void setSortOrder(Integer sortOrder) { this.sortOrder = sortOrder; }
     public String getContent() { return content; }
     public void setContent(String content) { this.content = content; }
-
     public String getPronunciation() { return pronunciation; }
     public void setPronunciation(String pronunciation) { this.pronunciation = pronunciation; }
     public String getDefinition() { return definition; }
