@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Learning</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; background-color: #f0f2f5; }
+        .container { max-width: 900px; margin: auto; }
+        h1 { text-align: center; color: #333; }
+
+        .word-card {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            /* 核心：保留所有空格和换行符，完美还原 md 格式 */
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: 'Consolas', 'Monaco', monospace; /* 使用等宽字体更像编辑器 */
+            font-size: 14px;
+            line-height: 1.6;
+            color: #2c3e50;
+        }
+
+        /* 强调部分 */
+        .word-card strong { color: #d35400; font-weight: bold; }
+        .word-card h1, .word-card h2, .word-card h3, .word-card h4 {
+            font-family: 'Segoe UI', sans-serif;
+            color: #2980b9;
+            border-bottom: none;
+        }
+
+        #load-more-btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        #load-more-btn:hover { background-color: #2980b9; }
+        #load-more-btn:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📖 自考英语单词本</h1>
+    <div id="word-list"></div>
+    <button id="load-more-btn" onclick="loadMore()">加载更多单词</button>
+</div>
+
+<script>
+    let currentPage = 0;
+    const pageSize = 10; // 每次加载 10 个，防止卡顿
+    let isLoading = false;
+
+    async function loadMore() {
+        if (isLoading) return;
+        isLoading = true;
+        const btn = document.getElementById('load-more-btn');
+        btn.disabled = true;
+        btn.textContent = '加载中...';
+
+        try {
+            const response = await fetch(`/api/words?page=${currentPage}&size=${pageSize}`);
+            const data = await response.json();
+
+            const list = document.getElementById('word-list');
+            data.content.forEach(word => {
+                const card = document.createElement('div');
+                card.classList.add('word-card');
+                // 直接显示 content 字段，依靠 CSS white-space: pre-wrap 保留格式
+                card.textContent = word.content || `${word.word}\n${word.definition}`;
+                list.appendChild(card);
+            });
+
+            currentPage++;
+            // 如果是最后一页，隐藏按钮
+            if (data.last) {
+                btn.style.display = 'none';
+            }
+        } catch (err) {
+            console.error("加载失败", err);
+        } finally {
+            isLoading = false;
+            btn.disabled = false;
+            btn.textContent = '加载更多单词';
+        }
+    }
+
+    // 页面加载时自动加载第一批
+    window.onload = loadMore;
+</script>
+</body>
+</html>
