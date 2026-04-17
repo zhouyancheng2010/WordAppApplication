@@ -1,3 +1,4 @@
+/*
 package com.example.scheduler;
 
 import com.example.model.Word;
@@ -8,7 +9,6 @@ import jakarta.persistence.PersistenceContext;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
-import org.springframework.transaction.support.TransactionTemplate;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -16,21 +16,17 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
 @Component
-public class FileChangeScheduler {
+public class FileChangeScheduler2 {
     @Autowired
     private WordRepository wordRepository;
 
     @PersistenceContext
     private EntityManager entityManager;
-
-    @Autowired
-    private TransactionTemplate transactionTemplate;
 
     private Path filePath;
     private long lastModified = 0;
@@ -102,12 +98,23 @@ public class FileChangeScheduler {
 
     private void parseContent(String content) {
         try {
-            // 分割成独立的单词块（以分隔线 --- 为界）
+            wordRepository.deleteAll();
+
+            try {
+                entityManager.getTransaction().begin();
+                @SuppressWarnings("JpaQlInspection")
+                int result = entityManager.createNativeQuery("ALTER TABLE worddb.word AUTO_INCREMENT = 1").executeUpdate();
+                entityManager.getTransaction().commit();
+                System.out.println("🗑️ 已清空旧数据并重置 ID");
+            } catch (Exception e) {
+                System.out.println("⚠️ 重置 ID 失败，继续执行: " + e.getMessage());
+            }
+
             String[] wordBlocks = content.split("\\r?\\n-{2,}\\r?\\n");
             System.out.println("📊 分割得到 " + wordBlocks.length + " 个单词块");
 
-            Map<Long, Word> parsedWords = new LinkedHashMap<>();
             int sortOrder = 0;
+            int successCount = 0;
             int skipCount = 0;
 
             for (int i = 0; i < wordBlocks.length; i++) {
@@ -116,7 +123,6 @@ public class FileChangeScheduler {
                     continue;
                 }
 
-                // 更宽松的正则表达式，兼容多种格式
                 Pattern patternWithNumber = Pattern.compile("(?:^|\\n)(\\d{3})\\s+\\*\\*(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
                 Pattern patternWithoutNumber = Pattern.compile("(?:^|\\n)\\*\\*(\\d+)\\s+(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
 
@@ -138,10 +144,7 @@ public class FileChangeScheduler {
                     String afterIpa = matcherWithNumber.group(4).split("\n")[0].trim();
                     word.setDefinition(afterIpa);
 
-                    // 从序号位置开始截取，去除前面的标题
-                    int matchStart = matcherWithNumber.start();
-                    String wordContent = block.substring(matchStart).trim();
-                    word.setContent(wordContent);
+                    word.setContent(block.trim());
 
                     matched = true;
                 } else if (matcherWithoutNumber.find()) {
@@ -156,32 +159,26 @@ public class FileChangeScheduler {
                     String afterIpa = matcherWithoutNumber.group(4).split("\n")[0].trim();
                     word.setDefinition(afterIpa);
 
-                    // 从序号位置开始截取，去除前面的标题
-                    int matchStart = matcherWithoutNumber.start();
-                    String wordContent = block.substring(matchStart).trim();
-                    word.setContent(wordContent);
+                    word.setContent(block.trim());
 
                     matched = true;
                 }
 
                 if (matched) {
-                    parsedWords.put(word.getId(), word);
-                    if (parsedWords.size() <= 3 || parsedWords.size() % 500 == 0) {
-                        System.out.println("  ✅ 解析 [" + parsedWords.size() + "]: " + word.getWord() + " - " + word.getDefinition());
+                    wordRepository.save(word);
+                    successCount++;
+
+                    if (successCount <= 3 || successCount % 500 == 0) {
+                        System.out.println("  ✅ 解析 [" + successCount + "]: " + word.getWord() + " - " + word.getDefinition());
                     }
                 } else {
                     skipCount++;
-                    if (skipCount <= 5) {
-                        System.out.println("⚠️ 跳过块 #" + (i + 1) + "，前150字符: " +
-                                block.trim().substring(0, Math.min(150, block.trim().length())));
-                    }
+                    System.out.println("⚠️ 跳过块 #" + (i + 1) + "，前150字符: " +
+                            block.trim().substring(0, Math.min(150, block.trim().length())));
                 }
             }
 
-            System.out.println("📋 解析完成，有效单词: " + parsedWords.size() + ", 跳过: " + skipCount);
-
-            // 使用增量同步策略
-            syncDatabase(parsedWords);
+            System.out.println("✅ 成功同步 " + successCount + " 个单词，跳过 " + skipCount + " 个块");
 
         } catch (Exception e) {
             System.err.println("❌ 解析内容失败: " + e.getMessage());
@@ -189,72 +186,5 @@ public class FileChangeScheduler {
         }
     }
 
-    private void syncDatabase(Map<Long, Word> parsedWords) {
-        List<Word> existingWords = wordRepository.findAll();
-        Map<Long, Word> existingMap = new HashMap<>();
-        for (Word w : existingWords) {
-            existingMap.put(w.getId(), w);
-        }
-
-        List<Word> toAdd = new ArrayList<>();
-        List<Word> toUpdate = new ArrayList<>();
-
-        for (Map.Entry<Long, Word> entry : parsedWords.entrySet()) {
-            Long id = entry.getKey();
-            Word newWord = entry.getValue();
-
-            if (!existingMap.containsKey(id)) {
-                toAdd.add(newWord);
-            } else {
-                Word existingWord = existingMap.get(id);
-                if (!isSameContent(existingWord, newWord)) {
-                    toUpdate.add(newWord);
-                }
-            }
-        }
-
-        System.out.println("📊 需要同步: 新增=" + toAdd.size() + ", 更新=" + toUpdate.size());
-
-        if (!toAdd.isEmpty() || !toUpdate.isEmpty()) {
-            fullSync(parsedWords);
-        } else {
-            System.out.println("✅ 数据已是最新，无需同步");
-        }
-    }
-
-    private boolean isSameContent(Word existing, Word newWord) {
-        return Objects.equals(existing.getWord(), newWord.getWord()) &&
-                Objects.equals(existing.getPronunciation(), newWord.getPronunciation()) &&
-                Objects.equals(existing.getDefinition(), newWord.getDefinition());
-    }
-
-    private void fullSync(Map<Long, Word> parsedWords) {
-        transactionTemplate.execute(status -> {
-            try {
-                System.out.println("🗑️ 清空旧数据...");
-                wordRepository.deleteAll();
-
-                List<Word> wordsToSave = new ArrayList<>(parsedWords.values());
-
-                int batchSize = 500;
-                for (int i = 0; i < wordsToSave.size(); i += batchSize) {
-                    int endIndex = Math.min(i + batchSize, wordsToSave.size());
-                    List<Word> batch = wordsToSave.subList(i, endIndex);
-                    wordRepository.saveAll(batch);
-                    entityManager.flush();
-                    entityManager.clear();
-                    System.out.println("  📦 已保存批次: " + (i / batchSize + 1) + " (" + batch.size() + " 条)");
-                }
-
-                System.out.println("✅ 全量同步完成，共保存 " + wordsToSave.size() + " 个单词");
-                return null;
-            } catch (Exception e) {
-                System.err.println("❌ 全量同步失败: " + e.getMessage());
-                e.printStackTrace();
-                status.setRollbackOnly();
-                return null;
-            }
-        });
-    }
-
 }
+*/

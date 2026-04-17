@@ -5,12 +5,10 @@ import jakarta.persistence.*;
 @Entity
 public class Word {
 
-    // 新增自增主键，作为第二排序依据，彻底解决同序号乱序问题
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     private String word;
 
     private Integer sortOrder;
@@ -26,7 +24,6 @@ public class Word {
     @Column(columnDefinition = "LONGTEXT")
     private String content;
 
-    // Getters & Setters
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
     public String getWord() { return word; }

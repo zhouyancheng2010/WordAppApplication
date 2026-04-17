@@ -24,7 +24,7 @@
         }
 
         .sidebar {
-            width: 320px;
+            width: 350px;
             background: #fff;
             border-right: 1px solid #e4e7ed;
             display: flex;
@@ -116,13 +116,16 @@
             transform: rotate(90deg);
         }
 
-        .catalog-level2 {
+        .catalog-level2-container {
             display: none;
-            padding-left: 15px;
         }
 
-        .catalog-level2.expanded {
+        .catalog-level2-container.expanded {
             display: block;
+        }
+
+        .catalog-level2 {
+            padding-left: 15px;
         }
 
         .catalog-level2-title {
@@ -139,7 +142,7 @@
 
         .catalog-words {
             display: none;
-            padding-left: 30px;
+            padding-left: 15px;
         }
 
         .catalog-words.expanded {
@@ -153,6 +156,9 @@
             cursor: pointer;
             transition: all 0.2s;
             border-left: 3px solid transparent;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
 
         .catalog-word-item:hover {
@@ -165,6 +171,18 @@
             color: #667eea;
             border-left-color: #667eea;
             font-weight: 500;
+        }
+
+        .speak-icon {
+            font-size: 16px;
+            cursor: pointer;
+            opacity: 0;
+            transition: opacity 0.2s;
+            color: #667eea;
+        }
+
+        .catalog-word-item:hover .speak-icon {
+            opacity: 1;
         }
 
         .content-area {
@@ -242,6 +260,9 @@
             font-weight: 700;
             color: #667eea;
             margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
         }
 
         .word-card .word-number {
@@ -251,7 +272,6 @@
             padding: 4px 12px;
             border-radius: 12px;
             font-size: 14px;
-            margin-right: 10px;
             font-weight: 600;
         }
 
@@ -295,6 +315,107 @@
 
         .word-card .markdown-content p {
             margin-bottom: 8px;
+        }
+
+        .speak-btn {
+            padding: 6px 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.3s;
+        }
+
+        .speak-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+        }
+
+        .read-all-btn {
+            padding: 8px 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.3s;
+        }
+
+        .read-all-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+        }
+
+        .read-all-btn.reading {
+            background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%);
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            padding: 20px;
+            background: #fff;
+            border-top: 1px solid #e4e7ed;
+        }
+
+        .pagination button {
+            padding: 8px 16px;
+            border: 1px solid #dcdfe6;
+            background: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            color: #606266;
+            transition: all 0.2s;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            border-color: #667eea;
+            color: #667eea;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination .page-info {
+            font-size: 14px;
+            color: #606266;
+        }
+
+        .pagination .jump-input {
+            width: 60px;
+            padding: 6px 10px;
+            border: 1px solid #dcdfe6;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .pagination .jump-btn {
+            padding: 6px 12px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .pagination .jump-btn:hover {
+            background: #764ba2;
         }
 
         .loading {
@@ -350,12 +471,15 @@
         <div class="content-header">
             <h2 id="contentTitle">单词详情</h2>
             <div class="filter-controls">
+                <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">
+                    🔊 全文朗读
+                </button>
                 <select id="filterSelect" onchange="handleFilter(this.value)">
                     <option value="all">全部显示</option>
-                    <option value="layer1">基础必备层（800词）</option>
-                    <option value="layer2">核心必考层（1500词）</option>
-                    <option value="layer3">高频进阶层（1200词）</option>
-                    <option value="layer4">低频储备层（1000词）</option>
+                    <option value="layer1">一、基础必备层（800词）</option>
+                    <option value="layer2">二、核心高频层（2000词）</option>
+                    <option value="layer3">三、高频进阶层（1200词）</option>
+                    <option value="layer4">四、低频储备层（1000词）</option>
                 </select>
             </div>
         </div>
@@ -365,6 +489,13 @@
                 <p>请从左侧目录选择单词</p>
             </div>
         </div>
+        <div class="pagination" id="pagination" style="display: none;">
+            <button onclick="prevPage()" id="prevBtn">上一页</button>
+            <span class="page-info">第 <span id="currentPage">1</span> / <span id="totalPages">1</span> 页</span>
+            <input type="number" class="jump-input" id="jumpPage" min="1" placeholder="页码">
+            <button class="jump-btn" onclick="jumpToPage()">跳转</button>
+            <button onclick="nextPage()" id="nextBtn">下一页</button>
+        </div>
     </div>
 </div>
 
@@ -372,6 +503,13 @@
     let allWords = [];
     let currentFilter = 'all';
     let catalogStructure = [];
+    let currentPageNum = 1;
+    let pageSize = 10;
+    let filteredWords = [];
+    let speechSynth = window.speechSynthesis;
+    let currentUtterance = null;
+    let isReadingAll = false;
+    let readAllIndex = 0;
 
     marked.setOptions({
         breaks: true,
@@ -385,8 +523,9 @@
             console.log('✅ 加载单词数量:', allWords.length);
 
             buildCatalog();
-            if (allWords.length > 0) {
-                showWordDetail(allWords[0].id);
+            filteredWords = [...allWords];
+            if (filteredWords.length > 0) {
+                showPage(1);
             }
         } catch (error) {
             console.error('❌ 加载失败:', error);
@@ -402,7 +541,7 @@
         const structure = parseCatalogStructure();
         catalogStructure = structure;
 
-        structure.forEach((level1, idx1) => {
+        structure.forEach((level1) => {
             const level1Div = document.createElement('div');
             level1Div.className = 'catalog-level1';
 
@@ -411,24 +550,23 @@
             level1Title.innerHTML = `<span>${level1.title}</span><span class="arrow">▶</span>`;
             level1Title.onclick = () => {
                 level1Title.classList.toggle('expanded');
-                level1Div.querySelector('.catalog-level2').classList.toggle('expanded');
+                level1Div.querySelector('.catalog-level2-container').classList.toggle('expanded');
             };
             level1Div.appendChild(level1Title);
 
             const level2Container = document.createElement('div');
-            level2Container.className = 'catalog-level2';
+            level2Container.className = 'catalog-level2-container';
 
-            level1.children.forEach((level2, idx2) => {
+            level1.children.forEach((level2) => {
                 const level2Div = document.createElement('div');
-                level2Div.className = 'catalog-level2-item';
+                level2Div.className = 'catalog-level2';
 
                 const level2Title = document.createElement('div');
                 level2Title.className = 'catalog-level2-title';
                 level2Title.textContent = level2.title;
                 level2Title.onclick = (e) => {
                     e.stopPropagation();
-                    const wordsDiv = level2Div.querySelector('.catalog-words');
-                    wordsDiv.classList.toggle('expanded');
+                    level2Div.querySelector('.catalog-words').classList.toggle('expanded');
                 };
                 level2Div.appendChild(level2Title);
 
@@ -438,7 +576,20 @@
                 level2.words.forEach(word => {
                     const wordItem = document.createElement('div');
                     wordItem.className = 'catalog-word-item';
-                    wordItem.textContent = `${word.number} ${word.word}`;
+
+                    const wordText = document.createElement('span');
+                    wordText.textContent = `${word.number} ${word.word}`;
+
+                    const speakIcon = document.createElement('span');
+                    speakIcon.className = 'speak-icon';
+                    speakIcon.textContent = '🔊';
+                    speakIcon.onclick = (e) => {
+                        e.stopPropagation();
+                        speakWord(word.word);
+                    };
+
+                    wordItem.appendChild(wordText);
+                    wordItem.appendChild(speakIcon);
                     wordItem.dataset.wordId = word.id;
                     wordItem.onclick = () => showWordDetail(word.id);
                     wordsDiv.appendChild(wordItem);
@@ -457,38 +608,115 @@
         const structure = [];
         let currentLayer = null;
         let currentCategory = null;
+        let seenLayers = new Set();
+        let seenCategories = new Set();
 
         allWords.forEach(word => {
             if (!word.content) return;
 
-            if (word.content.match(/^###\s+(.+)/m)) {
-                const match = word.content.match(/^###\s+(.+)/m);
-                currentLayer = {
-                    title: match[1],
-                    children: []
-                };
-                structure.push(currentLayer);
-                currentCategory = null;
-            } else if (word.content.match(/^####\s+(.+)/m) && currentLayer) {
-                const match = word.content.match(/^####\s+(.+)/m);
-                currentCategory = {
-                    title: match[1],
-                    words: []
-                };
-                currentLayer.children.push(currentCategory);
+            const layerMatch = word.content.match(/^####\s+(.+)/m);
+            const categoryMatch = word.content.match(/^#####\s+(.+)/m);
+
+            if (layerMatch) {
+                const layerTitle = layerMatch[1];
+                if (!seenLayers.has(layerTitle)) {
+                    seenLayers.add(layerTitle);
+                    currentLayer = {
+                        title: layerTitle,
+                        children: []
+                    };
+                    structure.push(currentLayer);
+                    currentCategory = null;
+                    seenCategories.clear();
+                }
+            } else if (categoryMatch && currentLayer) {
+                const categoryTitle = categoryMatch[1];
+                const catKey = currentLayer.title + '|' + categoryTitle;
+                if (!seenCategories.has(catKey)) {
+                    seenCategories.add(catKey);
+                    currentCategory = {
+                        title: categoryTitle,
+                        words: []
+                    };
+                    currentLayer.children.push(currentCategory);
+                } else {
+                    currentCategory = currentLayer.children.find(c => c.title === categoryTitle);
+                }
             }
 
-            const numberMatch = word.content.match(/^(\d{3})\s+\*\*(.+?)\*\*/m);
-            if (numberMatch && currentCategory) {
-                currentCategory.words.push({
-                    id: word.id,
-                    number: numberMatch[1],
-                    word: numberMatch[2]
-                });
+            if (currentCategory) {
+                const numberMatch = word.content.match(/^(?:\d{3})\s+\*\*(.+?)\*\*/m) ||
+                    word.content.match(/^\*\*(\d+)\s+(.+?)\*\*/m);
+                if (numberMatch) {
+                    const num = word.content.match(/^(\d{3})/)?.[1] ||
+                        word.content.match(/^\*\*(\d+)/)?.[1] || '';
+                    const wordName = numberMatch[1] || numberMatch[2];
+                    if (!currentCategory.words.some(w => w.id === word.id)) {
+                        currentCategory.words.push({
+                            id: word.id,
+                            number: num,
+                            word: wordName
+                        });
+                    }
+                }
             }
         });
 
+        console.log('📊 目录结构:', structure);
+        console.log('📊 一级主题数量:', structure.length);
         return structure;
+    }
+
+    function speakWord(word) {
+        if (speechSynth.speaking) {
+            speechSynth.cancel();
+        }
+        const utterance = new SpeechSynthesisUtterance(word);
+        utterance.lang = 'en-US';
+        utterance.rate = 0.8;
+        speechSynth.speak(utterance);
+    }
+
+    function toggleReadAll() {
+        const btn = document.getElementById('readAllBtn');
+
+        if (isReadingAll) {
+            speechSynth.cancel();
+            isReadingAll = false;
+            btn.classList.remove('reading');
+            btn.innerHTML = '🔊 全文朗读';
+            return;
+        }
+
+        isReadingAll = true;
+        readAllIndex = 0;
+        btn.classList.add('reading');
+        btn.innerHTML = '⏹️ 停止朗读';
+        readNextWord();
+    }
+
+    function readNextWord() {
+        if (!isReadingAll || readAllIndex >= filteredWords.length) {
+            isReadingAll = false;
+            const btn = document.getElementById('readAllBtn');
+            btn.classList.remove('reading');
+            btn.innerHTML = '🔊 全文朗读';
+            return;
+        }
+
+        const word = filteredWords[readAllIndex];
+        const utterance = new SpeechSynthesisUtterance(word.word);
+        utterance.lang = 'en-US';
+        utterance.rate = 0.8;
+
+        utterance.onend = () => {
+            if (isReadingAll) {
+                readAllIndex++;
+                setTimeout(readNextWord, 300);
+            }
+        };
+
+        speechSynth.speak(utterance);
     }
 
     function showWordDetail(wordId) {
@@ -505,6 +733,7 @@
         }
 
         renderWordContent(word);
+        document.getElementById('pagination').style.display = 'none';
     }
 
     function renderWordContent(word) {
@@ -514,7 +743,7 @@
         const numberMatch = word.content.match(/^(\d{3})/);
         const number = numberMatch ? numberMatch[1] : '';
 
-        contentTitle.textContent = `单词详情`;
+        contentTitle.textContent = '单词详情';
 
         const card = document.createElement('div');
         card.className = 'word-card';
@@ -526,9 +755,6 @@
 
         const wordTitle = document.createElement('div');
         wordTitle.className = 'word-title';
-        wordTitle.style.display = 'flex';
-        wordTitle.style.alignItems = 'center';
-        wordTitle.style.flexWrap = 'wrap';
 
         if (number) {
             const numberBadge = document.createElement('span');
@@ -540,6 +766,12 @@
         const wordText = document.createElement('span');
         wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
         wordTitle.appendChild(wordText);
+
+        const speakBtn = document.createElement('button');
+        speakBtn.className = 'speak-btn';
+        speakBtn.innerHTML = '🔊 朗读';
+        speakBtn.onclick = () => speakWord(word.word);
+        wordTitle.appendChild(speakBtn);
 
         header.appendChild(wordTitle);
 
@@ -554,10 +786,7 @@
         const markdownContent = document.createElement('div');
         markdownContent.className = 'markdown-content';
 
-        // 处理 Markdown 内容，保持换行和格式
         let content = word.content || '';
-
-        // 使用 marked.js 解析，但保留原始换行
         const htmlContent = marked.parse(content);
         markdownContent.innerHTML = htmlContent;
 
@@ -566,6 +795,56 @@
 
         contentBody.innerHTML = '';
         contentBody.appendChild(card);
+    }
+
+    function showPage(page) {
+        const totalPages = Math.ceil(filteredWords.length / pageSize);
+        if (totalPages === 0) {
+            document.getElementById('pagination').style.display = 'none';
+            return;
+        }
+
+        if (page < 1) page = 1;
+        if (page > totalPages) page = totalPages;
+
+        currentPageNum = page;
+        const start = (page - 1) * pageSize;
+        const end = start + pageSize;
+        const pageWords = filteredWords.slice(start, end);
+
+        renderContent(pageWords);
+
+        document.getElementById('currentPage').textContent = page;
+        document.getElementById('totalPages').textContent = totalPages;
+        document.getElementById('prevBtn').disabled = page === 1;
+        document.getElementById('nextBtn').disabled = page === totalPages;
+        document.getElementById('pagination').style.display = 'flex';
+    }
+
+    function prevPage() {
+        if (currentPageNum > 1) {
+            showPage(currentPageNum - 1);
+        }
+    }
+
+    function nextPage() {
+        const totalPages = Math.ceil(filteredWords.length / pageSize);
+        if (currentPageNum < totalPages) {
+            showPage(currentPageNum + 1);
+        }
+    }
+
+    function jumpToPage() {
+        const input = document.getElementById('jumpPage');
+        const page = parseInt(input.value);
+        const totalPages = Math.ceil(filteredWords.length / pageSize);
+
+        if (page >= 1 && page <= totalPages) {
+            showPage(page);
+            input.value = '';
+        } else {
+            alert(`请输入 1-${totalPages} 之间的页码`);
+        }
     }
 
     function renderContent(words) {
@@ -594,9 +873,6 @@
 
             const wordTitle = document.createElement('div');
             wordTitle.className = 'word-title';
-            wordTitle.style.display = 'flex';
-            wordTitle.style.alignItems = 'center';
-            wordTitle.style.flexWrap = 'wrap';
 
             if (number) {
                 const numberBadge = document.createElement('span');
@@ -608,6 +884,12 @@
             const wordText = document.createElement('span');
             wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
             wordTitle.appendChild(wordText);
+
+            const speakBtn = document.createElement('button');
+            speakBtn.className = 'speak-btn';
+            speakBtn.innerHTML = '🔊 朗读';
+            speakBtn.onclick = () => speakWord(word.word);
+            wordTitle.appendChild(speakBtn);
 
             header.appendChild(wordTitle);
             card.appendChild(header);
@@ -627,43 +909,64 @@
         clearTimeout(searchTimer);
         searchTimer = setTimeout(() => {
             if (!keyword.trim()) {
-                renderContent(allWords);
+                handleFilter(currentFilter);
                 return;
             }
 
-            const filtered = allWords.filter(w =>
+            filteredWords = allWords.filter(w =>
                 w.word.toLowerCase().includes(keyword.toLowerCase()) ||
                 (w.definition && w.definition.toLowerCase().includes(keyword.toLowerCase())) ||
                 (w.content && w.content.toLowerCase().includes(keyword.toLowerCase()))
             );
 
-            renderContent(filtered);
             document.getElementById('contentTitle').textContent =
-                `搜索结果：${filtered.length} 个单词`;
+                `搜索结果：${filteredWords.length} 个单词`;
+            showPage(1);
         }, 300);
     }
 
     function handleFilter(value) {
         currentFilter = value;
 
-        let filtered = allWords;
-        if (value !== 'all') {
+        if (value === 'all') {
+            filteredWords = [...allWords];
+        } else {
             const layerMap = {
-                'layer1': '基础必备层',
-                'layer2': '核心必考层',
-                'layer3': '高频进阶层',
-                'layer4': '低频储备层'
+                'layer1': '一、基础必备层',
+                'layer2': '二、核心高频层',
+                'layer3': '三、高频进阶层',
+                'layer4': '四、低频储备层'
             };
 
-            filtered = allWords.filter(word => {
+            const layerKeyword = layerMap[value];
+            filteredWords = allWords.filter(word => {
                 if (!word.content) return false;
-                return word.content.includes(layerMap[value]);
+                return word.content.includes(layerKeyword);
             });
         }
 
-        renderContent(filtered);
-        document.getElementById('contentTitle').textContent =
-            value === 'all' ? '全部单词' : document.getElementById('filterSelect').selectedOptions[0].text;
+        const titleMap = {
+            'all': '全部单词',
+            'layer1': '一、基础必备层（800词）',
+            'layer2': '二、核心高频层（2000词）',
+            'layer3': '三、高频进阶层（1200词）',
+            'layer4': '四、低频储备层（1000词）'
+        };
+
+        document.getElementById('contentTitle').textContent = titleMap[value];
+        currentPageNum = 1;
+
+        if (filteredWords.length === 0) {
+            document.getElementById('contentBody').innerHTML = `
+                <div class="no-data">
+                    <div class="icon">🔍</div>
+                    <p>该分类下暂无单词</p>
+                </div>
+            `;
+            document.getElementById('pagination').style.display = 'none';
+        } else {
+            showPage(1);
+        }
     }
 
     init();
