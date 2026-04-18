@@ -437,6 +437,22 @@
             background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%);
         }
 
+        .back-btn {
+            padding: 8px 16px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+            display: none;
+        }
+
+        .back-btn:hover {
+            background: #764ba2;
+        }
+
         .pagination {
             display: flex;
             justify-content: center;
@@ -553,6 +569,9 @@
                 <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">
                     全文朗读
                 </button>
+                <button id="backToListBtn" class="back-btn" onclick="backToList()">
+                    返回列表
+                </button>
                 <select id="filterSelect" onchange="handleFilter(this.value)">
                     <option value="all">全部显示</option>
                     <option value="layer1">一、基础必备层（800词）</option>
@@ -586,9 +605,9 @@
     let pageSize = 10;
     let filteredWords = [];
     let speechSynth = window.speechSynthesis;
-    let currentUtterance = null;
     let isReadingAll = false;
     let readAllIndex = 0;
+    let currentView = 'list';
 
     marked.setOptions({
         breaks: true,
@@ -638,7 +657,8 @@
             const layer1Title = document.createElement('div');
             layer1Title.className = 'catalog-level1-title';
             layer1Title.innerHTML = `<span>${layer1.title}</span><span class="arrow">▶</span>`;
-            layer1Title.onclick = () => {
+            layer1Title.onclick = (e) => {
+                e.stopPropagation();
                 layer1Title.classList.toggle('expanded');
                 layer1Div.querySelector('.catalog-level2-container').classList.toggle('expanded');
             };
@@ -699,7 +719,11 @@
 
                             if (word.id) {
                                 wordItem.dataset.wordId = word.id;
-                                wordItem.onclick = () => showWordDetail(word.id);
+                                wordItem.onclick = (e) => {
+                                    if (e) e.stopPropagation();
+                                    console.log('📌 点击单词:', word.word, 'ID:', word.id);
+                                    showWordDetail(word.id);
+                                };
                             }
 
                             wordsDiv.appendChild(wordItem);
@@ -756,7 +780,11 @@
 
                                     if (word.id) {
                                         wordItem.dataset.wordId = word.id;
-                                        wordItem.onclick = () => showWordDetail(word.id);
+                                        wordItem.onclick = (e) => {
+                                            if (e) e.stopPropagation();
+                                            console.log('📌 点击单词:', word.word, 'ID:', word.id);
+                                            showWordDetail(word.id);
+                                        };
                                     }
 
                                     wordsDiv.appendChild(wordItem);
@@ -794,7 +822,11 @@
 
                     if (word.id) {
                         wordItem.dataset.wordId = word.id;
-                        wordItem.onclick = () => showWordDetail(word.id);
+                        wordItem.onclick = (e) => {
+                            if (e) e.stopPropagation();
+                            console.log('📌 点击单词:', word.word, 'ID:', word.id);
+                            showWordDetail(word.id);
+                        };
                     }
 
                     wordsDiv.appendChild(wordItem);
@@ -859,7 +891,14 @@
 
     function showWordDetail(wordId) {
         const word = allWords.find(w => w.id === wordId);
-        if (!word) return;
+        if (!word) {
+            console.error('❌ 未找到单词，wordId:', wordId);
+            return;
+        }
+
+        currentView = 'detail';
+        document.getElementById('pagination').style.display = 'none';
+        document.getElementById('backToListBtn').style.display = 'inline-block';
 
         document.querySelectorAll('.catalog-word-item').forEach(item => {
             item.classList.remove('active');
@@ -871,7 +910,15 @@
         }
 
         renderWordContent(word);
-        document.getElementById('pagination').style.display = 'none';
+        console.log('✅ 显示单词详情:', word.word);
+    }
+
+    function backToList() {
+        currentView = 'list';
+        document.getElementById('backToListBtn').style.display = 'none';
+        document.getElementById('contentTitle').textContent = '全部单词';
+        currentPageNum = 1;
+        showPage(1);
     }
 
     function renderWordContent(word) {
@@ -936,6 +983,7 @@
     }
 
     function showPage(page) {
+        currentView = 'list';
         const totalPages = Math.ceil(filteredWords.length / pageSize);
         if (totalPages === 0) {
             document.getElementById('pagination').style.display = 'none';
@@ -987,9 +1035,10 @@
 
     function renderContent(words) {
         const contentBody = document.getElementById('contentBody');
+        const contentTitle = document.getElementById('contentTitle');
         contentBody.innerHTML = '';
 
-        if (words.length === 0) {
+        if (!words || words.length === 0) {
             contentBody.innerHTML = `
                 <div class="no-data">
                     <div class="icon">🔍</div>
@@ -1052,6 +1101,26 @@
             }
 
             const searchKeyword = keyword.toLowerCase().trim();
+
+            const exactMatch = allWords.find(w => w.word.toLowerCase() === searchKeyword);
+            if (exactMatch) {
+                currentView = 'detail';
+                document.getElementById('backToListBtn').style.display = 'inline-block';
+                document.getElementById('contentTitle').textContent = '单词详情';
+                renderWordContent(exactMatch);
+                document.getElementById('pagination').style.display = 'none';
+
+                document.querySelectorAll('.catalog-word-item').forEach(item => {
+                    item.classList.remove('active');
+                });
+                const activeItem = document.querySelector(`[data-word-id="${exactMatch.id}"]`);
+                if (activeItem) {
+                    activeItem.classList.add('active');
+                    activeItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+                }
+                return;
+            }
+
             filteredWords = allWords.filter(w =>
                 w.word.toLowerCase().includes(searchKeyword) ||
                 (w.definition && w.definition.toLowerCase().includes(searchKeyword)) ||
@@ -1060,15 +1129,16 @@
 
             document.getElementById('contentTitle').textContent =
                 `搜索结果：${filteredWords.length} 个单词`;
+            document.getElementById('backToListBtn').style.display = 'none';
             currentPageNum = 1;
-
-            document.getElementById('pagination').style.display = 'none';
-            renderContent(filteredWords);
+            showPage(1);
         }, 300);
     }
 
     function handleFilter(value) {
         currentFilter = value;
+        currentView = 'list';
+        document.getElementById('backToListBtn').style.display = 'none';
 
         if (value === 'all') {
             filteredWords = [...allWords];
@@ -1106,8 +1176,7 @@
             `;
             document.getElementById('pagination').style.display = 'none';
         } else {
-            document.getElementById('pagination').style.display = 'none';
-            renderContent(filteredWords);
+            showPage(1);
         }
     }
 
