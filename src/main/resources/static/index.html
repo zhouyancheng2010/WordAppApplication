@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>自考英语（二）4500词</title>
+    <title>13000英语4500词</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         * {
@@ -134,10 +134,58 @@
             color: #606266;
             cursor: pointer;
             transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
 
         .catalog-level2-title:hover {
             background: #f5f7fa;
+        }
+
+        .catalog-level2-title .arrow {
+            font-size: 10px;
+            transition: transform 0.3s;
+        }
+
+        .catalog-level2-title.expanded .arrow {
+            transform: rotate(90deg);
+        }
+
+        .catalog-level3-container {
+            display: none;
+        }
+
+        .catalog-level3-container.expanded {
+            display: block;
+        }
+
+        .catalog-level3 {
+            padding-left: 15px;
+        }
+
+        .catalog-level3-title {
+            padding: 8px 20px;
+            font-size: 13px;
+            color: #909399;
+            cursor: pointer;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .catalog-level3-title:hover {
+            background: #f5f7fa;
+        }
+
+        .catalog-level3-title .arrow {
+            font-size: 10px;
+            transition: transform 0.3s;
+        }
+
+        .catalog-level3-title.expanded .arrow {
+            transform: rotate(90deg);
         }
 
         .catalog-words {
@@ -457,7 +505,7 @@
 <div class="app-container">
     <div class="sidebar">
         <div class="sidebar-header">
-            <h1>📚 自考英语（二）4500词</h1>
+            <h1>📚 13000英语4500词</h1>
             <div class="search-box">
                 <input type="text" id="searchInput" placeholder="搜索单词..." oninput="handleSearch(this.value)">
             </div>
@@ -552,75 +600,112 @@
         const container = document.getElementById('catalogContainer');
         container.innerHTML = '';
 
-        structure.forEach((level1) => {
-            const level1Div = document.createElement('div');
-            level1Div.className = 'catalog-level1';
+        structure.forEach((layer1) => {
+            const layer1Div = document.createElement('div');
+            layer1Div.className = 'catalog-level1';
 
-            const level1Title = document.createElement('div');
-            level1Title.className = 'catalog-level1-title';
-            level1Title.innerHTML = `<span>${level1.title}</span><span class="arrow">▶</span>`;
-            level1Title.onclick = () => {
-                level1Title.classList.toggle('expanded');
-                level1Div.querySelector('.catalog-level2-container').classList.toggle('expanded');
+            const layer1Title = document.createElement('div');
+            layer1Title.className = 'catalog-level1-title';
+            layer1Title.innerHTML = `<span>${layer1.title}</span><span class="arrow">▶</span>`;
+            layer1Title.onclick = () => {
+                layer1Title.classList.toggle('expanded');
+                layer1Div.querySelector('.catalog-level2-container').classList.toggle('expanded');
             };
-            level1Div.appendChild(level1Title);
+            layer1Div.appendChild(layer1Title);
 
-            const level2Container = document.createElement('div');
-            level2Container.className = 'catalog-level2-container';
+            const layer2Container = document.createElement('div');
+            layer2Container.className = 'catalog-level2-container';
 
-            level1.children.forEach((level2) => {
-                const level2Div = document.createElement('div');
-                level2Div.className = 'catalog-level2';
+            if (layer1.children) {
+                layer1.children.forEach((layer2) => {
+                    const layer2Div = document.createElement('div');
+                    layer2Div.className = 'catalog-level2';
 
-                const level2Title = document.createElement('div');
-                level2Title.className = 'catalog-level2-title';
-                level2Title.textContent = level2.title;
-                level2Title.onclick = (e) => {
-                    e.stopPropagation();
-                    level2Div.querySelector('.catalog-words').classList.toggle('expanded');
-                };
-                level2Div.appendChild(level2Title);
+                    const layer2Title = document.createElement('div');
+                    layer2Title.className = 'catalog-level2-title';
 
-                const wordsDiv = document.createElement('div');
-                wordsDiv.className = 'catalog-words';
+                    const hasChildren = layer2.children && layer2.children.length > 0;
+                    if (hasChildren) {
+                        layer2Title.innerHTML = `<span>${layer2.title}</span><span class="arrow">▶</span>`;
+                        layer2Title.onclick = (e) => {
+                            e.stopPropagation();
+                            layer2Title.classList.toggle('expanded');
+                            layer2Div.querySelector('.catalog-level3-container').classList.toggle('expanded');
+                        };
+                    } else {
+                        layer2Title.textContent = layer2.title;
+                    }
 
-                level2.words.forEach(word => {
-                    const wordItem = document.createElement('div');
-                    wordItem.className = 'catalog-word-item';
+                    layer2Div.appendChild(layer2Title);
 
-                    const wordText = document.createElement('span');
-                    wordText.textContent = `${word.number} ${word.word}`;
+                    const layer3Container = document.createElement('div');
+                    layer3Container.className = 'catalog-level3-container';
 
-                    const speakIcon = document.createElement('span');
-                    speakIcon.className = 'speak-icon';
-                    speakIcon.textContent = '🔊';
-                    speakIcon.onclick = (e) => {
-                        e.stopPropagation();
-                        speakWord(word.word);
-                    };
+                    if (layer2.children) {
+                        layer2.children.forEach((layer3) => {
+                            const layer3Div = document.createElement('div');
+                            layer3Div.className = 'catalog-level3';
 
-                    wordItem.appendChild(wordText);
-                    wordItem.appendChild(speakIcon);
-                    wordItem.dataset.wordId = word.id;
-                    wordItem.onclick = () => showWordDetail(word.id);
-                    wordsDiv.appendChild(wordItem);
+                            const layer3Title = document.createElement('div');
+                            layer3Title.className = 'catalog-level3-title';
+                            layer3Title.innerHTML = `<span>${layer3.title}</span><span class="arrow">▶</span>`;
+                            layer3Title.onclick = (e) => {
+                                e.stopPropagation();
+                                layer3Title.classList.toggle('expanded');
+                                layer3Div.querySelector('.catalog-words').classList.toggle('expanded');
+                            };
+                            layer3Div.appendChild(layer3Title);
+
+                            const wordsDiv = document.createElement('div');
+                            wordsDiv.className = 'catalog-words';
+
+                            if (layer3.words && layer3.words.length > 0) {
+                                layer3.words.forEach(word => {
+                                    const wordItem = document.createElement('div');
+                                    wordItem.className = 'catalog-word-item';
+
+                                    const wordText = document.createElement('span');
+                                    wordText.textContent = `${word.number} ${word.word}`;
+
+                                    const speakIcon = document.createElement('span');
+                                    speakIcon.className = 'speak-icon';
+                                    speakIcon.textContent = '🔊';
+                                    speakIcon.onclick = (e) => {
+                                        e.stopPropagation();
+                                        speakWord(word.word);
+                                    };
+
+                                    wordItem.appendChild(wordText);
+                                    wordItem.appendChild(speakIcon);
+
+                                    if (word.id) {
+                                        wordItem.dataset.wordId = word.id;
+                                        wordItem.onclick = () => showWordDetail(word.id);
+                                    }
+
+                                    wordsDiv.appendChild(wordItem);
+                                });
+                            }
+
+                            layer3Div.appendChild(wordsDiv);
+                            layer3Container.appendChild(layer3Div);
+                        });
+                    }
+
+                    layer2Div.appendChild(layer3Container);
+                    layer2Container.appendChild(layer2Div);
                 });
+            }
 
-                level2Div.appendChild(wordsDiv);
-                level2Container.appendChild(level2Div);
-            });
-
-            level1Div.appendChild(level2Container);
-            container.appendChild(level1Div);
+            layer1Div.appendChild(layer2Container);
+            container.appendChild(layer1Div);
         });
     }
 
     function buildCatalog() {
-        // 已废弃，使用 loadCatalog 替代
     }
 
     function parseCatalogStructure() {
-        // 已废弃，后端直接返回结构
         return [];
     }
 
@@ -897,8 +982,7 @@
 
             const layerKeyword = layerMap[value];
             filteredWords = allWords.filter(word => {
-                if (!word.content) return false;
-                return word.content.includes(layerKeyword);
+                return word.layer1 && word.layer1.includes(layerKeyword);
             });
         }
 

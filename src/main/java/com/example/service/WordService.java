@@ -64,78 +64,127 @@ public class WordService {
             System.out.println("✅ 成功读取file.md，内容长度: " + content.length());
 
             List<Map<String, Object>> structure = new ArrayList<>();
-            Map<String, Object> currentLayer = null;
-            Map<String, Object> currentCategory = null;
-            Set<String> seenLayers = new HashSet<>();
-            Set<String> seenCategories = new HashSet<>();
+            Map<String, Object> currentLayer1 = null;
+            Map<String, Object> currentLayer2 = null;
+            Map<String, Object> currentLayer3 = null;
+            Set<String> seenLayer1 = new HashSet<>();
+            Set<String> seenLayer2 = new HashSet<>();
+            Set<String> seenLayer3 = new HashSet<>();
 
             String[] lines = content.split("\\r?\\n");
-            String currentLayerTitle = null;
-            String currentCategoryTitle = null;
+            String currentLayer1Title = null;
+            String currentLayer2Title = null;
+            String currentLayer3Title = null;
 
             for (String line : lines) {
-                Pattern layerPattern = Pattern.compile("^####\\s+(.+)");
-                Matcher layerMatcher = layerPattern.matcher(line);
+                String trimmedLine = line.trim();
 
-                Pattern categoryPattern = Pattern.compile("^#####\\s+(.+)");
-                Matcher categoryMatcher = categoryPattern.matcher(line);
+                boolean isLayer1 = false;
+                boolean isLayer2 = false;
+                boolean isLayer3 = false;
+                boolean isWord = false;
 
-                Pattern wordPattern = Pattern.compile("^(\\d{3})\\s+\\*\\*(.+?)\\*\\*");
-                Matcher wordMatcher = wordPattern.matcher(line);
+                Pattern layer1Pattern = Pattern.compile("^####\\s+(.+)");
+                Matcher layer1Matcher = layer1Pattern.matcher(trimmedLine);
 
-                if (layerMatcher.find()) {
-                    currentLayerTitle = layerMatcher.group(1).trim();
-                    if (!seenLayers.contains(currentLayerTitle)) {
-                        seenLayers.add(currentLayerTitle);
-                        currentLayer = new LinkedHashMap<>();
-                        currentLayer.put("title", currentLayerTitle);
-                        currentLayer.put("children", new ArrayList<Map<String, Object>>());
-                        structure.add(currentLayer);
-                        seenCategories.clear();
-                        currentCategory = null;
-                        System.out.println("📑 解析到层级: " + currentLayerTitle);
+                Pattern layer2Pattern = Pattern.compile("^#####\\s+(.+)");
+                Matcher layer2Matcher = layer2Pattern.matcher(trimmedLine);
+
+                Pattern layer3Pattern1 = Pattern.compile("^######\\s+(.+)");
+                Pattern layer3Pattern2 = Pattern.compile("^(\\d+)\\.\\s+(.+?\\（\\d+词\\）)");
+                Matcher layer3Matcher1 = layer3Pattern1.matcher(trimmedLine);
+                Matcher layer3Matcher2 = layer3Pattern2.matcher(trimmedLine);
+
+                Pattern wordPattern = Pattern.compile("^(\\d{3})\\s+(?:\\*\\*)?(.+?)(?:\\*\\*)?\\s+/");
+                Matcher wordMatcher = wordPattern.matcher(trimmedLine);
+
+                if (layer1Matcher.find()) {
+                    currentLayer1Title = layer1Matcher.group(1).trim();
+                    if (!seenLayer1.contains(currentLayer1Title)) {
+                        seenLayer1.add(currentLayer1Title);
+                        currentLayer1 = new LinkedHashMap<>();
+                        currentLayer1.put("title", currentLayer1Title);
+                        currentLayer1.put("children", new ArrayList<Map<String, Object>>());
+                        structure.add(currentLayer1);
+                        seenLayer2.clear();
+                        seenLayer3.clear();
+                        currentLayer2 = null;
+                        currentLayer3 = null;
+                        isLayer1 = true;
                     }
-                } else if (categoryMatcher.find() && currentLayer != null) {
-                    currentCategoryTitle = categoryMatcher.group(1).trim();
-                    String catKey = currentLayerTitle + "|" + currentCategoryTitle;
-                    if (!seenCategories.contains(catKey)) {
-                        seenCategories.add(catKey);
-                        currentCategory = new LinkedHashMap<>();
-                        currentCategory.put("title", currentCategoryTitle);
-                        currentCategory.put("words", new ArrayList<Map<String, Object>>());
+                } else if (layer2Matcher.find() && currentLayer1 != null) {
+                    currentLayer2Title = layer2Matcher.group(1).trim();
+                    String layer2Key = currentLayer1Title + "|" + currentLayer2Title;
+                    if (!seenLayer2.contains(layer2Key)) {
+                        seenLayer2.add(layer2Key);
+                        currentLayer2 = new LinkedHashMap<>();
+                        currentLayer2.put("title", currentLayer2Title);
+                        currentLayer2.put("children", new ArrayList<Map<String, Object>>());
                         @SuppressWarnings("unchecked")
-                        List<Map<String, Object>> children = (List<Map<String, Object>>) currentLayer.get("children");
-                        children.add(currentCategory);
-                        System.out.println("  📂 解析到分类: " + currentCategoryTitle);
+                        List<Map<String, Object>> layer1Children = (List<Map<String, Object>>) currentLayer1.get("children");
+                        layer1Children.add(currentLayer2);
+                        seenLayer3.clear();
+                        currentLayer3 = null;
+                        isLayer2 = true;
                     }
-                } else if (wordMatcher.find() && currentCategory != null) {
+                } else if (currentLayer2 != null) {
+                    String layer3Text = null;
+                    if (layer3Matcher1.find()) {
+                        layer3Text = layer3Matcher1.group(1).trim();
+                    } else if (layer3Matcher2.find()) {
+                        layer3Text = layer3Matcher2.group(1) + ". " + layer3Matcher2.group(2).trim();
+                    }
+
+                    if (layer3Text != null) {
+                        currentLayer3Title = layer3Text;
+                        String layer3Key = currentLayer2Title + "|" + currentLayer3Title;
+                        if (!seenLayer3.contains(layer3Key)) {
+                            seenLayer3.add(layer3Key);
+                            currentLayer3 = new LinkedHashMap<>();
+                            currentLayer3.put("title", currentLayer3Title);
+                            currentLayer3.put("words", new ArrayList<Map<String, Object>>());
+                            @SuppressWarnings("unchecked")
+                            List<Map<String, Object>> layer2Children = (List<Map<String, Object>>) currentLayer2.get("children");
+                            layer2Children.add(currentLayer3);
+                            isLayer3 = true;
+                        }
+                    }
+                }
+
+                if (wordMatcher.find() && currentLayer3 != null) {
                     String number = wordMatcher.group(1);
                     String wordName = wordMatcher.group(2).trim();
 
                     Map<String, Object> wordInfo = new HashMap<>();
                     wordInfo.put("number", number);
                     wordInfo.put("word", wordName);
+                    wordInfo.put("layer1", currentLayer1Title);
+                    wordInfo.put("layer2", currentLayer2Title);
+                    wordInfo.put("layer3", currentLayer3Title);
 
                     try {
                         Optional<Word> wordOpt = wordRepository.findByWord(wordName);
                         if (wordOpt.isPresent()) {
-                            wordInfo.put("id", wordOpt.get().getId());
+                            Word word = wordOpt.get();
+                            wordInfo.put("id", word.getId());
+                            word.setLayer1(currentLayer1Title);
+                            word.setLayer2(currentLayer2Title);
+                            word.setLayer3(currentLayer3Title);
+                            wordRepository.save(word);
                         } else {
                             wordInfo.put("id", null);
-                            System.out.println("  ⚠️ 单词未在数据库中找到: " + wordName);
                         }
                     } catch (Exception e) {
-                        System.err.println("  ❌ 查询单词失败: " + wordName + ", 错误: " + e.getMessage());
                         wordInfo.put("id", null);
                     }
 
                     @SuppressWarnings("unchecked")
-                    List<Map<String, Object>> words = (List<Map<String, Object>>) currentCategory.get("words");
+                    List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer3.get("words");
                     words.add(wordInfo);
                 }
             }
 
-            System.out.println("✅ 目录结构解析完成，共 " + structure.size() + " 个层级");
+            System.out.println("✅ 目录结构解析完成，共 " + structure.size() + " 个一级分类");
             return structure;
         } catch (IOException e) {
             System.err.println("❌ 构建目录结构失败: " + e.getMessage());
