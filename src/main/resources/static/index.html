@@ -50,7 +50,7 @@
 
         .search-box input {
             width: 100%;
-            padding: 10px 15px 10px 35px;
+            padding: 10px 15px 10px 38px;
             border: none;
             border-radius: 20px;
             background: rgba(255,255,255,0.2);
@@ -63,13 +63,15 @@
             color: rgba(255,255,255,0.7);
         }
 
-        .search-box::before {
-            content: "🔍";
+        .search-box-icon {
             position: absolute;
             left: 12px;
             top: 50%;
             transform: translateY(-50%);
-            font-size: 14px;
+            width: 16px;
+            height: 16px;
+            pointer-events: none;
+            z-index: 1;
         }
 
         .catalog-container {
@@ -222,11 +224,15 @@
         }
 
         .speak-icon {
-            font-size: 16px;
+            width: 18px;
+            height: 18px;
             cursor: pointer;
             opacity: 0;
             transition: opacity 0.2s;
-            color: #667eea;
+            background-image: url('ico/speaker03.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
         }
 
         .catalog-word-item:hover .speak-icon {
@@ -366,17 +372,29 @@
         }
 
         .speak-btn {
-            padding: 6px 16px;
+            padding: 6px 16px 6px 28px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
             border-radius: 20px;
             cursor: pointer;
             font-size: 14px;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
+            position: relative;
             transition: all 0.3s;
+        }
+
+        .speak-btn::before {
+            content: "";
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 16px;
+            height: 16px;
+            background-image: url('ico/speaker03.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
         }
 
         .speak-btn:hover {
@@ -385,17 +403,29 @@
         }
 
         .read-all-btn {
-            padding: 8px 20px;
+            padding: 8px 20px 8px 32px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
             border-radius: 20px;
             cursor: pointer;
             font-size: 14px;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
+            position: relative;
             transition: all 0.3s;
+        }
+
+        .read-all-btn::before {
+            content: "";
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 18px;
+            height: 18px;
+            background-image: url('ico/speaker03.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
         }
 
         .read-all-btn:hover {
@@ -505,8 +535,9 @@
 <div class="app-container">
     <div class="sidebar">
         <div class="sidebar-header">
-            <h1>📚 13000英语4500词</h1>
+            <h1><img src="ico/book01.png" alt="book" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px;">13000英语4500词</h1>
             <div class="search-box">
+                <img src="ico/search02.png" alt="search" class="search-box-icon">
                 <input type="text" id="searchInput" placeholder="搜索单词..." oninput="handleSearch(this.value)">
             </div>
         </div>
@@ -520,7 +551,7 @@
             <h2 id="contentTitle">单词详情</h2>
             <div class="filter-controls">
                 <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">
-                    🔊 全文朗读
+                    全文朗读
                 </button>
                 <select id="filterSelect" onchange="handleFilter(this.value)">
                     <option value="all">全部显示</option>
@@ -616,7 +647,7 @@
             const layer2Container = document.createElement('div');
             layer2Container.className = 'catalog-level2-container';
 
-            if (layer1.children) {
+            if (layer1.children && layer1.children.length > 0) {
                 layer1.children.forEach((layer2) => {
                     const layer2Div = document.createElement('div');
                     layer2Div.className = 'catalog-level2';
@@ -624,13 +655,20 @@
                     const layer2Title = document.createElement('div');
                     layer2Title.className = 'catalog-level2-title';
 
-                    const hasChildren = layer2.children && layer2.children.length > 0;
-                    if (hasChildren) {
+                    const hasLayer3Children = layer2.children && layer2.children.length > 0;
+                    const hasLayer2Words = layer2.words && layer2.words.length > 0;
+                    const hasContent = hasLayer3Children || hasLayer2Words;
+
+                    if (hasContent) {
                         layer2Title.innerHTML = `<span>${layer2.title}</span><span class="arrow">▶</span>`;
                         layer2Title.onclick = (e) => {
                             e.stopPropagation();
                             layer2Title.classList.toggle('expanded');
-                            layer2Div.querySelector('.catalog-level3-container').classList.toggle('expanded');
+                            if (hasLayer3Children) {
+                                layer2Div.querySelector('.catalog-level3-container').classList.toggle('expanded');
+                            } else if (hasLayer2Words) {
+                                layer2Div.querySelector('.catalog-words').classList.toggle('expanded');
+                            }
                         };
                     } else {
                         layer2Title.textContent = layer2.title;
@@ -638,28 +676,67 @@
 
                     layer2Div.appendChild(layer2Title);
 
+                    if (hasLayer2Words) {
+                        const wordsDiv = document.createElement('div');
+                        wordsDiv.className = 'catalog-words';
+
+                        layer2.words.forEach(word => {
+                            const wordItem = document.createElement('div');
+                            wordItem.className = 'catalog-word-item';
+
+                            const wordText = document.createElement('span');
+                            wordText.textContent = `${word.number} ${word.word}`;
+
+                            const speakIcon = document.createElement('span');
+                            speakIcon.className = 'speak-icon';
+                            speakIcon.onclick = (e) => {
+                                e.stopPropagation();
+                                speakWord(word.word);
+                            };
+
+                            wordItem.appendChild(wordText);
+                            wordItem.appendChild(speakIcon);
+
+                            if (word.id) {
+                                wordItem.dataset.wordId = word.id;
+                                wordItem.onclick = () => showWordDetail(word.id);
+                            }
+
+                            wordsDiv.appendChild(wordItem);
+                        });
+
+                        layer2Div.appendChild(wordsDiv);
+                    }
+
                     const layer3Container = document.createElement('div');
                     layer3Container.className = 'catalog-level3-container';
 
-                    if (layer2.children) {
+                    if (hasLayer3Children) {
                         layer2.children.forEach((layer3) => {
                             const layer3Div = document.createElement('div');
                             layer3Div.className = 'catalog-level3';
 
                             const layer3Title = document.createElement('div');
                             layer3Title.className = 'catalog-level3-title';
-                            layer3Title.innerHTML = `<span>${layer3.title}</span><span class="arrow">▶</span>`;
-                            layer3Title.onclick = (e) => {
-                                e.stopPropagation();
-                                layer3Title.classList.toggle('expanded');
-                                layer3Div.querySelector('.catalog-words').classList.toggle('expanded');
-                            };
+
+                            const hasLayer3Words = layer3.words && layer3.words.length > 0;
+                            if (hasLayer3Words) {
+                                layer3Title.innerHTML = `<span>${layer3.title}</span><span class="arrow">▶</span>`;
+                                layer3Title.onclick = (e) => {
+                                    e.stopPropagation();
+                                    layer3Title.classList.toggle('expanded');
+                                    layer3Div.querySelector('.catalog-words').classList.toggle('expanded');
+                                };
+                            } else {
+                                layer3Title.textContent = layer3.title;
+                            }
+
                             layer3Div.appendChild(layer3Title);
 
                             const wordsDiv = document.createElement('div');
                             wordsDiv.className = 'catalog-words';
 
-                            if (layer3.words && layer3.words.length > 0) {
+                            if (hasLayer3Words) {
                                 layer3.words.forEach(word => {
                                     const wordItem = document.createElement('div');
                                     wordItem.className = 'catalog-word-item';
@@ -669,7 +746,6 @@
 
                                     const speakIcon = document.createElement('span');
                                     speakIcon.className = 'speak-icon';
-                                    speakIcon.textContent = '🔊';
                                     speakIcon.onclick = (e) => {
                                         e.stopPropagation();
                                         speakWord(word.word);
@@ -695,18 +771,41 @@
                     layer2Div.appendChild(layer3Container);
                     layer2Container.appendChild(layer2Div);
                 });
+            } else if (layer1.words && layer1.words.length > 0) {
+                const wordsDiv = document.createElement('div');
+                wordsDiv.className = 'catalog-words';
+
+                layer1.words.forEach(word => {
+                    const wordItem = document.createElement('div');
+                    wordItem.className = 'catalog-word-item';
+
+                    const wordText = document.createElement('span');
+                    wordText.textContent = `${word.number} ${word.word}`;
+
+                    const speakIcon = document.createElement('span');
+                    speakIcon.className = 'speak-icon';
+                    speakIcon.onclick = (e) => {
+                        e.stopPropagation();
+                        speakWord(word.word);
+                    };
+
+                    wordItem.appendChild(wordText);
+                    wordItem.appendChild(speakIcon);
+
+                    if (word.id) {
+                        wordItem.dataset.wordId = word.id;
+                        wordItem.onclick = () => showWordDetail(word.id);
+                    }
+
+                    wordsDiv.appendChild(wordItem);
+                });
+
+                layer2Container.appendChild(wordsDiv);
             }
 
             layer1Div.appendChild(layer2Container);
             container.appendChild(layer1Div);
         });
-    }
-
-    function buildCatalog() {
-    }
-
-    function parseCatalogStructure() {
-        return [];
     }
 
     function speakWord(word) {
@@ -726,14 +825,12 @@
             speechSynth.cancel();
             isReadingAll = false;
             btn.classList.remove('reading');
-            btn.innerHTML = '🔊 全文朗读';
             return;
         }
 
         isReadingAll = true;
         readAllIndex = 0;
         btn.classList.add('reading');
-        btn.innerHTML = '⏹️ 停止朗读';
         readNextWord();
     }
 
@@ -742,7 +839,6 @@
             isReadingAll = false;
             const btn = document.getElementById('readAllBtn');
             btn.classList.remove('reading');
-            btn.innerHTML = '🔊 全文朗读';
             return;
         }
 
@@ -811,7 +907,7 @@
 
         const speakBtn = document.createElement('button');
         speakBtn.className = 'speak-btn';
-        speakBtn.innerHTML = '🔊 朗读';
+        speakBtn.textContent = '朗读';
         speakBtn.onclick = () => speakWord(word.word);
         wordTitle.appendChild(speakBtn);
 
@@ -929,7 +1025,7 @@
 
             const speakBtn = document.createElement('button');
             speakBtn.className = 'speak-btn';
-            speakBtn.innerHTML = '🔊 朗读';
+            speakBtn.textContent = '朗读';
             speakBtn.onclick = () => speakWord(word.word);
             wordTitle.appendChild(speakBtn);
 
@@ -955,15 +1051,19 @@
                 return;
             }
 
+            const searchKeyword = keyword.toLowerCase().trim();
             filteredWords = allWords.filter(w =>
-                w.word.toLowerCase().includes(keyword.toLowerCase()) ||
-                (w.definition && w.definition.toLowerCase().includes(keyword.toLowerCase())) ||
-                (w.content && w.content.toLowerCase().includes(keyword.toLowerCase()))
+                w.word.toLowerCase().includes(searchKeyword) ||
+                (w.definition && w.definition.toLowerCase().includes(searchKeyword)) ||
+                (w.content && w.content.toLowerCase().includes(searchKeyword))
             );
 
             document.getElementById('contentTitle').textContent =
                 `搜索结果：${filteredWords.length} 个单词`;
-            showPage(1);
+            currentPageNum = 1;
+
+            document.getElementById('pagination').style.display = 'none';
+            renderContent(filteredWords);
         }, 300);
     }
 
@@ -1006,7 +1106,8 @@
             `;
             document.getElementById('pagination').style.display = 'none';
         } else {
-            showPage(1);
+            document.getElementById('pagination').style.display = 'none';
+            renderContent(filteredWords);
         }
     }
 

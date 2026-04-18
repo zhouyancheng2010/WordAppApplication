@@ -79,11 +79,6 @@ public class WordService {
             for (String line : lines) {
                 String trimmedLine = line.trim();
 
-                boolean isLayer1 = false;
-                boolean isLayer2 = false;
-                boolean isLayer3 = false;
-                boolean isWord = false;
-
                 Pattern layer1Pattern = Pattern.compile("^####\\s+(.+)");
                 Matcher layer1Matcher = layer1Pattern.matcher(trimmedLine);
 
@@ -105,12 +100,13 @@ public class WordService {
                         currentLayer1 = new LinkedHashMap<>();
                         currentLayer1.put("title", currentLayer1Title);
                         currentLayer1.put("children", new ArrayList<Map<String, Object>>());
+                        currentLayer1.put("words", new ArrayList<Map<String, Object>>());
                         structure.add(currentLayer1);
                         seenLayer2.clear();
                         seenLayer3.clear();
                         currentLayer2 = null;
                         currentLayer3 = null;
-                        isLayer1 = true;
+                        System.out.println("📑 L1: " + currentLayer1Title);
                     }
                 } else if (layer2Matcher.find() && currentLayer1 != null) {
                     currentLayer2Title = layer2Matcher.group(1).trim();
@@ -120,12 +116,13 @@ public class WordService {
                         currentLayer2 = new LinkedHashMap<>();
                         currentLayer2.put("title", currentLayer2Title);
                         currentLayer2.put("children", new ArrayList<Map<String, Object>>());
+                        currentLayer2.put("words", new ArrayList<Map<String, Object>>());
                         @SuppressWarnings("unchecked")
                         List<Map<String, Object>> layer1Children = (List<Map<String, Object>>) currentLayer1.get("children");
                         layer1Children.add(currentLayer2);
                         seenLayer3.clear();
                         currentLayer3 = null;
-                        isLayer2 = true;
+                        System.out.println("  📂 L2: " + currentLayer2Title);
                     }
                 } else if (currentLayer2 != null) {
                     String layer3Text = null;
@@ -146,12 +143,12 @@ public class WordService {
                             @SuppressWarnings("unchecked")
                             List<Map<String, Object>> layer2Children = (List<Map<String, Object>>) currentLayer2.get("children");
                             layer2Children.add(currentLayer3);
-                            isLayer3 = true;
+                            System.out.println("    📄 L3: " + currentLayer3Title);
                         }
                     }
                 }
 
-                if (wordMatcher.find() && currentLayer3 != null) {
+                if (wordMatcher.find()) {
                     String number = wordMatcher.group(1);
                     String wordName = wordMatcher.group(2).trim();
 
@@ -178,9 +175,19 @@ public class WordService {
                         wordInfo.put("id", null);
                     }
 
-                    @SuppressWarnings("unchecked")
-                    List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer3.get("words");
-                    words.add(wordInfo);
+                    if (currentLayer3 != null) {
+                        @SuppressWarnings("unchecked")
+                        List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer3.get("words");
+                        words.add(wordInfo);
+                    } else if (currentLayer2 != null) {
+                        @SuppressWarnings("unchecked")
+                        List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer2.get("words");
+                        words.add(wordInfo);
+                    } else if (currentLayer1 != null) {
+                        @SuppressWarnings("unchecked")
+                        List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer1.get("words");
+                        words.add(wordInfo);
+                    }
                 }
             }
 
