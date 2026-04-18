@@ -522,7 +522,8 @@
             allWords = await response.json();
             console.log('✅ 加载单词数量:', allWords.length);
 
-            buildCatalog();
+            await loadCatalog();
+
             filteredWords = [...allWords];
             if (filteredWords.length > 0) {
                 showPage(1);
@@ -534,12 +535,22 @@
         }
     }
 
-    function buildCatalog() {
+    async function loadCatalog() {
+        try {
+            const response = await fetch('/api/catalog');
+            catalogStructure = await response.json();
+            console.log('✅ 加载导航结构:', catalogStructure);
+            renderCatalog(catalogStructure);
+        } catch (error) {
+            console.error('❌ 加载导航失败:', error);
+            document.getElementById('catalogContainer').innerHTML =
+                '<div class="no-data"><div class="icon">⚠️</div><p>导航加载失败</p></div>';
+        }
+    }
+
+    function renderCatalog(structure) {
         const container = document.getElementById('catalogContainer');
         container.innerHTML = '';
-
-        const structure = parseCatalogStructure();
-        catalogStructure = structure;
 
         structure.forEach((level1) => {
             const level1Div = document.createElement('div');
@@ -604,67 +615,13 @@
         });
     }
 
+    function buildCatalog() {
+        // 已废弃，使用 loadCatalog 替代
+    }
+
     function parseCatalogStructure() {
-        const structure = [];
-        let currentLayer = null;
-        let currentCategory = null;
-        let seenLayers = new Set();
-        let seenCategories = new Set();
-
-        allWords.forEach(word => {
-            if (!word.content) return;
-
-            const layerMatch = word.content.match(/^####\s+(.+)/m);
-            const categoryMatch = word.content.match(/^#####\s+(.+)/m);
-
-            if (layerMatch) {
-                const layerTitle = layerMatch[1];
-                if (!seenLayers.has(layerTitle)) {
-                    seenLayers.add(layerTitle);
-                    currentLayer = {
-                        title: layerTitle,
-                        children: []
-                    };
-                    structure.push(currentLayer);
-                    currentCategory = null;
-                    seenCategories.clear();
-                }
-            } else if (categoryMatch && currentLayer) {
-                const categoryTitle = categoryMatch[1];
-                const catKey = currentLayer.title + '|' + categoryTitle;
-                if (!seenCategories.has(catKey)) {
-                    seenCategories.add(catKey);
-                    currentCategory = {
-                        title: categoryTitle,
-                        words: []
-                    };
-                    currentLayer.children.push(currentCategory);
-                } else {
-                    currentCategory = currentLayer.children.find(c => c.title === categoryTitle);
-                }
-            }
-
-            if (currentCategory) {
-                const numberMatch = word.content.match(/^(?:\d{3})\s+\*\*(.+?)\*\*/m) ||
-                    word.content.match(/^\*\*(\d+)\s+(.+?)\*\*/m);
-                if (numberMatch) {
-                    const num = word.content.match(/^(\d{3})/)?.[1] ||
-                        word.content.match(/^\*\*(\d+)/)?.[1] || '';
-                    const wordName = numberMatch[1] || numberMatch[2];
-                    if (!currentCategory.words.some(w => w.id === word.id)) {
-                        currentCategory.words.push({
-                            id: word.id,
-                            number: num,
-                            word: wordName
-                        });
-                    }
-                }
-            }
-        });
-
-        console.log('📊 目录结构:', structure);
-        console.log('📊 一级主题数量:', structure.length);
-        return structure;
+        // 已废弃，后端直接返回结构
+        return [];
     }
 
     function speakWord(word) {

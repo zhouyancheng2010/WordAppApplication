@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+import java.util.Map;
 
 @RestController
 public class WordController {
@@ -46,5 +47,10 @@ public class WordController {
     @GetMapping("/api/all-words")
     public List<Word> getAllWordsList() {
         return wordService.getAllWordsBySortOrder();
+    }
+
+    @GetMapping("/api/catalog")
+    public List<Map<String, Object>> getCatalogStructure() {
+        return wordService.buildCatalogStructure();
     }
 }

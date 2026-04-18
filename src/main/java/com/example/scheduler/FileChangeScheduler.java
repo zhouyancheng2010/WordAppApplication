@@ -189,6 +189,7 @@ public class FileChangeScheduler {
         }
     }
 
+
     private void syncDatabase(Map<Long, Word> parsedWords) {
         List<Word> existingWords = wordRepository.findAll();
         Map<Long, Word> existingMap = new HashMap<>();
