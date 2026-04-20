@@ -102,7 +102,6 @@ public class FileChangeScheduler {
 
     private void parseContent(String content) {
         try {
-            // 分割成独立的单词块（以分隔线 --- 为界）
             String[] wordBlocks = content.split("\\r?\\n-{2,}\\r?\\n");
             System.out.println("📊 分割得到 " + wordBlocks.length + " 个单词块");
 
@@ -110,18 +109,68 @@ public class FileChangeScheduler {
             int sortOrder = 0;
             int skipCount = 0;
 
+            String currentLayer1 = null;
+            String currentLayer2 = null;
+            String currentLayer3 = null;
+
+            Pattern layer1Pattern = Pattern.compile("^####\\s+(.+)");
+            Pattern layer2Pattern = Pattern.compile("^#####\\s+(.+)");
+            Pattern layer3Pattern = Pattern.compile("^######\\s+(.+)");
+            Pattern layer3AltPattern = Pattern.compile("^(.+?)\\s*\\（\\d+词\\）$");
+            Pattern wordPattern1 = Pattern.compile("(?:^|\\n)(\\d{3})\\s+\\*\\*(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
+            Pattern wordPattern2 = Pattern.compile("(?:^|\\n)\\*\\*(\\d{3})\\s+(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
+
             for (int i = 0; i < wordBlocks.length; i++) {
                 String block = wordBlocks[i];
                 if (block.trim().isEmpty()) {
                     continue;
                 }
 
-                // 更宽松的正则表达式，兼容多种格式
-                Pattern patternWithNumber = Pattern.compile("(?:^|\\n)(\\d{3})\\s+\\*\\*(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
-                Pattern patternWithoutNumber = Pattern.compile("(?:^|\\n)\\*\\*(\\d+)\\s+(.+?)\\*\\*\\s+([^\\s]+)\\s+(.+)", Pattern.MULTILINE | Pattern.DOTALL);
+                String[] blockLines = block.split("\\r?\\n");
+                for (String line : blockLines) {
+                    String trimmedLine = line.trim();
 
-                Matcher matcherWithNumber = patternWithNumber.matcher(block);
-                Matcher matcherWithoutNumber = patternWithoutNumber.matcher(block);
+                    if (trimmedLine.isEmpty() || trimmedLine.startsWith("------") || trimmedLine.startsWith("---")) {
+                        continue;
+                    }
+
+                    Matcher layer1Matcher = layer1Pattern.matcher(trimmedLine);
+                    if (layer1Matcher.find()) {
+                        currentLayer1 = layer1Matcher.group(1).trim();
+                        currentLayer2 = null;
+                        currentLayer3 = null;
+                        continue;
+                    }
+
+                    Matcher layer2Matcher = layer2Pattern.matcher(trimmedLine);
+                    if (layer2Matcher.find()) {
+                        currentLayer2 = layer2Matcher.group(1).trim();
+                        currentLayer3 = null;
+                        continue;
+                    }
+
+                    String layer3Text = null;
+                    Matcher layer3Matcher = layer3Pattern.matcher(trimmedLine);
+                    if (layer3Matcher.find()) {
+                        layer3Text = layer3Matcher.group(1).trim();
+                    } else {
+                        Matcher layer3AltMatcher = layer3AltPattern.matcher(trimmedLine);
+                        if (layer3AltMatcher.find()) {
+                            String candidate = layer3AltMatcher.group(1).trim();
+                            if (candidate.matches("^[\\u4e00-\\u9fa5a-zA-Z/\\s、]+$")) {
+                                layer3Text = candidate;
+                            }
+                        }
+                    }
+
+                    if (layer3Text != null) {
+                        currentLayer3 = layer3Text;
+                        continue;
+                    }
+                }
+
+                Matcher matcherWithNumber = wordPattern1.matcher(block);
+                Matcher matcherWithoutNumber = wordPattern2.matcher(block);
 
                 Word word = new Word();
                 boolean matched = false;
@@ -138,7 +187,10 @@ public class FileChangeScheduler {
                     String afterIpa = matcherWithNumber.group(4).split("\n")[0].trim();
                     word.setDefinition(afterIpa);
 
-                    // 从序号位置开始截取，去除前面的标题
+                    word.setLayer1(currentLayer1);
+                    word.setLayer2(currentLayer2);
+                    word.setLayer3(currentLayer3);
+
                     int matchStart = matcherWithNumber.start();
                     String wordContent = block.substring(matchStart).trim();
                     word.setContent(wordContent);
@@ -156,7 +208,10 @@ public class FileChangeScheduler {
                     String afterIpa = matcherWithoutNumber.group(4).split("\n")[0].trim();
                     word.setDefinition(afterIpa);
 
-                    // 从序号位置开始截取，去除前面的标题
+                    word.setLayer1(currentLayer1);
+                    word.setLayer2(currentLayer2);
+                    word.setLayer3(currentLayer3);
+
                     int matchStart = matcherWithoutNumber.start();
                     String wordContent = block.substring(matchStart).trim();
                     word.setContent(wordContent);
@@ -167,7 +222,8 @@ public class FileChangeScheduler {
                 if (matched) {
                     parsedWords.put(word.getId(), word);
                     if (parsedWords.size() <= 3 || parsedWords.size() % 500 == 0) {
-                        System.out.println("  ✅ 解析 [" + parsedWords.size() + "]: " + word.getWord() + " - " + word.getDefinition());
+                        System.out.println("  ✅ 解析 [" + parsedWords.size() + "]: " + word.getWord() +
+                                " | L1:" + currentLayer1 + " | L2:" + currentLayer2 + " | L3:" + currentLayer3);
                     }
                 } else {
                     skipCount++;
@@ -180,7 +236,6 @@ public class FileChangeScheduler {
 
             System.out.println("📋 解析完成，有效单词: " + parsedWords.size() + ", 跳过: " + skipCount);
 
-            // 使用增量同步策略
             syncDatabase(parsedWords);
 
         } catch (Exception e) {
@@ -188,7 +243,6 @@ public class FileChangeScheduler {
             e.printStackTrace();
         }
     }
-
 
     private void syncDatabase(Map<Long, Word> parsedWords) {
         List<Word> existingWords = wordRepository.findAll();

@@ -10,6 +10,9 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -54,13 +57,12 @@ public class WordService {
 
     public List<Map<String, Object>> buildCatalogStructure() {
         try {
-            ClassPathResource resource = new ClassPathResource("file.md");
-            if (!resource.exists()) {
-                System.err.println("❌ file.md文件不存在");
+            String content = readFileMd();
+            if (content == null || content.isEmpty()) {
+                System.err.println("❌ file.md文件不存在或为空");
                 return new ArrayList<>();
             }
 
-            String content = new String(resource.getInputStream().readAllBytes(), StandardCharsets.UTF_8);
             System.out.println("✅ 成功读取file.md，内容长度: " + content.length());
 
             List<Map<String, Object>> structure = new ArrayList<>();
@@ -76,23 +78,24 @@ public class WordService {
             String currentLayer2Title = null;
             String currentLayer3Title = null;
 
+            Pattern layer1Pattern = Pattern.compile("^####\\s+(.+)");
+            Pattern layer2Pattern = Pattern.compile("^#####\\s+(.+)");
+            Pattern layer3Pattern = Pattern.compile("^######\\s+(.+)");
+            Pattern layer3AltPattern = Pattern.compile("^(.+?)\\s*\\（\\d+词\\）$");
+            Pattern wordPattern1 = Pattern.compile("^(\\d{3})\\s+\\*\\*(.+?)\\*\\*\\s+(/\\S+)?\\s*(.+)?$");
+            Pattern wordPattern2 = Pattern.compile("^\\*\\*(\\d{3})\\s+(.+?)\\*\\*\\s+(/\\S+)?\\s*(.+)?$");
+
+            int wordCount = 0;
+            int totalWords = 0;
+
             for (String line : lines) {
                 String trimmedLine = line.trim();
 
-                Pattern layer1Pattern = Pattern.compile("^####\\s+(.+)");
+                if (trimmedLine.isEmpty() || trimmedLine.startsWith("------") || trimmedLine.startsWith("---")) {
+                    continue;
+                }
+
                 Matcher layer1Matcher = layer1Pattern.matcher(trimmedLine);
-
-                Pattern layer2Pattern = Pattern.compile("^#####\\s+(.+)");
-                Matcher layer2Matcher = layer2Pattern.matcher(trimmedLine);
-
-                Pattern layer3Pattern1 = Pattern.compile("^######\\s+(.+)");
-                Pattern layer3Pattern2 = Pattern.compile("^(\\d+)\\.\\s+(.+?\\（\\d+词\\）)");
-                Matcher layer3Matcher1 = layer3Pattern1.matcher(trimmedLine);
-                Matcher layer3Matcher2 = layer3Pattern2.matcher(trimmedLine);
-
-                Pattern wordPattern = Pattern.compile("^(\\d{3})\\s+(?:\\*\\*)?(.+?)(?:\\*\\*)?\\s+/");
-                Matcher wordMatcher = wordPattern.matcher(trimmedLine);
-
                 if (layer1Matcher.find()) {
                     currentLayer1Title = layer1Matcher.group(1).trim();
                     if (!seenLayer1.contains(currentLayer1Title)) {
@@ -108,7 +111,11 @@ public class WordService {
                         currentLayer3 = null;
                         System.out.println("📑 L1: " + currentLayer1Title);
                     }
-                } else if (layer2Matcher.find() && currentLayer1 != null) {
+                    continue;
+                }
+
+                Matcher layer2Matcher = layer2Pattern.matcher(trimmedLine);
+                if (layer2Matcher.find()) {
                     currentLayer2Title = layer2Matcher.group(1).trim();
                     String layer2Key = currentLayer1Title + "|" + currentLayer2Title;
                     if (!seenLayer2.contains(layer2Key)) {
@@ -124,35 +131,58 @@ public class WordService {
                         currentLayer3 = null;
                         System.out.println("  📂 L2: " + currentLayer2Title);
                     }
-                } else if (currentLayer2 != null) {
-                    String layer3Text = null;
-                    if (layer3Matcher1.find()) {
-                        layer3Text = layer3Matcher1.group(1).trim();
-                    } else if (layer3Matcher2.find()) {
-                        layer3Text = layer3Matcher2.group(1) + ". " + layer3Matcher2.group(2).trim();
-                    }
+                    continue;
+                }
 
-                    if (layer3Text != null) {
-                        currentLayer3Title = layer3Text;
-                        String layer3Key = currentLayer2Title + "|" + currentLayer3Title;
-                        if (!seenLayer3.contains(layer3Key)) {
-                            seenLayer3.add(layer3Key);
-                            currentLayer3 = new LinkedHashMap<>();
-                            currentLayer3.put("title", currentLayer3Title);
-                            currentLayer3.put("words", new ArrayList<Map<String, Object>>());
-                            @SuppressWarnings("unchecked")
-                            List<Map<String, Object>> layer2Children = (List<Map<String, Object>>) currentLayer2.get("children");
-                            layer2Children.add(currentLayer3);
-                            System.out.println("    📄 L3: " + currentLayer3Title);
+                String layer3Text = null;
+                Matcher layer3Matcher = layer3Pattern.matcher(trimmedLine);
+                if (layer3Matcher.find()) {
+                    layer3Text = layer3Matcher.group(1).trim();
+                } else {
+                    Matcher layer3AltMatcher = layer3AltPattern.matcher(trimmedLine);
+                    if (layer3AltMatcher.find()) {
+                        String candidate = layer3AltMatcher.group(1).trim();
+                        if (candidate.matches("^[\\u4e00-\\u9fa5a-zA-Z/\\s、]+$")) {
+                            layer3Text = candidate;
                         }
                     }
                 }
 
-                if (wordMatcher.find()) {
-                    String number = wordMatcher.group(1);
-                    String wordName = wordMatcher.group(2).trim();
+                if (layer3Text != null && currentLayer2 != null) {
+                    currentLayer3Title = layer3Text;
+                    String layer3Key = currentLayer2Title + "|" + currentLayer3Title;
+                    if (!seenLayer3.contains(layer3Key)) {
+                        seenLayer3.add(layer3Key);
+                        currentLayer3 = new LinkedHashMap<>();
+                        currentLayer3.put("title", currentLayer3Title);
+                        currentLayer3.put("words", new ArrayList<Map<String, Object>>());
+                        @SuppressWarnings("unchecked")
+                        List<Map<String, Object>> layer2Children = (List<Map<String, Object>>) currentLayer2.get("children");
+                        layer2Children.add(currentLayer3);
+                        System.out.println("    📄 L3: " + currentLayer3Title);
+                    }
+                    continue;
+                }
 
-                    Map<String, Object> wordInfo = new HashMap<>();
+                String number = null;
+                String wordName = null;
+
+                Matcher wordMatcher1 = wordPattern1.matcher(trimmedLine);
+                if (wordMatcher1.find()) {
+                    number = wordMatcher1.group(1);
+                    wordName = wordMatcher1.group(2).trim();
+                } else {
+                    Matcher wordMatcher2 = wordPattern2.matcher(trimmedLine);
+                    if (wordMatcher2.find()) {
+                        number = wordMatcher2.group(1);
+                        wordName = wordMatcher2.group(2).trim();
+                    }
+                }
+
+                if (number != null && wordName != null) {
+                    totalWords++;
+
+                    Map<String, Object> wordInfo = new LinkedHashMap<>();
                     wordInfo.put("number", number);
                     wordInfo.put("word", wordName);
                     wordInfo.put("layer1", currentLayer1Title);
@@ -164,10 +194,6 @@ public class WordService {
                         if (wordOpt.isPresent()) {
                             Word word = wordOpt.get();
                             wordInfo.put("id", word.getId());
-                            word.setLayer1(currentLayer1Title);
-                            word.setLayer2(currentLayer2Title);
-                            word.setLayer3(currentLayer3Title);
-                            wordRepository.save(word);
                         } else {
                             wordInfo.put("id", null);
                         }
@@ -179,28 +205,51 @@ public class WordService {
                         @SuppressWarnings("unchecked")
                         List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer3.get("words");
                         words.add(wordInfo);
+                        wordCount++;
                     } else if (currentLayer2 != null) {
                         @SuppressWarnings("unchecked")
                         List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer2.get("words");
                         words.add(wordInfo);
+                        wordCount++;
                     } else if (currentLayer1 != null) {
                         @SuppressWarnings("unchecked")
                         List<Map<String, Object>> words = (List<Map<String, Object>>) currentLayer1.get("words");
                         words.add(wordInfo);
+                        wordCount++;
                     }
                 }
             }
 
             System.out.println("✅ 目录结构解析完成，共 " + structure.size() + " 个一级分类");
+            System.out.println("📊 统计: 扫描 " + totalWords + " 个单词，归类 " + wordCount + " 个");
             return structure;
-        } catch (IOException e) {
+        } catch (Exception e) {
             System.err.println("❌ 构建目录结构失败: " + e.getMessage());
             e.printStackTrace();
             return new ArrayList<>();
+        }
+    }
+
+
+    private String readFileMd() {
+        try {
+            Path filePath = Paths.get(System.getProperty("user.dir"), "src", "main", "resources", "file.md");
+
+            if (Files.exists(filePath)) {
+                System.out.println("📂 从文件系统读取: " + filePath);
+                return Files.readString(filePath, StandardCharsets.UTF_8);
+            }
+
+            ClassPathResource resource = new ClassPathResource("file.md");
+            if (resource.exists()) {
+                System.out.println("📂 从 classpath 读取 file.md");
+                return new String(resource.getInputStream().readAllBytes(), StandardCharsets.UTF_8);
+            }
+
+            return null;
         } catch (Exception e) {
-            System.err.println("❌ 解析过程中发生未知错误: " + e.getMessage());
-            e.printStackTrace();
-            return new ArrayList<>();
+            System.err.println("❌ 读取 file.md 失败: " + e.getMessage());
+            return null;
         }
     }
 }

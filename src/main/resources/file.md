@@ -47731,3 +47731,8514 @@ He is impatient with slow learners. 他对学得慢的人不耐烦。
 **七、语境用法（适配简单句 / 话题写作，直接套用）**
 基础句：Impatient people miss the journey. 急躁的人错过旅程。
 写作提分句：Don't be impatient for success; focus on the process. 不要急于求成，专注于过程。
+
+---
+
+##### 3）情感态度 / 心理（400词）
+
+###### 名词（150词）
+
+**001 feeling** /ˈfiːlɪŋ/ n. 感觉；情感
+**一、词根词缀拆解**
+词根：feel = 触摸；感觉（古英语 felan）
+后缀：-ing = 名词后缀，表示行为或状态
+整体拆解：feel + ing → 感觉的状态 → 感觉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+a feeling of（……的感觉）
+hurt someone's feelings（伤害某人的感情）
+gut feeling（直觉）
+**三、词性搭配用法（前接 / 后接什么）**
+feeling（名词）
+  可数/不可数：a feeling / feelings
+  后接 of：a feeling of joy
+  后接 that：a feeling that something is wrong
+**四、高频句型（作文直接套）**
+I have a feeling that it will rain. 我感觉要下雨了。
+She expressed her feelings openly. 她公开表达了自己的感受。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：feelings /ˈfiːlɪŋz/
+形容词：feeling /ˈfiːlɪŋ/ 有感觉的
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：emotion /ɪˈməʊʃən/ n. 情感
+反义词：indifference /ɪnˈdɪfərəns/ n. 冷漠
+拓展词：feel /fiːl/ v. 感觉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I understand your feelings. 我理解你的感受。
+写作提分句：Trust your feelings, but verify with facts. 相信你的感觉，但用事实验证。
+
+------
+
+**002 emotion** /ɪˈməʊʃən/ n. 情感；情绪
+**一、词根词缀拆解**
+词根：mot = 移动（拉丁语 movere）
+前缀：e- = 向外
+后缀：-ion = 名词后缀
+整体拆解：e + mot + ion → 向外移动的东西 → 情感
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strong emotion（强烈的情感）
+mixed emotions（复杂的情感）
+show emotion（表露情感）
+**三、词性搭配用法（前接 / 后接什么）**
+emotion（名词）
+  可数/不可数：emotions / emotion
+  后接 of：emotion of fear
+**四、高频句型（作文直接套）**
+He spoke with great emotion. 他情绪激动地说话。
+She couldn't hide her emotions. 她无法隐藏自己的情绪。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：emotions /ɪˈməʊʃənz/
+形容词：emotional /ɪˈməʊʃənəl/
+副词：emotionally /ɪˈməʊʃənəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：feeling /ˈfiːlɪŋ/ n. 感觉
+反义词：reason /ˈriːzən/ n. 理性
+拓展词：emotional /ɪˈməʊʃənəl/ adj. 情绪的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't let emotion control you. 不要让情绪控制你。
+写作提分句：Emotion is the fuel of great art and great decisions. 情感是伟大艺术和伟大决策的燃料。
+
+------
+
+**003 sense** /sens/ n. 感觉；理智；意义
+**一、词根词缀拆解**
+词根：sens = 感觉（拉丁语 sentire）
+后缀：-e
+整体拆解：sens + e → 感觉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sense of humor（幽默感）
+common sense（常识）
+make sense（有意义）
+**三、词性搭配用法（前接 / 后接什么）**
+sense（名词）
+  后接 of：sense of direction / sense of belonging
+  后接 that：sense that something is wrong
+**四、高频句型（作文直接套）**
+That makes sense. 那有道理。
+She has a good sense of humor. 她有很好的幽默感。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：senses /ˈsensɪz/
+形容词：sensible /ˈsensəbəl/ / sensitive /ˈsensətɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：feeling /ˈfiːlɪŋ/ n. 感觉
+反义词：nonsense /ˈnɒnsəns/ n. 胡说
+拓展词：sensitive /ˈsensətɪv/ adj. 敏感的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Use your common sense. 用你的常识。
+写作提分句：A sense of purpose gives life meaning. 目标感赋予生活意义。
+
+------
+
+**004 mind** /maɪnd/ n. 头脑；思维；想法
+**一、词根词缀拆解**
+词根：mind = 思考；记忆（古英语 gemynd）
+后缀：无
+整体拆解：mind → 头脑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+change one's mind（改变主意）
+make up one's mind（下定决心）
+keep in mind（记住）
+**三、词性搭配用法（前接 / 后接什么）**
+mind（名词）
+  后接 of：state of mind
+  后接 about：mind about something
+**四、高频句型（作文直接套）**
+Great minds think alike. 英雄所见略同。
+I can't get him out of my mind. 我无法把他从脑海中忘记。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：minds /maɪndz/
+形容词：mindful /ˈmaɪndfəl/ / mindless /ˈmaɪndləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：brain /breɪn/ n. 大脑
+反义词：body /ˈbɒdi/ n. 身体
+拓展词：mental /ˈmentəl/ adj. 精神的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A sound mind in a sound body. 健全的精神寓于健全的身体。
+写作提分句：The mind is everything; what you think you become. 头脑即一切；你思考什么就成为什么。
+
+------
+
+**005 thought** /θɔːt/ n. 想法；思想；思考
+**一、词根词缀拆解**
+词根：think = 思考（古英语 thencan）
+后缀：-t = 名词后缀
+整体拆解：think → thought（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on second thought（再想想）
+food for thought（引人深思的东西）
+lost in thought（陷入沉思）
+**三、词性搭配用法（前接 / 后接什么）**
+thought（名词）
+  后接 of：thought of leaving
+  后接 about：thought about the future
+  后接 that：thought that he might be right
+**四、高频句型（作文直接套）**
+I just had a thought. 我刚想到一个想法。
+Spare a thought for those less fortunate. 想想那些不那么幸运的人。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：thoughts /θɔːts/
+形容词：thoughtful /ˈθɔːtfəl/ / thoughtless /ˈθɔːtləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：idea /aɪˈdɪə/ n. 想法
+反义词：action /ˈækʃən/ n. 行动
+拓展词：think /θɪŋk/ v. 思考
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Action speaks louder than thoughts. 行动胜于想法。
+写作提分句：Your thoughts shape your reality. 你的想法塑造你的现实。
+
+------
+
+**006 idea** /aɪˈdɪə/ n. 想法；主意；概念
+**一、词根词缀拆解**
+词根：idea = 看见；形式（希腊语 idein）
+后缀：无
+整体拆解：idea → 想法
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+good idea（好主意）
+no idea（不知道）
+have an idea（有个主意）
+**三、词性搭配用法（前接 / 后接什么）**
+idea（名词）
+  后接 of：idea of freedom
+  后接 about：idea about the future
+  后接 that：idea that we can change
+**四、高频句型（作文直接套）**
+That's a great idea! 那是个好主意！
+I have no idea what you're talking about. 我不知道你在说什么。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：ideas /aɪˈdɪəz/
+形容词：ideal /aɪˈdɪəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thought /θɔːt/ n. 想法
+反义词：fact /fækt/ n. 事实
+拓展词：ideal /aɪˈdɪəl/ n. 理想
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Ideas change the world. 想法改变世界。
+写作提分句：The best way to have a good idea is to have many ideas. 获得好主意的最好方法是拥有很多想法。
+
+------
+
+**007 opinion** /əˈpɪnjən/ n. 意见；看法
+**一、词根词缀拆解**
+词根：opin = 认为；相信（拉丁语 opinari）
+后缀：-ion = 名词后缀
+整体拆解：opin + ion → 认为的结果 → 意见
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in my opinion（依我之见）
+public opinion（公众舆论）
+opinion about/of（对……的看法）
+**三、词性搭配用法（前接 / 后接什么）**
+opinion（名词）
+  后接 about：opinion about politics
+  后接 of：opinion of the movie
+  后接 on：opinion on this matter
+**四、高频句型（作文直接套）**
+In my opinion, this is wrong. 在我看来，这是错误的。
+Everyone is entitled to their own opinion. 每个人都有权发表自己的意见。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：opinions /əˈpɪnjənz/
+形容词：opinionated /əˈpɪnjəneɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：view /vjuː/ n. 观点
+反义词：fact /fækt/ n. 事实
+拓展词：opinionated /əˈpɪnjəneɪtɪd/ adj. 固执己见的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Opinions differ. 意见各不相同。
+写作提分句：Respect others' opinions even if you disagree. 即使不同意也要尊重他人的意见。
+
+------
+
+**008 attitude** /ˈætɪtjuːd/ n. 态度；看法
+**一、词根词缀拆解**
+词根：apt = 适合；适应（拉丁语 aptus）
+前缀：at- = 向
+后缀：-itude = 名词后缀
+整体拆解：at + apt + itude → 向某种状态适应的方式 → 态度
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+positive/negative attitude（积极/消极态度）
+attitude towards/to（对……的态度）
+bad attitude（不好的态度）
+**三、词性搭配用法（前接 / 后接什么）**
+attitude（名词）
+  后接 towards/to：attitude towards work
+  后接 about：attitude about life
+**四、高频句型（作文直接套）**
+Your attitude determines your altitude. 你的态度决定你的高度。
+He has a bad attitude. 他态度不好。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：attitudes /ˈætɪtjuːdz/
+形容词：attitudinal /ˌætɪˈtjuːdɪnəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mindset /ˈmaɪndset/ n. 心态
+反义词：无
+拓展词：aptitude /ˈæptɪtjuːd/ n. 天赋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Change your attitude, change your life. 改变态度，改变生活。
+写作提分句：A positive attitude attracts positive outcomes. 积极的态度吸引积极的结果。
+
+------
+
+**009 belief** /bɪˈliːf/ n. 信念；信仰；相信
+**一、词根词缀拆解**
+词根：liev = 爱；相信（古英语 leof）
+前缀：be- = 使成为
+后缀：-ief = 名词后缀
+整体拆解：be + liev + e → believe的名词形式
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+beyond belief（难以置信）
+religious belief（宗教信仰）
+strong belief（坚定的信念）
+**三、词性搭配用法（前接 / 后接什么）**
+belief（名词）
+  后接 in：belief in God
+  后接 that：belief that hard work pays off
+  后接 about：belief about life
+**四、高频句型（作文直接套）**
+It is my belief that everyone can succeed. 我相信每个人都能成功。
+His beliefs guide his actions. 他的信念指导他的行动。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：beliefs /bɪˈliːfs/
+形容词：believable /bɪˈliːvəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：faith /feɪθ/ n. 信仰
+反义词：doubt /daʊt/ n. 怀疑
+拓展词：believe /bɪˈliːv/ v. 相信
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Belief in yourself is the first step to success. 相信自己是一、成功的第一步。
+写作提分句：Your beliefs shape your reality. 你的信念塑造你的现实。
+
+------
+
+**010 trust** /trʌst/ n. 信任；信赖
+**一、词根词缀拆解**
+词根：trust = 信任（古挪威语 traust）
+后缀：无
+整体拆解：trust → 信任
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+trust in（对……的信任）
+earn trust（赢得信任）
+break trust（辜负信任）
+**三、词性搭配用法（前接 / 后接什么）**
+trust（名词）
+  后接 in：trust in God
+  后接 between：trust between partners
+  后接 that：trust that he will do the right thing
+**四、高频句型（作文直接套）**
+Trust is earned, not given. 信任是赢得的，不是给予的。
+I have complete trust in you. 我完全信任你。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：trusts /trʌsts/
+形容词：trustworthy /ˈtrʌstwɜːði/ / trusting /ˈtrʌstɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：confidence /ˈkɒnfɪdəns/ n. 信心
+反义词：distrust /dɪsˈtrʌst/ n. 不信任
+拓展词：trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Trust takes years to build and seconds to break. 信任建立需要多年，破坏只需几秒。
+写作提分句：Trust is the foundation of all relationships. 信任是所有关系的基础。
+
+------
+
+**011 doubt** /daʊt/ n. 怀疑；疑问
+**一、词根词缀拆解**
+词根：doubt = 怀疑（拉丁语 dubitare）
+后缀：无
+整体拆解：doubt → 怀疑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+no doubt（毫无疑问）
+beyond doubt（毫无疑问地）
+reasonable doubt（合理怀疑）
+**三、词性搭配用法（前接 / 后接什么）**
+doubt（名词）
+  后接 about：doubt about his ability
+  后接 whether：doubt whether it's true
+  后接 that：no doubt that he is right
+**四、高频句型（作文直接套）**
+There is no doubt that he is qualified. 毫无疑问他是合格的。
+I have my doubts about this plan. 我对这个计划有怀疑。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：doubts /daʊts/
+形容词：doubtful /ˈdaʊtfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：uncertainty /ʌnˈsɜːtənti/ n. 不确定性
+反义词：certainty /ˈsɜːtənti/ n. 确定
+拓展词：doubtful /ˈdaʊtfəl/ adj. 可疑的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：When in doubt, ask. 有疑问就问。
+写作提分句：Doubt is the beginning of wisdom. 怀疑是智慧的开始。
+
+------
+
+**012 respect** /rɪˈspekt/ n. 尊重；尊敬
+**一、词根词缀拆解**
+词根：spect = 看（拉丁语 specere）
+前缀：re- = 再次；向后
+后缀：无
+整体拆解：re + spect → 回头看 → 尊重
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+show respect（表示尊重）
+gain respect（赢得尊重）
+respect for（对……的尊重）
+**三、词性搭配用法（前接 / 后接什么）**
+respect（名词）
+  后接 for：respect for elders
+  后接 of：respect of peers
+  不可数名词
+**四、高频句型（作文直接套）**
+Respect is mutual. 尊重是相互的。
+He has earned the respect of his colleagues. 他赢得了同事的尊重。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：respectful /rɪˈspektfəl/ / respectable /rɪˈspektəbəl/
+副词：respectfully /rɪˈspektfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：admiration /ˌædməˈreɪʃən/ n. 钦佩
+反义词：disrespect /ˌdɪsrɪˈspekt/ n. 不尊重
+拓展词：respectful /rɪˈspektfəl/ adj. 尊敬的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Respect others and you will be respected. 尊重他人，你也会被尊重。
+写作提分句：Respect is more important than popularity. 尊重比受欢迎更重要。
+
+------
+
+**013 admiration** /ˌædməˈreɪʃən/ n. 钦佩；欣赏
+**一、词根词缀拆解**
+词根：mir = 惊奇；看（拉丁语 mirari）
+前缀：ad- = 向
+后缀：-ation = 名词后缀
+整体拆解：ad + mir + ation → 感到惊奇 → 钦佩
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+admiration for（对……的钦佩）
+in admiration（钦佩地）
+great admiration（极大的钦佩）
+**三、词性搭配用法（前接 / 后接什么）**
+admiration（名词）
+  后接 for：admiration for her courage
+  不可数名词
+**四、高频句型（作文直接套）**
+I have great admiration for his work. 我非常钦佩他的工作。
+She looked at him in admiration. 她钦佩地看着他。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：admirable /ˈædmərəbəl/
+副词：admirably /ˈædmərəbli/
+动词：admire /ədˈmaɪə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：respect /rɪˈspekt/ n. 尊重
+反义词：contempt /kənˈtempt/ n. 轻视
+拓展词：admire /ədˈmaɪə/ v. 钦佩
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Admiration is the fuel of growth. 钦佩是成长的燃料。
+写作提分句：Expressing admiration strengthens relationships. 表达钦佩能加强关系。
+
+------
+
+**014 love** /lʌv/ n. 爱；热爱
+**一、词根词缀拆解**
+词根：love = 爱（古英语 lufu）
+后缀：无
+整体拆解：love → 爱
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in love with（爱上）
+fall in love（坠入爱河）
+love for（对……的爱）
+**三、词性搭配用法（前接 / 后接什么）**
+love（名词）
+  后接 for：love for family
+  后接 of：love of music
+  不可数名词
+**四、高频句型（作文直接套）**
+Love conquers all. 爱征服一切。
+He has a deep love for his country. 他深爱他的国家。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：loving /ˈlʌvɪŋ/ / lovable /ˈlʌvəbəl/
+副词：lovingly /ˈlʌvɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：affection /əˈfekʃən/ n. 喜爱
+反义词：hate /heɪt/ n. 恨
+拓展词：lover /ˈlʌvə/ n. 爱人
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Love makes the world go round. 爱让世界转动。
+写作提分句：Love what you do and you'll never work a day. 热爱你所做的，你就一天都没在工作。
+
+------
+
+**015 hate** /heɪt/ n. 憎恨；厌恶
+**一、词根词缀拆解**
+词根：hate = 憎恨（古英语 hatian）
+后缀：无
+整体拆解：hate → 憎恨
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hate for（对……的憎恨）
+full of hate（充满仇恨）
+**三、词性搭配用法（前接 / 后接什么）**
+hate（名词）
+  后接 for：hate for injustice
+  不可数名词
+**四、高频句型（作文直接套）**
+Hate is a waste of energy. 憎恨是浪费能量。
+There was hate in his eyes. 他眼中充满仇恨。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：hateful /ˈheɪtfəl/
+副词：hatefully /ˈheɪtfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hatred /ˈheɪtrɪd/ n. 仇恨
+反义词：love /lʌv/ n. 爱
+拓展词：hateful /ˈheɪtfəl/ adj. 可恨的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hate cannot drive out hate; only love can do that. 恨无法驱除恨，只有爱能做到。
+写作提分句：Let go of hate; it only hurts yourself. 放下仇恨，它只伤害你自己。
+
+------
+
+**016 like** /laɪk/ n. 喜好；类似的人/物
+**一、词根词缀拆解**
+词根：like = 相似；合意（古英语 lic）
+后缀：无
+整体拆解：like → 喜好
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+likes and dislikes（好恶）
+**三、词性搭配用法（前接 / 后接什么）**
+like（名词）
+  复数形式：likes
+  后接 of：likes of which
+**四、高频句型（作文直接套）**
+Everyone has their own likes and dislikes. 每个人都有自己的好恶。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：likes /laɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：preference /ˈprefərəns/ n. 偏好
+反义词：dislike /dɪsˈlaɪk/ n. 厌恶
+拓展词：likely /ˈlaɪkli/ adj. 可能的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Know your likes and dislikes. 了解你的好恶。
+写作提分句：Understanding your likes helps you make better choices. 了解你的喜好有助于做出更好的选择。
+
+------
+
+**017 dislike** /dɪsˈlaɪk/ n. 厌恶；不喜欢
+**一、词根词缀拆解**
+词根：like = 喜欢
+前缀：dis- = 否定
+后缀：无
+整体拆解：dis + like → 不喜欢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+likes and dislikes（好恶）
+strong dislike（强烈的厌恶）
+**三、词性搭配用法（前接 / 后接什么）**
+dislike（名词）
+  后接 of：dislike of change
+  可数/不可数
+**四、高频句型（作文直接套）**
+He has a strong dislike for dishonesty. 他非常讨厌不诚实。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：dislikes /dɪsˈlaɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：aversion /əˈvɜːʃən/ n. 厌恶
+反义词：like /laɪk/ n. 喜好
+拓展词：dislike /dɪsˈlaɪk/ v. 不喜欢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's okay to have dislikes. 有不喜欢的东西是正常的。
+写作提分句：Don't let your dislikes limit your growth. 不要让你的厌恶限制你的成长。
+
+------
+
+**018 hope** /həʊp/ n. 希望
+**一、词根词缀拆解**
+词根：hope = 希望（古英语 hopa）
+后缀：无
+整体拆解：hope → 希望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hope for（对……的希望）
+in hopes of（希望……）
+lose hope（失去希望）
+**三、词性搭配用法（前接 / 后接什么）**
+hope（名词）
+  后接 of：hope of success
+  后接 for：hope for the future
+  后接 that：hope that things will improve
+**四、高频句型（作文直接套）**
+Where there is life, there is hope. 有生命就有希望。
+Don't lose hope. 不要失去希望。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：hopes /həʊps/
+形容词：hopeful /ˈhəʊpfəl/ / hopeless /ˈhəʊpləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：aspiration /ˌæspəˈreɪʃən/ n. 抱负
+反义词：despair /dɪˈspeə/ n. 绝望
+拓展词：hopeful /ˈhəʊpfəl/ adj. 有希望的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hope is the last thing that dies. 希望是最后死去的东西。
+写作提分句：Hope gives us the strength to keep going. 希望给我们继续前进的力量。
+
+------
+
+**019 wish** /wɪʃ/ n. 愿望；祝愿
+**一、词根词缀拆解**
+词根：wish = 渴望（古英语 wyscan）
+后缀：无
+整体拆解：wish → 愿望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+make a wish（许愿）
+best wishes（最美好的祝愿）
+wish for（对……的愿望）
+**三、词性搭配用法（前接 / 后接什么）**
+wish（名词）
+  后接 for：wish for happiness
+  后接 to：wish to succeed
+**四、高频句型（作文直接套）**
+Your wish is my command. 你的愿望就是我的命令。
+Best wishes to you and your family. 祝你和家人一切顺利。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：wishes /ˈwɪʃɪz/
+形容词：wishful /ˈwɪʃfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：desire /dɪˈzaɪə/ n. 渴望
+反义词：reality /riˈæləti/ n. 现实
+拓展词：wishful /ˈwɪʃfəl/ adj. 一厢情愿的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be careful what you wish for. 许愿要小心（愿望可能成真）。
+写作提分句：Wishes without action remain dreams. 没有行动的愿望只是梦想。
+
+------
+
+**020 dream** /driːm/ n. 梦想；梦
+**一、词根词缀拆解**
+词根：dream = 梦（古英语 dream）
+后缀：无
+整体拆解：dream → 梦想
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+follow your dream（追随梦想）
+dream come true（梦想成真）
+dream of（……的梦想）
+**三、词性搭配用法（前接 / 后接什么）**
+dream（名词）
+  后接 of：dream of success
+  后接 about：dream about the future
+**四、高频句型（作文直接套）**
+Follow your dreams. 追随你的梦想。
+It was a dream come true. 这是梦想成真。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：dreams /driːmz/
+形容词：dreamy /ˈdriːmi/ / dreamless /ˈdriːmləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ambition /æmˈbɪʃən/ n. 抱负
+反义词：reality /riˈæləti/ n. 现实
+拓展词：dreamer /ˈdriːmə/ n. 梦想家
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Dream big, work hard. 胸怀大志，努力工作。
+写作提分句：Your dreams are the blueprints of your future. 你的梦想是你未来的蓝图。
+
+------
+
+**021 goal** /ɡəʊl/ n. 目标
+**一、词根词缀拆解**
+词根：goal = 界限；目标（古英语 gol）
+后缀：无
+整体拆解：goal → 目标
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+set a goal（设定目标）
+achieve a goal（实现目标）
+long-term/short-term goal（长期/短期目标）
+**三、词性搭配用法（前接 / 后接什么）**
+goal（名词）
+  后接 of：goal of success
+  后接 in：goal in life
+**四、高频句型（作文直接套）**
+Set realistic goals. 设定现实的目标。
+My goal is to become a doctor. 我的目标是成为一名医生。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：goals /ɡəʊlz/
+形容词：goalless /ˈɡəʊlləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：objective /əbˈdʒektɪv/ n. 目标
+反义词：无
+拓展词：goal-oriented /ˌɡəʊlˈɔːriəntɪd/ adj. 目标导向的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Without goals, you drift. 没有目标，你就会随波逐流。
+写作提分句：Clear goals lead to clear results. 清晰的目标带来清晰的结果。
+
+------
+
+**022 aim** /eɪm/ n. 目标；目的
+**一、词根词缀拆解**
+词根：aim = 估算；瞄准（拉丁语 aestimare）
+后缀：无
+整体拆解：aim → 瞄准 → 目标
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+aim of（……的目的）
+with the aim of（以……为目标）
+achieve an aim（实现目标）
+**三、词性搭配用法（前接 / 后接什么）**
+aim（名词）
+  后接 of：aim of the project
+  后接 in：aim in life
+**四、高频句型（作文直接套）**
+The aim of education is to develop character. 教育的目的是培养品格。
+What is your main aim in life? 你人生的主要目标是什么？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：aims /eɪmz/
+形容词：aimless /ˈeɪmləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：goal /ɡəʊl/ n. 目标
+反义词：aimlessness /ˈeɪmləsnəs/ n. 无目的
+拓展词：aimless /ˈeɪmləs/ adj. 无目标的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Take aim before you shoot. 瞄准再射击。
+写作提分句：Every action should have a clear aim. 每个行动都应该有明确的目标。
+
+------
+
+**023 purpose** /ˈpɜːpəs/ n. 目的；意图
+**一、词根词缀拆解**
+词根：pos = 放置（拉丁语 ponere）
+前缀：pur- = 向前
+后缀：-e
+整体拆解：pur + pos + e → 放在前面的东西 → 目的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on purpose（故意地）
+sense of purpose（目标感）
+for the purpose of（为了……的目的）
+**三、词性搭配用法（前接 / 后接什么）**
+purpose（名词）
+  后接 of：purpose of the meeting
+  后接 in：purpose in life
+**四、高频句型（作文直接套）**
+What is the purpose of your visit? 你来访的目的是什么？
+He did it on purpose. 他故意这样做的。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：purposes /ˈpɜːpəsɪz/
+形容词：purposeful /ˈpɜːpəsfəl/ / purposeless /ˈpɜːpəsləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：intention /ɪnˈtenʃən/ n. 意图
+反义词：accident /ˈæksɪdənt/ n. 意外
+拓展词：purposeful /ˈpɜːpəsfəl/ adj. 有目的的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Live with purpose. 有目的地生活。
+写作提分句：A life without purpose is a life without direction. 没有目的的生活是没有方向的生活。
+
+------
+
+**024 happiness** /ˈhæpinəs/ n. 幸福；快乐
+**一、词根词缀拆解**
+词根：happy = 快乐（古英语 happ）
+后缀：-ness = 名词后缀
+整体拆解：happy + ness → 快乐的状态 → 幸福
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+pursuit of happiness（追求幸福）
+true happiness（真正的幸福）
+happiness lies in（幸福在于……）
+**三、词性搭配用法（前接 / 后接什么）**
+happiness（名词）
+  后接 of：happiness of family
+  后接 in：happiness in simple things
+  不可数名词
+**四、高频句型（作文直接套）**
+Happiness is not about having much, but about wanting little. 幸福不在于拥有多少，而在于想要多少。
+Money cannot buy happiness. 金钱买不到幸福。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：happy /ˈhæpi/
+副词：happily /ˈhæpɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：joy /dʒɔɪ/ n. 喜悦
+反义词：sadness /ˈsædnəs/ n. 悲伤
+拓展词：happy /ˈhæpi/ adj. 幸福的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Happiness is a choice. 幸福是一种选择。
+写作提分句：The secret of happiness is gratitude. 幸福的秘诀是感恩。
+
+------
+
+**025 joy** /dʒɔɪ/ n. 喜悦；欢乐
+**一、词根词缀拆解**
+词根：joy = 喜悦（拉丁语 gaudia）
+后缀：无
+整体拆解：joy → 喜悦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+joy of（……的快乐）
+with joy（喜悦地）
+full of joy（充满喜悦）
+**三、词性搭配用法（前接 / 后接什么）**
+joy（名词）
+  后接 of：joy of living
+  后接 at：joy at the news
+  可数/不可数
+**四、高频句型（作文直接套）**
+Tears of joy rolled down her cheeks. 喜悦的泪水顺着她的脸颊流下。
+It was a joy to work with him. 和他一起工作是一种快乐。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：joys /dʒɔɪz/
+形容词：joyful /ˈdʒɔɪfəl/ / joyous /ˈdʒɔɪəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：delight /dɪˈlaɪt/ n. 欣喜
+反义词：sorrow /ˈsɒrəʊ/ n. 悲伤
+拓展词：enjoy /ɪnˈdʒɔɪ/ v. 享受
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Joy shared is joy doubled. 分享的快乐是双倍的快乐。
+写作提分句：Find joy in the little things. 在小事中找到快乐。
+
+------
+
+**026 pleasure** /ˈpleʒə/ n. 快乐；愉快
+**一、词根词缀拆解**
+词根：pleas = 使满意（拉丁语 placere）
+后缀：-ure = 名词后缀
+整体拆解：pleas + ure → 满意的状态 → 快乐
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+with pleasure（乐意地）
+pleasure of（……的乐趣）
+take pleasure in（从……中取乐）
+**三、词性搭配用法（前接 / 后接什么）**
+pleasure（名词）
+  后接 of：pleasure of reading
+  后接 in：pleasure in work
+  不可数名词
+**四、高频句型（作文直接套）**
+It's a pleasure to meet you. 很高兴认识你。
+He takes great pleasure in his work. 他从工作中获得极大乐趣。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：pleasant /ˈplezənt/ / pleasurable /ˈpleʒərəbəl/
+副词：pleasantly /ˈplezəntli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：enjoyment /ɪnˈdʒɔɪmənt/ n. 享受
+反义词：pain /peɪn/ n. 痛苦
+拓展词：please /pliːz/ v. 使高兴
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Business before pleasure. 先工作后娱乐。
+写作提分句：Find pleasure in the journey, not just the destination. 在旅途中寻找快乐，而不仅仅是目的地。
+
+------
+
+**027 fun** /fʌn/ n. 乐趣；娱乐
+**一、词根词缀拆解**
+词根：fun = 愚蠢；娱乐（中古英语 fon）
+后缀：无
+整体拆解：fun → 乐趣
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+have fun（玩得开心）
+make fun of（取笑）
+for fun（为了好玩）
+**三、词性搭配用法（前接 / 后接什么）**
+fun（名词）
+  后接 of：fun of playing
+  不可数名词
+**四、高频句型（作文直接套）**
+Have fun! 玩得开心！
+Don't make fun of others. 不要取笑别人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：fun /fʌn/ / funny /ˈfʌni/
+副词：funnily /ˈfʌnɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：amusement /əˈmjuːzmənt/ n. 娱乐
+反义词：boredom /ˈbɔːdəm/ n. 无聊
+拓展词：funny /ˈfʌni/ adj. 有趣的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life is short; have fun. 生命短暂，尽情享乐。
+写作提分句：Learning is more effective when it's fun. 当学习有趣时，效率更高。
+
+------
+
+**028 sadness** /ˈsædnəs/ n. 悲伤；难过
+**一、词根词缀拆解**
+词根：sad = 悲伤（古英语 sæd）
+后缀：-ness = 名词后缀
+整体拆解：sad + ness → 悲伤的状态 → 悲伤
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+deep sadness（深深的悲伤）
+with sadness（悲伤地）
+sadness over（对……的悲伤）
+**三、词性搭配用法（前接 / 后接什么）**
+sadness（名词）
+  后接 about：sadness about the loss
+  后接 over：sadness over what happened
+  不可数名词
+**四、高频句型（作文直接套）**
+She felt a deep sadness. 她感到深深的悲伤。
+It was with great sadness that we said goodbye. 我们怀着极大的悲伤告别。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sad /sæd/
+副词：sadly /ˈsædli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sorrow /ˈsɒrəʊ/ n. 悲痛
+反义词：happiness /ˈhæpinəs/ n. 幸福
+拓展词：sad /sæd/ adj. 悲伤的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sadness is part of life. 悲伤是生活的一部分。
+写作提分句：Allow yourself to feel sadness; it will pass. 允许自己感受悲伤，它会过去。
+
+------
+
+**029 sorrow** /ˈsɒrəʊ/ n. 悲痛；遗憾
+**一、词根词缀拆解**
+词根：sorrow = 痛苦（古英语 sorg）
+后缀：无
+整体拆解：sorrow → 悲痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+deep sorrow（深深的悲痛）
+to my sorrow（令我遗憾的是）
+sorrow over（对……的悲痛）
+**三、词性搭配用法（前接 / 后接什么）**
+sorrow（名词）
+  后接 over/at：sorrow over his death
+  后接 for：sorrow for the loss
+  可数/不可数
+**四、高频句型（作文直接套）**
+To my great sorrow, he passed away. 令我极为悲痛的是，他去世了。
+Life is full of joys and sorrows. 人生充满了欢乐和悲伤。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：sorrows /ˈsɒrəʊz/
+形容词：sorrowful /ˈsɒrəʊfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grief /ɡriːf/ n. 悲痛
+反义词：joy /dʒɔɪ/ n. 欢乐
+拓展词：sorrowful /ˈsɒrəʊfəl/ adj. 悲痛的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Shared sorrow is half sorrow. 分担的悲伤是一半的悲伤。
+写作提分句：Sorrow deepens our capacity for joy. 悲伤加深了我们感受快乐的能力。
+
+------
+
+**030 pain** /peɪn/ n. 疼痛；痛苦
+**一、词根词缀拆解**
+词根：pain = 惩罚；痛苦（拉丁语 poena）
+后缀：无
+整体拆解：pain → 痛苦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in pain（在痛苦中）
+pain relief（缓解疼痛）
+cause pain（引起痛苦）
+**三、词性搭配用法（前接 / 后接什么）**
+pain（名词）
+  后接 of：pain of loss
+  后接 in：pain in his back
+  可数/不可数
+**四、高频句型（作文直接套）**
+No pain, no gain. 不劳无获。
+He is in great pain. 他非常痛苦。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：pains /peɪnz/
+形容词：painful /ˈpeɪnfəl/ / painless /ˈpeɪnləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ache /eɪk/ n. 疼痛
+反义词：pleasure /ˈpleʒə/ n. 快乐
+拓展词：painful /ˈpeɪnfəl/ adj. 痛苦的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pain is temporary, quitting lasts forever. 痛苦是暂时的，放弃是永恒的。
+写作提分句：Growth often comes through pain. 成长往往伴随着痛苦。
+
+------
+
+**031 anger** /ˈæŋɡə/ n. 愤怒
+**一、词根词缀拆解**
+词根：ang = 狭窄；痛苦（古挪威语 angr）
+后缀：-er = 名词后缀
+整体拆解：ang + er → 痛苦的感觉 → 愤怒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+anger at（对……的愤怒）
+in anger（愤怒地）
+control anger（控制愤怒）
+**三、词性搭配用法（前接 / 后接什么）**
+anger（名词）
+  后接 at：anger at injustice
+  后接 towards：anger towards him
+  不可数名词
+**四、高频句型（作文直接套）**
+He spoke in anger. 他愤怒地说。
+Anger is a dangerous emotion. 愤怒是一种危险的情绪。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：angry /ˈæŋɡri/
+副词：angrily /ˈæŋɡrɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fury /ˈfjʊəri/ n. 狂怒
+反义词：calm /kɑːm/ n. 平静
+拓展词：angry /ˈæŋɡri/ adj. 愤怒的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Anger is one letter short of danger. 愤怒（anger）比危险（danger）少一个字母。
+写作提分句：Don't make decisions in anger. 不要在愤怒中做决定。
+
+------
+
+**032 fury** /ˈfjʊəri/ n. 狂怒；暴怒
+**一、词根词缀拆解**
+词根：fur = 狂怒（拉丁语 furia）
+后缀：-y = 名词后缀
+整体拆解：fur + y → 狂怒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in a fury（狂怒地）
+fury at（对……的狂怒）
+**三、词性搭配用法（前接 / 后接什么）**
+fury（名词）
+  后接 at：fury at the insult
+  不可数名词
+**四、高频句型（作文直接套）**
+He flew into a fury. 他突然大发雷霆。
+Her fury was uncontrollable. 她的愤怒无法控制。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：furious /ˈfjʊəriəs/
+副词：furiously /ˈfjʊəriəsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：rage /reɪdʒ/ n. 盛怒
+反义词：calm /kɑːm/ n. 平静
+拓展词：furious /ˈfjʊəriəs/ adj. 狂怒的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Fury clouds judgment. 愤怒蒙蔽判断。
+写作提分句：Learn to calm your fury before it controls you. 在愤怒控制你之前学会冷静。
+
+------
+
+**033 fear** /fɪə/ n. 恐惧；害怕
+**一、词根词缀拆解**
+词根：fear = 危险（古英语 fær）
+后缀：无
+整体拆解：fear → 恐惧
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fear of（对……的恐惧）
+in fear（恐惧地）
+overcome fear（克服恐惧）
+**三、词性搭配用法（前接 / 后接什么）**
+fear（名词）
+  后接 of：fear of heights
+  后接 that：fear that something will happen
+  不可数名词
+**四、高频句型（作文直接套）**
+Fear is the mind-killer. 恐惧是思维的杀手。
+He has a fear of public speaking. 他害怕公开演讲。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：fears /fɪəz/
+形容词：fearful /ˈfɪəfəl/ / fearless /ˈfɪələs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：terror /ˈterə/ n. 恐怖
+反义词：courage /ˈkʌrɪdʒ/ n. 勇气
+拓展词：fearful /ˈfɪəfəl/ adj. 害怕的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The only thing we have to fear is fear itself. 我们唯一要害怕的就是害怕本身。
+写作提分句：Face your fears and they will shrink. 直面恐惧，它们就会缩小。
+
+------
+
+**034 horror** /ˈhɒrə/ n. 恐怖；震惊
+**一、词根词缀拆解**
+词根：horr = 颤抖（拉丁语 horrere）
+后缀：-or = 名词后缀
+整体拆解：horr + or → 令人颤抖的东西 → 恐怖
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in horror（惊恐地）
+horror of（……的恐怖）
+to one's horror（令某人惊恐的是）
+**三、词性搭配用法（前接 / 后接什么）**
+horror（名词）
+  后接 of：horror of war
+  后接 at：horror at the sight
+  不可数名词
+**四、高频句型（作文直接套）**
+To my horror, I saw the accident. 令我惊恐的是，我看到了事故。
+He screamed in horror. 他惊恐地尖叫。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：horrors /ˈhɒrəz/
+形容词：horrible /ˈhɒrəbəl/ / horrific /hɒˈrɪfɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：terror /ˈterə/ n. 恐怖
+反义词：calm /kɑːm/ n. 平静
+拓展词：horrify /ˈhɒrɪfaɪ/ v. 使惊恐
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Horror movies are not for everyone. 恐怖片不适合所有人。
+写作提分句：The horrors of war remind us of the value of peace. 战争的恐怖提醒我们和平的价值。
+
+------
+
+**035 worry** /ˈwʌri/ n. 担忧；烦恼
+**一、词根词缀拆解**
+词根：wor = 勒死；担心（古英语 wyrgan）
+后缀：-y = 名词后缀
+整体拆解：wor + y → 担心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+worry about（对……的担忧）
+cause worry（引起担忧）
+financial worries（经济担忧）
+**三、词性搭配用法（前接 / 后接什么）**
+worry（名词）
+  后接 about：worry about the future
+  后接 over：worry over small things
+  可数/不可数
+**四、高频句型（作文直接套）**
+Worry is a waste of imagination. 担忧是浪费想象力。
+He has many worries. 他有很多烦恼。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：worries /ˈwʌriz/
+形容词：worried /ˈwʌrid/ / worrying /ˈwʌriɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：anxiety /æŋˈzaɪəti/ n. 焦虑
+反义词：peace /piːs/ n. 平静
+拓展词：worry /ˈwʌri/ v. 担心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Worrying solves nothing. 担忧解决不了任何问题。
+写作提分句：Let go of worries you cannot control. 放下你无法控制的担忧。
+
+------
+
+**036 anxiety** /æŋˈzaɪəti/ n. 焦虑；忧虑
+**一、词根词缀拆解**
+词根：anx = 勒紧；痛苦（拉丁语 angere）
+后缀：-iety = 名词后缀
+整体拆解：anx + iety → 痛苦的状态 → 焦虑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+anxiety about（对……的焦虑）
+cause anxiety（引起焦虑）
+reduce anxiety（减轻焦虑）
+**三、词性搭配用法（前接 / 后接什么）**
+anxiety（名词）
+  后接 about：anxiety about exams
+  后接 over：anxiety over the future
+  不可数名词
+**四、高频句型（作文直接套）**
+He felt anxiety before the exam. 考试前他感到焦虑。
+Anxiety can affect your health. 焦虑会影响你的健康。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：anxieties /æŋˈzaɪətiz/
+形容词：anxious /ˈæŋkʃəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：worry /ˈwʌri/ n. 担忧
+反义词：calm /kɑːm/ n. 平静
+拓展词：anxious /ˈæŋkʃəs/ adj. 焦虑的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Anxiety is the dizziness of freedom. 焦虑是自由的眩晕。
+写作提分句：Deep breathing can help reduce anxiety. 深呼吸有助于减轻焦虑。
+
+------
+
+**037 stress** /stres/ n. 压力；紧张
+**一、词根词缀拆解**
+词根：stress = 拉紧（拉丁语 strictus）
+后缀：无
+整体拆解：stress → 压力
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+under stress（在压力下）
+stress management（压力管理）
+cause stress（引起压力）
+**三、词性搭配用法（前接 / 后接什么）**
+stress（名词）
+  后接 of：stress of work
+  后接 from：stress from exams
+  不可数名词
+**四、高频句型（作文直接套）**
+Stress is a part of modern life. 压力是现代生活的一部分。
+She is under a lot of stress. 她承受着很大的压力。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：stressful /ˈstresfəl/ / stressed /strest/
+副词：stressfully /ˈstresfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pressure /ˈpreʃə/ n. 压力
+反义词：relaxation /ˌriːlækˈseɪʃən/ n. 放松
+拓展词：stressful /ˈstresfəl/ adj. 压力大的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stress is not what happens to you, but how you respond. 压力不是发生在你身上的事，而是你的反应。
+写作提分句：Learn healthy ways to cope with stress. 学习健康的应对压力的方法。
+
+------
+
+**038 nervousness** /ˈnɜːvəsnəs/ n. 紧张；神经质
+**一、词根词缀拆解**
+词根：nerv = 神经（拉丁语 nervus）
+后缀：-ous = 形容词后缀 → -ness = 名词后缀
+整体拆解：nerv + ous + ness → 神经紧张的状态 → 紧张
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+nervousness about（对……的紧张）
+show nervousness（表现出紧张）
+overcome nervousness（克服紧张）
+**三、词性搭配用法（前接 / 后接什么）**
+nervousness（名词）
+  后接 about：nervousness about speaking in public
+  不可数名词
+**四、高频句型（作文直接套）**
+His nervousness was obvious. 他的紧张是显而易见的。
+Nervousness before a performance is normal. 演出前紧张是正常的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：nervous /ˈnɜːvəs/
+副词：nervously /ˈnɜːvəsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：anxiety /æŋˈzaɪəti/ n. 焦虑
+反义词：calmness /ˈkɑːmnəs/ n. 平静
+拓展词：nervous /ˈnɜːvəs/ adj. 紧张的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A little nervousness is normal. 一点紧张是正常的。
+写作提分句：Channel your nervousness into positive energy. 把你的紧张转化为正能量。
+
+------
+
+**039 confidence** /ˈkɒnfɪdəns/ n. 信心；自信
+**一、词根词缀拆解**
+词根：fid = 信任（拉丁语 fidere）
+前缀：con- = 一起；完全
+后缀：-ence = 名词后缀
+整体拆解：con + fid + ence → 完全信任的状态 → 信心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+confidence in（对……的信心）
+gain confidence（获得信心）
+lack of confidence（缺乏信心）
+**三、词性搭配用法（前接 / 后接什么）**
+confidence（名词）
+  后接 in：confidence in his ability
+  后接 that：confidence that it will work
+  不可数名词
+**四、高频句型（作文直接套）**
+I have full confidence in you. 我完全信任你。
+She lacks confidence in herself. 她对自己缺乏信心。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：confident /ˈkɒnfɪdənt/
+副词：confidently /ˈkɒnfɪdəntli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：self-assurance /ˌself əˈʃʊərəns/ n. 自信
+反义词：doubt /daʊt/ n. 怀疑
+拓展词：confident /ˈkɒnfɪdənt/ adj. 自信的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Confidence is silent, insecurity is loud. 自信是安静的，不自信是喧闹的。
+写作提分句：Confidence comes from preparation and practice. 信心来自准备和练习。
+
+------
+
+**040 courage** /ˈkʌrɪdʒ/ n. 勇气
+**一、词根词缀拆解**
+词根：cour = 心（拉丁语 cor）
+后缀：-age = 名词后缀
+整体拆解：cour + age → 发自内心的力量 → 勇气
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+courage to do（做……的勇气）
+take courage（鼓起勇气）
+lose courage（失去勇气）
+**三、词性搭配用法（前接 / 后接什么）**
+courage（名词）
+  后接 to do：courage to speak up
+  不可数名词
+**四、高频句型（作文直接套）**
+Have the courage to follow your heart. 有勇气追随你的内心。
+It takes courage to admit mistakes. 承认错误需要勇气。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：courageous /kəˈreɪdʒəs/
+副词：courageously /kəˈreɪdʒəsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：bravery /ˈbreɪvəri/ n. 勇敢
+反义词：cowardice /ˈkaʊədɪs/ n. 懦弱
+拓展词：encourage /ɪnˈkʌrɪdʒ/ v. 鼓励
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Courage is not the absence of fear, but acting in spite of it. 勇气不是没有恐惧，而是带着恐惧行动。
+写作提分句：Courage is the first of human virtues. 勇气是人类的第、一美德。
+
+------
+
+**041 bravery** /ˈbreɪvəri/ n. 勇敢
+**一、词根词缀拆解**
+词根：brave = 勇敢（意大利语 bravo）
+后缀：-ry = 名词后缀
+整体拆解：brave + ry → 勇敢的品质 → 勇敢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+act of bravery（勇敢的行为）
+show bravery（表现出勇敢）
+**三、词性搭配用法（前接 / 后接什么）**
+bravery（名词）
+  后接 in：bravery in battle
+  不可数名词
+**四、高频句型（作文直接套）**
+He was awarded for his bravery. 他因勇敢而受奖。
+Bravery is not the same as recklessness. 勇敢不等于鲁莽。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：brave /breɪv/
+副词：bravely /ˈbreɪvli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：courage /ˈkʌrɪdʒ/ n. 勇气
+反义词：cowardice /ˈkaʊədɪs/ n. 懦弱
+拓展词：brave /breɪv/ adj. 勇敢的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Bravery is doing what you're afraid of. 勇敢是做你害怕的事。
+写作提分句：Small acts of bravery build character. 小小的勇敢行为塑造品格。
+
+------
+
+**042 pride** /praɪd/ n. 骄傲；自豪
+**一、词根词缀拆解**
+词根：pride = 骄傲（古英语 pryde）
+后缀：无
+整体拆解：pride → 骄傲
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take pride in（以……为自豪）
+pride and joy（骄傲和快乐）
+swallow one's pride（放下自尊）
+**三、词性搭配用法（前接 / 后接什么）**
+pride（名词）
+  后接 in：pride in his work
+  后接 of：pride of place
+  不可数名词
+**四、高频句型（作文直接套）**
+She takes pride in her appearance. 她对自己的外表感到自豪。
+Pride comes before a fall. 骄兵必败。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：proud /praʊd/
+副词：proudly /ˈpraʊdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dignity /ˈdɪɡnəti/ n. 尊严
+反义词：shame /ʃeɪm/ n. 羞耻
+拓展词：proud /praʊd/ adj. 自豪的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pride is the mask of insecurity. 骄傲是不安全感的面具。
+写作提分句：Take pride in your work, not in your ego. 为你的工作感到自豪，而不是为你的自负。
+
+------
+
+**043 shame** /ʃeɪm/ n. 羞耻；羞愧
+**一、词根词缀拆解**
+词根：shame = 羞愧（古英语 sceamu）
+后缀：无
+整体拆解：shame → 羞愧
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in shame（羞愧地）
+bring shame（带来耻辱）
+what a shame（真可惜）
+**三、词性搭配用法（前接 / 后接什么）**
+shame（名词）
+  后接 of：shame of failure
+  后接 at：shame at his behavior
+  不可数名词
+**四、高频句型（作文直接套）**
+What a shame! 真可惜！
+He felt shame for his actions. 他为自己的行为感到羞愧。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：shameful /ˈʃeɪmfəl/ / ashamed /əˈʃeɪmd/
+副词：shamefully /ˈʃeɪmfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：embarrassment /ɪmˈbærəsmənt/ n. 尴尬
+反义词：pride /praɪd/ n. 骄傲
+拓展词：ashamed /əˈʃeɪmd/ adj. 羞愧的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Shame is a heavy burden. 羞愧是一个沉重的负担。
+写作提分句：Don't let shame stop you from learning. 不要让羞愧阻止你学习。
+
+------
+
+**044 regret** /rɪˈɡret/ n. 遗憾；后悔
+**一、词根词缀拆解**
+词根：gret = 哭喊（古法语 greter）
+前缀：re- = 再次
+后缀：无
+整体拆解：re + gret → 再次哭喊 → 后悔
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+with regret（遗憾地）
+have no regrets（没有遗憾）
+regret for（对……的后悔）
+**三、词性搭配用法（前接 / 后接什么）**
+regret（名词）
+  后接 for：regret for past mistakes
+  后接 at：regret at losing the chance
+  可数/不可数
+**四、高频句型（作文直接套）**
+My greatest regret is not trying harder. 我最大的遗憾是没有更努力。
+He left the job with no regrets. 他毫不遗憾地离开了那份工作。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：regrets /rɪˈgrets/
+形容词：regretful /rɪˈɡretfəl/ / regrettable /rɪˈɡretəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：remorse /rɪˈmɔːs/ n. 悔恨
+反义词：satisfaction /ˌsætɪsˈfækʃən/ n. 满意
+拓展词：regret /rɪˈɡret/ v. 后悔
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Regret for the past is a waste of the present. 对过去的后悔是对现在的浪费。
+写作提分句：Live so that you have no regrets. 这样生活，让你没有遗憾。
+
+------
+
+**045 surprise** /səˈpraɪz/ n. 惊讶；惊喜
+**一、词根词缀拆解**
+词根：prise = 抓住（拉丁语 prehendere）
+前缀：sur- = 超过；上面
+后缀：无
+整体拆解：sur + prise → 从上面抓住 → 突然发现 → 惊讶
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+to one's surprise（令某人惊讶的是）
+take by surprise（使吃惊）
+surprise for（给……的惊喜）
+**三、词性搭配用法（前接 / 后接什么）**
+surprise（名词）
+  后接 at：surprise at the news
+  后接 that：surprise that he came
+  可数/不可数
+**四、高频句型（作文直接套）**
+To my surprise, he agreed. 令我惊讶的是，他同意了。
+What a pleasant surprise! 真是个惊喜！
+**五、词形变化（词性转换题 / 写作核心）**
+复数：surprises /səˈpraɪzɪz/
+形容词：surprising /səˈpraɪzɪŋ/ / surprised /səˈpraɪzd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：astonishment /əˈstɒnɪʃmənt/ n. 震惊
+反义词：expectation /ˌekspekˈteɪʃən/ n. 预期
+拓展词：surprise /səˈpraɪz/ v. 使惊讶
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life is full of surprises. 生活充满惊喜。
+写作提分句：The best surprises are unexpected. 最好的惊喜是意想不到的。
+
+------
+
+**046 excitement** /ɪkˈsaɪtmənt/ n. 兴奋；激动
+**一、词根词缀拆解**
+词根：cite = 激发（拉丁语 citare）
+前缀：ex- = 向外
+后缀：-ment = 名词后缀
+整体拆解：ex + cite + ment → 被激发的状态 → 兴奋
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+excitement about（对……的兴奋）
+with excitement（兴奋地）
+cause excitement（引起兴奋）
+**三、词性搭配用法（前接 / 后接什么）**
+excitement（名词）
+  后接 about：excitement about the trip
+  后接 over：excitement over the news
+  不可数名词
+**四、高频句型（作文直接套）**
+The crowd was filled with excitement. 人群充满了兴奋。
+I can hardly contain my excitement. 我几乎无法抑制我的兴奋。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：exciting /ɪkˈsaɪtɪŋ/ / excited /ɪkˈsaɪtɪd/
+副词：excitedly /ɪkˈsaɪtɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thrill /θrɪl/ n. 激动
+反义词：boredom /ˈbɔːdəm/ n. 无聊
+拓展词：excite /ɪkˈsaɪt/ v. 使兴奋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Excitement is contagious. 兴奋是会传染的。
+写作提分句：The excitement of learning never fades. 学习的兴奋永不褪色。
+
+------
+
+**047 interest** /ˈɪntrəst/ n. 兴趣；利益；利息
+**一、词根词缀拆解**
+词根：inter = 在……之间（拉丁语 interesse）
+后缀：-est = 名词后缀
+整体拆解：inter + est → 在其中 → 兴趣
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take interest in（对……感兴趣）
+in the interest of（为了……的利益）
+interest rate（利率）
+**三、词性搭配用法（前接 / 后接什么）**
+interest（名词）
+  后接 in：interest in art
+  后接 of：interest of the public
+  可数/不可数
+**四、高频句型（作文直接套）**
+I have no interest in politics. 我对政治不感兴趣。
+It's in your best interest to study hard. 努力学习对你最有利。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：interests /ˈɪntrəsts/
+形容词：interesting /ˈɪntrəstɪŋ/ / interested /ˈɪntrəstɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：curiosity /ˌkjʊəriˈɒsəti/ n. 好奇心
+反义词：indifference /ɪnˈdɪfərəns/ n. 冷漠
+拓展词：interesting /ˈɪntrəstɪŋ/ adj. 有趣的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Follow your interests. 追随你的兴趣。
+写作提分句：Where your interest lies, your success follows. 兴趣所在，成功随之而来。
+
+------
+
+**048 boredom** /ˈbɔːdəm/ n. 无聊；厌倦
+**一、词根词缀拆解**
+词根：bore = 使厌烦（古英语 borian）
+后缀：-dom = 名词后缀（状态）
+整体拆解：bore + dom → 厌烦的状态 → 无聊
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+out of boredom（出于无聊）
+relieve boredom（缓解无聊）
+**三、词性搭配用法（前接 / 后接什么）**
+boredom（名词）
+  后接 with：boredom with routine
+  不可数名词
+**四、高频句型（作文直接套）**
+Boredom is the root of many problems. 无聊是许多问题的根源。
+He took up painting to escape boredom. 他拿起画笔来摆脱无聊。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：boring /ˈbɔːrɪŋ/ / bored /bɔːd/
+副词：boringly /ˈbɔːrɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：monotony /məˈnɒtəni/ n. 单调
+反义词：excitement /ɪkˈsaɪtmənt/ n. 兴奋
+拓展词：bored /bɔːd/ adj. 无聊的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Boredom is the mother of creativity. 无聊是创造力之母。
+写作提分句：Don't let boredom drive you to bad choices. 不要让无聊驱使你做出糟糕的选择。
+
+------
+
+**049 tiredness** /ˈtaɪədnəs/ n. 疲倦；疲劳
+**一、词根词缀拆解**
+词根：tire = 疲劳（古英语 tēorian）
+后缀：-ed = 形容词后缀 → -ness = 名词后缀
+整体拆解：tire + ed + ness → 疲劳的状态 → 疲倦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tiredness from（因……而疲倦）
+overcome tiredness（克服疲劳）
+**三、词性搭配用法（前接 / 后接什么）**
+tiredness（名词）
+  后接 from：tiredness from work
+  不可数名词
+**四、高频句型（作文直接套）**
+Tiredness is a sign that you need rest. 疲倦是身体需要休息的信号。
+He could not hide his tiredness. 他无法掩饰自己的疲倦。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：tired /ˈtaɪəd/ / tiring /ˈtaɪərɪŋ/
+副词：tiredly /ˈtaɪədli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fatigue /fəˈtiːɡ/ n. 疲劳
+反义词：energy /ˈenədʒi/ n. 精力
+拓展词：tired /ˈtaɪəd/ adj. 疲倦的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Tiredness is temporary, but the reward is lasting. 疲倦是暂时的，但回报是持久的。
+写作提分句：Listen to your body's tiredness and rest. 倾听身体的疲倦并休息。
+
+------
+
+**050 satisfaction** /ˌsætɪsˈfækʃən/ n. 满意；满足
+**一、词根词缀拆解**
+词根：satis = 足够（拉丁语 satis）
+后缀：-faction = 做……的结果
+整体拆解：satis + faction → 足够的结果 → 满意
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+job satisfaction（工作满意度）
+with satisfaction（满意地）
+satisfaction with（对……的满意）
+**三、词性搭配用法（前接 / 后接什么）**
+satisfaction（名词）
+  后接 with：satisfaction with the result
+  后接 at：satisfaction at achieving goals
+  不可数名词
+**四、高频句型（作文直接套）**
+He smiled with satisfaction. 他满意地笑了。
+The work gives me a sense of satisfaction. 这份工作给我一种满足感。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：satisfied /ˈsætɪsfaɪd/ / satisfying /ˈsætɪsfaɪɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：contentment /kənˈtentmənt/ n. 满足
+反义词：dissatisfaction /dɪsˌsætɪsˈfækʃən/ n. 不满
+拓展词：satisfy /ˈsætɪsfaɪ/ v. 使满意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Satisfaction comes from doing your best. 满足感来自于尽力而为。
+写作提分句：True satisfaction is internal, not external. 真正的满足是内在的，不是外在的。
+
+------
+
+**051 dissatisfaction** /dɪsˌsætɪsˈfækʃən/ n. 不满；不满意
+**一、词根词缀拆解**
+词根：satis = 足够
+前缀：dis- = 否定
+后缀：-faction = 做……的结果
+整体拆解：dis + satis + faction → 不满意的结果 → 不满
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dissatisfaction with（对……的不满）
+express dissatisfaction（表达不满）
+**三、词性搭配用法（前接 / 后接什么）**
+dissatisfaction（名词）
+  后接 with：dissatisfaction with the service
+  后接 at：dissatisfaction at the outcome
+  不可数名词
+**四、高频句型（作文直接套）**
+There is growing dissatisfaction among employees. 员工中日益增长的不满情绪。
+He expressed his dissatisfaction with the decision. 他对这个决定表示不满。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dissatisfied /dɪsˈsætɪsfaɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：discontent /ˌdɪskənˈtent/ n. 不满足
+反义词：satisfaction /ˌsætɪsˈfækʃən/ n. 满意
+拓展词：dissatisfy /dɪsˈsætɪsfaɪ/ v. 使不满
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Dissatisfaction can be a catalyst for change. 不满可以成为改变的催化剂。
+写作提分句：Don't just complain about dissatisfaction; do something about it. 不要只是抱怨不满，要采取行动。
+
+------
+
+**052 disappointment** /ˌdɪsəˈpɔɪntmənt/ n. 失望
+**一、词根词缀拆解**
+词根：point = 点；任命（拉丁语 punctum）
+前缀：dis- = 否定
+后缀：-ment = 名词后缀
+整体拆解：dis + appoint + ment → 未任命的状态 → 失望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+disappointment at（对……的失望）
+to one's disappointment（令某人失望的是）
+bitter disappointment（极度失望）
+**三、词性搭配用法（前接 / 后接什么）**
+disappointment（名词）
+  后接 at：disappointment at the result
+  后接 over：disappointment over the loss
+  可数/不可数
+**四、高频句型（作文直接套）**
+To my disappointment, he didn't come. 令我失望的是，他没有来。
+The movie was a disappointment. 这部电影令人失望。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：disappointments /ˌdɪsəˈpɔɪntmənts/
+形容词：disappointed /ˌdɪsəˈpɔɪntɪd/ / disappointing /ˌdɪsəˈpɔɪntɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：letdown /ˈletdaʊn/ n. 令人失望的事
+反义词：satisfaction /ˌsætɪsˈfækʃən/ n. 满意
+拓展词：disappoint /ˌdɪsəˈpɔɪnt/ v. 使失望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Disappointment is a part of life. 失望是生活的一部分。
+写作提分句：Learn from disappointment and move on. 从失望中学习，然后继续前进。
+
+------
+
+**053 trouble** /ˈtrʌbəl/ n. 麻烦；困难
+**一、词根词缀拆解**
+词根：trouble = 搅动（拉丁语 turbare）
+后缀：无
+整体拆解：trouble → 麻烦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in trouble（陷入麻烦）
+have trouble doing（做……有困难）
+trouble with（……的麻烦）
+**三、词性搭配用法（前接 / 后接什么）**
+trouble（名词）
+  后接 with：trouble with the car
+  后接 doing：trouble sleeping
+  可数/不可数
+**四、高频句型（作文直接套）**
+I'm having trouble with my computer. 我的电脑出问题了。
+Stay out of trouble. 远离麻烦。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：troubles /ˈtrʌbəlz/
+形容词：troublesome /ˈtrʌbəlsəm/ / troubled /ˈtrʌbəld/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：problem /ˈprɒbləm/ n. 问题
+反义词：ease /iːz/ n. 容易
+拓展词：troublesome /ˈtrʌbəlsəm/ adj. 麻烦的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Trouble shared is trouble halved. 分担的麻烦是一半的麻烦。
+写作提分句：Don't borrow trouble from tomorrow. 不要预支明天的烦恼。
+
+------
+
+**054 problem** /ˈprɒbləm/ n. 问题；难题
+**一、词根词缀拆解**
+词根：prob = 向前投掷（希腊语 proballein）
+后缀：-lem = 名词后缀
+整体拆解：prob + lem → 向前扔出的东西 → 问题
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+solve a problem（解决问题）
+have a problem with（对……有问题）
+no problem（没问题）
+**三、词性搭配用法（前接 / 后接什么）**
+problem（名词）
+  后接 of：problem of pollution
+  后接 with：problem with the plan
+  后接 doing：problem finding a solution
+**四、高频句型（作文直接套）**
+No problem! 没问题！
+We need to find a solution to this problem. 我们需要找到这个问题的解决方案。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：problems /ˈprɒbləmz/
+形容词：problematic /ˌprɒbləˈmætɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：issue /ˈɪʃuː/ n. 问题
+反义词：solution /səˈluːʃən/ n. 解决方案
+拓展词：problematic /ˌprɒbləˈmætɪk/ adj. 有问题的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every problem has a solution. 每个问题都有解决方案。
+写作提分句：Don't focus on the problem; focus on the solution. 不要专注于问题，要专注于解决方案。
+
+------
+
+**055 difficulty** /ˈdɪfɪkəlti/ n. 困难；难点
+**一、词根词缀拆解**
+词根：fic = 做（拉丁语 facere）
+前缀：dis- = 否定
+后缀：-ulty = 名词后缀
+整体拆解：dis + fic + ulty → 不容易做的状态 → 困难
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+have difficulty doing（做……有困难）
+with difficulty（困难地）
+difficulty in（在……方面的困难）
+**三、词性搭配用法（前接 / 后接什么）**
+difficulty（名词）
+  后接 in：difficulty in learning
+  后接 with：difficulty with math
+  可数/不可数
+**四、高频句型（作文直接套）**
+I have difficulty understanding him. 我很难理解他。
+He overcame many difficulties. 他克服了许多困难。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：difficulties /ˈdɪfɪkəltiz/
+形容词：difficult /ˈdɪfɪkəlt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：obstacle /ˈɒbstəkəl/ n. 障碍
+反义词：ease /iːz/ n. 容易
+拓展词：difficult /ˈdɪfɪkəlt/ adj. 困难的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Difficulty is the excuse history never accepts. 困难是历史从不接受的借口。
+写作提分句：Every difficulty is an opportunity in disguise. 每个困难都是伪装的机遇。
+
+------
+
+**056 challenge** /ˈtʃælɪndʒ/ n. 挑战
+**一、词根词缀拆解**
+词根：challenge = 指控（拉丁语 calumnia）
+后缀：无
+整体拆解：challenge → 挑战
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+face a challenge（面对挑战）
+take on a challenge（接受挑战）
+challenge to（对……的挑战）
+**三、词性搭配用法（前接 / 后接什么）**
+challenge（名词）
+  后接 to：challenge to the system
+  后接 of：challenge of leadership
+  可数/不可数
+**四、高频句型（作文直接套）**
+I see it as a challenge, not a problem. 我把它看作挑战，而不是问题。
+He accepted the challenge. 他接受了挑战。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：challenges /ˈtʃælɪndʒɪz/
+形容词：challenging /ˈtʃælɪndʒɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：obstacle /ˈɒbstəkəl/ n. 障碍
+反义词：easy task（容易的任务）
+拓展词：challenging /ˈtʃælɪndʒɪŋ/ adj. 有挑战性的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Challenges are what make life interesting. 挑战是让生活有趣的东西。
+写作提分句：Embrace challenges as opportunities to grow. 拥抱挑战，视其为成长的机会。
+
+------
+
+**057 success** /səkˈses/ n. 成功
+**一、词根词缀拆解**
+词根：ceed = 走；前进（拉丁语 cedere）
+前缀：suc- = 下面；随后
+后缀：无
+整体拆解：suc + cess → 随后前进 → 成功
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+success in（在……方面的成功）
+key to success（成功的关键）
+achieve success（取得成功）
+**三、词性搭配用法（前接 / 后接什么）**
+success（名词）
+  后接 in：success in business
+  后接 at：success at work
+  不可数/可数
+**四、高频句型（作文直接套）**
+Success is not final; failure is not fatal. 成功不是终点，失败不是末日。
+Hard work is the key to success. 努力是成功的关键。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：successes /səkˈsesɪz/
+形容词：successful /səkˈsesfəl/
+副词：successfully /səkˈsesfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：achievement /əˈtʃiːvmənt/ n. 成就
+反义词：failure /ˈfeɪljə/ n. 失败
+拓展词：succeed /səkˈsiːd/ v. 成功
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Success is the sum of small efforts. 成功是小小努力的总和。
+写作提分句：Success is not measured by money, but by fulfillment. 成功不以金钱衡量，而以满足感衡量。
+
+------
+
+**058 failure** /ˈfeɪljə/ n. 失败
+**一、词根词缀拆解**
+词根：fail = 失败（拉丁语 fallere）
+后缀：-ure = 名词后缀
+整体拆解：fail + ure → 失败的状态 → 失败
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fear of failure（对失败的恐惧）
+end in failure（以失败告终）
+failure to do（未能做到）
+**三、词性搭配用法（前接 / 后接什么）**
+failure（名词）
+  后接 in：failure in business
+  后接 to do：failure to comply
+  可数/不可数
+**四、高频句型（作文直接套）**
+Failure is the mother of success. 失败是成功之母。
+His failure was due to lack of preparation. 他的失败是由于缺乏准备。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：failures /ˈfeɪljəz/
+形容词：failed /feɪld/ / failing /ˈfeɪlɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：defeat /dɪˈfiːt/ n. 挫败
+反义词：success /səkˈses/ n. 成功
+拓展词：fail /feɪl/ v. 失败
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Failure is not the opposite of success; it's part of it. 失败不是成功的反面，而是成功的一部分。
+写作提分句：Don't let a few failures define you. 不要让几次失败定义你。
+
+------
+
+**059 victory** /ˈvɪktəri/ n. 胜利
+**一、词根词缀拆解**
+词根：vict = 征服（拉丁语 vincere）
+后缀：-ory = 名词后缀
+整体拆解：vict + ory → 征服的结果 → 胜利
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+victory over（对……的胜利）
+win a victory（赢得胜利）
+narrow victory（险胜）
+**三、词性搭配用法（前接 / 后接什么）**
+victory（名词）
+  后接 over：victory over the enemy
+  后接 against：victory against all odds
+  可数/不可数
+**四、高频句型（作文直接套）**
+Victory belongs to the most persevering. 胜利属于最坚持不懈的人。
+He celebrated his victory. 他庆祝他的胜利。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：victories /ˈvɪktəriz/
+形容词：victorious /vɪkˈtɔːriəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：triumph /ˈtraɪəmf/ n. 凯旋
+反义词：defeat /dɪˈfiːt/ n. 失败
+拓展词：victor /ˈvɪktə/ n. 胜利者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Victory is sweetest when you've known defeat. 经历过失败，胜利才最甜美。
+写作提分句：Small victories lead to big successes. 小的胜利带来大的成功。
+
+------
+
+**060 defeat** /dɪˈfiːt/ n. 失败；挫败
+**一、词根词缀拆解**
+词根：feat = 做（拉丁语 facere）
+前缀：de- = 否定；向下
+后缀：无
+整体拆解：de + feat → 做得不好 → 失败
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+admit defeat（承认失败）
+suffer defeat（遭受失败）
+defeat in（在……方面的失败）
+**三、词性搭配用法（前接 / 后接什么）**
+defeat（名词）
+  后接 in：defeat in battle
+  后接 by：defeat by a stronger team
+  可数/不可数
+**四、高频句型（作文直接套）**
+He refused to admit defeat. 他拒绝承认失败。
+Defeat can be a stepping stone to success. 失败可以是成功的垫脚石。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：defeats /dɪˈfiːts/
+形容词：defeated /dɪˈfiːtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：loss /lɒs/ n. 损失
+反义词：victory /ˈvɪktəri/ n. 胜利
+拓展词：defeat /dɪˈfiːt/ v. 击败
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Defeat is not the worst of failures. Not to have tried is the true failure. 失败不是最糟糕的失败，没有尝试才是真正的失败。
+写作提分句：How you handle defeat defines your character. 你如何处理失败定义了你的品格。
+
+------
+
+**061 peace** /piːs/ n. 和平；平静
+**一、词根词缀拆解**
+词根：peace = 和平（拉丁语 pax）
+后缀：无
+整体拆解：peace → 和平
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+peace of mind（内心的平静）
+at peace（处于平静状态）
+make peace（讲和）
+**三、词性搭配用法（前接 / 后接什么）**
+peace（名词）
+  后接 of：peace of mind
+  后接 with：peace with oneself
+  不可数名词
+**四、高频句型（作文直接套）**
+Peace is not the absence of conflict, but the ability to handle it. 和平不是没有冲突，而是处理冲突的能力。
+Leave me in peace. 让我安静一会儿。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：peaceful /ˈpiːsfəl/
+副词：peacefully /ˈpiːsfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：calm /kɑːm/ n. 平静
+反义词：war /wɔː/ n. 战争
+拓展词：peaceful /ˈpiːsfəl/ adj. 和平的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Peace begins with a smile. 和平始于微笑。
+写作提分句：Inner peace is the greatest treasure. 内心的平静是最大的财富。
+
+------
+
+**062 war** /wɔː/ n. 战争
+**一、词根词缀拆解**
+词根：war = 战争（古法语 werre）
+后缀：无
+整体拆解：war → 战争
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+go to war（开战）
+war against（对……的战争）
+cold war（冷战）
+**三、词性搭配用法（前接 / 后接什么）**
+war（名词）
+  后接 against：war against terrorism
+  后接 between：war between nations
+  可数/不可数
+**四、高频句型（作文直接套）**
+War is a terrible waste of life. 战争是对生命的可怕浪费。
+They have been at war for years. 他们已经交战多年。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：wars /wɔːz/
+形容词：warlike /ˈwɔːlaɪk/ / warring /ˈwɔːrɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：conflict /ˈkɒnflɪkt/ n. 冲突
+反义词：peace /piːs/ n. 和平
+拓展词：warrior /ˈwɒriə/ n. 战士
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Make love, not war. 要爱，不要战争。
+写作提分句：War never solves anything; it only creates more problems. 战争从不解决任何问题，它只会制造更多问题。
+
+------
+
+**063 conflict** /ˈkɒnflɪkt/ n. 冲突；矛盾
+**一、词根词缀拆解**
+词根：flict = 打击（拉丁语 fligere）
+前缀：con- = 一起
+整体拆解：con + flict → 互相打击 → 冲突
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+conflict of interest（利益冲突）
+in conflict with（与……冲突）
+resolve a conflict（解决冲突）
+**三、词性搭配用法（前接 / 后接什么）**
+conflict（名词）
+  后接 between：conflict between two parties
+  后接 with：conflict with the law
+  可数/不可数
+**四、高频句型（作文直接套）**
+There is a conflict between his words and actions. 他的言行不一致。
+The conflict lasted for years. 冲突持续了多年。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：conflicts /ˈkɒnflɪkts/
+形容词：conflicting /kənˈflɪktɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：disagreement /ˌdɪsəˈɡriːmənt/ n. 分歧
+反义词：agreement /əˈɡriːmənt/ n. 一致
+拓展词：conflict /kənˈflɪkt/ v. 冲突
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Conflict is inevitable, but combat is optional. 冲突是不可避免的，但战斗是可选的。
+写作提分句：Healthy conflict can lead to better solutions. 健康的冲突可以带来更好的解决方案。
+
+------
+
+**064 agreement** /əˈɡriːmənt/ n. 同意；协议
+**一、词根词缀拆解**
+词根：gree = 满意；令人愉快（拉丁语 gratus）
+前缀：a- = 向
+后缀：-ment = 名词后缀
+整体拆解：a + gree + ment → 同意的结果 → 协议
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+reach an agreement（达成协议）
+in agreement with（与……一致）
+agreement on（在……上的一致）
+**三、词性搭配用法（前接 / 后接什么）**
+agreement（名词）
+  后接 with：agreement with the terms
+  后接 on：agreement on the plan
+  后接 that：agreement that we should wait
+**四、高频句型（作文直接套）**
+We finally reached an agreement. 我们终于达成了协议。
+I am in full agreement with you. 我完全同意你。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：agreements /əˈɡriːmənts/
+形容词：agreeable /əˈɡriːəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：consent /kənˈsent/ n. 同意
+反义词：disagreement /ˌdɪsəˈɡriːmənt/ n. 分歧
+拓展词：agree /əˈɡriː/ v. 同意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Agreement is the first step to action. 同意是行动的第一步。
+写作提分句：A written agreement prevents misunderstandings. 书面协议防止误解。
+
+------
+
+**065 argument** /ˈɑːɡjəmənt/ n. 争论；论点
+**一、词根词缀拆解**
+词根：argu = 使清晰；争论（拉丁语 arguere）
+后缀：-ment = 名词后缀
+整体拆解：argu + ment → 争论的结果 → 论点
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+have an argument（发生争论）
+argument about/over（关于……的争论）
+strong argument（有力的论点）
+**三、词性搭配用法（前接 / 后接什么）**
+argument（名词）
+  后接 about：argument about money
+  后接 for/against：argument for change
+  后接 that：argument that he is right
+**四、高频句型（作文直接套）**
+They got into an argument. 他们吵了起来。
+His argument is convincing. 他的论点很有说服力。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：arguments /ˈɑːɡjəmənts/
+形容词：argumentative /ˌɑːɡjəˈmentətɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dispute /dɪˈspjuːt/ n. 争端
+反义词：agreement /əˈɡriːmənt/ n. 一致
+拓展词：argue /ˈɑːɡjuː/ v. 争论
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Arguments are part of any relationship. 争论是任何关系的一部分。
+写作提分句：A good argument is based on facts, not emotions. 好的论点基于事实，而非情绪。
+
+------
+
+**066 fight** /faɪt/ n. 战斗；斗争
+**一、词根词缀拆解**
+词根：fight = 战斗（古英语 feohtan）
+后缀：无
+整体拆解：fight → 战斗
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fight against（与……的斗争）
+fight for（为……而战）
+pick a fight（找茬）
+**三、词性搭配用法（前接 / 后接什么）**
+fight（名词）
+  后接 against：fight against disease
+  后接 for：fight for freedom
+  后接 between：fight between siblings
+**四、高频句型（作文直接套）**
+The fight for justice continues. 为正义而战仍在继续。
+He got into a fight. 他打了一架。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：fights /faɪts/
+形容词：fighting /ˈfaɪtɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：battle /ˈbætəl/ n. 战役
+反义词：peace /piːs/ n. 和平
+拓展词：fight /faɪt/ v. 战斗
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The fight is not over until you win. 战斗直到你赢才结束。
+写作提分句：Choose your fights wisely; not every battle is worth fighting. 明智地选择你的战斗，不是每一场仗都值得打。
+
+------
+
+**067 friendship** /ˈfrendʃɪp/ n. 友谊
+**一、词根词缀拆解**
+词根：friend = 朋友（古英语 freond）
+后缀：-ship = 名词后缀（状态）
+整体拆解：friend + ship → 朋友的状态 → 友谊
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+friendship with（与……的友谊）
+build a friendship（建立友谊）
+long-lasting friendship（持久的友谊）
+**三、词性搭配用法（前接 / 后接什么）**
+friendship（名词）
+  后接 with：friendship with him
+  后接 between：friendship between nations
+  可数/不可数
+**四、高频句型（作文直接套）**
+True friendship lasts a lifetime. 真正的友谊持续一生。
+Their friendship grew over the years. 他们的友谊随着岁月增长。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：friendships /ˈfrendʃɪps/
+形容词：friendly /ˈfrendli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：companionship /kəmˈpænjənʃɪp/ n. 陪伴
+反义词：enmity /ˈenməti/ n. 敌意
+拓展词：friend /frend/ n. 朋友
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Friendship is the greatest gift of life. 友谊是生命中最伟大的礼物。
+写作提分句：A true friendship is a treasure beyond measure. 真正的友谊是无价的财富。
+
+------
+
+**068 relationship** /rɪˈleɪʃənʃɪp/ n. 关系
+**一、词根词缀拆解**
+词根：relate = 关联（拉丁语 referre）
+后缀：-ionship = 名词后缀
+整体拆解：relate + ionship → 关联的状态 → 关系
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+relationship with（与……的关系）
+build a relationship（建立关系）
+relationship between（……之间的关系）
+**三、词性搭配用法（前接 / 后接什么）**
+relationship（名词）
+  后接 with：relationship with his boss
+  后接 between：relationship between cause and effect
+  可数名词
+**四、高频句型（作文直接套）**
+A good relationship is built on trust. 好的关系建立在信任之上。
+They have a close relationship. 他们关系密切。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：relationships /rɪˈleɪʃənʃɪps/
+形容词：relational /rɪˈleɪʃənəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：connection /kəˈnekʃən/ n. 联系
+反义词：isolation /ˌaɪsəˈleɪʃən/ n. 孤立
+拓展词：relate /rɪˈleɪt/ v. 关联
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Relationships require effort. 关系需要努力。
+写作提分句：The quality of your relationships determines the quality of your life. 你的人际关系的质量决定你生活的质量。
+
+------
+
+**069 family** /ˈfæməli/ n. 家庭；家人
+**一、词根词缀拆解**
+词根：fam = 仆人；家庭（拉丁语 famulus）
+后缀：-ily = 名词后缀
+整体拆解：fam + ily → 家庭
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+family member（家庭成员）
+family business（家族企业）
+start a family（成家）
+**三、词性搭配用法（前接 / 后接什么）**
+family（名词）
+  后接 of：family of four
+  后接 with：family with children
+  可数名词
+**四、高频句型（作文直接套）**
+Family comes first. 家庭第一。
+She comes from a large family. 她来自一个大家庭。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：families /ˈfæməliz/
+形容词：familial /fəˈmɪliəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：household /ˈhaʊshəʊld/ n. 家庭
+反义词：stranger /ˈstreɪndʒə/ n. 陌生人
+拓展词：familiar /fəˈmɪliə/ adj. 熟悉的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There's no place like home, no people like family. 没有地方像家一样，没有人像家人一样。
+写作提分句：Family is not an important thing; it's everything. 家庭不是重要的东西，而是一切。
+
+------
+
+**070 friend** /frend/ n. 朋友
+**一、词根词缀拆解**
+词根：friend = 朋友（古英语 freond）
+后缀：无
+整体拆解：friend → 朋友
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+close friend（亲密的朋友）
+make friends（交朋友）
+best friend（最好的朋友）
+**三、词性搭配用法（前接 / 后接什么）**
+friend（名词）
+  后接 of：friend of mine
+  后接 to：friend to all
+  可数名词
+**四、高频句型（作文直接套）**
+A friend in need is a friend indeed. 患难见真情。
+He is a good friend of mine. 他是我的好朋友。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：friends /frendz/
+形容词：friendly /ˈfrendli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：companion /kəmˈpænjən/ n. 伙伴
+反义词：enemy /ˈenəmi/ n. 敌人
+拓展词：friendship /ˈfrendʃɪp/ n. 友谊
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Friends are the family we choose. 朋友是我们选择的家人。
+写作提分句：A true friend sees the best in you even when you can't. 真正的朋友在你看不到的时候也能看到你最好的一面。
+
+------
+
+**071 relative** /ˈrelətɪv/ n. 亲戚
+**一、词根词缀拆解**
+词根：relate = 关联（拉丁语 referre）
+后缀：-ive = 名词后缀
+整体拆解：relate + ive → 有关联的人 → 亲戚
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+close relative（近亲）
+distant relative（远亲）
+visit relatives（拜访亲戚）
+**三、词性搭配用法（前接 / 后接什么）**
+relative（名词）
+  后接 of：relative of his
+  可数名词
+**四、高频句型（作文直接套）**
+He is a distant relative of mine. 他是我的远亲。
+All our relatives came to the wedding. 我们所有的亲戚都来参加婚礼了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：relatives /ˈrelətɪvz/
+形容词：relative /ˈrelətɪv/ 相对的
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：kinsman /ˈkɪnzmən/ n. 亲属
+反义词：stranger /ˈstreɪndʒə/ n. 陌生人
+拓展词：relation /rɪˈleɪʃən/ n. 关系
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Blood is thicker than water. 血浓于水。
+写作提分句：Stay in touch with your relatives; family ties matter. 与你的亲戚保持联系，家庭纽带很重要。
+
+------
+
+**072 partner** /ˈpɑːtnə/ n. 伙伴；合伙人；伴侣
+**一、词根词缀拆解**
+词根：part = 部分（拉丁语 partem）
+后缀：-ner = 名词后缀
+整体拆解：part + ner → 共享部分的人 → 伙伴
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+business partner（商业伙伴）
+life partner（人生伴侣）
+partner with（与……合作）
+**三、词性搭配用法（前接 / 后接什么）**
+partner（名词）
+  后接 in：partner in crime
+  后接 of：partner of the firm
+  可数名词
+**四、高频句型（作文直接套）**
+He is my business partner. 他是我的商业伙伴。
+Choose your life partner wisely. 明智地选择你的人生伴侣。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：partners /ˈpɑːtnəz/
+形容词：partnered /ˈpɑːtnəd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：associate /əˈsəʊʃiət/ n. 同事
+反义词：rival /ˈraɪvəl/ n. 对手
+拓展词：partnership /ˈpɑːtnəʃɪp/ n. 合伙关系
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A good partner makes the journey easier. 好的伙伴让旅程更轻松。
+写作提分句：Success is a team sport; choose your partners carefully. 成功是团队运动，谨慎选择你的伙伴。
+
+------
+
+**073 neighbor** /ˈneɪbə/ n. 邻居
+**一、词根词缀拆解**
+词根：nigh = 接近（古英语 neah）
+后缀：-bor = 居住者
+整体拆解：nigh + bor → 住在附近的人 → 邻居
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+next-door neighbor（隔壁邻居）
+neighbor next to（……旁边的邻居）
+good neighbor（好邻居）
+**三、词性搭配用法（前接 / 后接什么）**
+neighbor（名词）
+  后接 to：neighbor to the left
+  可数名词
+**四、高频句型（作文直接套）**
+Love your neighbor as yourself. 爱邻如己。
+Our neighbors are very friendly. 我们的邻居非常友好。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：neighbors /ˈneɪbəz/
+形容词：neighboring /ˈneɪbərɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：next-door（隔壁的）
+反义词：stranger /ˈstreɪndʒə/ n. 陌生人
+拓展词：neighborhood /ˈneɪbəhʊd/ n. 邻里
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Good fences make good neighbors. 好篱笆造就好邻居。
+写作提分句：Be the neighbor you would want to have. 成为你希望拥有的那种邻居。
+
+------
+
+**074 stranger** /ˈstreɪndʒə/ n. 陌生人
+**一、词根词缀拆解**
+词根：strange = 奇怪的；外来的（拉丁语 extraneus）
+后缀：-er = 人
+整体拆解：strange + r → 外来的人 → 陌生人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+complete stranger（完全陌生的人）
+stranger to（对……陌生）
+don't talk to strangers（不要和陌生人说话）
+**三、词性搭配用法（前接 / 后接什么）**
+stranger（名词）
+  后接 to：stranger to this city
+  可数名词
+**四、高频句型（作文直接套）**
+Don't talk to strangers. 不要和陌生人说话。
+He is a stranger to me. 我不认识他。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：strangers /ˈstreɪndʒəz/
+形容词：strange /streɪndʒ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：outsider /ˌaʊtˈsaɪdə/ n. 局外人
+反义词：friend /frend/ n. 朋友
+拓展词：strange /streɪndʒ/ adj. 奇怪的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A stranger is just a friend you haven't met yet. 陌生人只是你还没认识的朋友。
+写作提分句：Be kind to strangers; you never know who they might become. 善待陌生人，你永远不知道他们可能成为谁。
+
+------
+
+**075 people** /ˈpiːpəl/ n. 人；人们；民族
+**一、词根词缀拆解**
+词根：peop = 人民（拉丁语 populus）
+后缀：-le = 名词后缀
+整体拆解：peop + le → 人们
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+many people（许多人）
+young people（年轻人）
+people of all ages（各个年龄段的人）
+**三、词性搭配用法（前接 / 后接什么）**
+people（名词）
+  后接 of：people of the world
+  后接 in：people in the community
+  集合名词（复数）
+**四、高频句型（作文直接套）**
+People say that... 人们说……
+There were many people at the event. 活动现场有很多人。
+**五、词形变化（词性转换题 / 写作核心）**
+单数：person /ˈpɜːsən/
+形容词：popular /ˈpɒpjələ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：individuals /ˌɪndɪˈvɪdʒuəlz/ n. 个人
+反义词：none /nʌn/ n. 无人
+拓展词：popular /ˈpɒpjələ/ adj. 受欢迎的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：People are the greatest resource. 人是最大的资源。
+写作提分句：Treat people the way you want to be treated. 你希望别人怎样对待你，你就怎样对待别人。
+
+------
+
+**076 person** /ˈpɜːsən/ n. 人
+**一、词根词缀拆解**
+词根：person = 面具；角色（拉丁语 persona）
+后缀：无
+整体拆解：person → 人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in person（亲自）
+first person（第一人称）
+person of interest（嫌疑人）
+**三、词性搭配用法（前接 / 后接什么）**
+person（名词）
+  后接 of：person of importance
+  后接 with：person with disabilities
+  可数名词
+**四、高频句型（作文直接套）**
+He is a good person. 他是一个好人。
+You are the right person for the job. 你是这份工作的合适人选。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：people /ˈpiːpəl/ 或 persons /ˈpɜːsənz/
+形容词：personal /ˈpɜːsənəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：individual /ˌɪndɪˈvɪdʒuəl/ n. 个体
+反义词：group /ɡruːp/ n. 群体
+拓展词：personality /ˌpɜːsəˈnæləti/ n. 个性
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every person matters. 每个人都重要。
+写作提分句：Be the kind of person you want to meet. 成为你想遇见的那种人。
+
+------
+
+**077 man** /mæn/ n. 男人；人类
+**一、词根词缀拆解**
+词根：man = 人（古英语 mann）
+后缀：无
+整体拆解：man → 男人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+man and woman（男人和女人）
+businessman（商人）
+superman（超人）
+**三、词性搭配用法（前接 / 后接什么）**
+man（名词）
+  后接 of：man of honor
+  可数名词
+**四、高频句型（作文直接套）**
+He is a man of his word. 他是一个守信的人。
+Man proposes, God disposes. 谋事在人，成事在天。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：men /men/
+形容词：manly /ˈmænli/ / manful /ˈmænfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：male /meɪl/ n. 男性
+反义词：woman /ˈwʊmən/ n. 女人
+拓展词：human /ˈhjuːmən/ n. 人类
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every man is the architect of his own fortune. 每个人都是自己命运的建筑师。
+写作提分句：A great man is hard on himself, a small man is hard on others. 伟人严于律己，小人严于待人。
+
+------
+
+**078 woman** /ˈwʊmən/ n. 女人
+**一、词根词缀拆解**
+词根：woman = 女人（古英语 wifmann）
+后缀：无
+整体拆解：woman → 女人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+woman of the year（年度女性）
+businesswoman（女商人）
+woman's rights（妇女权利）
+**三、词性搭配用法（前接 / 后接什么）**
+woman（名词）
+  后接 of：woman of courage
+  可数名词
+**四、高频句型（作文直接套）**
+She is a strong woman. 她是一个坚强的女人。
+A woman's intuition is often right. 女人的直觉往往是对的。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：women /ˈwɪmɪn/
+形容词：womanly /ˈwʊmənli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：female /ˈfiːmeɪl/ n. 女性
+反义词：man /mæn/ n. 男人
+拓展词：womanhood /ˈwʊmənhʊd/ n. 女性身份
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Behind every great man is a great woman. 每个伟大男人的背后都有一个伟大的女人。
+写作提分句：A woman can do anything a man can do. 女人能做男人能做的任何事。
+
+------
+
+**079 child** /tʃaɪld/ n. 孩子；儿童
+**一、词根词缀拆解**
+词根：child = 孩子（古英语 cild）
+后缀：无
+整体拆解：child → 孩子
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+child care（儿童看护）
+only child（独生子女）
+child development（儿童发展）
+**三、词性搭配用法（前接 / 后接什么）**
+child（名词）
+  后接 of：child of the 90s
+  可数名词
+**四、高频句型（作文直接套）**
+Every child is an artist. 每个孩子都是艺术家。
+The child is father of the man. 三岁看老。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：children /ˈtʃɪldrən/
+形容词：childish /ˈtʃaɪldɪʃ/ / childlike /ˈtʃaɪldlaɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：kid /kɪd/ n. 小孩
+反义词：adult /ˈædʌlt/ n. 成人
+拓展词：childhood /ˈtʃaɪldhʊd/ n. 童年
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Children should be seen and not heard. 孩子应少说多做。
+写作提分句：The best way to make children good is to make them happy. 让孩子变好的最好方法是让他们快乐。
+
+------
+
+**080 baby** /ˈbeɪbi/ n. 婴儿；宝宝
+**一、词根词缀拆解**
+词根：baby = 婴儿（拟声词）
+后缀：无
+整体拆解：baby → 婴儿
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+baby girl/boy（女婴/男婴）
+have a baby（生孩子）
+baby step（一小步）
+**三、词性搭配用法（前接 / 后接什么）**
+baby（名词）
+  后接 of：baby of the family
+  可数名词
+**四、高频句型（作文直接套）**
+She is expecting a baby. 她怀孕了。
+Don't be such a baby! 别这么幼稚！
+**五、词形变化（词性转换题 / 写作核心）**
+复数：babies /ˈbeɪbiz/
+形容词：babyish /ˈbeɪbiɪʃ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：infant /ˈɪnfənt/ n. 婴儿
+反义词：adult /ˈædʌlt/ n. 成人
+拓展词：babysit /ˈbeɪbisɪt/ v. 照看婴儿
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every baby is a miracle. 每个婴儿都是一个奇迹。
+写作提分句：The first step is the baby step. 第一步是婴儿步。
+
+------
+
+**081 adult** /ˈædʌlt/ n. 成年人
+**一、词根词缀拆解**
+词根：adult = 成长（拉丁语 adultus）
+后缀：无
+整体拆解：adult → 成年人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+young adult（年轻人）
+adult education（成人教育）
+adult life（成年生活）
+**三、词性搭配用法（前接 / 后接什么）**
+adult（名词）
+  后接 of：adult of the species
+  可数名词
+**四、高频句型（作文直接套）**
+He is an adult now. 他现在是成年人了。
+Adults have responsibilities. 成年人有责任。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：adults /ˈædʌlts/
+形容词：adult /ˈædʌlt/ / grown-up /ˌɡrəʊn ˈʌp/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grown-up /ˌɡrəʊn ˈʌp/ n. 成年人
+反义词：child /tʃaɪld/ n. 孩子
+拓展词：adulthood /ˈædʌlthʊd/ n. 成年期
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Being an adult means taking responsibility. 成年意味着承担责任。
+写作提分句：An adult's greatest achievement is raising happy children. 成年人最大的成就是养育快乐的孩子。
+
+------
+
+**082 life** /laɪf/ n. 生活；生命
+**一、词根词缀拆解**
+词根：life = 生命（古英语 lif）
+后缀：无
+整体拆解：life → 生活
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+way of life（生活方式）
+quality of life（生活质量）
+daily life（日常生活）
+**三、词性搭配用法（前接 / 后接什么）**
+life（名词）
+  后接 of：life of a student
+  后接 in：life in the city
+  可数/不可数
+**四、高频句型（作文直接套）**
+Life is what you make it. 生活是你创造的。
+That's life! 这就是生活！
+**五、词形变化（词性转换题 / 写作核心）**
+复数：lives /laɪvz/
+形容词：lifelong /ˈlaɪflɒŋ/ / lifeless /ˈlaɪfləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：existence /ɪɡˈzɪstəns/ n. 存在
+反义词：death /deθ/ n. 死亡
+拓展词：living /ˈlɪvɪŋ/ n. 生计
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life is short, make it sweet. 生命短暂，让它甜蜜。
+写作提分句：The purpose of life is a life of purpose. 生命的意义在于有目的的生活。
+
+------
+
+**083 world** /wɜːld/ n. 世界
+**一、词根词缀拆解**
+词根：world = 世界（古英语 weorold）
+后缀：无
+整体拆解：world → 世界
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+around the world（世界各地）
+world peace（世界和平）
+world view（世界观）
+**三、词性搭配用法（前接 / 后接什么）**
+world（名词）
+  后接 of：world of difference
+  后接 in：world in which we live
+  可数名词
+**四、高频句型（作文直接套）**
+It's a small world. 世界真小。
+The world is your oyster. 世界是你的牡蛎（你可以为所欲为）。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：worldly /ˈwɜːldli/ / worldwide /ˌwɜːldˈwaɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：earth /ɜːθ/ n. 地球
+反义词：无
+拓展词：worldwide /ˌwɜːldˈwaɪd/ adj. 全球的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The world is a book, and those who do not travel read only one page. 世界是一本书，不旅行的人只读了一页。
+写作提分句：Be the change you wish to see in the world. 成为你希望在世界上看到的改变。
+
+------
+
+**084 society** /səˈsaɪəti/ n. 社会
+**一、词根词缀拆解**
+词根：soci = 同伴（拉丁语 socius）
+后缀：-ety = 名词后缀
+整体拆解：soci + ety → 同伴组成的团体 → 社会
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+modern society（现代社会）
+civil society（公民社会）
+society as a whole（整个社会）
+**三、词性搭配用法（前接 / 后接什么）**
+society（名词）
+  后接 of：society of friends
+  后接 in：society in general
+  可数/不可数
+**四、高频句型（作文直接套）**
+Society is constantly changing. 社会在不断变化。
+We live in a free society. 我们生活在一个自由的社会。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：societies /səˈsaɪətiz/
+形容词：social /ˈsəʊʃəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：community /kəˈmjuːnəti/ n. 社区
+反义词：individual /ˌɪndɪˈvɪdʒuəl/ n. 个人
+拓展词：socialize /ˈsəʊʃəlaɪz/ v. 社交
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：No man is an island entire of itself; every man is a piece of the continent. 没有人是一座孤岛，每个人都是大陆的一部分。
+写作提分句：A healthy society is built on respect and cooperation. 健康的社会建立在尊重和合作之上。
+
+------
+
+**085 community** /kəˈmjuːnəti/ n. 社区；团体
+**一、词根词缀拆解**
+词根：commun = 共同（拉丁语 communis）
+后缀：-ity = 名词后缀
+整体拆解：commun + ity → 共同的状态 → 社区
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+local community（当地社区）
+community service（社区服务）
+sense of community（社区归属感）
+**三、词性搭配用法（前接 / 后接什么）**
+community（名词）
+  后接 of：community of scholars
+  后接 in：community in need
+  可数名词
+**四、高频句型（作文直接套）**
+We need to give back to our community. 我们需要回馈我们的社区。
+The community came together to help. 社区团结起来提供帮助。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：communities /kəˈmjuːnətiz/
+形容词：communal /kəˈmjuːnəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：neighborhood /ˈneɪbəhʊd/ n. 邻里
+反义词：isolation /ˌaɪsəˈleɪʃən/ n. 孤立
+拓展词：communicate /kəˈmjuːnɪkeɪt/ v. 沟通
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It takes a village to raise a child. 养育一个孩子需要整个村庄。
+写作提分句：Strong communities create strong individuals. 强大的社区创造强大的个人。
+
+------
+
+**086 country** /ˈkʌntri/ n. 国家；乡村
+**一、词根词缀拆解**
+词根：countr = 对面（拉丁语 contra）
+后缀：-y = 名词后缀
+整体拆解：countr + y → 对面的土地 → 国家
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+developing country（发展中国家）
+home country（祖国）
+across the country（全国各地）
+**三、词性搭配用法（前接 / 后接什么）**
+country（名词）
+  后接 of：country of origin
+  后接 in：country in Asia
+  可数名词
+**四、高频句型（作文直接套）**
+I love my country. 我爱我的祖国。
+Which country do you come from? 你来自哪个国家？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：countries /ˈkʌntriz/
+形容词：countrywide /ˌkʌntriˈwaɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：nation /ˈneɪʃən/ n. 民族
+反义词：city /ˈsɪti/ n. 城市
+拓展词：countryside /ˈkʌntrisaɪd/ n. 乡村
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Ask not what your country can do for you, ask what you can do for your country. 不要问国家能为你做什么，要问你能为国家做什么。
+写作提分句：A country's strength lies in its people. 一个国家的力量在于它的人民。
+
+------
+
+**087 nation** /ˈneɪʃən/ n. 民族；国家
+**一、词根词缀拆解**
+词根：nat = 出生（拉丁语 nasci）
+后缀：-ion = 名词后缀
+整体拆解：nat + ion → 出生的地方 → 国家
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+United Nations（联合国）
+nation state（民族国家）
+across the nation（全国）
+**三、词性搭配用法（前接 / 后接什么）**
+nation（名词）
+  后接 of：nation of people
+  可数名词
+**四、高频句型（作文直接套）**
+The nation mourned the loss. 全国哀悼这个损失。
+We are one nation under God. 我们在上帝之下是一个国家。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：nations /ˈneɪʃənz/
+形容词：national /ˈnæʃənəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：country /ˈkʌntri/ n. 国家
+反义词：individual /ˌɪndɪˈvɪdʒuəl/ n. 个人
+拓展词：nationality /ˌnæʃəˈnæləti/ n. 国籍
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A nation's culture resides in the hearts and in the soul of its people. 一个国家的文化存在于其人民的心中。
+写作提分句：A great nation is built on the character of its citizens. 伟大的国家建立在其公民的品格之上。
+
+------
+
+**088 mood** /muːd/ n. 心情；情绪
+**一、词根词缀拆解**
+词根：mood = 心情（古英语 mod）
+后缀：无
+整体拆解：mood → 心情
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in a good/bad mood（心情好/不好）
+mood swing（情绪波动）
+set the mood（营造氛围）
+**三、词性搭配用法（前接 / 后接什么）**
+mood（名词）
+  后接 for：mood for celebration
+  后接 of：mood of the crowd
+  可数名词
+**四、高频句型（作文直接套）**
+I'm not in the mood for jokes. 我没心情开玩笑。
+His mood changes quickly. 他的情绪变化很快。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：moods /muːdz/
+形容词：moody /ˈmuːdi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：temper /ˈtempə/ n. 脾气
+反义词：无
+拓展词：moody /ˈmuːdi/ adj. 喜怒无常的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Your mood affects your day. 你的情绪影响你的一天。
+写作提分句：Don't let a bad mood ruin a good day. 不要让坏心情毁掉好日子。
+
+------
+
+**089 desire** /dɪˈzaɪə/ n. 欲望；渴望
+**一、词根词缀拆解**
+词根：desir = 渴望（拉丁语 desiderare）
+后缀：-e
+整体拆解：desir + e → 渴望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+desire for（对……的渴望）
+burning desire（强烈的渴望）
+desire to do（做……的愿望）
+**三、词性搭配用法（前接 / 后接什么）**
+desire（名词）
+  后接 for：desire for success
+  后接 to：desire to learn
+  可数/不可数
+**四、高频句型（作文直接套）**
+He has a strong desire to succeed. 他有强烈的成功欲望。
+His greatest desire is to see his children happy. 他最大的愿望是看到孩子快乐。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：desires /dɪˈzaɪəz/
+形容词：desirable /dɪˈzaɪərəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：longing /ˈlɒŋɪŋ/ n. 渴望
+反义词：indifference /ɪnˈdɪfərəns/ n. 冷漠
+拓展词：desire /dɪˈzaɪə/ v. 渴望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Desire is the starting point of all achievement. 渴望是所有成就的起点。
+写作提分句：Follow your desires, but control your impulses. 追随你的欲望，但控制你的冲动。
+
+------
+
+**090 appetite** /ˈæpɪtaɪt/ n. 食欲；欲望
+**一、词根词缀拆解**
+词根：pet = 寻求（拉丁语 petere）
+前缀：ad- = 向
+后缀：-ite = 名词后缀
+整体拆解：ad + pet + ite → 向食物寻求 → 食欲
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+good appetite（好胃口）
+appetite for（对……的欲望）
+lose one's appetite（失去食欲）
+**三、词性搭配用法（前接 / 后接什么）**
+appetite（名词）
+  后接 for：appetite for knowledge
+  可数/不可数
+**四、高频句型（作文直接套）**
+He has a healthy appetite. 他胃口很好。
+His appetite for success is insatiable. 他对成功的欲望是无止境的。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：appetites /ˈæpɪtaɪts/
+形容词：appetizing /ˈæpɪtaɪzɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hunger /ˈhʌŋɡə/ n. 饥饿
+反义词：disgust /dɪsˈɡʌst/ n. 厌恶
+拓展词：appetizer /ˈæpɪtaɪzə/ n. 开胃菜
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Eat only when you have an appetite. 饿了才吃。
+写作提分句：An appetite for learning is the key to growth. 学习的欲望是成长的关键。
+
+------
+
+**091 ambition** /æmˈbɪʃən/ n. 野心；抱负
+**一、词根词缀拆解**
+词根：amb = 周围（拉丁语 ambire）
+后缀：-ition = 名词后缀
+整体拆解：amb + ition → 四处走动 → 追求 → 野心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+ambition to do（做……的抱负）
+lifelong ambition（毕生的抱负）
+achieve an ambition（实现抱负）
+**三、词性搭配用法（前接 / 后接什么）**
+ambition（名词）
+  后接 to：ambition to succeed
+  后接 of：ambition of becoming a doctor
+  可数/不可数
+**四、高频句型（作文直接套）**
+His ambition is to become president. 他的抱负是成为总统。
+She has great ambition. 她有很大的抱负。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：ambitions /æmˈbɪʃənz/
+形容词：ambitious /æmˈbɪʃəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：aspiration /ˌæspəˈreɪʃən/ n. 志向
+反义词：apathy /ˈæpəθi/ n. 冷漠
+拓展词：ambitious /æmˈbɪʃəs/ adj. 有雄心的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Ambition is the path to success. 野心是通往成功的道路。
+写作提分句：Without ambition, one starts nothing. Without work, one finishes nothing. 没有抱负，一事无成；没有努力，一事无终。
+
+------
+
+**092 comfort** /ˈkʌmfət/ n. 舒适；安慰
+**一、词根词缀拆解**
+词根：fort = 强壮（拉丁语 fortis）
+前缀：com- = 一起
+整体拆解：com + fort → 一起强壮 → 安慰
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+comfort zone（舒适区）
+take comfort in（从……中得到安慰）
+comfort food（安慰食物）
+**三、词性搭配用法（前接 / 后接什么）**
+comfort（名词）
+  后接 of：comfort of home
+  后接 in：comfort in knowing
+  不可数名词
+**四、高频句型（作文直接套）**
+He lives in comfort. 他生活舒适。
+She took comfort in her friends' words. 她从朋友的话中得到安慰。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：comfortable /ˈkʌmftəbəl/
+副词：comfortably /ˈkʌmftəbli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ease /iːz/ n. 轻松
+反义词：discomfort /dɪsˈkʌmfət/ n. 不适
+拓展词：comfortable /ˈkʌmftəbəl/ adj. 舒适的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Growth happens outside your comfort zone. 成长发生在舒适区之外。
+写作提分句：Sometimes the greatest comfort is knowing you're not alone. 有时最大的安慰是知道你并不孤单。
+
+------
+
+**093 discomfort** /dɪsˈkʌmfət/ n. 不适；不安
+**一、词根词缀拆解**
+词根：fort = 强壮
+前缀：dis- = 否定
+后缀：无
+整体拆解：dis + comfort → 不舒适 → 不适
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+physical discomfort（身体不适）
+cause discomfort（引起不适）
+**三、词性搭配用法（前接 / 后接什么）**
+discomfort（名词）
+  后接 with：discomfort with the situation
+  不可数名词
+**四、高频句型（作文直接套）**
+He felt discomfort in his back. 他感到背部不适。
+The truth may cause discomfort. 真相可能会引起不适。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：discomforting /dɪsˈkʌmfətɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unease /ʌnˈiːz/ n. 不安
+反义词：comfort /ˈkʌmfət/ n. 舒适
+拓展词：uncomfortable /ʌnˈkʌmftəbəl/ adj. 不舒服的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Discomfort is a sign of growth. 不适是成长的信号。
+写作提分句：Don't shy away from discomfort; embrace it as a teacher. 不要回避不适，把它当作老师来拥抱。
+
+------
+
+**094 delight** /dɪˈlaɪt/ n. 欣喜；快乐
+**一、词根词缀拆解**
+词根：light = 光亮；轻（拉丁语 light）
+前缀：de- = 加强
+整体拆解：de + light → 使轻快 → 快乐
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take delight in（以……为乐）
+with delight（欣喜地）
+sheer delight（纯粹的快乐）
+**三、词性搭配用法（前接 / 后接什么）**
+delight（名词）
+  后接 in：delight in music
+  后接 of：delight of children
+  不可数名词
+**四、高频句型（作文直接套）**
+To his delight, he passed the exam. 令他高兴的是，他通过了考试。
+The children squealed with delight. 孩子们高兴地尖叫。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：delightful /dɪˈlaɪtfəl/
+副词：delightfully /dɪˈlaɪtfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：joy /dʒɔɪ/ n. 喜悦
+反义词：displeasure /dɪsˈpleʒə/ n. 不快
+拓展词：delight /dɪˈlaɪt/ v. 使高兴
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Find delight in the little things. 在小事中找到快乐。
+写作提分句：A simple act of kindness can bring great delight. 一个简单的善举可以带来巨大的快乐。
+
+------
+
+**095 grief** /ɡriːf/ n. 悲痛；悲伤
+**一、词根词缀拆解**
+词根：grief = 沉重（拉丁语 gravis）
+后缀：无
+整体拆解：grief → 悲痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+grief over（对……的悲痛）
+come to grief（遭遇不幸）
+good grief（天哪）
+**三、词性搭配用法（前接 / 后接什么）**
+grief（名词）
+  后接 over：grief over a loss
+  不可数名词
+**四、高频句型（作文直接套）**
+He was overcome with grief. 他悲痛欲绝。
+Time heals grief. 时间治愈悲痛。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：grievous /ˈɡriːvəs/ / grief-stricken /ˈɡriːf strɪkən/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sorrow /ˈsɒrəʊ/ n. 悲伤
+反义词：joy /dʒɔɪ/ n. 喜悦
+拓展词：grieve /ɡriːv/ v. 悲伤
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Grief is the price we pay for love. 悲伤是我们为爱付出的代价。
+写作提分句：Allow yourself to grieve; it's part of healing. 允许自己悲伤，这是疗愈的一部分。
+
+------
+
+**096 terror** /ˈterə/ n. 恐怖；恐惧
+**一、词根词缀拆解**
+词根：terr = 害怕（拉丁语 terrere）
+后缀：-or = 名词后缀
+整体拆解：terr + or → 使人害怕的东西 → 恐怖
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in terror（恐惧地）
+terror of（对……的恐惧）
+reign of terror（恐怖统治）
+**三、词性搭配用法（前接 / 后接什么）**
+terror（名词）
+  后接 of：terror of the dark
+  不可数名词
+**四、高频句型（作文直接套）**
+She screamed in terror. 她恐惧地尖叫。
+Terror spread through the crowd. 恐惧在人群中蔓延。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：terrible /ˈterəbəl/ / terrifying /ˈterɪfaɪɪŋ/
+副词：terribly /ˈterəbli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fear /fɪə/ n. 恐惧
+反义词：calm /kɑːm/ n. 平静
+拓展词：terrorist /ˈterərɪst/ n. 恐怖分子
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Terror is often born of ignorance. 恐怖常常源于无知。
+写作提分句：Face your terrors and they will lose their power. 直面你的恐惧，它们就会失去力量。
+
+------
+
+**097 panic** /ˈpænɪk/ n. 恐慌
+**一、词根词缀拆解**
+词根：pan = 潘神（希腊神话中的潘神）
+后缀：-ic = 形容词/名词后缀
+整体拆解：pan + ic → 潘神引起的恐慌 → 恐慌
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in a panic（恐慌地）
+cause panic（引起恐慌）
+panic attack（恐慌发作）
+**三、词性搭配用法（前接 / 后接什么）**
+panic（名词）
+  后接 over：panic over the news
+  不可数名词
+**四、高频句型（作文直接套）**
+Don't panic. 不要惊慌。
+The news caused widespread panic. 这个消息引起了广泛的恐慌。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：panicky /ˈpænɪki/
+动词：panic /ˈpænɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：alarm /əˈlɑːm/ n. 警报
+反义词：calm /kɑːm/ n. 平静
+拓展词：panicky /ˈpænɪki/ adj. 惊慌的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Panic only makes things worse. 恐慌只会让事情更糟。
+写作提分句：In times of crisis, don't panic; take action. 在危机时刻，不要恐慌，要采取行动。
+
+------
+
+**098 apology** /əˈpɒlədʒi/ n. 道歉
+**一、词根词缀拆解**
+词根：log = 说话（希腊语 logos）
+前缀：apo- = 远离
+后缀：-y = 名词后缀
+整体拆解：apo + log + y → 远离的话 → 辩解 → 道歉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+make an apology（道歉）
+accept an apology（接受道歉）
+apology for（为……道歉）
+**三、词性搭配用法（前接 / 后接什么）**
+apology（名词）
+  后接 for：apology for being late
+  可数名词
+**四、高频句型（作文直接套）**
+He made an apology for his mistake. 他为自己的错误道歉。
+I owe you an apology. 我应该向你道歉。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：apologies /əˈpɒlədʒiz/
+形容词：apologetic /əˌpɒləˈdʒetɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：regret /rɪˈɡret/ n. 后悔
+反义词：defiance /dɪˈfaɪəns/ n. 反抗
+拓展词：apologize /əˈpɒlədʒaɪz/ v. 道歉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：An apology is the superglue of life. 道歉是生活的强力胶。
+写作提分句：A sincere apology can heal many wounds. 真诚的道歉可以治愈许多伤口。
+
+------
+
+**099 forgiveness** /fəˈɡɪvnəs/ n. 宽恕；原谅
+**一、词根词缀拆解**
+词根：give = 给予（古英语 giefan）
+前缀：for- = 完全
+后缀：-ness = 名词后缀
+整体拆解：for + give + ness → 完全给予的状态 → 宽恕
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+ask for forgiveness（请求原谅）
+forgiveness for（对……的宽恕）
+**三、词性搭配用法（前接 / 后接什么）**
+forgiveness（名词）
+  后接 for：forgiveness for his mistakes
+  不可数名词
+**四、高频句型（作文直接套）**
+Forgiveness is a gift you give yourself. 宽恕是你给自己的礼物。
+He begged for forgiveness. 他恳求宽恕。
+**五、词形变化（词性转换题 / 写作核心）**
+动词：forgive /fəˈɡɪv/
+形容词：forgivable /fəˈɡɪvəbəl/ / unforgivable /ˌʌnfəˈɡɪvəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pardon /ˈpɑːdən/ n. 原谅
+反义词：resentment /rɪˈzentmənt/ n. 怨恨
+拓展词：forgive /fəˈɡɪv/ v. 原谅
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：To err is human; to forgive is divine. 犯错是人性，宽恕是神性。
+写作提分句：Forgiveness sets you free from the past. 宽恕让你从过去中解脱。
+
+------
+
+**100 praise** /preɪz/ n. 赞扬；赞美
+**一、词根词缀拆解**
+词根：praise = 价值（拉丁语 pretium）
+后缀：无
+整体拆解：praise → 赞扬
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in praise of（赞美）
+high praise（高度赞扬）
+give praise（给予赞扬）
+**三、词性搭配用法（前接 / 后接什么）**
+praise（名词）
+  后接 for：praise for good work
+  后接 from：praise from the boss
+  不可数名词
+**四、高频句型（作文直接套）**
+He received high praise for his work. 他的工作受到了高度赞扬。
+Praise is the best motivation. 赞扬是最好的动力。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：praiseworthy /ˈpreɪzwɜːði/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compliment /ˈkɒmplɪmənt/ n. 称赞
+反义词：criticism /ˈkrɪtɪsɪzəm/ n. 批评
+拓展词：praise /preɪz/ v. 赞扬
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Praise loudly, blame softly. 大声赞美，轻声批评。
+写作提分句：Sincere praise can transform someone's day. 真诚的赞美可以改变一个人的一天。
+
+------
+
+**101 criticism** /ˈkrɪtɪsɪzəm/ n. 批评
+**一、词根词缀拆解**
+词根：crit = 判断（希腊语 krinein）
+后缀：-icism = 名词后缀
+整体拆解：crit + icism → 判断的结果 → 批评
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+constructive criticism（建设性批评）
+open to criticism（接受批评）
+criticism of（对……的批评）
+**三、词性搭配用法（前接 / 后接什么）**
+criticism（名词）
+  后接 of：criticism of the government
+  后接 from：criticism from peers
+  可数/不可数
+**四、高频句型（作文直接套）**
+He is sensitive to criticism. 他对批评很敏感。
+Criticism can be a valuable learning tool. 批评可以是一个宝贵的学习工具。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：criticisms /ˈkrɪtɪsɪzəmz/
+形容词：critical /ˈkrɪtɪkəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：feedback /ˈfiːdbæk/ n. 反馈
+反义词：praise /preɪz/ n. 赞扬
+拓展词：criticize /ˈkrɪtɪsaɪz/ v. 批评
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Criticism is the price of visibility. 批评是引人注目的代价。
+写作提分句：Learn to accept criticism without taking it personally. 学会接受批评而不把它当成针对个人的攻击。
+
+------
+
+**102 blame** /bleɪm/ n. 责备；责任
+**一、词根词缀拆解**
+词根：blame = 亵渎（拉丁语 blasphemare）
+后缀：无
+整体拆解：blame → 责备
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take the blame（承担责任）
+put the blame on（把责任推给）
+blame for（因……而责备）
+**三、词性搭配用法（前接 / 后接什么）**
+blame（名词）
+  后接 for：blame for the accident
+  不可数名词
+**四、高频句型（作文直接套）**
+He took the blame for the mistake. 他为错误承担了责任。
+Don't put the blame on others. 不要把责任推给别人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：blameless /ˈbleɪmləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：responsibility /rɪˌspɒnsəˈbɪləti/ n. 责任
+反义词：praise /preɪz/ n. 赞扬
+拓展词：blame /bleɪm/ v. 责备
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Blame is for God and small children. 责备是上帝和小孩子的事。
+写作提分句：Instead of looking for blame, look for solutions. 不要寻找责备，要寻找解决方案。
+
+------
+
+**103 relief** /rɪˈliːf/ n. 宽慰；解脱
+**一、词根词缀拆解**
+词根：lieve = 轻（拉丁语 levis）
+前缀：re- = 再次
+后缀：-f = 名词后缀
+整体拆解：re + liev + f → 使变轻 → 解脱
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sense of relief（宽慰感）
+to one's relief（令某人宽慰的是）
+relief from（从……中解脱）
+**三、词性搭配用法（前接 / 后接什么）**
+relief（名词）
+  后接 from：relief from pain
+  后接 of：relief of symptoms
+  不可数名词
+**四、高频句型（作文直接套）**
+To my relief, the test was easy. 令我宽慰的是，考试很容易。
+He sighed with relief. 他松了口气。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：relieved /rɪˈliːvd/
+动词：relieve /rɪˈliːv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：comfort /ˈkʌmfət/ n. 安慰
+反义词：anxiety /æŋˈzaɪəti/ n. 焦虑
+拓展词：relieve /rɪˈliːv/ v. 减轻
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Relief is the sweetest emotion after a storm. 暴风雨后，宽慰是最甜美的情感。
+写作提分句：Finding a solution brings great relief. 找到解决方案带来巨大的宽慰。
+
+------
+
+**104 tension** /ˈtenʃən/ n. 紧张；张力
+**一、词根词缀拆解**
+词根：tens = 拉伸（拉丁语 tendere）
+后缀：-ion = 名词后缀
+整体拆解：tens + ion → 拉伸的状态 → 张力
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+reduce tension（缓解紧张）
+tension between（……之间的紧张关系）
+nerve tension（神经紧张）
+**三、词性搭配用法（前接 / 后接什么）**
+tension（名词）
+  后接 between：tension between the two
+  后接 over：tension over the issue
+  不可数名词
+**四、高频句型（作文直接套）**
+There is tension in the room. 房间里气氛紧张。
+Exercise helps relieve tension. 运动有助于缓解紧张。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：tense /tens/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：stress /stres/ n. 压力
+反义词：relaxation /ˌriːlækˈseɪʃən/ n. 放松
+拓展词：tense /tens/ adj. 紧张的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Tension is often the result of unmet expectations. 紧张常常是期望未得到满足的结果。
+写作提分句：Learn to release tension through deep breathing. 学会通过深呼吸释放紧张。
+
+------
+
+**105 sympathy** /ˈsɪmpəθi/ n. 同情；同情心
+**一、词根词缀拆解**
+词根：path = 感觉；痛苦（希腊语 pathos）
+前缀：sym- = 一起
+后缀：-y = 名词后缀
+整体拆解：sym + path + y → 一起感受 → 同情
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sympathy for（对……的同情）
+express sympathy（表达同情）
+have sympathy with（对……有同情心）
+**三、词性搭配用法（前接 / 后接什么）**
+sympathy（名词）
+  后接 for：sympathy for the victims
+  不可数名词
+**四、高频句型（作文直接套）**
+I have no sympathy for him. 我对他毫无同情。
+She expressed her sympathy for the family. 她向那家人表达了同情。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sympathetic /ˌsɪmpəˈθetɪk/
+副词：sympathetically /ˌsɪmpəˈθetɪkli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compassion /kəmˈpæʃən/ n. 怜悯
+反义词：apathy /ˈæpəθi/ n. 冷漠
+拓展词：empathy /ˈempəθi/ n. 共情
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sympathy is a kind ear. 同情是一只善听的耳朵。
+写作提分句：A word of sympathy can lighten a heavy heart. 一句同情的话可以减轻沉重的心。
+
+------
+
+**106 empathy** /ˈempəθi/ n. 共情；同理心
+**一、词根词缀拆解**
+词根：path = 感觉；痛苦
+前缀：em- = 进入
+后缀：-y = 名词后缀
+整体拆解：em + path + y → 进入他人的感受 → 共情
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+show empathy（表现出共情）
+empathy for（对……的共情）
+lack of empathy（缺乏同理心）
+**三、词性搭配用法（前接 / 后接什么）**
+empathy（名词）
+  后接 for：empathy for others
+  后接 with：empathy with someone's situation
+  不可数名词
+**四、高频句型（作文直接套）**
+Empathy is the ability to understand another's feelings. 共情是理解他人感受的能力。
+He has no empathy for others. 他对他人没有同理心。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：empathetic /ˌempəˈθetɪk/ / empathic /emˈpæθɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compassion /kəmˈpæʃən/ n. 怜悯
+反义词：apathy /ˈæpəθi/ n. 冷漠
+拓展词：sympathy /ˈsɪmpəθi/ n. 同情
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Empathy is seeing with the eyes of another. 共情是用他人的眼睛看世界。
+写作提分句：Empathy builds bridges where walls once stood. 共情在有墙的地方架起桥梁。
+
+------
+
+**107 compassion** /kəmˈpæʃən/ n. 怜悯；同情心
+**一、词根词缀拆解**
+词根：pass = 忍受；感觉（拉丁语 pati）
+前缀：com- = 一起
+后缀：-ion = 名词后缀
+整体拆解：com + pass + ion → 一起忍受 → 同情
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+show compassion（表现出同情心）
+compassion for（对……的怜悯）
+with compassion（满怀同情地）
+**三、词性搭配用法（前接 / 后接什么）**
+compassion（名词）
+  后接 for：compassion for the suffering
+  不可数名词
+**四、高频句型（作文直接套）**
+Compassion is the basis of all morality. 同情是所有道德的基础。
+He treated the sick with compassion. 他满怀同情地对待病人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：compassionate /kəmˈpæʃənət/
+副词：compassionately /kəmˈpæʃənətli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mercy /ˈmɜːsi/ n. 慈悲
+反义词：cruelty /ˈkruːəlti/ n. 残忍
+拓展词：compassionate /kəmˈpæʃənət/ adj. 有同情心的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Compassion is the greatest virtue. 同情是最大的美德。
+写作提分句：A little compassion goes a long way. 一点点的同情心大有作用。
+
+------
+
+**108 mercy** /ˈmɜːsi/ n. 慈悲；怜悯
+**一、词根词缀拆解**
+词根：merc = 奖励；怜悯（拉丁语 merces）
+后缀：-y = 名词后缀
+整体拆解：merc + y → 怜悯
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+have mercy on（对……有怜悯）
+at the mercy of（任由……摆布）
+mercy killing（安乐死）
+**三、词性搭配用法（前接 / 后接什么）**
+mercy（名词）
+  后接 on：mercy on the poor
+  不可数名词
+**四、高频句型（作文直接套）**
+God have mercy on us. 愿上帝怜悯我们。
+They were at the mercy of the storm. 他们任由暴风雨摆布。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：merciful /ˈmɜːsɪfəl/
+副词：mercifully /ˈmɜːsɪfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compassion /kəmˈpæʃən/ n. 同情
+反义词：cruelty /ˈkruːəlti/ n. 残忍
+拓展词：merciful /ˈmɜːsɪfəl/ adj. 仁慈的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Mercy is the mark of a great man. 慈悲是伟人的标志。
+写作提分句：Show mercy, for you may one day need it. 要慈悲，因为你有一天可能需要它。
+
+------
+
+**109 gratitude** /ˈɡrætɪtjuːd/ n. 感恩；感激
+**一、词根词缀拆解**
+词根：grat = 感谢；愉快（拉丁语 gratus）
+后缀：-itude = 名词后缀
+整体拆解：grat + itude → 感谢的状态 → 感恩
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+express gratitude（表达感激）
+gratitude for（对……的感激）
+with gratitude（感激地）
+**三、词性搭配用法（前接 / 后接什么）**
+gratitude（名词）
+  后接 for：gratitude for your help
+  后接 to：gratitude to God
+  不可数名词
+**四、高频句型（作文直接套）**
+I owe you a debt of gratitude. 我欠你一份感激之情。
+Gratitude turns what we have into enough. 感恩把我们拥有的变成足够的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：grateful /ˈɡreɪtfəl/
+副词：gratefully /ˈɡreɪtfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thanks /θæŋks/ n. 感谢
+反义词：ingratitude /ɪnˈɡrætɪtjuːd/ n. 忘恩负义
+拓展词：grateful /ˈɡreɪtfəl/ adj. 感激的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Gratitude is the memory of the heart. 感恩是心灵的记忆。
+写作提分句：Practice gratitude daily; it changes your perspective. 每天练习感恩，它会改变你的视角。
+
+------
+
+**110 grace** /ɡreɪs/ n. 优雅；恩典
+**一、词根词缀拆解**
+词根：grace = 恩惠；感激（拉丁语 gratia）
+后缀：无
+整体拆解：grace → 优雅
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+with grace（优雅地）
+fall from grace（失宠）
+saving grace（可取之处）
+**三、词性搭配用法（前接 / 后接什么）**
+grace（名词）
+  后接 of：grace of God
+  不可数名词
+**四、高频句型（作文直接套）**
+She danced with grace. 她优雅地跳舞。
+He handled the situation with grace. 他优雅地处理了局面。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：graceful /ˈɡreɪsfəl/
+副词：gracefully /ˈɡreɪsfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：elegance /ˈelɪɡəns/ n. 优雅
+反义词：clumsiness /ˈklʌmzinəs/ n. 笨拙
+拓展词：gracious /ˈɡreɪʃəs/ adj. 亲切的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There but for the grace of God go I. 要不是上帝的恩典，我也会那样。
+写作提分句：Accept defeat with grace and victory with humility. 优雅地接受失败，谦逊地接受胜利。
+
+------
+
+**111 dignity** /ˈdɪɡnəti/ n. 尊严
+**一、词根词缀拆解**
+词根：dign = 值得（拉丁语 dignus）
+后缀：-ity = 名词后缀
+整体拆解：dign + ity → 值得尊敬的状态 → 尊严
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+human dignity（人的尊严）
+with dignity（有尊严地）
+lose one's dignity（失去尊严）
+**三、词性搭配用法（前接 / 后接什么）**
+dignity（名词）
+  后接 of：dignity of the individual
+  不可数名词
+**四、高频句型（作文直接套）**
+All humans have inherent dignity. 所有人都有与生俱来的尊严。
+He faced his fate with dignity. 他尊严地面对命运。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dignified /ˈdɪɡnɪfaɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：self-respect /ˌself rɪˈspekt/ n. 自尊
+反义词：humiliation /hjuːˌmɪliˈeɪʃən/ n. 羞辱
+拓展词：dignify /ˈdɪɡnɪfaɪ/ v. 使有尊严
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Dignity is not negotiable. 尊严不可妥协。
+写作提分句：Treat everyone with dignity, regardless of their status. 无论地位高低，以尊严对待每个人。
+
+------
+
+**112 honour** /ˈɒnə/ n. 荣誉；尊敬
+**一、词根词缀拆解**
+词根：honour = 荣誉（拉丁语 honos）
+后缀：无
+整体拆解：honour → 荣誉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in honour of（为了纪念……）
+point of honour（名誉攸关的问题）
+honour system（诚信制度）
+**三、词性搭配用法（前接 / 后接什么）**
+honour（名词）
+  后接 of：honour of the family
+  后接 to：honour to his name
+  不可数名词
+**四、高频句型（作文直接套）**
+It's an honour to meet you. 很荣幸见到你。
+He is a man of honour. 他是一个有荣誉感的人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：honourable /ˈɒnərəbəl/
+副词：honourably /ˈɒnərəbli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：glory /ˈɡlɔːri/ n. 光荣
+反义词：shame /ʃeɪm/ n. 耻辱
+拓展词：honour /ˈɒnə/ v. 尊敬
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Honour is the reward of virtue. 荣誉是美德的回报。
+写作提分句：Your word is your honour; keep it. 你的承诺就是你的荣誉，要遵守它。
+
+------
+
+**113 shame** /ʃeɪm/ n. 羞耻；遗憾（已在043出现，此处为扩展）
+**一、词根词缀拆解**
+词根：shame = 羞愧（古英语 sceamu）
+后缀：无
+整体拆解：shame → 羞耻
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bring shame on（给……带来耻辱）
+put to shame（使……相形见绌）
+what a shame（真遗憾）
+**三、词性搭配用法（前接 / 后接什么）**
+shame（名词）
+  后接 of：shame of failure
+  不可数名词
+**四、高频句型（作文直接套）**
+What a shame! 真可惜！
+He brought shame to his family. 他给家人带来了耻辱。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：shameful /ˈʃeɪmfəl/ / ashamed /əˈʃeɪmd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：disgrace /dɪsˈɡreɪs/ n. 耻辱
+反义词：pride /praɪd/ n. 骄傲
+拓展词：shameful /ˈʃeɪmfəl/ adj. 可耻的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Shame is a prison. 羞耻是一座监狱。
+写作提分句：Let go of shame; it serves no purpose. 放下羞耻，它毫无用处。
+
+------
+
+**114 guilt** /ɡɪlt/ n. 内疚；罪行
+**一、词根词缀拆解**
+词根：guilt = 罪行（古英语 gylt）
+后缀：无
+整体拆解：guilt → 内疚
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sense of guilt（内疚感）
+guilt of（……的罪行）
+admit guilt（认罪）
+**三、词性搭配用法（前接 / 后接什么）**
+guilt（名词）
+  后接 of：guilt of the accused
+  后接 about：guilt about the past
+  不可数名词
+**四、高频句型（作文直接套）**
+He was consumed with guilt. 他被内疚感吞噬。
+The guilt is all mine. 全是我的错。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：guilty /ˈɡɪlti/
+副词：guiltily /ˈɡɪltɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：remorse /rɪˈmɔːs/ n. 悔恨
+反义词：innocence /ˈɪnəsəns/ n. 清白
+拓展词：guilty /ˈɡɪlti/ adj. 内疚的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Guilt is a burden, not a punishment. 内疚是负担，不是惩罚。
+写作提分句：Don't carry guilt for things you cannot change. 不要为你无法改变的事情背负内疚。
+
+------
+
+**115 innocence** /ˈɪnəsəns/ n. 清白；天真
+**一、词根词缀拆解**
+词根：noc = 伤害（拉丁语 nocere）
+前缀：in- = 不
+后缀：-ence = 名词后缀
+整体拆解：in + noc + ence → 没有伤害的状态 → 清白
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+presumption of innocence（无罪推定）
+childhood innocence（童年的纯真）
+prove one's innocence（证明清白）
+**三、词性搭配用法（前接 / 后接什么）**
+innocence（名词）
+  后接 of：innocence of a child
+  不可数名词
+**四、高频句型（作文直接套）**
+He maintained his innocence. 他坚持自己无罪。
+Innocence is a precious thing. 纯真是珍贵的东西。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：innocent /ˈɪnəsənt/
+副词：innocently /ˈɪnəsəntli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：purity /ˈpjʊərəti/ n. 纯洁
+反义词：guilt /ɡɪlt/ n. 内疚
+拓展词：innocent /ˈɪnəsənt/ adj. 清白的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Innocence is the first casualty of war. 无辜是战争的第一个牺牲品。
+写作提分句：Protect the innocence of children. 保护孩子的纯真。
+
+------
+
+**116 jealousy** /ˈdʒeləsi/ n. 嫉妒
+**一、词根词缀拆解**
+词根：jealous = 嫉妒（拉丁语 zelus）
+后缀：-y = 名词后缀
+整体拆解：jealous + y → 嫉妒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+jealousy of（对……的嫉妒）
+out of jealousy（出于嫉妒）
+green with jealousy（妒火中烧）
+**三、词性搭配用法（前接 / 后接什么）**
+jealousy（名词）
+  后接 of：jealousy of her success
+  不可数名词
+**四、高频句型（作文直接套）**
+Jealousy is the enemy of happiness. 嫉妒是幸福的大敌。
+His success aroused jealousy. 他的成功引起了嫉妒。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：jealous /ˈdʒeləs/
+副词：jealously /ˈdʒeləsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：envy /ˈenvi/ n. 嫉妒
+反义词：admiration /ˌædməˈreɪʃən/ n. 钦佩
+拓展词：jealous /ˈdʒeləs/ adj. 嫉妒的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Jealousy is the art of counting someone else's blessings instead of your own. 嫉妒是数算他人福气而不是自己福气的艺术。
+写作提分句：Let go of jealousy; focus on your own growth. 放下嫉妒，专注于自己的成长。
+
+------
+
+**117 envy** /ˈenvi/ n. 嫉妒；羡慕
+**一、词根词缀拆解**
+词根：envy = 嫉妒（拉丁语 invidia）
+后缀：无
+整体拆解：envy → 嫉妒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+green with envy（非常嫉妒）
+envy of（……的嫉妒）
+out of envy（出于嫉妒）
+**三、词性搭配用法（前接 / 后接什么）**
+envy（名词）
+  后接 of：envy of his success
+  后接 at：envy at her beauty
+  不可数名词
+**四、高频句型（作文直接套）**
+He is the envy of all his friends. 他是所有朋友羡慕的对象。
+Envy is a waste of time. 嫉妒是浪费时间。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：envious /ˈenviəs/
+副词：enviously /ˈenviəsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：jealousy /ˈdʒeləsi/ n. 嫉妒
+反义词：admiration /ˌædməˈreɪʃən/ n. 钦佩
+拓展词：envious /ˈenviəs/ adj. 嫉妒的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Envy is ignorance. 嫉妒是无知。
+写作提分句：Instead of envying others, learn from them. 与其嫉妒他人，不如向他们学习。
+
+------
+
+**118 sorrow** /ˈsɒrəʊ/ n. 悲痛（已在029出现，此处为扩展）
+**一、词根词缀拆解**
+词根：sorrow = 痛苦（古英语 sorg）
+后缀：无
+整体拆解：sorrow → 悲痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sorrow over（对……的悲痛）
+deep sorrow（深深的悲痛）
+**三、词性搭配用法（前接 / 后接什么）**
+sorrow（名词）
+  后接 over/at：sorrow over her death
+  不可数名词
+**四、高频句型（作文直接套）**
+Sorrow is the price of love. 悲痛是爱的代价。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sorrowful /ˈsɒrəʊfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grief /ɡriːf/ n. 悲痛
+反义词：joy /dʒɔɪ/ n. 喜悦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Shared sorrow is half sorrow. 分担的悲痛是半份悲痛。
+写作提分句：Sorrow deepens the capacity for joy. 悲痛加深了感受快乐的能力。
+
+------
+
+**119 grief** /ɡriːf/ n. 悲痛（已在095出现，此处为扩展）
+**一、词根词缀拆解**
+词根：grief = 沉重
+后缀：无
+整体拆解：grief → 悲痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+come to grief（遭遇不幸）
+good grief（天哪）
+**三、词性搭配用法（前接 / 后接什么）**
+grief（名词）
+  后接 over：grief over a loss
+**四、高频句型（作文直接套）**
+Grief is the price of love. 悲痛是爱的代价。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：grievous /ˈɡriːvəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sorrow /ˈsɒrəʊ/ n. 悲痛
+反义词：joy /dʒɔɪ/ n. 喜悦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Grief is a journey, not a destination. 悲痛是一段旅程，不是终点。
+写作提分句：Allow yourself to grieve; it's part of healing. 允许自己悲伤，这是疗愈的一部分。
+
+------
+
+**120 despair** /dɪˈspeə/ n. 绝望
+**一、词根词缀拆解**
+词根：spair = 希望（拉丁语 sperare）
+前缀：de- = 否定
+后缀：无
+整体拆解：de + spair → 没有希望 → 绝望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in despair（绝望地）
+despair of（对……绝望）
+depth of despair（绝望的深渊）
+**三、词性搭配用法（前接 / 后接什么）**
+despair（名词）
+  后接 of：despair of the situation
+  不可数名词
+**四、高频句型（作文直接套）**
+He gave up in despair. 他绝望地放弃了。
+Despair is the enemy of progress. 绝望是进步的大敌。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：desperate /ˈdespərət/
+副词：desperately /ˈdespərətli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hopelessness /ˈhəʊpləsnəs/ n. 绝望
+反义词：hope /həʊp/ n. 希望
+拓展词：desperate /ˈdespərət/ adj. 绝望的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Despair is the death of ambition. 绝望是野心的死亡。
+写作提分句：Even in despair, there is a glimmer of hope. 即使在绝望中，也有一线希望。
+
+------
+
+**121 hope** /həʊp/ n. 希望（已在018出现，此处为扩展）
+**一、词根词缀拆解**
+词根：hope = 希望
+后缀：无
+整体拆解：hope → 希望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hope for（对……的希望）
+lose hope（失去希望）
+**三、词性搭配用法（前接 / 后接什么）**
+hope（名词）
+  后接 of：hope of success
+**四、高频句型（作文直接套）**
+Hope is the last thing that dies. 希望是最后死去的东西。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：hopeful /ˈhəʊpfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：optimism /ˈɒptɪmɪzəm/ n. 乐观
+反义词：despair /dɪˈspeə/ n. 绝望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hope is a waking dream. 希望是清醒的梦。
+写作提分句：Hope keeps us going when everything else fails. 当一切失败时，希望让我们继续前进。
+
+------
+
+**122 optimism** /ˈɒptɪmɪzəm/ n. 乐观
+**一、词根词缀拆解**
+词根：opt = 希望；选择（拉丁语 optare）
+后缀：-imism = 名词后缀
+整体拆解：opt + imism → 往好处想 → 乐观
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+optimism about（对……的乐观）
+cautious optimism（谨慎的乐观）
+**三、词性搭配用法（前接 / 后接什么）**
+optimism（名词）
+  后接 about：optimism about the future
+  不可数名词
+**四、高频句型（作文直接套）**
+Optimism is the faith that leads to achievement. 乐观是引领成就的信念。
+He is full of optimism. 他充满乐观。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：optimistic /ˌɒptɪˈmɪstɪk/
+副词：optimistically /ˌɒptɪˈmɪstɪkli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hopefulness /ˈhəʊpfəlnəs/ n. 有希望
+反义词：pessimism /ˈpesɪmɪzəm/ n. 悲观
+拓展词：optimist /ˈɒptɪmɪst/ n. 乐观主义者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Optimism is the best medicine. 乐观是最好的良药。
+写作提分句：Optimism doesn't ignore problems; it believes in solutions. 乐观不是忽视问题，而是相信有解决方案。
+
+------
+
+**123 pessimism** /ˈpesɪmɪzəm/ n. 悲观
+**一、词根词缀拆解**
+词根：pessim = 最坏（拉丁语 pessimus）
+后缀：-ism = 主义
+整体拆解：pessim + ism → 认为最坏的主义 → 悲观
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+pessimism about（对……的悲观）
+overcome pessimism（克服悲观）
+**三、词性搭配用法（前接 / 后接什么）**
+pessimism（名词）
+  后接 about：pessimism about the economy
+  不可数名词
+**四、高频句型（作文直接套）**
+Pessimism is a self-fulfilling prophecy. 悲观是自我实现的预言。
+His pessimism affects everyone. 他的悲观影响了所有人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：pessimistic /ˌpesɪˈmɪstɪk/
+副词：pessimistically /ˌpesɪˈmɪstɪkli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hopelessness /ˈhəʊpləsnəs/ n. 绝望
+反义词：optimism /ˈɒptɪmɪzəm/ n. 乐观
+拓展词：pessimist /ˈpesɪmɪst/ n. 悲观主义者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pessimism is a waste of energy. 悲观是浪费精力。
+写作提分句：Don't let pessimism rob you of opportunities. 不要让悲观夺走你的机会。
+
+------
+
+**124 humor** /ˈhjuːmə/ n. 幽默
+**一、词根词缀拆解**
+词根：hum = 潮湿（拉丁语 humor）
+后缀：-or
+整体拆解：hum + or → 体液 → 气质 → 幽默
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sense of humor（幽默感）
+black humor（黑色幽默）
+good humor（好心情）
+**三、词性搭配用法（前接 / 后接什么）**
+humor（名词）
+  后接 of：humor of the situation
+  不可数名词
+**四、高频句型（作文直接套）**
+A sense of humor is important in life. 幽默感在生活中很重要。
+He has a great sense of humor. 他很有幽默感。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：humorous /ˈhjuːmərəs/
+副词：humorously /ˈhjuːmərəsli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：wit /wɪt/ n. 机智
+反义词：seriousness /ˈsɪəriəsnəs/ n. 严肃
+拓展词：humorous /ˈhjuːmərəs/ adj. 幽默的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Humor is the great thing, the saving thing. 幽默是伟大的，是拯救的东西。
+写作提分句：Humor can turn a difficult situation into a manageable one. 幽默可以把困难的情况变成可控的。
+
+------
+
+**125 wit** /wɪt/ n. 机智；风趣
+**一、词根词缀拆解**
+词根：wit = 知道（古英语 witan）
+后缀：无
+整体拆解：wit → 智慧 → 机智
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+quick wit（敏捷的机智）
+wit and humor（机智与幽默）
+at one's wit's end（智穷计尽）
+**三、词性搭配用法（前接 / 后接什么）**
+wit（名词）
+  后接 of：wit of the speaker
+  不可数名词
+**四、高频句型（作文直接套）**
+He is known for his quick wit. 他以机智敏捷而闻名。
+I'm at my wit's end. 我智穷计尽了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：witty /ˈwɪti/
+副词：wittily /ˈwɪtɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：cleverness /ˈklevənəs/ n. 聪明
+反义词：dullness /ˈdʌlnəs/ n. 迟钝
+拓展词：witty /ˈwɪti/ adj. 机智的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Wit is the salt of conversation. 机智是谈话的盐。
+写作提分句：Use your wit to solve problems, not to hurt others. 用你的机智解决问题，而不是伤害他人。
+
+------
+
+**126 fantasy** /ˈfæntəsi/ n. 幻想
+**一、词根词缀拆解**
+词根：phant = 显现（希腊语 phantasia）
+后缀：-asy
+整体拆解：phant + asy → 想象出来的东西 → 幻想
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fantasy world（幻想世界）
+live in a fantasy（活在幻想中）
+**三、词性搭配用法（前接 / 后接什么）**
+fantasy（名词）
+  后接 of：fantasy of success
+  可数/不可数
+**四、高频句型（作文直接套）**
+Fantasy is the playground of the mind. 幻想是心灵的游乐场。
+He lives in a fantasy world. 他活在幻想世界里。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：fantasies /ˈfæntəsiz/
+形容词：fantastic /fænˈtæstɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dream /driːm/ n. 梦
+反义词：reality /riˈæləti/ n. 现实
+拓展词：fantasize /ˈfæntəsaɪz/ v. 幻想
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Fantasy is necessary for creativity. 幻想对创造力是必要的。
+写作提分句：Don't let fantasy replace reality; use it to inspire action. 不要让幻想取代现实，用它来激发行动。
+
+------
+
+**127 reality** /riˈæləti/ n. 现实
+**一、词根词缀拆解**
+词根：real = 真实（拉丁语 res）
+后缀：-ity = 名词后缀
+整体拆解：real + ity → 真实的状态 → 现实
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+face reality（面对现实）
+in reality（实际上）
+reality check（现实检验）
+**三、词性搭配用法（前接 / 后接什么）**
+reality（名词）
+  后接 of：reality of the situation
+  可数/不可数
+**四、高频句型（作文直接套）**
+Face reality, then change it. 面对现实，然后改变它。
+In reality, things are different. 实际上，情况不同。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：realities /riˈælətiz/
+形容词：real /rɪəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：actuality /ˌæktʃuˈæləti/ n. 现实
+反义词：fantasy /ˈfæntəsi/ n. 幻想
+拓展词：realize /ˈrɪəlaɪz/ v. 意识到
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Reality is often stranger than fiction. 现实往往比小说更离奇。
+写作提分句：Accepting reality is the first step to changing it. 接受现实是改变现实的第一步。
+
+------
+
+**128 memory** /ˈmeməri/ n. 记忆
+**一、词根词缀拆解**
+词根：memor = 记住（拉丁语 memor）
+后缀：-y = 名词后缀
+整体拆解：memor + y → 记住的东西 → 记忆
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in memory of（为了纪念……）
+short-term memory（短期记忆）
+childhood memory（童年记忆）
+**三、词性搭配用法（前接 / 后接什么）**
+memory（名词）
+  后接 of：memory of the past
+  可数/不可数
+**四、高频句型（作文直接套）**
+Memory is the treasure of the mind. 记忆是心灵的宝藏。
+I have fond memories of my childhood. 我对童年有美好的回忆。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：memories /ˈmeməriz/
+形容词：memorable /ˈmemərəbəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：recollection /ˌrekəˈlekʃən/ n. 回忆
+反义词：forgetfulness /fəˈɡetfəlnəs/ n. 健忘
+拓展词：memorize /ˈmeməraɪz/ v. 记忆
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Memory is the diary we all carry with us. 记忆是我们随身携带的日记。
+写作提分句：Cherish good memories; learn from bad ones. 珍惜美好的记忆，从糟糕的记忆中学习。
+
+------
+
+**129 imagination** /ɪˌmædʒɪˈneɪʃən/ n. 想象力
+**一、词根词缀拆解**
+词根：imag = 图像（拉丁语 imago）
+后缀：-ination = 名词后缀
+整体拆解：imag + ination → 形成图像的能力 → 想象力
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+use your imagination（运用想象力）
+rich imagination（丰富的想象力）
+beyond imagination（超乎想象）
+**三、词性搭配用法（前接 / 后接什么）**
+imagination（名词）
+  后接 of：imagination of a child
+  不可数名词
+**四、高频句型（作文直接套）**
+Imagination is more important than knowledge. 想象力比知识更重要。
+Use your imagination to solve problems. 用你的想象力解决问题。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：imaginative /ɪˈmædʒɪnətɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：creativity /ˌkriːeɪˈtɪvəti/ n. 创造力
+反义词：reality /riˈæləti/ n. 现实
+拓展词：imagine /ɪˈmædʒɪn/ v. 想象
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Imagination is the beginning of creation. 想象是创造的开始。
+写作提分句：Let your imagination run wild, but keep your feet on the ground. 让你的想象力自由驰骋，但要脚踏实地。
+
+------
+
+**130 intuition** /ˌɪntjuˈɪʃən/ n. 直觉
+**一、词根词缀拆解**
+词根：tuit = 看；保护（拉丁语 tueri）
+前缀：in- = 向内
+后缀：-ion = 名词后缀
+整体拆解：in + tuit + ion → 向内看的能力 → 直觉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+intuition about（关于……的直觉）
+trust your intuition（相信你的直觉）
+woman's intuition（女人的直觉）
+**三、词性搭配用法（前接 / 后接什么）**
+intuition（名词）
+  后接 about：intuition about people
+  后接 that：intuition that something is wrong
+  可数/不可数
+**四、高频句型（作文直接套）**
+Trust your intuition. 相信你的直觉。
+My intuition told me not to go. 我的直觉告诉我不要去。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：intuitive /ɪnˈtjuːɪtɪv/
+副词：intuitively /ɪnˈtjuːɪtɪvli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：instinct /ˈɪnstɪŋkt/ n. 本能
+反义词：reason /ˈriːzən/ n. 理性
+拓展词：intuitive /ɪnˈtjuːɪtɪv/ adj. 直觉的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Intuition is reason in a hurry. 直觉是匆忙的理性。
+写作提分句：Balance intuition with logic for the best decisions. 用直觉和逻辑平衡来做出最佳决定。
+
+------
+
+**131 inspiration** /ˌɪnspəˈreɪʃən/ n. 灵感；鼓舞
+**一、词根词缀拆解**
+词根：spir = 呼吸；精神（拉丁语 spirare）
+前缀：in- = 向内
+后缀：-ation = 名词后缀
+整体拆解：in + spir + ation → 吸入精神 → 灵感
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+source of inspiration（灵感来源）
+draw inspiration from（从……汲取灵感）
+inspiration for（……的灵感）
+**三、词性搭配用法（前接 / 后接什么）**
+inspiration（名词）
+  后接 for：inspiration for the poem
+  后接 to：inspiration to others
+  可数/不可数
+**四、高频句型（作文直接套）**
+Nature is a great source of inspiration. 大自然是一个伟大的灵感来源。
+His words were an inspiration to all. 他的话鼓舞了所有人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：inspirational /ˌɪnspəˈreɪʃənəl/
+动词：inspire /ɪnˈspaɪə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：motivation /ˌməʊtɪˈveɪʃən/ n. 动力
+反义词：discouragement /dɪsˈkʌrɪdʒmənt/ n. 气馁
+拓展词：inspire /ɪnˈspaɪə/ v. 鼓舞
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Inspiration exists, but it has to find you working. 灵感存在，但它必须找到你在工作。
+写作提分句：Be an inspiration to others by living your best life. 通过过最好的生活来激励他人。
+
+------
+
+**132 motivation** /ˌməʊtɪˈveɪʃən/ n. 动机；动力
+**一、词根词缀拆解**
+词根：mot = 移动（拉丁语 movere）
+后缀：-ivation = 名词后缀
+整体拆解：mot + ivation → 推动的东西 → 动力
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+motivation for（……的动机）
+lack of motivation（缺乏动力）
+intrinsic motivation（内在动机）
+**三、词性搭配用法（前接 / 后接什么）**
+motivation（名词）
+  后接 for：motivation for learning
+  后接 to：motivation to succeed
+  可数/不可数
+**四、高频句型（作文直接套）**
+Success requires motivation. 成功需要动力。
+His motivation was to help others. 他的动机是帮助他人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：motivational /ˌməʊtɪˈveɪʃənəl/
+动词：motivate /ˈməʊtɪveɪt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：drive /draɪv/ n. 驱动力
+反义词：apathy /ˈæpəθi/ n. 冷漠
+拓展词：motivate /ˈməʊtɪveɪt/ v. 激励
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Motivation is what gets you started; habit is what keeps you going. 动力让你开始，习惯让你继续。
+写作提分句：Find your motivation deep within yourself. 在你内心深处找到你的动力。
+
+------
+
+**133 determination** /dɪˌtɜːmɪˈneɪʃən/ n. 决心
+**一、词根词缀拆解**
+词根：term = 界限；结束（拉丁语 terminus）
+前缀：de- = 向下
+后缀：-ation = 名词后缀
+整体拆解：de + termin + ation → 定下界限 → 决心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+determination to do（做……的决心）
+strong determination（坚定的决心）
+show determination（表现出决心）
+**三、词性搭配用法（前接 / 后接什么）**
+determination（名词）
+  后接 to：determination to win
+  不可数名词
+**四、高频句型（作文直接套）**
+Determination is the key to success. 决心是成功的关键。
+He showed great determination. 他表现出极大的决心。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：determined /dɪˈtɜːmɪnd/
+副词：determinedly /dɪˈtɜːmɪndli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：resolve /rɪˈzɒlv/ n. 决心
+反义词：indecision /ˌɪndɪˈsɪʒən/ n. 犹豫
+拓展词：determine /dɪˈtɜːmɪn/ v. 决定
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Determination is the fire that burns through obstacles. 决心是烧穿障碍的火焰。
+写作提分句：With determination, anything is possible. 有决心，一切皆有可能。
+
+------
+
+**134 will** /wɪl/ n. 意志；意愿
+**一、词根词缀拆解**
+词根：will = 愿望；意志（古英语 willa）
+后缀：无
+整体拆解：will → 意志
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strong will（坚强的意志）
+will power（意志力）
+free will（自由意志）
+**三、词性搭配用法（前接 / 后接什么）**
+will（名词）
+  后接 to：will to live
+  可数/不可数
+**四、高频句型（作文直接套）**
+Where there's a will, there's a way. 有志者事竟成。
+He has a strong will. 他有坚强的意志。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：willful /ˈwɪlfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：determination /dɪˌtɜːmɪˈneɪʃən/ n. 决心
+反义词：hesitation /ˌhezɪˈteɪʃən/ n. 犹豫
+拓展词：willing /ˈwɪlɪŋ/ adj. 愿意的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The will to win is important, but the will to prepare is vital. 赢的意愿很重要，但准备的意愿至关重要。
+写作提分句：Train your will like a muscle. 像锻炼肌肉一样锻炼你的意志。
+
+------
+
+**135 spirit** /ˈspɪrɪt/ n. 精神；心灵
+**一、词根词缀拆解**
+词根：spir = 呼吸（拉丁语 spirare）
+后缀：-it = 名词后缀
+整体拆解：spir + it → 呼吸的东西 → 精神
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+team spirit（团队精神）
+in high spirits（情绪高涨）
+fighting spirit（战斗精神）
+**三、词性搭配用法（前接 / 后接什么）**
+spirit（名词）
+  后接 of：spirit of cooperation
+  可数/不可数
+**四、高频句型（作文直接套）**
+The spirit is willing, but the flesh is weak. 心有余而力不足。
+He has an indomitable spirit. 他有不屈不挠的精神。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：spiritual /ˈspɪrɪtʃuəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：soul /səʊl/ n. 灵魂
+反义词：body /ˈbɒdi/ n. 身体
+拓展词：spiritual /ˈspɪrɪtʃuəl/ adj. 精神的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The human spirit is stronger than any obstacle. 人类精神比任何障碍都强大。
+写作提分句：Keep your spirit high, even when times are tough. 即使在艰难时期，也要保持高昂的精神。
+
+------
+
+**136 soul** /səʊl/ n. 灵魂
+**一、词根词缀拆解**
+词根：soul = 灵魂（古英语 sawol）
+后缀：无
+整体拆解：soul → 灵魂
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+body and soul（身心）
+sell one's soul（出卖灵魂）
+kindred soul（志趣相投的人）
+**三、词性搭配用法（前接 / 后接什么）**
+soul（名词）
+  后接 of：soul of the city
+  可数名词
+**四、高频句型（作文直接套）**
+Music is the food of the soul. 音乐是灵魂的食粮。
+He is a kind soul. 他是一个善良的人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：soulful /ˈsəʊlfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：spirit /ˈspɪrɪt/ n. 精神
+反义词：body /ˈbɒdi/ n. 身体
+拓展词：soulful /ˈsəʊlfəl/ adj. 深情的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The soul is the essence of who we are. 灵魂是我们的本质。
+写作提分句：Feed your soul with art, music, and nature. 用艺术、音乐和大自然滋养你的灵魂。
+
+------
+
+**137 character** /ˈkærɪktə/ n. 性格；品格
+**一、词根词缀拆解**
+词根：char = 刻；标记（希腊语 kharakter）
+后缀：-acter
+整体拆解：char + acter → 刻下的标记 → 特征 → 性格
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strength of character（品格的力量）
+good character（好品格）
+moral character（道德品格）
+**三、词性搭配用法（前接 / 后接什么）**
+character（名词）
+  后接 of：character of a person
+  可数/不可数
+**四、高频句型（作文直接套）**
+Character is destiny. 性格即命运。
+He is a man of good character. 他是一个品格良好的人。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：characteristic /ˌkærəktəˈrɪstɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：personality /ˌpɜːsəˈnæləti/ n. 个性
+反义词：无
+拓展词：characterize /ˈkærəktəraɪz/ v. 刻画
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Reputation is what others know about you; character is what you really are. 声誉是别人对你的了解，品格是你的真实面貌。
+写作提分句：Build your character through small, consistent choices. 通过持续的小选择来塑造你的品格。
+
+------
+
+**138 personality** /ˌpɜːsəˈnæləti/ n. 个性；人格
+**一、词根词缀拆解**
+词根：person = 人（拉丁语 persona）
+后缀：-ality = 名词后缀
+整体拆解：person + ality → 人的特质 → 个性
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strong personality（强烈的个性）
+personality traits（个性特征）
+split personality（分裂人格）
+**三、词性搭配用法（前接 / 后接什么）**
+personality（名词）
+  后接 of：personality of the leader
+  可数/不可数
+**四、高频句型（作文直接套）**
+She has a bubbly personality. 她性格活泼开朗。
+Personality matters as much as skills. 个性和技能同样重要。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：personalities /ˌpɜːsəˈnælətiz/
+形容词：personal /ˈpɜːsənəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：character /ˈkærɪktə/ n. 性格
+反义词：无
+拓展词：personal /ˈpɜːsənəl/ adj. 个人的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Your personality is your personal brand. 你的个性是你的个人品牌。
+写作提分句：Develop a personality that attracts positivity. 培养吸引积极能量的个性。
+
+------
+
+**139 temper** /ˈtempə/ n. 脾气
+**一、词根词缀拆解**
+词根：temper = 混合；调节（拉丁语 temperare）
+后缀：无
+整体拆解：temper → 性情 → 脾气
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bad temper（坏脾气）
+lose one's temper（发脾气）
+quick temper（急性子）
+**三、词性搭配用法（前接 / 后接什么）**
+temper（名词）
+  后接 of：temper of a child
+  可数/不可数
+**四、高频句型（作文直接套）**
+He has a short temper. 他脾气急躁。
+Don't lose your temper. 不要发脾气。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：temperate /ˈtempərət/ / temperamental /ˌtemprəˈmentəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mood /muːd/ n. 心情
+反义词：calmness /ˈkɑːmnəs/ n. 平静
+拓展词：temperamental /ˌtemprəˈmentəl/ adj. 喜怒无常的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A man's temper is the measure of his maturity. 一个人的脾气是他成熟度的衡量标准。
+写作提分句：Control your temper before it controls you. 在脾气控制你之前控制它。
+
+------
+
+**140 mood** /muːd/ n. 心情（已在088出现，此处为扩展）
+**一、词根词缀拆解**
+词根：mood = 心情
+后缀：无
+整体拆解：mood → 心情
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in the mood for（有心情做……）
+set the mood（营造氛围）
+**三、词性搭配用法（前接 / 后接什么）**
+mood（名词）
+  后接 for：mood for work
+**四、高频句型（作文直接套）**
+I'm not in the mood. 我没心情。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：moody /ˈmuːdi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：temper /ˈtempə/ n. 脾气
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Your mood is your choice. 你的心情是你的选择。
+写作提分句：Don't let a bad mood ruin your day. 不要让坏心情毁了你的每一天。
+
+------
+
+**141 sensation** /senˈseɪʃən/ n. 感觉；轰动
+**一、词根词缀拆解**
+词根：sens = 感觉（拉丁语 sentire）
+后缀：-ation = 名词后缀
+整体拆解：sens + ation → 感觉的结果 → 感觉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strange sensation（奇怪的感觉）
+sensation of（……的感觉）
+cause a sensation（引起轰动）
+**三、词性搭配用法（前接 / 后接什么）**
+sensation（名词）
+  后接 of：sensation of falling
+  可数/不可数
+**四、高频句型（作文直接套）**
+I had a strange sensation. 我有一种奇怪的感觉。
+The news caused a sensation. 这个消息引起了轰动。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sensational /senˈseɪʃənəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：feeling /ˈfiːlɪŋ/ n. 感觉
+反义词：numbness /ˈnʌmnəs/ n. 麻木
+拓展词：sense /sens/ n. 感觉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A sensation is the body's way of speaking. 感觉是身体说话的方式。
+写作提分句：Trust the sensations your body gives you. 相信你身体给你的感觉。
+
+------
+
+**142 perception** /pəˈsepʃən/ n. 感知；看法
+**一、词根词缀拆解**
+词根：cept = 拿；抓住（拉丁语 capere）
+前缀：per- = 完全
+后缀：-ion = 名词后缀
+整体拆解：per + cept + ion → 完全抓住 → 感知
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+perception of（对……的感知）
+change perception（改变看法）
+public perception（公众看法）
+**三、词性搭配用法（前接 / 后接什么）**
+perception（名词）
+  后接 of：perception of reality
+  可数/不可数
+**四、高频句型（作文直接套）**
+Your perception is your reality. 你的感知就是你的现实。
+Perception can be deceiving. 感知可能具有欺骗性。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：perceptive /pəˈseptɪv/
+动词：perceive /pəˈsiːv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：awareness /əˈweənəs/ n. 意识
+反义词：ignorance /ˈɪɡnərəns/ n. 无知
+拓展词：perceive /pəˈsiːv/ v. 感知
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Perception is the lens through which we see the world. 感知是我们看世界的镜头。
+写作提分句：Change your perception, change your life. 改变你的感知，改变你的生活。
+
+---
+
+###### 动词（150词）
+
+**001 feel** /fiːl/ v. 感觉；觉得；触摸
+**一、词根词缀拆解**
+词根：feel = 触摸；感觉（古英语 felan）
+后缀：无
+整体拆解：feel → 感觉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+feel like（想要；感觉像）
+feel free（随意）
+feel for（同情）
+**三、词性搭配用法（前接 / 后接什么）**
+feel（动词）
+  连系动词 + adj：feel happy
+  及物动词：feel the pain
+  不及物动词：feel for someone
+**四、高频句型（作文直接套）**
+I feel that something is wrong. 我觉得有些不对劲。
+It feels good to help others. 帮助他人的感觉很好。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：feels
+过去式：felt
+过去分词：felt
+现在分词：feeling
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sense /sens/ v. 感觉到
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：feeling /ˈfiːlɪŋ/ n. 感觉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I feel tired. 我感到疲倦。
+写作提分句：To truly understand someone, you must feel what they feel. 要真正理解一个人，你必须感受他们的感受。
+
+------
+
+**002 think** /θɪŋk/ v. 思考；认为
+**一、词根词缀拆解**
+词根：think = 思考（古英语 thencan）
+后缀：无
+整体拆解：think → 思考
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+think about（考虑）
+think of（想到）
+think over（仔细考虑）
+**三、词性搭配用法（前接 / 后接什么）**
+think（动词）
+  及物 + that：think that it's true
+  不及物 + about/of：think about the future
+**四、高频句型（作文直接套）**
+I think so. 我认为是这样。
+Think before you act. 三思而后行。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：thinks
+过去式：thought
+过去分词：thought
+现在分词：thinking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：believe /bɪˈliːv/ v. 相信
+反义词：doubt /daʊt/ v. 怀疑
+拓展词：thought /θɔːt/ n. 想法
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I think you're right. 我认为你是对的。
+写作提分句：Think positively, and positive things will happen. 积极思考，积极的事情就会发生。
+
+------
+
+**003 believe** /bɪˈliːv/ v. 相信；信任
+**一、词根词缀拆解**
+词根：liev = 爱；相信（古英语 leof）
+前缀：be- = 使成为
+后缀：-e
+整体拆解：be + liev + e → 使合意 → 相信
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+believe in（信任；信仰）
+believe it or not（信不信由你）
+make believe（假装）
+**三、词性搭配用法（前接 / 后接什么）**
+believe（动词）
+  及物：believe his story
+  不及物 + in：believe in yourself
+**四、高频句型（作文直接套）**
+I believe that hard work pays off. 我相信努力有回报。
+Seeing is believing. 眼见为实。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：believes
+过去式：believed
+过去分词：believed
+现在分词：believing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：trust /trʌst/ v. 信任
+反义词：doubt /daʊt/ v. 怀疑
+拓展词：belief /bɪˈliːf/ n. 信念
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I believe you. 我相信你。
+写作提分句：Believe in yourself, and others will too. 相信自己，别人也会。
+
+------
+
+**004 trust** /trʌst/ v. 信任；信赖
+**一、词根词缀拆解**
+词根：trust = 信任（古挪威语 traust）
+后缀：无
+整体拆解：trust → 信任
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+trust in（信任）
+trust someone with（把……托付给某人）
+trust that（相信……）
+**三、词性搭配用法（前接 / 后接什么）**
+trust（动词）
+  及物：trust a friend
+  不及物 + in：trust in God
+**四、高频句型（作文直接套）**
+I trust you completely. 我完全信任你。
+Trust is earned, not given. 信任是赢得的，不是给予的。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：trusts
+过去式：trusted
+过去分词：trusted
+现在分词：trusting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：believe /bɪˈliːv/ v. 相信
+反义词：distrust /dɪsˈtrʌst/ v. 不信任
+拓展词：trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Trust me. 相信我。
+写作提分句：Trust takes years to build and seconds to break. 信任建立需要多年，破坏只需几秒。
+
+------
+
+**005 doubt** /daʊt/ v. 怀疑
+**一、词根词缀拆解**
+词根：doubt = 怀疑（拉丁语 dubitare）
+后缀：无
+整体拆解：doubt → 怀疑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+doubt that（怀疑……）
+doubt whether（怀疑是否）
+no doubt（毫无疑问）
+**三、词性搭配用法（前接 / 后接什么）**
+doubt（动词）
+  及物 + that：doubt that he will come
+  及物 + whether：doubt whether it's true
+**四、高频句型（作文直接套）**
+I doubt it. 我怀疑。
+Don't doubt your ability. 不要怀疑你的能力。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：doubts
+过去式：doubted
+过去分词：doubted
+现在分词：doubting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：question /ˈkwestʃən/ v. 质疑
+反义词：trust /trʌst/ v. 信任
+拓展词：doubtful /ˈdaʊtfəl/ adj. 可疑的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I doubt what he says. 我怀疑他说的话。
+写作提分句：When in doubt, ask questions. 有疑问时，提出问题。
+
+------
+
+**006 respect** /rɪˈspekt/ v. 尊敬；尊重
+**一、词根词缀拆解**
+词根：spect = 看（拉丁语 specere）
+前缀：re- = 再次；向后
+整体拆解：re + spect → 回头看 → 尊重
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+respect for（对……的尊重）
+respect oneself（自尊）
+respect others（尊重他人）
+**三、词性搭配用法（前接 / 后接什么）**
+respect（动词）
+  及物：respect your elders
+**四、高频句型（作文直接套）**
+We should respect different opinions. 我们应该尊重不同的意见。
+Respect others, and you will be respected. 尊重他人，你也会被尊重。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：respects
+过去式：respected
+过去分词：respected
+现在分词：respecting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：admire /ədˈmaɪə/ v. 钦佩
+反义词：disrespect /ˌdɪsrɪˈspekt/ v. 不尊重
+拓展词：respectful /rɪˈspektfəl/ adj. 尊敬的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I respect your decision. 我尊重你的决定。
+写作提分句：Respect is more important than popularity. 尊重比受欢迎更重要。
+
+------
+
+**007 admire** /ədˈmaɪə/ v. 钦佩；欣赏
+**一、词根词缀拆解**
+词根：mir = 惊奇；看（拉丁语 mirari）
+前缀：ad- = 向
+后缀：-e
+整体拆解：ad + mir + e → 感到惊奇 → 钦佩
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+admire someone for（因……钦佩某人）
+admire the view（欣赏景色）
+**三、词性搭配用法（前接 / 后接什么）**
+admire（动词）
+  及物：admire his courage
+  及物 + for：admire her for her honesty
+**四、高频句型（作文直接套）**
+I admire your determination. 我钦佩你的决心。
+She is admired by everyone. 她受到所有人的钦佩。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：admires
+过去式：admired
+过去分词：admired
+现在分词：admiring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：respect /rɪˈspekt/ v. 尊重
+反义词：despise /dɪˈspaɪz/ v. 鄙视
+拓展词：admiration /ˌædməˈreɪʃən/ n. 钦佩
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I admire you. 我敬佩你。
+写作提分句：Admire others, but don't compare yourself. 欣赏他人，但不要比较。
+
+------
+
+**008 love** /lʌv/ v. 爱；喜欢
+**一、词根词缀拆解**
+词根：love = 爱（古英语 lufu）
+后缀：无
+整体拆解：love → 爱
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+love doing/to do（喜欢做）
+fall in love with（爱上）
+love for（对……的爱）
+**三、词性搭配用法（前接 / 后接什么）**
+love（动词）
+  及物：love music
+  及物 + doing/to do：love swimming / to swim
+**四、高频句型（作文直接套）**
+I love you. 我爱你。
+I love reading. 我喜欢阅读。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：loves
+过去式：loved
+过去分词：loved
+现在分词：loving
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：like /laɪk/ v. 喜欢
+反义词：hate /heɪt/ v. 讨厌
+拓展词：lover /ˈlʌvə/ n. 爱人
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Love what you do. 热爱你所做的。
+写作提分句：Love and kindness are never wasted. 爱与善意从不浪费。
+
+------
+
+**009 like** /laɪk/ v. 喜欢
+**一、词根词缀拆解**
+词根：like = 相似；合意（古英语 lic）
+后缀：无
+整体拆解：like → 喜欢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+like doing/to do（喜欢做）
+would like（想要）
+like it or not（不管你喜欢不喜欢）
+**三、词性搭配用法（前接 / 后接什么）**
+like（动词）
+  及物：like coffee
+  及物 + doing/to do：like running / to run
+**四、高频句型（作文直接套）**
+I like your style. 我喜欢你的风格。
+Do you like it? 你喜欢吗？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：likes
+过去式：liked
+过去分词：liked
+现在分词：liking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：love /lʌv/ v. 爱
+反义词：dislike /dɪsˈlaɪk/ v. 不喜欢
+拓展词：likable /ˈlaɪkəbəl/ adj. 可爱的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I like it. 我喜欢它。
+写作提分句：Like what you do, and you'll never work a day. 喜欢你所做的，你就一天都没在工作。
+
+------
+
+**010 hate** /heɪt/ v. 讨厌；憎恨
+**一、词根词缀拆解**
+词根：hate = 憎恨（古英语 hatian）
+后缀：无
+整体拆解：hate → 憎恨
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hate doing/to do（讨厌做）
+hate someone for（因……恨某人）
+**三、词性搭配用法（前接 / 后接什么）**
+hate（动词）
+  及物：hate violence
+  及物 + doing/to do：hate losing / to lose
+**四、高频句型（作文直接套）**
+I hate being late. 我讨厌迟到。
+I hate to interrupt, but... 我不想打断，但是……
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：hates
+过去式：hated
+过去分词：hated
+现在分词：hating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：detest /dɪˈtest/ v. 厌恶
+反义词：love /lʌv/ v. 爱
+拓展词：hatred /ˈheɪtrɪd/ n. 憎恨
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I hate to say this, but... 我不想这么说，但是……
+写作提分句：Hate is a waste of energy. 憎恨是浪费能量。
+
+------
+
+**011 dislike** /dɪsˈlaɪk/ v. 不喜欢
+**一、词根词缀拆解**
+词根：like = 喜欢
+前缀：dis- = 否定
+整体拆解：dis + like → 不喜欢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dislike doing（不喜欢做）
+strongly dislike（非常不喜欢）
+**三、词性搭配用法（前接 / 后接什么）**
+dislike（动词）
+  及物：dislike the idea
+  及物 + doing：dislike waiting
+**四、高频句型（作文直接套）**
+I dislike being ignored. 我不喜欢被忽视。
+She dislikes loud music. 她不喜欢吵闹的音乐。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：dislikes
+过去式：disliked
+过去分词：disliked
+现在分词：disliking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hate /heɪt/ v. 讨厌
+反义词：like /laɪk/ v. 喜欢
+拓展词：dislike /dɪsˈlaɪk/ n. 不喜欢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I dislike dishonesty. 我不喜欢不诚实。
+写作提分句：It's okay to dislike something, but be respectful. 不喜欢某事可以，但要尊重。
+
+------
+
+**012 enjoy** /ɪnˈdʒɔɪ/ v. 享受；喜爱
+**一、词根词缀拆解**
+词根：joy = 喜悦（拉丁语 gaudia）
+前缀：en- = 使成为
+整体拆解：en + joy → 使喜悦 → 享受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+enjoy doing（喜欢做）
+enjoy oneself（玩得开心）
+enjoy the moment（享受当下）
+**三、词性搭配用法（前接 / 后接什么）**
+enjoy（动词）
+  及物：enjoy music
+  及物 + doing：enjoy reading
+**四、高频句型（作文直接套）**
+I enjoy spending time with my family. 我喜欢和家人在一起。
+Enjoy your meal! 用餐愉快！
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：enjoys
+过去式：enjoyed
+过去分词：enjoyed
+现在分词：enjoying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：like /laɪk/ v. 喜欢
+反义词：hate /heɪt/ v. 讨厌
+拓展词：enjoyment /ɪnˈdʒɔɪmənt/ n. 享受
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Enjoy your day. 祝你今天愉快。
+写作提分句：Enjoy the journey, not just the destination. 享受旅程，而不仅仅是目的地。
+
+------
+
+**013 prefer** /prɪˈfɜː/ v. 更喜欢
+**一、词根词缀拆解**
+词根：fer = 携带；带来（拉丁语 ferre）
+前缀：pre- = 向前
+整体拆解：pre + fer → 向前带 → 更喜欢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+prefer to do（更喜欢做）
+prefer A to B（喜欢A胜过B）
+prefer doing to doing（喜欢做……胜过做……）
+**三、词性搭配用法（前接 / 后接什么）**
+prefer（动词）
+  及物 + to do：prefer to stay home
+  及物 + A to B：prefer tea to coffee
+**四、高频句型（作文直接套）**
+I prefer to stay home rather than go out. 我宁愿待在家里也不愿出去。
+Which do you prefer? 你更喜欢哪个？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：prefers
+过去式：preferred
+过去分词：preferred
+现在分词：preferring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：favor /ˈfeɪvə/ v. 偏爱
+反义词：reject /rɪˈdʒekt/ v. 拒绝
+拓展词：preference /ˈprefərəns/ n. 偏好
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I prefer coffee to tea. 比起茶，我更喜欢咖啡。
+写作提分句：Prefer quality over quantity. 宁要质量，不要数量。
+
+------
+
+**014 want** /wɒnt/ v. 想要
+**一、词根词缀拆解**
+词根：want = 缺乏（古挪威语 vanta）
+后缀：无
+整体拆解：want → 缺乏 → 想要
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+want to do（想要做）
+want someone to do（想要某人做）
+for want of（因为缺乏）
+**三、词性搭配用法（前接 / 后接什么）**
+want（动词）
+  及物：want a drink
+  及物 + to do：want to leave
+**四、高频句型（作文直接套）**
+I want to go home. 我想回家。
+What do you want? 你想要什么？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：wants
+过去式：wanted
+过去分词：wanted
+现在分词：wanting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：desire /dɪˈzaɪə/ v. 渴望
+反义词：have /hæv/ v. 拥有
+拓展词：want /wɒnt/ n. 缺乏
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Want it, work for it. 想要它，就为之努力。
+写作提分句：Know what you want and pursue it relentlessly. 知道你想要什么并坚持不懈地追求。
+
+------
+
+**015 wish** /wɪʃ/ v. 希望；祝愿
+**一、词根词缀拆解**
+词根：wish = 渴望（古英语 wyscan）
+后缀：无
+整体拆解：wish → 希望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wish to do（希望做）
+wish for（希望得到）
+wish someone something（祝愿某人……）
+**三、词性搭配用法（前接 / 后接什么）**
+wish（动词）
+  及物 + to do：wish to leave
+  双宾语：wish you good luck
+**四、高频句型（作文直接套）**
+I wish I could help. 我希望我能帮忙。
+Wish you all the best. 祝你一切顺利。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：wishes
+过去式：wished
+过去分词：wished
+现在分词：wishing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hope /həʊp/ v. 希望
+反义词：regret /rɪˈɡret/ v. 后悔
+拓展词：wish /wɪʃ/ n. 愿望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be careful what you wish for. 许愿要小心（愿望可能成真）。
+写作提分句：I wish you success in all your endeavors. 祝你一切努力都成功。
+
+------
+
+**016 hope** /həʊp/ v. 希望
+**一、词根词缀拆解**
+词根：hope = 希望（古英语 hopa）
+后缀：无
+整体拆解：hope → 希望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hope to do（希望做）
+hope for（希望得到）
+hope that（希望……）
+**三、词性搭配用法（前接 / 后接什么）**
+hope（动词）
+  不及物 + to do：hope to see you
+  及物 + that：hope that everything is fine
+**四、高频句型（作文直接套）**
+I hope so. 希望如此。
+Let's hope for the best. 我们抱最好的希望。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：hopes
+过去式：hoped
+过去分词：hoped
+现在分词：hoping
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：wish /wɪʃ/ v. 希望
+反义词：despair /dɪˈspeə/ v. 绝望
+拓展词：hope /həʊp/ n. 希望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hope for the best, prepare for the worst. 抱最好的希望，做最坏的准备。
+写作提分句：Never lose hope. 永不失去希望。
+
+------
+
+**017 expect** /ɪkˈspekt/ v. 期待；预料
+**一、词根词缀拆解**
+词根：spect = 看（拉丁语 specere）
+前缀：ex- = 向外
+整体拆解：ex + spect → 向外看 → 期待
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+expect to do（期待做）
+expect someone to do（期待某人做）
+as expected（正如所料）
+**三、词性搭配用法（前接 / 后接什么）**
+expect（动词）
+  及物 + to do：expect to win
+  及物 + that：expect that he will come
+**四、高频句型（作文直接套）**
+I didn't expect to see you here. 我没料到在这里见到你。
+You can't expect too much. 你不能期望太高。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：expects
+过去式：expected
+过去分词：expected
+现在分词：expecting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：anticipate /ænˈtɪsɪpeɪt/ v. 预期
+反义词：doubt /daʊt/ v. 怀疑
+拓展词：expectation /ˌekspekˈteɪʃən/ n. 期望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Expect the unexpected. 预料到意料之外的事。
+写作提分句：Don't expect immediate results. 不要期望立竿见影的结果。
+
+------
+
+**018 fear** /fɪə/ v. 害怕
+**一、词根词缀拆解**
+词根：fear = 危险（古英语 fær）
+后缀：无
+整体拆解：fear → 害怕
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fear to do（害怕做）
+fear that（担心……）
+for fear of（生怕；以免）
+**三、词性搭配用法（前接 / 后接什么）**
+fear（动词）
+  及物：fear death
+  及物 + to do：fear to speak
+**四、高频句型（作文直接套）**
+Don't fear failure. 不要害怕失败。
+I fear that we might be too late. 我担心我们可能太晚了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：fears
+过去式：feared
+过去分词：feared
+现在分词：fearing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dread /dred/ v. 畏惧
+反义词：brave /breɪv/ v. 勇敢面对
+拓展词：fear /fɪə/ n. 恐惧
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Fear not. 不要怕。
+写作提分句：Fear is often greater than the danger itself. 恐惧往往比危险本身更大。
+
+------
+
+**019 worry** /ˈwʌri/ v. 担心
+**一、词根词缀拆解**
+词根：wor = 勒死；担心（古英语 wyrgan）
+后缀：-y = 动词后缀
+整体拆解：wor + y → 担心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+worry about（担心）
+don't worry（别担心）
+worry that（担心……）
+**三、词性搭配用法（前接 / 后接什么）**
+worry（动词）
+  不及物 + about：worry about money
+  及物 + that：worry that something might happen
+**四、高频句型（作文直接套）**
+Don't worry, be happy. 别担心，开心点。
+I worry about you. 我担心你。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：worries
+过去式：worried
+过去分词：worried
+现在分词：worrying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fret /fret/ v. 烦恼
+反义词：calm /kɑːm/ v. 使平静
+拓展词：worry /ˈwʌri/ n. 担忧
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Worrying solves nothing. 担心解决不了任何问题。
+写作提分句：Don't worry about things you can't control. 不要担心你无法控制的事情。
+
+------
+
+**020 care** /keə/ v. 关心；在意
+**一、词根词缀拆解**
+词根：care = 关心（古英语 caru）
+后缀：无
+整体拆解：care → 关心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+care about（关心）
+care for（照顾；喜欢）
+take care of（照顾）
+**三、词性搭配用法（前接 / 后接什么）**
+care（动词）
+  不及物 + about：care about the environment
+  不及物 + for：care for the elderly
+**四、高频句型（作文直接套）**
+I don't care. 我不在乎。
+Who cares? 谁在乎？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：cares
+过去式：cared
+过去分词：cared
+现在分词：caring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mind /maɪnd/ v. 介意
+反义词：neglect /nɪˈɡlekt/ v. 忽视
+拓展词：care /keə/ n. 关心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I care about you. 我关心你。
+写作提分句：Care for others as you care for yourself. 像关心自己一样关心他人。
+
+------
+
+**021 mind** /maɪnd/ v. 介意；注意
+**一、词根词缀拆解**
+词根：mind = 心智（古英语 gemynd）
+后缀：无
+整体拆解：mind → 注意
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mind doing（介意做）
+mind your manners（注意礼貌）
+never mind（没关系）
+**三、词性搭配用法（前接 / 后接什么）**
+mind（动词）
+  及物 + doing：Do you mind waiting?
+  及物：mind the step
+**四、高频句型（作文直接套）**
+Do you mind if I open the window? 你介意我开窗吗？
+Mind your own business. 管好你自己的事。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：minds
+过去式：minded
+过去分词：minded
+现在分词：minding
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：care /keə/ v. 在意
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：mind /maɪnd/ n. 心智
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Never mind. 没关系。
+写作提分句：Mind the details; they make the difference. 注意细节，它们决定成败。
+
+------
+
+**022 agree** /əˈɡriː/ v. 同意
+**一、词根词缀拆解**
+词根：gree = 满意；令人愉快（拉丁语 gratus）
+前缀：a- = 向
+整体拆解：a + gree → 使满意 → 同意
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+agree with（同意某人/观点）
+agree to（同意某事）
+agree on（就……达成一致）
+**三、词性搭配用法（前接 / 后接什么）**
+agree（动词）
+  不及物 + with：agree with you
+  不及物 + to：agree to the plan
+**四、高频句型（作文直接套）**
+I agree with you. 我同意你。
+They agreed to meet on Monday. 他们同意周一见面。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：agrees
+过去式：agreed
+过去分词：agreed
+现在分词：agreeing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：consent /kənˈsent/ v. 同意
+反义词：disagree /ˌdɪsəˈɡriː/ v. 不同意
+拓展词：agreement /əˈɡriːmənt/ n. 协议
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Let's agree to disagree. 我们求同存异吧。
+写作提分句：Team members must agree on goals. 团队成员必须在目标上达成一致。
+
+------
+
+**023 disagree** /ˌdɪsəˈɡriː/ v. 不同意
+**一、词根词缀拆解**
+词根：gree = 满意；令人愉快
+前缀：dis- = 否定
+整体拆解：dis + agree → 不同意
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+disagree with（不同意某人/观点）
+disagree about/on（在……上意见不同）
+strongly disagree（强烈反对）
+**三、词性搭配用法（前接 / 后接什么）**
+disagree（动词）
+  不及物 + with：disagree with the decision
+  不及物 + on/about：disagree on the details
+**四、高频句型（作文直接套）**
+I disagree with your opinion. 我不同意你的看法。
+They disagree on how to proceed. 他们在如何继续上意见不合。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：disagrees
+过去式：disagreed
+过去分词：disagreed
+现在分词：disagreeing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：differ /ˈdɪfə/ v. 不同
+反义词：agree /əˈɡriː/ v. 同意
+拓展词：disagreement /ˌdɪsəˈɡriːmənt/ n. 分歧
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's okay to disagree respectfully. 尊重地表达不同意见是可以的。
+写作提分句：Disagree without being disagreeable. 表达不同意见时不要令人不快。
+
+------
+
+**024 accept** /əkˈsept/ v. 接受
+**一、词根词缀拆解**
+词根：cept = 拿；取（拉丁语 capere）
+前缀：ac- = 向
+整体拆解：ac + cept → 向自己拿过来 → 接受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+accept an offer（接受提议）
+accept responsibility（承担责任）
+accept the truth（接受真相）
+**三、词性搭配用法（前接 / 后接什么）**
+accept（动词）
+  及物：accept a job / accept an apology
+**四、高频句型（作文直接套）**
+I accept your apology. 我接受你的道歉。
+He accepted the challenge. 他接受了挑战。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：accepts
+过去式：accepted
+过去分词：accepted
+现在分词：accepting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：receive /rɪˈsiːv/ v. 接收
+反义词：refuse /rɪˈfjuːz/ v. 拒绝
+拓展词：acceptance /əkˈseptəns/ n. 接受
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I accept. 我接受。
+写作提分句：Learn to accept what you cannot change. 学会接受你无法改变的事。
+
+------
+
+**025 refuse** /rɪˈfjuːz/ v. 拒绝
+**一、词根词缀拆解**
+词根：fus = 倒；流（拉丁语 fundere）
+前缀：re- = 向后
+整体拆解：re + fus + e → 向后倒 → 拒绝
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+refuse to do（拒绝做）
+refuse an offer（拒绝提议）
+refuse permission（拒绝许可）
+**三、词性搭配用法（前接 / 后接什么）**
+refuse（动词）
+  及物：refuse a request
+  及物 + to do：refuse to answer
+**四、高频句型（作文直接套）**
+He refused to help. 他拒绝帮忙。
+She refused the invitation. 她拒绝了邀请。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：refuses
+过去式：refused
+过去分词：refused
+现在分词：refusing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：reject /rɪˈdʒekt/ v. 拒绝
+反义词：accept /əkˈsept/ v. 接受
+拓展词：refusal /rɪˈfjuːzəl/ n. 拒绝
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：She refused politely. 她礼貌地拒绝了。
+写作提分句：Don't refuse help when you need it. 需要帮助时不要拒绝。
+
+------
+
+**026 admit** /ədˈmɪt/ v. 承认；准许进入
+**一、词根词缀拆解**
+词根：mit = 送；发出（拉丁语 mittere）
+前缀：ad- = 向
+整体拆解：ad + mit → 向里送 → 准许进入 → 承认
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+admit to doing（承认做了某事）
+admit that（承认……）
+admit defeat（认输）
+**三、词性搭配用法（前接 / 后接什么）**
+admit（动词）
+  及物 + that：admit that he was wrong
+  及物 + doing：admit making a mistake
+**四、高频句型（作文直接套）**
+He admitted his mistake. 他承认了自己的错误。
+She admitted to lying. 她承认说谎了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：admits
+过去式：admitted
+过去分词：admitted
+现在分词：admitting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：confess /kənˈfes/ v. 坦白
+反义词：deny /dɪˈnaɪ/ v. 否认
+拓展词：admission /ədˈmɪʃən/ n. 承认
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Admit your fault. 承认你的错误。
+写作提分句：Admitting a mistake is a sign of strength, not weakness. 承认错误是力量的表现，而不是软弱。
+
+------
+
+**027 deny** /dɪˈnaɪ/ v. 否认
+**一、词根词缀拆解**
+词根：deny = 否认（拉丁语 denegare）
+后缀：无
+整体拆解：deny → 否认
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+deny doing（否认做了某事）
+deny that（否认……）
+there is no denying（不可否认）
+**三、词性搭配用法（前接 / 后接什么）**
+deny（动词）
+  及物：deny the accusation
+  及物 + doing：deny stealing
+**四、高频句型（作文直接套）**
+He denied any involvement. 他否认有任何参与。
+There is no denying that he is talented. 不可否认他很有才华。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：denies
+过去式：denied
+过去分词：denied
+现在分词：denying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：reject /rɪˈdʒekt/ v. 拒绝
+反义词：admit /ədˈmɪt/ v. 承认
+拓展词：denial /dɪˈnaɪəl/ n. 否认
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：He denied the rumor. 他否认了谣言。
+写作提分句：Denying a problem doesn't make it disappear. 否认问题不会让它消失。
+
+------
+
+**028 forgive** /fəˈɡɪv/ v. 原谅；宽恕
+**一、词根词缀拆解**
+词根：give = 给予（古英语 giefan）
+前缀：for- = 完全
+整体拆解：for + give → 完全给予 → 宽恕
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+forgive someone for（原谅某人的……）
+forgive and forget（既往不咎）
+**三、词性搭配用法（前接 / 后接什么）**
+forgive（动词）
+  及物：forgive him
+  及物 + for：forgive you for being late
+**四、高频句型（作文直接套）**
+Please forgive me. 请原谅我。
+Forgive others, and you will be forgiven. 宽恕他人，你也会被宽恕。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：forgives
+过去式：forgave
+过去分词：forgiven
+现在分词：forgiving
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pardon /ˈpɑːdən/ v. 原谅
+反义词：blame /bleɪm/ v. 责备
+拓展词：forgiveness /fəˈɡɪvnəs/ n. 宽恕
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Forgive yourself. 原谅自己。
+写作提分句：To forgive is to set a prisoner free and discover that the prisoner was you. 宽恕就是释放一个囚犯，并发现那个囚犯就是你自己。
+
+------
+
+**029 forget** /fəˈɡet/ v. 忘记
+**一、词根词缀拆解**
+词根：get = 得到（古英语 getan）
+前缀：for- = 否定；离开
+整体拆解：for + get → 没有得到 → 忘记
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+forget to do（忘记去做）
+forget doing（忘记做过）
+forget about（忘记关于）
+**三、词性搭配用法（前接 / 后接什么）**
+forget（动词）
+  及物 + to do：forget to call
+  及物 + doing：forget meeting him
+**四、高频句型（作文直接套）**
+Don't forget to lock the door. 别忘了锁门。
+I forgot his name. 我忘了他名字。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：forgets
+过去式：forgot
+过去分词：forgotten
+现在分词：forgetting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：neglect /nɪˈɡlekt/ v. 忽视
+反义词：remember /rɪˈmembə/ v. 记住
+拓展词：forgetful /fəˈɡetfəl/ adj. 健忘的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Forget it. 算了。
+写作提分句：Never forget the lessons of the past. 永远不要忘记过去的教训。
+
+------
+
+**030 remember** /rɪˈmembə/ v. 记住；记得
+**一、词根词缀拆解**
+词根：memor = 记忆（拉丁语 memor）
+前缀：re- = 再次
+后缀：-ber
+整体拆解：re + memor + ber → 再次记忆 → 记住
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+remember to do（记得去做）
+remember doing（记得做过）
+as far as I remember（据我所记得）
+**三、词性搭配用法（前接 / 后接什么）**
+remember（动词）
+  及物 + to do：remember to lock the door
+  及物 + doing：remember meeting her
+**四、高频句型（作文直接套）**
+I remember you clearly. 我清楚地记得你。
+Remember to turn off the lights. 记得关灯。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：remembers
+过去式：remembered
+过去分词：remembered
+现在分词：remembering
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：recall /rɪˈkɔːl/ v. 回想
+反义词：forget /fəˈɡet/ v. 忘记
+拓展词：memory /ˈmeməri/ n. 记忆
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Remember me? 还记得我吗？
+写作提分句：Remember that failure is part of growth. 记住失败是成长的一部分。
+
+------
+
+**031 regret** /rɪˈɡret/ v. 后悔；遗憾
+**一、词根词缀拆解**
+词根：gret = 哭喊（古法语 greter）
+前缀：re- = 再次
+后缀：无
+整体拆解：re + gret → 再次哭喊 → 后悔
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+regret doing（后悔做了某事）
+regret to say（遗憾地说）
+regret that（后悔……）
+**三、词性搭配用法（前接 / 后接什么）**
+regret（动词）
+  及物 + doing：regret telling him
+  及物 + to say：regret to inform you
+**四、高频句型（作文直接套）**
+I regret my decision. 我后悔我的决定。
+I regret to inform you that... 我很遗憾地通知您……
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：regrets
+过去式：regretted
+过去分词：regretted
+现在分词：regretting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：repent /rɪˈpent/ v. 悔改
+反义词：celebrate /ˈselɪbreɪt/ v. 庆祝
+拓展词：regret /rɪˈɡret/ n. 遗憾
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I regret nothing. 我毫不后悔。
+写作提分句：Live so that you have nothing to regret. 这样生活，让你没有什么可后悔的。
+
+------
+
+**032 thank** /θæŋk/ v. 感谢
+**一、词根词缀拆解**
+词根：thank = 感谢（古英语 thanc）
+后缀：无
+整体拆解：thank → 感谢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+thank someone for（因……感谢某人）
+thank goodness（谢天谢地）
+thank you（谢谢你）
+**三、词性搭配用法（前接 / 后接什么）**
+thank（动词）
+  及物 + for：thank you for your help
+  及物：thank God
+**四、高频句型（作文直接套）**
+Thank you for your kindness. 感谢你的善意。
+I can't thank you enough. 我感激不尽。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：thanks
+过去式：thanked
+过去分词：thanked
+现在分词：thanking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：appreciate /əˈpriːʃieɪt/ v. 感激
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：thanks /θæŋks/ n. 感谢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Thank you. 谢谢你。
+写作提分句：Always thank those who help you along the way. 永远感谢那些在路上帮助过你的人。
+
+------
+
+**033 apologize** /əˈpɒlədʒaɪz/ v. 道歉
+**一、词根词缀拆解**
+词根：log = 说话（希腊语 logos）
+前缀：apo- = 远离
+后缀：-ize = 动词后缀
+整体拆解：apo + log + ize → 说远离的话 → 辩解 → 道歉
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+apologize for（为……道歉）
+apologize to（向……道歉）
+**三、词性搭配用法（前接 / 后接什么）**
+apologize（动词）
+  不及物 + for：apologize for being late
+  不及物 + to：apologize to him
+**四、高频句型（作文直接套）**
+I apologize for my mistake. 我为我的错误道歉。
+He apologized to her. 他向她道歉了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：apologizes
+过去式：apologized
+过去分词：apologized
+现在分词：apologizing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：say sorry（道歉）
+反义词：defend /dɪˈfend/ v. 辩护
+拓展词：apology /əˈpɒlədʒi/ n. 道歉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Better to apologize than to explain. 道歉胜于解释。
+写作提分句：A sincere apology can heal many wounds. 真诚的道歉可以治愈许多伤口。
+
+------
+
+**034 praise** /preɪz/ v. 赞扬；赞美
+**一、词根词缀拆解**
+词根：praise = 价值（拉丁语 pretium）
+后缀：无
+整体拆解：praise → 赞扬
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+praise someone for（因……赞扬某人）
+praise highly（高度赞扬）
+**三、词性搭配用法（前接 / 后接什么）**
+praise（动词）
+  及物：praise his work
+  及物 + for：praise her for her effort
+**四、高频句型（作文直接套）**
+He praised me for my hard work. 他赞扬我工作努力。
+Praise loudly, blame softly. 大声赞扬，轻声批评。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：praises
+过去式：praised
+过去分词：praised
+现在分词：praising
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compliment /ˈkɒmplɪmənt/ v. 称赞
+反义词：criticize /ˈkrɪtɪsaɪz/ v. 批评
+拓展词：praise /preɪz/ n. 赞扬
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Praise your team. 赞扬你的团队。
+写作提分句：Sincere praise is a powerful motivator. 真诚的赞扬是强大的动力。
+
+------
+
+**035 criticize** /ˈkrɪtɪsaɪz/ v. 批评
+**一、词根词缀拆解**
+词根：crit = 判断（希腊语 krinein）
+后缀：-ize = 动词后缀
+整体拆解：crit + ic + ize → 判断 → 批评
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+criticize someone for（因……批评某人）
+openly criticize（公开批评）
+**三、词性搭配用法（前接 / 后接什么）**
+criticize（动词）
+  及物：criticize the plan
+  及物 + for：criticize him for being late
+**四、高频句型（作文直接套）**
+Don't criticize others unless you're perfect. 除非你完美，否则不要批评别人。
+He was criticized for his mistake. 他因错误受到批评。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：criticizes
+过去式：criticized
+过去分词：criticized
+现在分词：criticizing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：blame /bleɪm/ v. 责备
+反义词：praise /preɪz/ v. 赞扬
+拓展词：criticism /ˈkrɪtɪsɪzəm/ n. 批评
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Criticize constructively. 建设性地批评。
+写作提分句：Don't criticize what you don't understand. 不要批评你不理解的东西。
+
+------
+
+**036 blame** /bleɪm/ v. 责备
+**一、词根词缀拆解**
+词根：blame = 亵渎（拉丁语 blasphemare）
+后缀：无
+整体拆解：blame → 责备
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+blame someone for（因……责备某人）
+blame something on（把……归咎于）
+be to blame（应受责备）
+**三、词性搭配用法（前接 / 后接什么）**
+blame（动词）
+  及物 + for：blame him for the accident
+  及物 + on：blame it on him
+**四、高频句型（作文直接套）**
+Don't blame me. 别怪我。
+He is to blame for the failure. 他应对失败负责。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：blames
+过去式：blamed
+过去分词：blamed
+现在分词：blaming
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：criticize /ˈkrɪtɪsaɪz/ v. 批评
+反义词：praise /preɪz/ v. 赞扬
+拓展词：blame /bleɪm/ n. 责任
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Instead of blaming others, look for solutions. 与其责备别人，不如寻找解决方案。
+写作提分句：Don't blame circumstances; change them. 不要责备环境，要改变它们。
+
+------
+
+**037 encourage** /ɪnˈkʌrɪdʒ/ v. 鼓励
+**一、词根词缀拆解**
+词根：cour = 心（拉丁语 cor）
+前缀：en- = 使成为
+后缀：-age = 动词后缀
+整体拆解：en + cour + age → 使有心 → 鼓励
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+encourage someone to do（鼓励某人做）
+encourage growth（鼓励成长）
+encourage innovation（鼓励创新）
+**三、词性搭配用法（前接 / 后接什么）**
+encourage（动词）
+  及物：encourage students
+  及物 + to do：encourage them to try
+**四、高频句型（作文直接套）**
+Parents should encourage their children. 父母应该鼓励孩子。
+We encourage creativity in the workplace. 我们鼓励工作场所的创造力。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：encourages
+过去式：encouraged
+过去分词：encouraged
+现在分词：encouraging
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：motivate /ˈməʊtɪveɪt/ v. 激励
+反义词：discourage /dɪsˈkʌrɪdʒ/ v. 劝阻
+拓展词：encouragement /ɪnˈkʌrɪdʒmənt/ n. 鼓励
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：She encouraged me to apply. 她鼓励我申请。
+写作提分句：Encourage others to reach their potential. 鼓励他人发挥潜力。
+
+------
+
+**038 discourage** /dɪsˈkʌrɪdʒ/ v. 劝阻；使气馁
+**一、词根词缀拆解**
+词根：cour = 心
+前缀：dis- = 否定
+后缀：-age = 动词后缀
+整体拆解：dis + cour + age → 使无心 → 使气馁
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+discourage someone from doing（劝阻某人做）
+discouraged by（因……而气馁）
+**三、词性搭配用法（前接 / 后接什么）**
+discourage（动词）
+  及物 + from：discourage him from going
+  及物：discourage negative behavior
+**四、高频句型（作文直接套）**
+Don't let failure discourage you. 不要让失败使你气馁。
+The bad weather discouraged us from going out. 坏天气阻止了我们外出。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：discourages
+过去式：discouraged
+过去分词：discouraged
+现在分词：discouraging
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dissuade /dɪˈsweɪd/ v. 劝阻
+反义词：encourage /ɪnˈkʌrɪdʒ/ v. 鼓励
+拓展词：discouragement /dɪsˈkʌrɪdʒmənt/ n. 气馁
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be discouraged. 不要气馁。
+写作提分句：Discouraging words can do more harm than we realize. 令人气馁的话造成的伤害可能比我们意识到的更大。
+
+------
+
+**039 inspire** /ɪnˈspaɪə/ v. 鼓舞；激发灵感
+**一、词根词缀拆解**
+词根：spir = 呼吸；精神（拉丁语 spirare）
+前缀：in- = 向内
+后缀：-e
+整体拆解：in + spir + e → 吸入精神 → 鼓舞
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+inspire someone to do（激励某人做）
+inspire confidence（激发信心）
+be inspired by（受到……的启发）
+**三、词性搭配用法（前接 / 后接什么）**
+inspire（动词）
+  及物：inspire others
+  及物 + to do：inspire him to work harder
+**四、高频句型（作文直接套）**
+His story inspires me. 他的故事激励了我。
+Great leaders inspire action. 伟大的领导者激励行动。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：inspires
+过去式：inspired
+过去分词：inspired
+现在分词：inspiring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：motivate /ˈməʊtɪveɪt/ v. 激励
+反义词：discourage /dɪsˈkʌrɪdʒ/ v. 使气馁
+拓展词：inspiration /ˌɪnspəˈreɪʃən/ n. 灵感
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You inspire me. 你激励了我。
+写作提分句：Be the person who inspires others to be better. 成为激励他人变得更好的人。
+
+------
+
+**040 disappoint** /ˌdɪsəˈpɔɪnt/ v. 使失望
+**一、词根词缀拆解**
+词根：point = 点；任命（拉丁语 punctum）
+前缀：dis- = 否定
+后缀：无
+整体拆解：dis + appoint → 未任命 → 使失望
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+disappoint someone（使某人失望）
+disappointed in/with（对……失望）
+**三、词性搭配用法（前接 / 后接什么）**
+disappoint（动词）
+  及物：disappoint his parents
+**四、高频句型（作文直接套）**
+I don't want to disappoint you. 我不想让你失望。
+The movie disappointed me. 这部电影让我失望。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：disappoints
+过去式：disappointed
+过去分词：disappointed
+现在分词：disappointing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：let down（使失望）
+反义词：satisfy /ˈsætɪsfaɪ/ v. 使满意
+拓展词：disappointment /ˌdɪsəˈpɔɪntmənt/ n. 失望
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sorry to disappoint you. 抱歉让你失望了。
+写作提分句：Don't let one disappointment ruin your day. 不要让一次失望毁掉你的一天。
+
+------
+
+**041 surprise** /səˈpraɪz/ v. 使惊讶
+**一、词根词缀拆解**
+词根：prise = 抓住（拉丁语 prehendere）
+前缀：sur- = 超过；上面
+整体拆解：sur + prise → 从上面抓住 → 突然发现 → 使惊讶
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+surprise someone（让某人惊讶）
+be surprised at（对……感到惊讶）
+surprise attack（奇袭）
+**三、词性搭配用法（前接 / 后接什么）**
+surprise（动词）
+  及物：surprise your friend
+**四、高频句型（作文直接套）**
+It surprised me that he came. 他来让我很惊讶。
+Let's surprise her with a gift. 我们用礼物让她惊喜。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：surprises
+过去式：surprised
+过去分词：surprised
+现在分词：surprising
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：astonish /əˈstɒnɪʃ/ v. 使震惊
+反义词：expect /ɪkˈspekt/ v. 预期
+拓展词：surprise /səˈpraɪz/ n. 惊讶
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You surprise me. 你让我惊讶。
+写作提分句：Life will surprise you when you least expect it. 生活会在你最不经意的时候给你惊喜。
+
+------
+
+**042 excite** /ɪkˈsaɪt/ v. 使兴奋；激发
+**一、词根词缀拆解**
+词根：cite = 激发；召唤（拉丁语 citare）
+前缀：ex- = 向外
+整体拆解：ex + cite → 向外激发 → 使兴奋
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+excite interest（激发兴趣）
+be excited about（对……感到兴奋）
+**三、词性搭配用法（前接 / 后接什么）**
+excite（动词）
+  及物：excite the audience
+**四、高频句型（作文直接套）**
+The news excited everyone. 这个消息让每个人都兴奋了。
+Don't excite the dog. 别让狗兴奋起来。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：excites
+过去式：excited
+过去分词：excited
+现在分词：exciting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thrill /θrɪl/ v. 使激动
+反义词：bore /bɔː/ v. 使厌烦
+拓展词：excitement /ɪkˈsaɪtmənt/ n. 兴奋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The thought excites me. 这个想法让我兴奋。
+写作提分句：Excite your mind with new challenges. 用新的挑战激发你的思维。
+
+------
+
+**043 interest** /ˈɪntrəst/ v. 使感兴趣
+**一、词根词缀拆解**
+词根：inter = 在……之间（拉丁语 interesse）
+后缀：-est
+整体拆解：inter + est → 使处于其中 → 使感兴趣
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+interest someone in（使某人对……感兴趣）
+be interested in（对……感兴趣）
+**三、词性搭配用法（前接 / 后接什么）**
+interest（动词）
+  及物：interest the students
+  及物 + in：interest him in the project
+**四、高频句型（作文直接套）**
+This topic interests me. 这个话题让我感兴趣。
+Can I interest you in a cup of tea? 您想喝杯茶吗？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：interests
+过去式：interested
+过去分词：interested
+现在分词：interesting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：attract /əˈtrækt/ v. 吸引
+反义词：bore /bɔː/ v. 使厌烦
+拓展词：interesting /ˈɪntrəstɪŋ/ adj. 有趣的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nothing interests him. 没有什么能让他感兴趣。
+写作提分句：Find what interests you and pursue it passionately. 找到你感兴趣的东西并热情地追求它。
+
+------
+
+**044 bore** /bɔː/ v. 使厌烦
+**一、词根词缀拆解**
+词根：bore = 钻孔；使厌烦（古英语 borian）
+后缀：无
+整体拆解：bore → 使厌烦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bore someone with（用……使某人厌烦）
+be bored with（对……感到厌烦）
+**三、词性搭配用法（前接 / 后接什么）**
+bore（动词）
+  及物：bore the audience
+**四、高频句型（作文直接套）**
+The lecture bored me. 这个讲座让我厌烦。
+Don't bore your friends with the same stories. 不要用同样的故事让你的朋友厌烦。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：bores
+过去式：bored
+过去分词：bored
+现在分词：boring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tire /taɪə/ v. 使疲倦
+反义词：excite /ɪkˈsaɪt/ v. 使兴奋
+拓展词：boring /ˈbɔːrɪŋ/ adj. 无聊的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：His speech bored everyone. 他的演讲让每个人都厌烦。
+写作提分句：A boring routine kills creativity. 无聊的例行公事扼杀创造力。
+
+------
+
+**045 tire** /taɪə/ v. 使疲倦；厌倦
+**一、词根词缀拆解**
+词根：tire = 疲倦（古英语 tēorian）
+后缀：无
+整体拆解：tire → 使疲倦
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tire of（厌倦）
+tire out（使精疲力竭）
+**三、词性搭配用法（前接 / 后接什么）**
+tire（动词）
+  不及物 + of：tire of the same routine
+  及物：tire the children
+**四、高频句型（作文直接套）**
+Long walks tire me. 长途步行让我疲倦。
+I never tire of this music. 我永远不会厌倦这首音乐。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：tires
+过去式：tired
+过去分词：tired
+现在分词：tiring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：exhaust /ɪɡˈzɔːst/ v. 使精疲力竭
+反义词：energize /ˈenədʒaɪz/ v. 使充满活力
+拓展词：tired /taɪəd/ adj. 疲倦的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't tire yourself out. 别把自己累坏了。
+写作提分句：Never tire of learning. 永远不要厌倦学习。
+
+------
+
+**046 satisfy** /ˈsætɪsfaɪ/ v. 使满意；满足
+**一、词根词缀拆解**
+词根：satis = 足够（拉丁语 satis）
+后缀：-fy = 使
+整体拆解：satis + fy → 使足够 → 满足
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+satisfy needs（满足需求）
+satisfy customers（让顾客满意）
+be satisfied with（对……满意）
+**三、词性搭配用法（前接 / 后接什么）**
+satisfy（动词）
+  及物：satisfy the requirements
+**四、高频句型（作文直接套）**
+This answer satisfies me. 这个答案让我满意。
+We aim to satisfy our customers. 我们的目标是让顾客满意。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：satisfies
+过去式：satisfied
+过去分词：satisfied
+现在分词：satisfying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：please /pliːz/ v. 取悦
+反义词：dissatisfy /dɪsˈsætɪsfaɪ/ v. 使不满
+拓展词：satisfaction /ˌsætɪsˈfækʃən/ n. 满意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nothing satisfies him. 什么都无法让他满意。
+写作提分句：Don't try to satisfy everyone; it's impossible. 不要试图让每个人都满意，这是不可能的。
+
+------
+
+**047 dissatisfy** /dɪsˈsætɪsfaɪ/ v. 使不满
+**一、词根词缀拆解**
+词根：satis = 足够
+前缀：dis- = 否定
+后缀：-fy = 使
+整体拆解：dis + satis + fy → 使不足够 → 使不满
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dissatisfy customers（让顾客不满）
+be dissatisfied with（对……不满）
+**三、词性搭配用法（前接 / 后接什么）**
+dissatisfy（动词）
+  及物：dissatisfy the public
+**四、高频句型（作文直接套）**
+Poor service dissatisfies customers. 差劲的服务让顾客不满。
+The result dissatisfied everyone. 结果让所有人不满。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：dissatisfies
+过去式：dissatisfied
+过去分词：dissatisfied
+现在分词：dissatisfying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：displease /dɪsˈpliːz/ v. 使不悦
+反义词：satisfy /ˈsætɪsfaɪ/ v. 使满意
+拓展词：dissatisfaction /dɪsˌsætɪsˈfækʃən/ n. 不满
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Constant complaints dissatisfy everyone. 不断的抱怨让所有人不满。
+写作提分句：Don't let small things dissatisfy you. 不要让小事让你不满。
+
+------
+
+**048 relax** /rɪˈlæks/ v. 放松
+**一、词根词缀拆解**
+词根：lax = 松开（拉丁语 laxare）
+前缀：re- = 再次
+整体拆解：re + lax → 使松开 → 放松
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+relax the mind（放松头脑）
+relax the rules（放宽规则）
+**三、词性搭配用法（前接 / 后接什么）**
+relax（动词）
+  不及物：sit back and relax
+  及物：relax your muscles
+**四、高频句型（作文直接套）**
+Take a deep breath and relax. 深呼吸，放松。
+I like to relax by reading. 我喜欢通过阅读来放松。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：relaxes
+过去式：relaxed
+过去分词：relaxed
+现在分词：relaxing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unwind /ʌnˈwaɪnd/ v. 放松
+反义词：stress /stres/ v. 使紧张
+拓展词：relaxation /ˌriːlækˈseɪʃən/ n. 放松
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Relax and enjoy. 放松并享受。
+写作提分句：Learn to relax; your mind needs rest too. 学会放松，你的头脑也需要休息。
+
+------
+
+**049 rest** /rest/ v. 休息
+**一、词根词缀拆解**
+词根：rest = 休息（古英语 rest）
+后缀：无
+整体拆解：rest → 休息
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rest for a while（休息一会儿）
+rest assured（放心）
+**三、词性搭配用法（前接 / 后接什么）**
+rest（动词）
+  不及物：rest for a few minutes
+  及物：rest your eyes
+**四、高频句型（作文直接套）**
+You need to rest. 你需要休息。
+Rest assured that I will help you. 放心，我会帮你的。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：rests
+过去式：rested
+过去分词：rested
+现在分词：resting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：relax /rɪˈlæks/ v. 放松
+反义词：work /wɜːk/ v. 工作
+拓展词：rest /rest/ n. 休息
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Rest if you must. 如果需要就休息。
+写作提分句：Rest is not a waste of time; it's an investment in energy. 休息不是浪费时间，而是对精力的投资。
+
+------
+
+**050 work** /wɜːk/ v. 工作；运转；起作用
+**一、词根词缀拆解**
+词根：work = 工作（古英语 weorc）
+后缀：无
+整体拆解：work → 工作
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+work hard（努力工作）
+work on（从事；致力于）
+work out（解决；锻炼；成功）
+**三、词性搭配用法（前接 / 后接什么）**
+work（动词）
+  不及物：work hard / work for a company
+  及物：work a machine（操作机器）
+**四、高频句型（作文直接套）**
+I work from 9 to 5. 我朝九晚五工作。
+It works well. 它运转良好。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：works
+过去式：worked
+过去分词：worked
+现在分词：working
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：operate /ˈɒpəreɪt/ v. 运转
+反义词：rest /rest/ v. 休息
+拓展词：worker /ˈwɜːkə/ n. 工人
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Work hard, play hard. 努力工作，尽情玩耍。
+写作提分句：Teamwork works best when everyone contributes. 当每个人都贡献时，团队合作效果最好。
+
+------
+
+**051 play** /pleɪ/ v. 玩耍；演奏；扮演
+**一、词根词缀拆解**
+词根：play = 玩；游戏（古英语 plegan）
+后缀：无
+整体拆解：play → 玩耍
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+play a role（发挥作用）
+play with（玩……）
+play fair（公平竞争）
+**三、词性搭配用法（前接 / 后接什么）**
+play（动词）
+  及物：play football / play the piano
+  不及物：children playing outside
+**四、高频句型（作文直接套）**
+Let's play a game. 我们玩游戏吧。
+He plays the guitar. 他弹吉他。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：plays
+过去式：played
+过去分词：played
+现在分词：playing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：enjoy /ɪnˈdʒɔɪ/ v. 享受
+反义词：work /wɜːk/ v. 工作
+拓展词：player /ˈpleɪə/ n. 玩家
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：All work and no play makes Jack a dull boy. 只工作不玩耍，聪明的孩子也变傻。
+写作提分句：Play is essential for creativity. 玩耍对创造力至关重要。
+
+------
+
+**052 laugh** /lɑːf/ v. 笑
+**一、词根词缀拆解**
+词根：laugh = 笑（古英语 hliehhan）
+后缀：无
+整体拆解：laugh → 笑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+laugh at（嘲笑）
+laugh out loud（大声笑）
+burst out laughing（突然大笑）
+**三、词性搭配用法（前接 / 后接什么）**
+laugh（动词）
+  不及物：laugh loudly
+  及物：laugh a hearty laugh
+**四、高频句型（作文直接套）**
+Don't laugh at others. 不要嘲笑别人。
+She laughed at the joke. 她听了笑话笑了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：laughs
+过去式：laughed
+过去分词：laughed
+现在分词：laughing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：giggle /ˈɡɪɡəl/ v. 咯咯笑
+反义词：cry /kraɪ/ v. 哭
+拓展词：laughter /ˈlɑːftə/ n. 笑声
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Laugh often. 经常笑。
+写作提分句：Laughter is the best medicine. 笑声是最好的良药。
+
+------
+
+**053 smile** /smaɪl/ v. 微笑
+**一、词根词缀拆解**
+词根：smile = 微笑（古英语 smilian）
+后缀：无
+整体拆解：smile → 微笑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+smile at（对……微笑）
+smile broadly（咧嘴笑）
+**三、词性搭配用法（前接 / 后接什么）**
+smile（动词）
+  不及物：smile happily
+  及物：smile a warm smile
+**四、高频句型（作文直接套）**
+She smiled at me. 她对我微笑。
+Smile, and the world smiles with you. 你微笑，世界也对你微笑。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：smiles
+过去式：smiled
+过去分词：smiled
+现在分词：smiling
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grin /ɡrɪn/ v. 露齿笑
+反义词：frown /fraʊn/ v. 皱眉
+拓展词：smile /smaɪl/ n. 微笑
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Always smile. 始终保持微笑。
+写作提分句：A smile costs nothing but creates much. 微笑不花分文，却能创造很多。
+
+------
+
+**054 cry** /kraɪ/ v. 哭；喊叫
+**一、词根词缀拆解**
+词根：cry = 呼喊（拉丁语 quiritare）
+后缀：无
+整体拆解：cry → 哭喊
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cry for（哭求）
+cry out（大喊）
+cry over（为……哭泣）
+**三、词性搭配用法（前接 / 后接什么）**
+cry（动词）
+  不及物：cry loudly
+  及物：cry tears of joy
+**四、高频句型（作文直接套）**
+Don't cry. 别哭了。
+She cried for help. 她大声呼救。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：cries
+过去式：cried
+过去分词：cried
+现在分词：crying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：weep /wiːp/ v. 哭泣
+反义词：laugh /lɑːf/ v. 笑
+拓展词：cry /kraɪ/ n. 哭声
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's okay to cry. 哭没关系。
+写作提分句：Crying releases emotional pain. 哭泣释放情感痛苦。
+
+------
+
+**055 shout** /ʃaʊt/ v. 喊叫
+**一、词根词缀拆解**
+词根：shout = 喊叫（中古英语 shoute）
+后缀：无
+整体拆解：shout → 喊叫
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+shout at（对……喊叫）
+shout out（大声喊出）
+**三、词性搭配用法（前接 / 后接什么）**
+shout（动词）
+  不及物：shout loudly
+  及物：shout a warning
+**四、高频句型（作文直接套）**
+Don't shout at me. 不要对我喊叫。
+He shouted for help. 他大声呼救。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：shouts
+过去式：shouted
+过去分词：shouted
+现在分词：shouting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：yell /jel/ v. 大叫
+反义词：whisper /ˈwɪspə/ v. 低语
+拓展词：shout /ʃaʊt/ n. 喊叫声
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Think before you shout. 喊叫之前先思考。
+写作提分句：Shouting rarely solves problems. 喊叫很少能解决问题。
+
+------
+
+**056 scream** /skriːm/ v. 尖叫
+**一、词根词缀拆解**
+词根：scream = 尖叫（中古英语 scremen）
+后缀：无
+整体拆解：scream → 尖叫
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+scream with（因……而尖叫）
+scream for help（尖叫求救）
+**三、词性搭配用法（前接 / 后接什么）**
+scream（动词）
+  不及物：scream in terror
+  及物：scream a warning
+**四、高频句型（作文直接套）**
+She screamed when she saw the mouse. 她看到老鼠时尖叫了。
+The baby is screaming. 婴儿在尖叫。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：screams
+过去式：screamed
+过去分词：screamed
+现在分词：screaming
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：shriek /ʃriːk/ v. 尖声喊叫
+反义词：whisper /ˈwɪspə/ v. 低语
+拓展词：scream /skriːm/ n. 尖叫声
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Screaming won't help. 尖叫没用。
+写作提分句：In danger, scream for help. 危险时，尖叫求救。
+
+------
+
+**057 talk** /tɔːk/ v. 说话；交谈
+**一、词根词缀拆解**
+词根：talk = 讲述（中古英语 talken）
+后缀：无
+整体拆解：talk → 说话
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+talk to/with（与……交谈）
+talk about（谈论）
+small talk（闲聊）
+**三、词性搭配用法（前接 / 后接什么）**
+talk（动词）
+  不及物 + to/with：talk to your boss
+  及物：talk business（谈生意）
+**四、高频句型（作文直接套）**
+We need to talk. 我们需要谈谈。
+Don't talk with your mouth full. 嘴里有东西时不要说话。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：talks
+过去式：talked
+过去分词：talked
+现在分词：talking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：speak /spiːk/ v. 说话
+反义词：listen /ˈlɪsən/ v. 听
+拓展词：talk /tɔːk/ n. 谈话
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Talk is cheap. 光说便宜。
+写作提分句：Talk less, do more. 少说多做。
+
+------
+
+**058 speak** /spiːk/ v. 说话；讲（语言）
+**一、词根词缀拆解**
+词根：speak = 说话（古英语 specan）
+后缀：无
+整体拆解：speak → 说话
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+speak to（对……说话）
+speak of（谈到）
+speak up（大声说；直言）
+**三、词性搭配用法（前接 / 后接什么）**
+speak（动词）
+  不及物：speak loudly
+  及物：speak English
+**四、高频句型（作文直接套）**
+He speaks three languages. 他会说三种语言。
+Actions speak louder than words. 行动胜于言语。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：speaks
+过去式：spoke
+过去分词：spoken
+现在分词：speaking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：talk /tɔːk/ v. 说话
+反义词：listen /ˈlɪsən/ v. 听
+拓展词：speaker /ˈspiːkə/ n. 说话者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Speak now or forever hold your peace. 现在就说，否则永远保持沉默。
+写作提分句：Speak with confidence and clarity. 自信清晰地说。
+
+------
+
+**059 listen** /ˈlɪsən/ v. 听
+**一、词根词缀拆解**
+词根：list = 听（古英语 hlysnan）
+后缀：-en = 动词后缀
+整体拆解：list + en → 听
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+listen to（听）
+listen carefully（仔细听）
+listen up（注意听）
+**三、词性搭配用法（前接 / 后接什么）**
+listen（动词）
+  不及物 + to：listen to music
+  不及物：Listen!
+**四、高频句型（作文直接套）**
+Listen to me carefully. 仔细听我说。
+I like listening to podcasts. 我喜欢听播客。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：listens
+过去式：listened
+过去分词：listened
+现在分词：listening
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hear /hɪə/ v. 听见
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：listener /ˈlɪsənə/ n. 听众
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Listen before you speak. 先听后说。
+写作提分句：Good leaders listen to their team. 好的领导者倾听团队。
+
+------
+
+**060 hear** /hɪə/ v. 听见
+**一、词根词缀拆解**
+词根：hear = 听（古英语 hieran）
+后缀：无
+整体拆解：hear → 听见
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hear about（听说）
+hear from（收到……的来信/消息）
+hear of（听说过）
+**三、词性搭配用法（前接 / 后接什么）**
+hear（动词）
+  及物：hear a noise
+  不及物 + of：I've never heard of it.
+**四、高频句型（作文直接套）**
+I can't hear you. 我听不见你说话。
+I heard that you got a new job. 我听说你找到了新工作。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：hears
+过去式：heard
+过去分词：heard
+现在分词：hearing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：listen /ˈlɪsən/ v. 听（主动）
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：hearing /ˈhɪərɪŋ/ n. 听力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I hear you. 我听到你说了/我理解你。
+写作提分句：Hearing different opinions broadens your perspective. 听取不同意见拓宽视野。
+
+------
+
+**061 see** /siː/ v. 看见；明白；会见
+**一、词根词缀拆解**
+词根：see = 看（古英语 seon）
+后缀：无
+整体拆解：see → 看
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+see someone do/doing（看见某人做/正在做）
+see a doctor（看医生）
+see you later（再见）
+**三、词性搭配用法（前接 / 后接什么）**
+see（动词）
+  及物：see a movie
+  感官动词 + do/doing：see him run/running
+**四、高频句型（作文直接套）**
+I see what you mean. 我明白你的意思。
+See you tomorrow. 明天见。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：sees
+过去式：saw
+过去分词：seen
+现在分词：seeing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：notice /ˈnəʊtɪs/ v. 注意到
+反义词：miss /mɪs/ v. 错过
+拓展词：sight /saɪt/ n. 视力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Seeing is believing. 眼见为实。
+写作提分句：Try to see things from others' perspectives. 试着从他人的角度看问题。
+
+------
+
+**062 watch** /wɒtʃ/ v. 观看；注视
+**一、词根词缀拆解**
+词根：watch = 保持警惕（古英语 wæccan）
+后缀：无
+整体拆解：watch → 注视
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+watch TV（看电视）
+watch out（小心）
+watch over（看守；照看）
+**三、词性搭配用法（前接 / 后接什么）**
+watch（动词）
+  及物：watch a game
+  感官动词 + do/doing：watch him play/playing
+**四、高频句型（作文直接套）**
+Let's watch a movie. 我们看电影吧。
+Watch your step. 小心脚下。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：watches
+过去式：watched
+过去分词：watched
+现在分词：watching
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：observe /əbˈzɜːv/ v. 观察
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：watch /wɒtʃ/ n. 手表
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Watch and learn. 看着学。
+写作提分句：Watch how successful people work. 观察成功人士如何工作。
+
+------
+
+**063 look** /lʊk/ v. 看；看起来
+**一、词根词缀拆解**
+词根：look = 看（古英语 locian）
+后缀：无
+整体拆解：look → 看
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+look at（看）
+look for（寻找）
+look forward to（期待）
+**三、词性搭配用法（前接 / 后接什么）**
+look（动词）
+  不及物 + at：look at the board
+  连系动词 + adj：look happy
+**四、高频句型（作文直接套）**
+Look at the picture. 看这张图片。
+You look tired. 你看起来很累。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：looks
+过去式：looked
+过去分词：looked
+现在分词：looking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：watch /wɒtʃ/ v. 注视
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：look /lʊk/ n. 看
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Look before you leap. 三思而后行。
+写作提分句：Look for opportunities in every challenge. 在每个挑战中寻找机会。
+
+------
+
+**064 meet** /miːt/ v. 遇见；满足；会面
+**一、词根词缀拆解**
+词根：meet = 遇见（古英语 metan）
+后缀：无
+整体拆解：meet → 遇见
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+meet a deadline（赶上截止日期）
+meet requirements（满足要求）
+meet someone（遇见某人）
+**三、词性搭配用法（前接 / 后接什么）**
+meet（动词）
+  及物：meet a friend / meet a goal
+  不及物：We met by chance.
+**四、高频句型（作文直接套）**
+Nice to meet you. 很高兴认识你。
+We met by chance. 我们偶然相遇。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：meets
+过去式：met
+过去分词：met
+现在分词：meeting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：encounter /ɪnˈkaʊntə/ v. 遭遇
+反义词：miss /mɪs/ v. 错过
+拓展词：meeting /ˈmiːtɪŋ/ n. 会议
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：We met by chance. 我们偶然相遇。
+写作提分句：Work hard to meet your goals. 努力达成目标。
+
+------
+
+**065 greet** /ɡriːt/ v. 问候；迎接
+**一、词根词缀拆解**
+词根：greet = 问候（古英语 gretan）
+后缀：无
+整体拆解：greet → 问候
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+greet someone with（以……问候某人）
+greet the new day（迎接新的一天）
+**三、词性搭配用法（前接 / 后接什么）**
+greet（动词）
+  及物：greet a friend
+**四、高频句型（作文直接套）**
+She greeted me with a smile. 她微笑着向我打招呼。
+He greeted the guests at the door. 他在门口迎接客人。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：greets
+过去式：greeted
+过去分词：greeted
+现在分词：greeting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：welcome /ˈwelkəm/ v. 欢迎
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：greeting /ˈɡriːtɪŋ/ n. 问候
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Greet everyone with kindness. 以善意问候每个人。
+写作提分句：A warm greeting can make someone's day. 温暖的问候可以点亮别人的一天。
+
+------
+
+**066 help** /help/ v. 帮助
+**一、词根词缀拆解**
+词根：help = 帮助（古英语 helpan）
+后缀：无
+整体拆解：help → 帮助
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+help someone do（帮助某人做）
+help out（帮忙）
+can't help doing（忍不住做）
+**三、词性搭配用法（前接 / 后接什么）**
+help（动词）
+  及物：help a friend
+  不及物：help with the dishes
+**四、高频句型（作文直接套）**
+Can you help me? 你能帮我吗？
+A little help goes a long way. 一点帮助大有作用。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：helps
+过去式：helped
+过去分词：helped
+现在分词：helping
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：assist /əˈsɪst/ v. 协助
+反义词：hinder /ˈhɪndə/ v. 阻碍
+拓展词：helper /ˈhelpə/ n. 帮手
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A little help goes a long way. 一点帮助大有作用。
+写作提分句：Help others without expecting return. 不求回报地帮助他人。
+
+------
+
+**067 support** /səˈpɔːt/ v. 支持
+**一、词根词缀拆解**
+词根：port = 搬运；携带（拉丁语 portare）
+前缀：sup- = 下面
+整体拆解：sup + port → 从下面托住 → 支持
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+support a family（养家）
+support an idea（支持想法）
+support someone（支持某人）
+**三、词性搭配用法（前接 / 后接什么）**
+support（动词）
+  及物：support a team / support a claim
+**四、高频句型（作文直接套）**
+We support local businesses. 我们支持本地企业。
+I support your decision. 我支持你的决定。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：supports
+过去式：supported
+过去分词：supported
+现在分词：supporting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：back /bæk/ v. 支持
+反义词：oppose /əˈpəʊz/ v. 反对
+拓展词：supporter /səˈpɔːtə/ n. 支持者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I support your decision. 我支持你的决定。
+写作提分句：Team members support each other. 团队成员互相支持。
+
+------
+
+**068 hurt** /hɜːt/ v. 伤害；疼痛
+**一、词根词缀拆解**
+词根：hurt = 伤害（古法语 hurter）
+后缀：无
+整体拆解：hurt → 伤害
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hurt someone's feelings（伤害某人的感情）
+hurt oneself（伤到自己）
+it hurts（疼）
+**三、词性搭配用法（前接 / 后接什么）**
+hurt（动词）
+  及物：hurt his arm
+  不及物：My back hurts.
+**四、高频句型（作文直接套）**
+I didn't mean to hurt you. 我不是故意要伤害你。
+Words can hurt more than actions. 言语比行动伤害更深。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：hurts
+过去式：hurt
+过去分词：hurt
+现在分词：hurting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：injure /ˈɪndʒə/ v. 伤害
+反义词：heal /hiːl/ v. 治愈
+拓展词：hurtful /ˈhɜːtfəl/ adj. 伤人的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It hurts. 很疼。
+写作提分句：Don't hurt others to make yourself feel better. 不要通过伤害他人来让自己感觉更好。
+
+------
+
+**069 injure** /ˈɪndʒə/ v. 伤害；受伤
+**一、词根词缀拆解**
+词根：jur = 法律；权利（拉丁语 jus）
+前缀：in- = 不；向内
+后缀：-e
+整体拆解：in + jur + e → 侵犯权利 → 伤害
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+injure oneself（伤到自己）
+badly injured（重伤）
+**三、词性搭配用法（前接 / 后接什么）**
+injure（动词）
+  及物：injure his leg
+**四、高频句型（作文直接套）**
+He was injured in the accident. 他在事故中受伤了。
+Don't injure yourself by lifting heavy weights. 不要因为举重物而伤到自己。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：injures
+过去式：injured
+过去分词：injured
+现在分词：injuring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hurt /hɜːt/ v. 伤害
+反义词：heal /hiːl/ v. 治愈
+拓展词：injury /ˈɪndʒəri/ n. 伤害
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：He injured his back. 他伤了背。
+写作提分句：Pride can injure relationships more than words. 骄傲比言语更能伤害关系。
+
+------
+
+**070 kill** /kɪl/ v. 杀死；消磨
+**一、词根词缀拆解**
+词根：kill = 杀死（中古英语 killen）
+后缀：无
+整体拆解：kill → 杀死
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+kill time（消磨时间）
+kill two birds with one stone（一石二鸟）
+kill someone softly（温柔地杀死某人）
+**三、词性搭配用法（前接 / 后接什么）**
+kill（动词）
+  及物：kill an animal
+  不及物：plants kill easily
+**四、高频句型（作文直接套）**
+Don't kill the messenger. 不要迁怒于信使。
+He was killed in the war. 他在战争中丧生。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：kills
+过去式：killed
+过去分词：killed
+现在分词：killing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：murder /ˈmɜːdə/ v. 谋杀
+反义词：save /seɪv/ v. 拯救
+拓展词：killer /ˈkɪlə/ n. 杀手
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Kill them with kindness. 用善意征服他们。
+写作提分句：Don't kill your dreams; pursue them. 不要扼杀你的梦想，要追求它们。
+
+------
+
+**071 save** /seɪv/ v. 拯救；节省；保存
+**一、词根词缀拆解**
+词根：save = 安全（拉丁语 salvus）
+后缀：无
+整体拆解：save → 拯救
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+save money（省钱）
+save time（节省时间）
+save someone's life（救某人的命）
+**三、词性搭配用法（前接 / 后接什么）**
+save（动词）
+  及物：save a file
+  双宾语：save me a seat
+**四、高频句型（作文直接套）**
+Save your work regularly. 定期保存你的工作。
+A penny saved is a penny earned. 省一分钱就是赚一分钱。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：saves
+过去式：saved
+过去分词：saved
+现在分词：saving
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：rescue /ˈreskjuː/ v. 营救
+反义词：kill /kɪl/ v. 杀死
+拓展词：savings /ˈseɪvɪŋz/ n. 储蓄
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Save for a rainy day. 未雨绸缪。
+写作提分句：Save time by planning ahead. 提前计划以节省时间。
+
+------
+
+**072 protect** /prəˈtekt/ v. 保护
+**一、词根词缀拆解**
+词根：tect = 覆盖（拉丁语 tegere）
+前缀：pro- = 向前
+整体拆解：pro + tect → 向前覆盖 → 保护
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+protect from/against（保护免受）
+protect the environment（保护环境）
+**三、词性搭配用法（前接 / 后接什么）**
+protect（动词）
+  及物：protect children
+  及物 + from：protect them from harm
+**四、高频句型（作文直接套）**
+We must protect the environment. 我们必须保护环境。
+Wear a helmet to protect your head. 戴头盔保护头部。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：protects
+过去式：protected
+过去分词：protected
+现在分词：protecting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：defend /dɪˈfend/ v. 保卫
+反义词：attack /əˈtæk/ v. 攻击
+拓展词：protection /prəˈtekʃən/ n. 保护
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Protect what matters. 保护重要的东西。
+写作提分句：The best way to protect your future is to create it. 保护未来的最好方式是创造它。
+
+------
+
+**073 fight** /faɪt/ v. 战斗；斗争
+**一、词根词缀拆解**
+词根：fight = 战斗（古英语 feohtan）
+后缀：无
+整体拆解：fight → 战斗
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fight against（与……斗争）
+fight for（为……而战）
+fight back（反击）
+**三、词性搭配用法（前接 / 后接什么）**
+fight（动词）
+  及物：fight a war
+  不及物 + against：fight against disease
+**四、高频句型（作文直接套）**
+Don't fight fire with fire. 不要以火攻火。
+We must fight for our rights. 我们必须为我们的权利而斗争。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：fights
+过去式：fought
+过去分词：fought
+现在分词：fighting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：combat /ˈkɒmbæt/ v. 战斗
+反义词：surrender /səˈrendə/ v. 投降
+拓展词：fighter /ˈfaɪtə/ n. 战士
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Fight for your dreams. 为你的梦想而战。
+写作提分句：Don't fight change; embrace it. 不要对抗变化，要拥抱它。
+
+------
+
+**074 argue** /ˈɑːɡjuː/ v. 争论；争辩
+**一、词根词缀拆解**
+词根：argu = 使清晰；争论（拉丁语 arguere）
+后缀：-e
+整体拆解：argu + e → 争论
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+argue with（与……争论）
+argue about/over（为……争论）
+argue for/against（为/反对……辩护）
+**三、词性搭配用法（前接 / 后接什么）**
+argue（动词）
+  不及物 + with：argue with him
+  不及物 + about：argue about money
+**四、高频句型（作文直接套）**
+Don't argue with fools. 不要和傻瓜争论。
+They argued about politics. 他们争论政治。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：argues
+过去式：argued
+过去分词：argued
+现在分词：arguing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：debate /dɪˈbeɪt/ v. 辩论
+反义词：agree /əˈɡriː/ v. 同意
+拓展词：argument /ˈɑːɡjəmənt/ n. 争论
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't argue with a fool; people might not know the difference. 不要和傻瓜争论，人们可能分不清谁是谁。
+写作提分句：Argue with facts, not emotions. 用事实争论，而不是情绪。
+
+------
+
+**075 discuss** /dɪˈskʌs/ v. 讨论
+**一、词根词缀拆解**
+词根：cuss = 打击；摇动（拉丁语 quatere）
+前缀：dis- = 分开
+整体拆解：dis + cuss → 分开打击 → 讨论
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+discuss with（与……讨论）
+discuss the matter（讨论此事）
+**三、词性搭配用法（前接 / 后接什么）**
+discuss（动词）
+  及物：discuss the plan
+  不及物 + with：discuss with colleagues
+**四、高频句型（作文直接套）**
+We need to discuss this. 我们需要讨论一下。
+Let's discuss it later. 我们以后再讨论。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：discusses
+过去式：discussed
+过去分词：discussed
+现在分词：discussing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：talk about（谈论）
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：discussion /dɪˈskʌʃən/ n. 讨论
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Let's discuss the problem. 我们来讨论这个问题。
+写作提分句：Discussing different viewpoints leads to better solutions. 讨论不同的观点能带来更好的解决方案。
+
+------
+
+**076 communicate** /kəˈmjuːnɪkeɪt/ v. 沟通；交流
+**一、词根词缀拆解**
+词根：mun = 服务；共同（拉丁语 munus）
+前缀：com- = 一起
+后缀：-icate = 动词后缀
+整体拆解：com + mun + icate → 一起服务 → 沟通
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+communicate with（与……沟通）
+communicate clearly（清晰沟通）
+communicate ideas（表达想法）
+**三、词性搭配用法（前接 / 后接什么）**
+communicate（动词）
+  及物：communicate a message
+  不及物 + with：communicate with clients
+**四、高频句型（作文直接套）**
+We communicate by email. 我们通过邮件沟通。
+Parents should communicate with their children. 父母应该和孩子沟通。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：communicates
+过去式：communicated
+过去分词：communicated
+现在分词：communicating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：convey /kənˈveɪ/ v. 传达
+反义词：withhold /wɪðˈhəʊld/ v. 隐瞒
+拓展词：communication /kəˌmjuːnɪˈkeɪʃən/ n. 沟通
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Communicate openly and honestly. 开放诚实地沟通。
+写作提分句：Good leaders communicate their vision clearly. 好的领导者清晰地传达愿景。
+
+------
+
+**077 connect** /kəˈnekt/ v. 连接；联系
+**一、词根词缀拆解**
+词根：nect = 绑定；连接（拉丁语 nectere）
+前缀：con- = 一起
+整体拆解：con + nect → 绑在一起 → 连接
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+connect to/with（连接到）
+connect A to B（把A连接到B）
+well-connected（人脉广的）
+**三、词性搭配用法（前接 / 后接什么）**
+connect（动词）
+  及物：connect the wires
+  不及物 + to：connect to Wi-Fi
+**四、高频句型（作文直接套）**
+Please connect the printer to the computer. 请把打印机连接到电脑。
+I can't connect to the internet. 我连不上网。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：connects
+过去式：connected
+过去分词：connected
+现在分词：connecting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：link /lɪŋk/ v. 连接
+反义词：disconnect /ˌdɪskəˈnekt/ v. 断开
+拓展词：connection /kəˈnekʃən/ n. 连接
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Connect the dots. 连接点点滴滴。
+写作提分句：Technology connects people around the world. 技术连接了世界各地的人。
+
+------
+
+**078 separate** /ˈsepəreɪt/ v. 分离；分开
+**一、词根词缀拆解**
+词根：par = 准备；安排（拉丁语 parare）
+前缀：se- = 分开
+后缀：-ate = 动词后缀
+整体拆解：se + par + ate → 分开安排 → 分离
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+separate from（从……分开）
+separate into（分成）
+**三、词性搭配用法（前接 / 后接什么）**
+separate（动词）
+  及物：separate the eggs
+  不及物 + from：separate from the group
+**四、高频句型（作文直接套）**
+We need to separate fact from fiction. 我们需要把事实和虚构分开。
+The couple separated last year. 这对夫妇去年分居了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：separates
+过去式：separated
+过去分词：separated
+现在分词：separating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：divide /dɪˈvaɪd/ v. 划分
+反义词：connect /kəˈnekt/ v. 连接
+拓展词：separation /ˌsepəˈreɪʃən/ n. 分离
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Separate your work from your personal life. 把你的工作和个人生活分开。
+写作提分句：Don't let small disagreements separate you. 不要让小的分歧使你们分开。
+
+------
+
+**079 divide** /dɪˈvaɪd/ v. 划分；分割
+**一、词根词缀拆解**
+词根：divide = 分开（拉丁语 dividere）
+后缀：无
+整体拆解：divide → 划分
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+divide into（分成）
+divide between（在……之间分配）
+divide and conquer（分而治之）
+**三、词性搭配用法（前接 / 后接什么）**
+divide（动词）
+  及物：divide the cake
+  不及物 + into：divide into groups
+**四、高频句型（作文直接套）**
+Divide the work among team members. 把工作分给团队成员。
+Opinions divide on this issue. 在这个问题上意见有分歧。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：divides
+过去式：divided
+过去分词：divided
+现在分词：dividing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：separate /ˈsepəreɪt/ v. 分开
+反义词：unite /juːˈnaɪt/ v. 联合
+拓展词：division /dɪˈvɪʒən/ n. 划分
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Divide your time wisely. 明智地分配你的时间。
+写作提分句：Don't let fear divide you. 不要让恐惧分裂你们。
+
+------
+
+**080 unite** /juːˈnaɪt/ v. 联合；团结
+**一、词根词缀拆解**
+词根：un = 一（拉丁语 unus）
+后缀：-ite = 动词后缀
+整体拆解：un + ite → 使成一 → 联合
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unite with（与……联合）
+unite against（团结起来反对）
+**三、词性搭配用法（前接 / 后接什么）**
+unite（动词）
+  不及物：The country united.
+  及物：unite the two parties
+**四、高频句型（作文直接套）**
+We must unite to overcome this challenge. 我们必须团结起来克服这个挑战。
+Music unites people. 音乐把人们团结在一起。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：unites
+过去式：united
+过去分词：united
+现在分词：uniting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：join /dʒɔɪn/ v. 联合
+反义词：divide /dɪˈvaɪd/ v. 分裂
+拓展词：unity /ˈjuːnəti/ n. 团结
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：United we stand, divided we fall. 团结则存，分裂则亡。
+写作提分句：Unite for a common cause. 为一个共同的事业团结起来。
+
+------
+
+**081 join** /dʒɔɪn/ v. 加入；连接
+**一、词根词缀拆解**
+词根：join = 连接（拉丁语 jungere）
+后缀：无
+整体拆解：join → 加入
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+join in（参加）
+join forces（合力）
+join together（连接在一起）
+**三、词性搭配用法（前接 / 后接什么）**
+join（动词）
+  及物：join a club
+  不及物 + in：join in the conversation
+**四、高频句型（作文直接套）**
+Would you like to join us? 你愿意加入我们吗？
+Join the two pieces together. 把这两块连接起来。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：joins
+过去式：joined
+过去分词：joined
+现在分词：joining
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：connect /kəˈnekt/ v. 连接
+反义词：separate /ˈsepəreɪt/ v. 分开
+拓展词：joint /dʒɔɪnt/ n. 连接处
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Join us! 加入我们！
+写作提分句：Join forces with like-minded people. 与志同道合的人联手。
+
+------
+
+**082 leave** /liːv/ v. 离开；留下；遗忘
+**一、词根词缀拆解**
+词根：leave = 留下（古英语 læfan）
+后缀：无
+整体拆解：leave → 离开
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+leave for（出发前往）
+leave behind（留下；遗忘）
+leave someone alone（不打扰某人）
+**三、词性搭配用法（前接 / 后接什么）**
+leave（动词）
+  及物：leave the room
+  不及物：The train leaves at 8.
+**四、高频句型（作文直接套）**
+I left my phone at home. 我把手机忘在家里了。
+Leave me alone. 别管我。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：leaves
+过去式：left
+过去分词：left
+现在分词：leaving
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：depart /dɪˈpɑːt/ v. 离开
+反义词：arrive /əˈraɪv/ v. 到达
+拓展词：leave /liːv/ n. 休假
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Leave your comfort zone. 离开你的舒适区。
+写作提分句：Leave a positive mark wherever you go. 无论去哪里都留下积极的印记。
+
+------
+
+**083 stay** /steɪ/ v. 停留；保持
+**一、词根词缀拆解**
+词根：stay = 站立（拉丁语 stare）
+后缀：无
+整体拆解：stay → 停留
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+stay at home（待在家里）
+stay healthy（保持健康）
+stay up（熬夜）
+**三、词性搭配用法（前接 / 后接什么）**
+stay（动词）
+  不及物：stay here
+  连系动词 + adj：stay calm
+**四、高频句型（作文直接套）**
+Stay hungry, stay foolish. 求知若饥，虚心若愚。
+How long will you stay? 你会待多久？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：stays
+过去式：stayed
+过去分词：stayed
+现在分词：staying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：remain /rɪˈmeɪn/ v. 保持
+反义词：leave /liːv/ v. 离开
+拓展词：stay /steɪ/ n. 停留
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay positive. 保持积极。
+写作提分句：Stay focused on your goals. 保持对目标的专注。
+
+------
+
+**084 change** /tʃeɪndʒ/ v. 改变；变化
+**一、词根词缀拆解**
+词根：change = 变化（拉丁语 cambiare）
+后缀：无
+整体拆解：change → 改变
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+change one's mind（改变主意）
+change into（变成）
+change for the better（变好）
+**三、词性搭配用法（前接 / 后接什么）**
+change（动词）
+  及物：change the plan
+  不及物：The weather changed.
+**四、高频句型（作文直接套）**
+People change. 人会变。
+Change is the only constant. 变化是唯一不变的。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：changes
+过去式：changed
+过去分词：changed
+现在分词：changing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：alter /ˈɔːltə/ v. 更改
+反义词：remain /rɪˈmeɪn/ v. 保持不变
+拓展词：change /tʃeɪndʒ/ n. 变化
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Change starts with you. 改变从你开始。
+写作提分句：Embrace change; it brings growth. 拥抱变化，它带来成长。
+
+------
+
+**085 keep** /kiːp/ v. 保持；继续；保存
+**一、词根词缀拆解**
+词根：keep = 看管；保持（古英语 cepan）
+后缀：无
+整体拆解：keep → 保持
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+keep doing（持续做）
+keep someone from doing（阻止某人做）
+keep in touch（保持联系）
+**三、词性搭配用法（前接 / 后接什么）**
+keep（动词）
+  及物：keep a secret
+  及物 + doing：keep smiling
+**四、高频句型（作文直接套）**
+Keep trying. 继续努力。
+Keep it up! 坚持下去！
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：keeps
+过去式：kept
+过去分词：kept
+现在分词：keeping
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：maintain /meɪnˈteɪn/ v. 维持
+反义词：lose /luːz/ v. 失去
+拓展词：keeper /ˈkiːpə/ n. 保管人
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep calm and carry on. 保持冷静，继续前进。
+写作提分句：Keep your promises. 遵守你的承诺。
+
+------
+
+**086 hold** /həʊld/ v. 握住；举行；持有
+**一、词根词缀拆解**
+词根：hold = 握住（古英语 healdan）
+后缀：无
+整体拆解：hold → 握住
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hold a meeting（举行会议）
+hold on（坚持；等一下）
+hold back（退缩；抑制）
+**三、词性搭配用法（前接 / 后接什么）**
+hold（动词）
+  及物：hold a pen
+  不及物：hold on tight
+**四、高频句型（作文直接套）**
+Hold my hand. 握住我的手。
+The meeting will be held on Monday. 会议将于周一举行。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：holds
+过去式：held
+过去分词：held
+现在分词：holding
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grasp /ɡrɑːsp/ v. 抓住
+反义词：release /rɪˈliːs/ v. 释放
+拓展词：holder /ˈhəʊldə/ n. 持有者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hold fast to your dreams. 紧紧抓住你的梦想。
+写作提分句：Hold yourself accountable. 对自己负责。
+
+------
+
+**087 honor** /ˈɒnə/ v. 尊敬；给……荣誉
+**一、词根词缀拆解**
+词根：honor = 荣誉（拉丁语 honos）
+后缀：无
+整体拆解：honor → 尊敬
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+honor a promise（履行承诺）
+honor the dead（纪念死者）
+**三、词性搭配用法（前接 / 后接什么）**
+honor（动词）
+  及物：honor his request
+**四、高频句型（作文直接套）**
+It's an honor to meet you. 很荣幸见到你。
+We honor those who served. 我们尊敬那些服务过的人。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：honors
+过去式：honored
+过去分词：honored
+现在分词：honoring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：respect /rɪˈspekt/ v. 尊敬
+反义词：dishonor /dɪsˈɒnə/ v. 使丢脸
+拓展词：honorable /ˈɒnərəbəl/ adj. 可敬的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Honor your parents. 尊敬你的父母。
+写作提分句：Honor your commitments, no matter how small. 无论多么小，都要履行你的承诺。
+
+------
+
+**088 appreciate** /əˈpriːʃieɪt/ v. 感激；欣赏
+**一、词根词缀拆解**
+词根：preci = 价值（拉丁语 pretium）
+前缀：ap- = 向
+后缀：-ate = 动词后缀
+整体拆解：ap + preci + ate → 认识到价值 → 感激
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+appreciate doing（感激做）
+appreciate the value（欣赏价值）
+**三、词性搭配用法（前接 / 后接什么）**
+appreciate（动词）
+  及物：appreciate your help
+  及物 + doing：appreciate having you here
+**四、高频句型（作文直接套）**
+I really appreciate your help. 我非常感谢你的帮助。
+We appreciate good music. 我们欣赏好的音乐。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：appreciates
+过去式：appreciated
+过去分词：appreciated
+现在分词：appreciating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thank /θæŋk/ v. 感谢
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：appreciation /əˌpriːʃiˈeɪʃən/ n. 感激
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I appreciate you. 我感激你。
+写作提分句：Appreciate what you have before it becomes what you had. 在你拥有的一切变成曾经拥有之前，珍惜它们。
+
+------
+
+**089 comfort** /ˈkʌmfət/ v. 安慰
+**一、词根词缀拆解**
+词根：fort = 强壮（拉丁语 fortis）
+前缀：com- = 一起
+整体拆解：com + fort → 一起强壮 → 安慰
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+comfort someone（安慰某人）
+comfort zone（舒适区）
+**三、词性搭配用法（前接 / 后接什么）**
+comfort（动词）
+  及物：comfort a crying child
+**四、高频句型（作文直接套）**
+She comforted him after the loss. 失去亲人后她安慰了他。
+Sometimes silence comforts more than words. 有时沉默比言语更能安慰人。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：comforts
+过去式：comforted
+过去分词：comforted
+现在分词：comforting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：console /kənˈsəʊl/ v. 安慰
+反义词：upset /ʌpˈset/ v. 使不安
+拓展词：comfortable /ˈkʌmftəbəl/ adj. 舒适的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Let me comfort you. 让我安慰你。
+写作提分句：A kind word can comfort a troubled heart. 一句善意的话可以安慰一颗烦恼的心。
+
+------
+
+**090 cheer** /tʃɪə/ v. 欢呼；鼓舞
+**一、词根词缀拆解**
+词根：cheer = 面容；心情（古希腊语 kara）
+后缀：无
+整体拆解：cheer → 欢呼
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cheer up（振作起来）
+cheer for（为……欢呼）
+**三、词性搭配用法（前接 / 后接什么）**
+cheer（动词）
+  及物：cheer the team
+  不及物：cheer loudly
+**四、高频句型（作文直接套）**
+Cheer up! 振作起来！
+The crowd cheered for the winner. 人群为获胜者欢呼。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：cheers
+过去式：cheered
+过去分词：cheered
+现在分词：cheering
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：applaud /əˈplɔːd/ v. 鼓掌
+反义词：boo /buː/ v. 喝倒彩
+拓展词：cheerful /ˈtʃɪəfəl/ adj. 快乐的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cheer up, it's not that bad. 振作起来，没那么糟。
+写作提分句：Cheer others on; your support matters. 为他人加油，你的支持很重要。
+
+------
+
+**091 calm** /kɑːm/ v. 使平静
+**一、词根词缀拆解**
+词根：calm = 平静（希腊语 kauma）
+后缀：无
+整体拆解：calm → 使平静
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+calm down（冷静下来）
+calm the nerves（镇定神经）
+**三、词性搭配用法（前接 / 后接什么）**
+calm（动词）
+  及物：calm the baby
+  不及物：calm down
+**四、高频句型（作文直接套）**
+Calm down and think. 冷静下来思考。
+She calmed her fears. 她平息了恐惧。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：calms
+过去式：calmed
+过去分词：calmed
+现在分词：calming
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：soothe /suːð/ v. 安抚
+反义词：agitate /ˈædʒɪteɪt/ v. 使激动
+拓展词：calm /kɑːm/ adj. 平静的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Take a deep breath and calm down. 深呼吸，冷静下来。
+写作提分句：Calm waters do not make skilled sailors. 平静的水面练不出熟练的水手。
+
+------
+
+**092 suppose** /səˈpəʊz/ v. 假设；认为
+**一、词根词缀拆解**
+词根：pose = 放置（拉丁语 ponere）
+前缀：sup- = 下面
+整体拆解：sup + pose → 放在下面作为基础 → 假设
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+suppose that（假设……）
+be supposed to（应该）
+I suppose so（我想是的）
+**三、词性搭配用法（前接 / 后接什么）**
+suppose（动词）
+  及物 + that：suppose that he is right
+**四、高频句型（作文直接套）**
+I suppose you're right. 我想你是对的。
+You are supposed to be here at 9. 你应该9点到这儿。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：supposes
+过去式：supposed
+过去分词：supposed
+现在分词：supposing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：assume /əˈsjuːm/ v. 假设
+反义词：know /nəʊ/ v. 知道
+拓展词：supposition /ˌsʌpəˈzɪʃən/ n. 假设
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Suppose it rains, what will we do? 假设下雨，我们怎么办？
+写作提分句：Don't suppose you know everything; stay curious. 不要假设你知道一切，保持好奇。
+
+------
+
+**093 imagine** /ɪˈmædʒɪn/ v. 想象
+**一、词根词缀拆解**
+词根：imag = 图像（拉丁语 imago）
+后缀：-ine = 动词后缀
+整体拆解：imag + ine → 形成图像 → 想象
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+imagine doing（想象做）
+imagine that（想象……）
+can't imagine（无法想象）
+**三、词性搭配用法（前接 / 后接什么）**
+imagine（动词）
+  及物 + doing：imagine winning
+  及物 + that：imagine that you are rich
+**四、高频句型（作文直接套）**
+Imagine a world without war. 想象一个没有战争的世界。
+I can't imagine life without you. 我无法想象没有你的生活。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：imagines
+过去式：imagined
+过去分词：imagined
+现在分词：imagining
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：picture /ˈpɪktʃə/ v. 想象
+反义词：know /nəʊ/ v. 知道
+拓展词：imagination /ɪˌmædʒɪˈneɪʃən/ n. 想象力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Imagine the possibilities. 想象各种可能性。
+写作提分句：Imagine your success before you achieve it. 在成功之前想象你的成功。
+
+------
+
+**094 understand** /ˌʌndəˈstænd/ v. 理解；明白
+**一、词根词缀拆解**
+词根：stand = 站立（古英语 standan）
+前缀：under- = 在……下面
+整体拆解：under + stand → 站在下面 → 理解
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+understand clearly（清楚地理解）
+make oneself understood（表达清楚自己的意思）
+it is understood that（……是当然的）
+**三、词性搭配用法（前接 / 后接什么）**
+understand（动词）
+  及物：understand the problem
+  及物 + that：understand that you're busy
+**四、高频句型（作文直接套）**
+I don't understand the question. 我不理解这个问题。
+Do you understand what I mean? 你明白我的意思吗？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：understands
+过去式：understood
+过去分词：understood
+现在分词：understanding
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：comprehend /ˌkɒmprɪˈhend/ v. 理解
+反义词：misunderstand /ˌmɪsʌndəˈstænd/ v. 误解
+拓展词：understanding /ˌʌndəˈstændɪŋ/ n. 理解
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I understand. 我明白。
+写作提分句：Try to understand before being understood. 先试着理解，再求被理解。
+
+------
+
+**095 realize** /ˈrɪəlaɪz/ v. 意识到；实现
+**一、词根词缀拆解**
+词根：real = 真实的（拉丁语 realis）
+后缀：-ize = 使成为
+整体拆解：real + ize → 使成为真实 → 实现；意识到
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+realize that（意识到……）
+realize a dream（实现梦想）
+realize the importance（意识到重要性）
+**三、词性搭配用法（前接 / 后接什么）**
+realize（动词）
+  及物：realize your potential
+  及物 + that：realize that you were right
+**四、高频句型（作文直接套）**
+I didn't realize how late it was. 我没意识到有多晚了。
+She realized her dream of becoming a doctor. 她实现了当医生的梦想。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：realizes
+过去式：realized
+过去分词：realized
+现在分词：realizing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：recognize /ˈrekəɡnaɪz/ v. 认识到
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：reality /riˈæləti/ n. 现实
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Realize your worth. 认识到你的价值。
+写作提分句：We must realize that change takes time. 我们必须意识到改变需要时间。
+
+------
+
+**096 notice** /ˈnəʊtɪs/ v. 注意；注意到
+**一、词根词缀拆解**
+词根：not = 知道；标记（拉丁语 noscere）
+后缀：-ice = 动词后缀
+整体拆解：not + ice → 知道 → 注意到
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+notice someone doing（注意到某人在做）
+take notice（注意）
+**三、词性搭配用法（前接 / 后接什么）**
+notice（动词）
+  及物：notice a change
+  感官动词 + doing：notice him leaving
+**四、高频句型（作文直接套）**
+Did you notice anything strange? 你注意到什么奇怪的事了吗？
+I noticed that she was sad. 我注意到她很伤心。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：notices
+过去式：noticed
+过去分词：noticed
+现在分词：noticing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：observe /əbˈzɜːv/ v. 观察
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：notice /ˈnəʊtɪs/ n. 通知
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I noticed you were late. 我注意到你迟到了。
+写作提分句：Notice the small details; they make the difference. 注意小细节，它们决定成败。
+
+------
+
+**097 observe** /əbˈzɜːv/ v. 观察；遵守；庆祝
+**一、词根词缀拆解**
+词根：serv = 保持；看守（拉丁语 servare）
+前缀：ob- = 向
+整体拆解：ob + serv + e → 朝向看守 → 观察
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+observe someone doing（观察到某人做）
+observe the rules（遵守规则）
+observe a holiday（庆祝节日）
+**三、词性搭配用法（前接 / 后接什么）**
+observe（动词）
+  及物：observe the birds
+  感官动词 + doing：observe him walking
+**四、高频句型（作文直接套）**
+He observed the children playing. 他观察孩子们玩耍。
+We must observe the law. 我们必须遵守法律。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：observes
+过去式：observed
+过去分词：observed
+现在分词：observing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：watch /wɒtʃ/ v. 注视
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：observation /ˌɒbzəˈveɪʃən/ n. 观察
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Observe and learn. 观察并学习。
+写作提分句：Observe successful people and learn from their habits. 观察成功人士并学习他们的习惯。
+
+------
+
+**098 recognize** /ˈrekəɡnaɪz/ v. 认出；承认
+**一、词根词缀拆解**
+词根：cogn = 知道（拉丁语 cognoscere）
+前缀：re- = 再次
+后缀：-ize = 动词后缀
+整体拆解：re + cogn + ize → 再次知道 → 认出
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+recognize as（认出是……）
+recognize that（承认……）
+**三、词性搭配用法（前接 / 后接什么）**
+recognize（动词）
+  及物：recognize a face
+  及物 + as：recognize him as the winner
+**四、高频句型（作文直接套）**
+I didn't recognize you. 我没认出你。
+He recognized his mistake. 他承认了自己的错误。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：recognizes
+过去式：recognized
+过去分词：recognized
+现在分词：recognizing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：identify /aɪˈdentɪfaɪ/ v. 识别
+反义词：miss /mɪs/ v. 错过
+拓展词：recognition /ˌrekəɡˈnɪʃən/ n. 认出
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I recognize that voice. 我听出了那个声音。
+写作提分句：Recognize your own worth. 认识到你自己的价值。
+
+------
+
+**099 compare** /kəmˈpeə/ v. 比较
+**一、词根词缀拆解**
+词根：par = 平等；准备（拉丁语 par）
+前缀：com- = 一起
+整体拆解：com + par + e → 放在一起 → 比较
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+compare to（比作）
+compare with（与……比较）
+compared to/with（与……相比）
+**三、词性搭配用法（前接 / 后接什么）**
+compare（动词）
+  及物 + to：compare life to a journey
+  及物 + with：compare prices with others
+**四、高频句型（作文直接套）**
+Compare your work with mine. 把你的工作和我的比较一下。
+Shakespeare compared the world to a stage. 莎士比亚把世界比作舞台。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：compares
+过去式：compared
+过去分词：compared
+现在分词：comparing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：contrast /kənˈtrɑːst/ v. 对比
+反义词：match /mætʃ/ v. 匹配
+拓展词：comparison /kəmˈpærɪsən/ n. 比较
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't compare yourself to others. 不要拿自己和别人比较。
+写作提分句：Compare yourself to who you were yesterday, not to who someone else is today. 拿今天的你和昨天的你比较，而不是拿你和别人比较。
+
+------
+
+**100 contrast** /kənˈtrɑːst/ v. 对比；对照
+**一、词根词缀拆解**
+词根：st = 站立（拉丁语 stare）
+前缀：contra- = 对立
+整体拆解：contra + st → 对立站立 → 对比
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+contrast with（与……形成对比）
+in contrast to（与……相反）
+**三、词性搭配用法（前接 / 后接什么）**
+contrast（动词）
+  及物 + with：contrast his views with hers
+  不及物 + with：red contrasts with white
+**四、高频句型（作文直接套）**
+Her actions contrast with her words. 她的行为与言语形成对比。
+The colors contrast beautifully. 这些颜色形成美丽的对比。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：contrasts
+过去式：contrasted
+过去分词：contrasted
+现在分词：contrasting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：differentiate /ˌdɪfəˈrenʃieɪt/ v. 区分
+反义词：compare /kəmˈpeə/ v. 比较
+拓展词：contrast /ˈkɒntrɑːst/ n. 对比
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Contrast helps us see differences. 对比帮助我们看出差异。
+写作提分句：Contrast your options before making a decision. 在做决定之前对比你的选项。
+
+------
+
+**101 judge** /dʒʌdʒ/ v. 判断；评判
+**一、词根词缀拆解**
+词根：judg = 判断（拉丁语 judex）
+后缀：-e
+整体拆解：judg + e → 判断
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+judge by（根据……判断）
+judge between（在……之间判断）
+don't judge a book by its cover（不要以貌取人）
+**三、词性搭配用法（前接 / 后接什么）**
+judge（动词）
+  及物：judge the situation
+  不及物 + by：judge by appearances
+**四、高频句型（作文直接套）**
+Don't judge me. 不要评判我。
+You can't judge a book by its cover. 不要以貌取人。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：judges
+过去式：judged
+过去分词：judged
+现在分词：judging
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：evaluate /ɪˈvæljueɪt/ v. 评估
+反义词：assume /əˈsjuːm/ v. 假设
+拓展词：judgment /ˈdʒʌdʒmənt/ n. 判断
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Judge not, lest you be judged. 不要评判人，免得你们被评判。
+写作提分句：Judge yourself before you judge others. 在评判他人之前先评判自己。
+
+------
+
+**102 evaluate** /ɪˈvæljueɪt/ v. 评估；评价
+**一、词根词缀拆解**
+词根：valu = 价值（拉丁语 valere）
+前缀：e- = 向外
+后缀：-ate = 动词后缀
+整体拆解：e + valu + ate → 确定价值 → 评估
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+evaluate the situation（评估情况）
+evaluate performance（评估表现）
+**三、词性搭配用法（前接 / 后接什么）**
+evaluate（动词）
+  及物：evaluate the results
+**四、高频句型（作文直接套）**
+We need to evaluate the risks. 我们需要评估风险。
+Evaluate your progress regularly. 定期评估你的进展。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：evaluates
+过去式：evaluated
+过去分词：evaluated
+现在分词：evaluating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：assess /əˈses/ v. 评估
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：evaluation /ɪˌvæljuˈeɪʃən/ n. 评估
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Evaluate before you decide. 决定之前先评估。
+写作提分句：Honestly evaluate your strengths and weaknesses. 诚实评估你的优势和劣势。
+
+------
+
+**103 assess** /əˈses/ v. 评估；评定
+**一、词根词缀拆解**
+词根：sess = 坐（拉丁语 sedere）
+前缀：as- = 向
+整体拆解：as + sess → 坐在旁边 → 评估
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+assess the damage（评估损失）
+assess the situation（评估情况）
+**三、词性搭配用法（前接 / 后接什么）**
+assess（动词）
+  及物：assess the value
+**四、高频句型（作文直接套）**
+It's difficult to assess the impact. 很难评估影响。
+The teacher assessed the students' work. 老师评估了学生的作业。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：assesses
+过去式：assessed
+过去分词：assessed
+现在分词：assessing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：evaluate /ɪˈvæljueɪt/ v. 评估
+反义词：guess /ɡes/ v. 猜测
+拓展词：assessment /əˈsesmənt/ n. 评估
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Assess the risks before acting. 行动前评估风险。
+写作提分句：Assess your situation honestly before making a plan. 在制定计划之前诚实地评估你的情况。
+
+------
+
+**104 choose** /tʃuːz/ v. 选择
+**一、词根词缀拆解**
+词根：choose = 选择（古英语 ceosan）
+后缀：无
+整体拆解：choose → 选择
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+choose between（在……之间选择）
+choose to do（选择做）
+choose carefully（仔细选择）
+**三、词性搭配用法（前接 / 后接什么）**
+choose（动词）
+  及物：choose a career
+  不及物 + between：choose between two options
+**四、高频句型（作文直接套）**
+You can choose any option. 你可以选择任何选项。
+He chose to stay home. 他选择待在家里。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：chooses
+过去式：chose
+过去分词：chosen
+现在分词：choosing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：select /sɪˈlekt/ v. 挑选
+反义词：reject /rɪˈdʒekt/ v. 拒绝
+拓展词：choice /tʃɔɪs/ n. 选择
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Choose your words carefully. 谨慎措辞。
+写作提分句：We choose our own path. 我们选择自己的道路。
+
+------
+
+**105 decide** /dɪˈsaɪd/ v. 决定
+**一、词根词缀拆解**
+词根：cide = 切；杀（拉丁语 caedere）
+前缀：de- = 完全；加强
+整体拆解：de + cide → 完全切开 → 决定
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+decide on（选定）
+decide to do（决定做）
+make a decision（做决定）
+**三、词性搭配用法（前接 / 后接什么）**
+decide（动词）
+  及物：decide a case
+  不及物 + to：decide to stay
+**四、高频句型（作文直接套）**
+I decided to accept the offer. 我决定接受这个提议。
+It's up to you to decide. 由你来决定。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：decides
+过去式：decided
+过去分词：decided
+现在分词：deciding
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：determine /dɪˈtɜːmɪn/ v. 确定
+反义词：hesitate /ˈhezɪteɪt/ v. 犹豫
+拓展词：decision /dɪˈsɪʒən/ n. 决定
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You decide. 你决定。
+写作提分句：Decide quickly, act wisely. 快速决定，明智行动。
+
+------
+
+**106 intend** /ɪnˈtend/ v. 打算；意图
+**一、词根词缀拆解**
+词根：tend = 伸展；朝向（拉丁语 tendere）
+前缀：in- = 向内
+整体拆解：in + tend → 向内心伸展 → 打算
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+intend to do（打算做）
+intend for（为……打算）
+**三、词性搭配用法（前接 / 后接什么）**
+intend（动词）
+  及物 + to do：intend to leave
+  及物 + that：intend that he go
+**四、高频句型（作文直接套）**
+I intend to finish this today. 我打算今天完成这个。
+What do you intend to do? 你打算做什么？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：intends
+过去式：intended
+过去分词：intended
+现在分词：intending
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：plan /plæn/ v. 计划
+反义词：accident /ˈæksɪdənt/ n. 意外
+拓展词：intention /ɪnˈtenʃən/ n. 意图
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I didn't intend to hurt you. 我不是故意要伤害你。
+写作提分句：Intend to make a difference every day. 每天都打算有所作为。
+
+------
+
+**107 plan** /plæn/ v. 计划；打算
+**一、词根词缀拆解**
+词根：plan = 平面；计划（拉丁语 planus）
+后缀：无
+整体拆解：plan → 计划
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+plan ahead（提前计划）
+plan a trip（计划旅行）
+plan for the future（为未来规划）
+**三、词性搭配用法（前接 / 后接什么）**
+plan（动词）
+  及物：plan a project
+  不及物 + for：plan for emergencies
+**四、高频句型（作文直接套）**
+We plan to launch next month. 我们计划下个月推出。
+Everything went as planned. 一切按计划进行。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：plans
+过去式：planned
+过去分词：planned
+现在分词：planning
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：schedule /ˈʃedjuːl/ v. 安排
+反义词：improvise /ˈɪmprəvaɪz/ v. 即兴发挥
+拓展词：planner /ˈplænə/ n. 规划者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Plan your work, work your plan. 计划你的工作，执行你的计划。
+写作提分句：Failing to plan is planning to fail. 不计划就是计划失败。
+
+------
+
+**108 mean** /miːn/ v. 意思是；意味着；打算
+**一、词根词缀拆解**
+词根：mean = 意欲；思考（古英语 mænan）
+后缀：无
+整体拆解：mean → 意思是
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mean to do（打算做）
+mean doing（意味着做）
+I mean it（我是认真的）
+**三、词性搭配用法（前接 / 后接什么）**
+mean（动词）
+  及物 + that：mean that you're right
+  及物 + to do：mean to help
+**四、高频句型（作文直接套）**
+What does this word mean? 这个词是什么意思？
+I didn't mean to hurt you. 我不是故意要伤害你。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：means
+过去式：meant
+过去分词：meant
+现在分词：meaning
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：signify /ˈsɪɡnɪfaɪ/ v. 表示
+反义词：无
+拓展词：meaning /ˈmiːnɪŋ/ n. 意思
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I mean what I say. 我说话算话。
+写作提分句：Success doesn't mean never failing; it means never giving up. 成功并不意味着从不失败，而是意味着永不放弃。
+
+------
+
+**109 attempt** /əˈtempt/ v. 尝试
+**一、词根词缀拆解**
+词根：tempt = 尝试（拉丁语 temptare）
+前缀：at- = 向
+整体拆解：at + tempt → 去尝试 → 尝试
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+attempt to do（尝试做）
+attempt at（在……方面的尝试）
+**三、词性搭配用法（前接 / 后接什么）**
+attempt（动词）
+  及物 + to do：attempt to escape
+**四、高频句型（作文直接套）**
+He attempted to climb the mountain. 他试图攀登那座山。
+Don't attempt the impossible. 不要尝试不可能的事。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：attempts
+过去式：attempted
+过去分词：attempted
+现在分词：attempting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：try /traɪ/ v. 尝试
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：attempt /əˈtempt/ n. 尝试
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be afraid to attempt new things. 不要害怕尝试新事物。
+写作提分句：Every attempt brings you closer to success. 每一次尝试都让你离成功更近。
+
+------
+
+**110 try** /traɪ/ v. 尝试；努力
+**一、词根词缀拆解**
+词根：try = 尝试（古法语 trier）
+后缀：无
+整体拆解：try → 尝试
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+try to do（努力做）
+try doing（尝试做）
+try out（试用）
+**三、词性搭配用法（前接 / 后接什么）**
+try（动词）
+  及物 + to do：try to win
+  及物 + doing：try swimming
+**四、高频句型（作文直接套）**
+Try your best. 尽你最大努力。
+I'll try my best to help. 我会尽力帮助。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：tries
+过去式：tried
+过去分词：tried
+现在分词：trying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：attempt /əˈtempt/ v. 尝试
+反义词：give up（放弃）
+拓展词：trial /ˈtraɪəl/ n. 试验
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Try again. 再试一次。
+写作提分句：Try and fail, but don't fail to try. 尝试并失败，但不要不去尝试。
+
+------
+
+**111 struggle** /ˈstrʌɡəl/ v. 挣扎；奋斗
+**一、词根词缀拆解**
+词根：struggle = 挣扎（中古英语 struglen）
+后缀：无
+整体拆解：struggle → 挣扎
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+struggle with（与……斗争）
+struggle to do（努力做）
+struggle for（为……奋斗）
+**三、词性搭配用法（前接 / 后接什么）**
+struggle（动词）
+  不及物 + with：struggle with math
+  不及物 + to：struggle to survive
+**四、高频句型（作文直接套）**
+Many people struggle to make ends meet. 许多人努力维持生计。
+Don't struggle alone; ask for help. 不要独自挣扎，寻求帮助。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：struggles
+过去式：struggled
+过去分词：struggled
+现在分词：struggling
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fight /faɪt/ v. 战斗
+反义词：surrender /səˈrendə/ v. 投降
+拓展词：struggle /ˈstrʌɡəl/ n. 挣扎
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Struggle builds character. 奋斗塑造品格。
+写作提分句：The struggle you're in today is developing the strength you need for tomorrow. 你今天的挣扎正在培养你明天需要的力量。
+
+------
+
+**112 insist** /ɪnˈsɪst/ v. 坚持；坚决要求
+**一、词根词缀拆解**
+词根：sist = 站立（拉丁语 sistere）
+前缀：in- = 向内
+整体拆解：in + sist → 站在里面不动 → 坚持
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+insist on（坚持）
+insist that（坚持要求……）
+**三、词性搭配用法（前接 / 后接什么）**
+insist（动词）
+  不及物 + on：insist on going
+  及物 + that：insist that he come
+**四、高频句型（作文直接套）**
+He insisted on paying the bill. 他坚持要付账。
+I insist that you stay. 我坚持要你留下。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：insists
+过去式：insisted
+过去分词：insisted
+现在分词：insisting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：persist /pəˈsɪst/ v. 坚持
+反义词：yield /jiːld/ v. 屈服
+拓展词：insistence /ɪnˈsɪstəns/ n. 坚持
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Insist on your dreams. 坚持你的梦想。
+写作提分句：Insist on excellence in everything you do. 坚持在你所做的每一件事上追求卓越。
+
+------
+
+**113 persist** /pəˈsɪst/ v. 坚持；持续存在
+**一、词根词缀拆解**
+词根：sist = 站立
+前缀：per- = 一直
+整体拆解：per + sist → 一直站立 → 坚持
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+persist in（坚持做）
+persist with（坚持做）
+**三、词性搭配用法（前接 / 后接什么）**
+persist（动词）
+  不及物 + in：persist in doing
+  不及物：The symptom persists.
+**四、高频句型（作文直接套）**
+If you persist, you will succeed. 如果你坚持，你会成功。
+The rain persisted all day. 雨持续了一整天。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：persists
+过去式：persisted
+过去分词：persisted
+现在分词：persisting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：continue /kənˈtɪnjuː/ v. 继续
+反义词：quit /kwɪt/ v. 放弃
+拓展词：persistence /pəˈsɪstəns/ n. 坚持
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Persist even when it's hard. 即使在困难的时候也要坚持。
+写作提分句：Success is the sum of small efforts repeated day in and day out. 成功是日复一日重复的小努力的总和。
+
+------
+
+**114 give up** /ɡɪv ʌp/ v. 放弃
+**一、词根词缀拆解**
+词根：give = 给予（古英语 giefan）；up = 向上
+整体拆解：give up → 向上交出 → 放弃
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+give up doing（放弃做）
+give up hope（放弃希望）
+**三、词性搭配用法（前接 / 后接什么）**
+give up（动词短语）
+  及物 + doing：give up smoking
+  不及物：Never give up.
+**四、高频句型（作文直接套）**
+Never give up on your dreams. 永远不要放弃你的梦想。
+I give up. 我放弃了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：gives up
+过去式：gave up
+过去分词：given up
+现在分词：giving up
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：quit /kwɪt/ v. 放弃
+反义词：persist /pəˈsɪst/ v. 坚持
+拓展词：give up（放弃）
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't give up. 不要放弃。
+写作提分句：Winners never quit, and quitters never win. 赢家永不放弃，放弃者永不赢。
+
+------
+
+**115 stand** /stænd/ v. 站立；忍受；位于
+**一、词根词缀拆解**
+词根：stand = 站立（古英语 standan）
+后缀：无
+整体拆解：stand → 站立
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+stand for（代表；支持）
+stand out（突出）
+stand up（站起来）
+**三、词性搭配用法（前接 / 后接什么）**
+stand（动词）
+  不及物：stand here
+  及物：can't stand the pain
+**四、高频句型（作文直接套）**
+I can't stand the noise. 我受不了这噪音。
+Stand up for what you believe. 为你所相信的站起来。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：stands
+过去式：stood
+过去分词：stood
+现在分词：standing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：bear /beə/ v. 忍受
+反义词：fall /fɔːl/ v. 倒下
+拓展词：stand /stænd/ n. 立场
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stand tall. 挺直腰杆。
+写作提分句：Stand for something or you'll fall for anything. 有所坚守，否则你会什么都相信。
+
+------
+
+**116 bear** /beə/ v. 忍受；承担
+**一、词根词缀拆解**
+词根：bear = 承担（古英语 beran）
+后缀：无
+整体拆解：bear → 忍受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bear with（耐心等待）
+bear in mind（记住）
+can't bear to do（不忍心做）
+**三、词性搭配用法（前接 / 后接什么）**
+bear（动词）
+  及物：bear the pain
+  及物 + to do：can't bear to see
+**四、高频句型（作文直接套）**
+I can't bear to watch. 我不忍心看。
+Bear with me for a moment. 请耐心等我一会儿。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：bears
+过去式：bore
+过去分词：borne
+现在分词：bearing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：endure /ɪnˈdjʊə/ v. 忍耐
+反义词：enjoy /ɪnˈdʒɔɪ/ v. 享受
+拓展词：bearable /ˈbeərəbəl/ adj. 可忍受的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Bear the burden with courage. 勇敢地承受重担。
+写作提分句：Sometimes you must bear the pain to appreciate the gain. 有时你必须承受痛苦才能享受收获。
+
+------
+
+**117 tolerate** /ˈtɒləreɪt/ v. 容忍；忍受
+**一、词根词缀拆解**
+词根：toler = 忍受（拉丁语 tolerare）
+后缀：-ate = 动词后缀
+整体拆解：toler + ate → 忍受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tolerate doing（容忍做）
+cannot tolerate（无法容忍）
+**三、词性搭配用法（前接 / 后接什么）**
+tolerate（动词）
+  及物：tolerate noise
+  及物 + doing：tolerate being late
+**四、高频句型（作文直接套）**
+I won't tolerate this behavior. 我不会容忍这种行为。
+He can't tolerate spicy food. 他受不了辣的食物。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：tolerates
+过去式：tolerated
+过去分词：tolerated
+现在分词：tolerating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：stand /stænd/ v. 忍受
+反义词：reject /rɪˈdʒekt/ v. 拒绝
+拓展词：tolerance /ˈtɒlərəns/ n. 容忍
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Learn to tolerate differences. 学会容忍差异。
+写作提分句：Tolerate what you cannot change, change what you cannot tolerate. 容忍你无法改变的，改变你无法容忍的。
+
+------
+
+**118 suffer** /ˈsʌfə/ v. 遭受；受苦
+**一、词根词缀拆解**
+词根：fer = 携带；承受（拉丁语 ferre）
+前缀：suf- = 下面
+整体拆解：suf + fer → 在下面承受 → 遭受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+suffer from（受……之苦）
+suffer loss（遭受损失）
+**三、词性搭配用法（前接 / 后接什么）**
+suffer（动词）
+  不及物 + from：suffer from headaches
+  及物：suffer pain
+**四、高频句型（作文直接套）**
+Many people suffer from stress. 许多人承受压力。
+He suffered a heart attack. 他心脏病发作。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：suffers
+过去式：suffered
+过去分词：suffered
+现在分词：suffering
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：endure /ɪnˈdjʊə/ v. 忍受
+反义词：enjoy /ɪnˈdʒɔɪ/ v. 享受
+拓展词：suffering /ˈsʌfərɪŋ/ n. 痛苦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Suffering builds character. 苦难塑造品格。
+写作提分句：Those who suffer the most often have the most to give. 遭受最多苦难的人往往有最多东西可以给予。
+
+------
+
+**119 enjoy** /ɪnˈdʒɔɪ/ v. 享受（已在012出现，此处为扩展）
+**一、词根词缀拆解**
+词根：joy = 喜悦
+前缀：en- = 使成为
+整体拆解：en + joy → 使喜悦 → 享受
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+enjoy doing（喜欢做）
+enjoy oneself（玩得开心）
+**三、词性搭配用法（前接 / 后接什么）**
+enjoy（动词）
+  及物 + doing：enjoy reading
+**四、高频句型（作文直接套）**
+Enjoy your meal! 用餐愉快！
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：enjoys
+过去式：enjoyed
+过去分词：enjoyed
+现在分词：enjoying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：like /laɪk/ v. 喜欢
+反义词：suffer /ˈsʌfə/ v. 遭受
+拓展词：enjoyment /ɪnˈdʒɔɪmənt/ n. 享受
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Enjoy the moment. 享受当下。
+写作提分句：Enjoy the journey, not just the destination. 享受旅程，而不仅仅是目的地。
+
+------
+
+**120 share** /ʃeə/ v. 分享；共享
+**一、词根词缀拆解**
+词根：share = 分割；份额（古英语 scearu）
+后缀：无
+整体拆解：share → 分享
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+share with（与……分享）
+share in（分享）
+**三、词性搭配用法（前接 / 后接什么）**
+share（动词）
+  及物：share a room
+  不及物 + in：share in the joy
+**四、高频句型（作文直接套）**
+Let me share my experience with you. 让我和你分享我的经验。
+We share the same goal. 我们有共同的目标。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：shares
+过去式：shared
+过去分词：shared
+现在分词：sharing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：divide /dɪˈvaɪd/ v. 分配
+反义词：keep /kiːp/ v. 保留
+拓展词：share /ʃeə/ n. 份额
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Share what you have. 分享你拥有的。
+写作提分句：Sharing is caring. 分享就是关心。
+
+------
+
+**121 comfort** /ˈkʌmfət/ v. 安慰（已在089出现，此处为扩展）
+**一、词根词缀拆解**
+词根：fort = 强壮
+前缀：com- = 一起
+整体拆解：com + fort → 一起强壮 → 安慰
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+comfort someone（安慰某人）
+**三、词性搭配用法（前接 / 后接什么）**
+comfort（动词）
+  及物：comfort a friend
+**四、高频句型（作文直接套）**
+She comforted him. 她安慰了他。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：comforts
+过去式：comforted
+过去分词：comforted
+现在分词：comforting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：console /kənˈsəʊl/ v. 安慰
+反义词：upset /ʌpˈset/ v. 使不安
+拓展词：comfort /ˈkʌmfət/ n. 安慰
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Comfort those in need. 安慰需要帮助的人。
+写作提分句：A word of comfort can mean the world. 一句安慰的话可以意味着全世界。
+
+------
+
+**122 disturb** /dɪˈstɜːb/ v. 打扰；干扰
+**一、词根词缀拆解**
+词根：turb = 搅动（拉丁语 turbare）
+前缀：dis- = 分开
+整体拆解：dis + turb → 分开搅动 → 打扰
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+disturb someone（打扰某人）
+disturb the peace（扰乱治安）
+**三、词性搭配用法（前接 / 后接什么）**
+disturb（动词）
+  及物：disturb the neighbors
+**四、高频句型（作文直接套）**
+Do not disturb. 请勿打扰。
+I'm sorry to disturb you. 很抱歉打扰你。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：disturbs
+过去式：disturbed
+过去分词：disturbed
+现在分词：disturbing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：bother /ˈbɒðə/ v. 打扰
+反义词：calm /kɑːm/ v. 使平静
+拓展词：disturbance /dɪˈstɜːbəns/ n. 干扰
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't disturb him; he's working. 不要打扰他，他在工作。
+写作提分句：Disturb your comfort zone; that's where growth happens. 扰乱你的舒适区，那里是成长发生的地方。
+
+------
+
+**123 interrupt** /ˌɪntəˈrʌpt/ v. 打断；中断
+**一、词根词缀拆解**
+词根：rupt = 打破（拉丁语 rumpere）
+前缀：inter- = 在……之间
+整体拆解：inter + rupt → 在中间打破 → 打断
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+interrupt someone（打断某人）
+interrupt a conversation（打断谈话）
+**三、词性搭配用法（前接 / 后接什么）**
+interrupt（动词）
+  及物：interrupt the speaker
+  不及物：Sorry to interrupt.
+**四、高频句型（作文直接套）**
+Don't interrupt me. 不要打断我。
+Sorry to interrupt, but... 抱歉打断一下，但是……
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：interrupts
+过去式：interrupted
+过去分词：interrupted
+现在分词：interrupting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：disturb /dɪˈstɜːb/ v. 打扰
+反义词：continue /kənˈtɪnjuː/ v. 继续
+拓展词：interruption /ˌɪntəˈrʌpʃən/ n. 打断
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's rude to interrupt. 打断别人是不礼貌的。
+写作提分句：Don't let interruptions distract you from your goals. 不要让打断使你从目标分心。
+
+------
+
+**124 calm** /kɑːm/ v. 使平静（已在091出现，此处为扩展）
+**一、词根词缀拆解**
+词根：calm = 平静
+后缀：无
+整体拆解：calm → 使平静
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+calm down（冷静下来）
+**三、词性搭配用法（前接 / 后接什么）**
+calm（动词）
+  及物：calm the baby
+  不及物：calm down
+**四、高频句型（作文直接套）**
+Calm down. 冷静下来。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：calms
+过去式：calmed
+过去分词：calmed
+现在分词：calming
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：soothe /suːð/ v. 安抚
+反义词：agitate /ˈædʒɪteɪt/ v. 使激动
+拓展词：calm /kɑːm/ adj. 平静的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Take a deep breath and calm down. 深呼吸，冷静下来。
+写作提分句：Calm your mind; it's your greatest weapon. 平静你的头脑，它是最强大的武器。
+
+------
+
+**125 relax** /rɪˈlæks/ v. 放松（已在048出现，此处为扩展）
+**一、词根词缀拆解**
+词根：lax = 松开
+前缀：re- = 再次
+整体拆解：re + lax → 使松开 → 放松
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+relax the mind（放松头脑）
+**三、词性搭配用法（前接 / 后接什么）**
+relax（动词）
+  不及物：sit back and relax
+  及物：relax your muscles
+**四、高频句型（作文直接套）**
+Relax and enjoy. 放松并享受。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：relaxes
+过去式：relaxed
+过去分词：relaxed
+现在分词：relaxing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unwind /ʌnˈwaɪnd/ v. 放松
+反义词：stress /stres/ v. 使紧张
+拓展词：relaxation /ˌriːlækˈseɪʃən/ n. 放松
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Relax and take it easy. 放松，别紧张。
+写作提分句：Learn to relax; your mind needs rest too. 学会放松，你的头脑也需要休息。
+
+------
+
+**126 excite** /ɪkˈsaɪt/ v. 使兴奋（已在042出现，此处为扩展）
+**一、词根词缀拆解**
+词根：cite = 激发
+前缀：ex- = 向外
+整体拆解：ex + cite → 向外激发 → 使兴奋
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+excite interest（激发兴趣）
+**三、词性搭配用法（前接 / 后接什么）**
+excite（动词）
+  及物：excite the audience
+**四、高频句型（作文直接套）**
+The news excited everyone. 这个消息让每个人都兴奋了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：excites
+过去式：excited
+过去分词：excited
+现在分词：exciting
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thrill /θrɪl/ v. 使激动
+反义词：bore /bɔː/ v. 使厌烦
+拓展词：excitement /ɪkˈsaɪtmənt/ n. 兴奋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The thought excites me. 这个想法让我兴奋。
+写作提分句：Excite your mind with new challenges. 用新的挑战激发你的思维。
+
+------
+
+**127 amuse** /əˈmjuːz/ v. 逗乐；使发笑
+**一、词根词缀拆解**
+词根：muse = 沉思；缪斯（希腊语 mousa）
+前缀：a- = 向
+整体拆解：a + muse → 使进入沉思 → 娱乐 → 逗乐
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+amuse oneself（自娱自乐）
+amuse someone（逗某人开心）
+**三、词性搭配用法（前接 / 后接什么）**
+amuse（动词）
+  及物：amuse the children
+**四、高频句型（作文直接套）**
+The joke amused everyone. 这个笑话逗乐了所有人。
+How can I amuse myself? 我怎样才能自娱自乐？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：amuses
+过去式：amused
+过去分词：amused
+现在分词：amusing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：entertain /ˌentəˈteɪn/ v. 娱乐
+反义词：bore /bɔː/ v. 使厌烦
+拓展词：amusement /əˈmjuːzmənt/ n. 娱乐
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The cat's antics amused us. 猫的滑稽动作把我们逗乐了。
+写作提分句：Find ways to amuse yourself; laughter is healing. 找到自娱自乐的方式，笑声是治愈的。
+
+------
+
+**128 entertain** /ˌentəˈteɪn/ v. 娱乐；招待
+**一、词根词缀拆解**
+词根：tain = 保持；握住（拉丁语 tenere）
+前缀：enter- = 在……之间
+整体拆解：enter + tain → 在中间保持 → 娱乐
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+entertain guests（招待客人）
+entertain the idea（考虑想法）
+**三、词性搭配用法（前接 / 后接什么）**
+entertain（动词）
+  及物：entertain the audience
+**四、高频句型（作文直接套）**
+We entertained our guests with music. 我们用音乐招待客人。
+He entertained the idea of moving abroad. 他考虑过移居国外的想法。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：entertains
+过去式：entertained
+过去分词：entertained
+现在分词：entertaining
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：amuse /əˈmjuːz/ v. 逗乐
+反义词：bore /bɔː/ v. 使厌烦
+拓展词：entertainment /ˌentəˈteɪnmənt/ n. 娱乐
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Entertain yourself with good books. 用好书来娱乐自己。
+写作提分句：Entertain different perspectives; they enrich your thinking. 接纳不同的视角，它们丰富你的思维。
+
+------
+
+**129 annoy** /əˈnɔɪ/ v. 使烦恼；打扰
+**一、词根词缀拆解**
+词根：annoy = 烦恼（拉丁语 inodiare）
+后缀：无
+整体拆解：annoy → 使烦恼
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+annoy someone（烦扰某人）
+be annoyed with（对……感到烦恼）
+**三、词性搭配用法（前接 / 后接什么）**
+annoy（动词）
+  及物：annoy the neighbors
+**四、高频句型（作文直接套）**
+His habit of interrupting annoys me. 他打断别人的习惯让我烦恼。
+I was annoyed by the noise. 我被噪音烦扰了。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：annoys
+过去式：annoyed
+过去分词：annoyed
+现在分词：annoying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：irritate /ˈɪrɪteɪt/ v. 激怒
+反义词：please /pliːz/ v. 取悦
+拓展词：annoyance /əˈnɔɪəns/ n. 烦恼
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't annoy the dog. 不要惹恼狗。
+写作提分句：Don't let small things annoy you; choose your battles. 不要让小事烦扰你，选择你的战斗。
+
+------
+
+**130 irritate** /ˈɪrɪteɪt/ v. 激怒；刺激
+**一、词根词缀拆解**
+词根：irrit = 刺激（拉丁语 irritare）
+后缀：-ate = 动词后缀
+整体拆解：irrit + ate → 刺激 → 激怒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+irritate someone（激怒某人）
+be irritated by（被……激怒）
+**三、词性搭配用法（前接 / 后接什么）**
+irritate（动词）
+  及物：irritate the skin
+**四、高频句型（作文直接套）**
+His constant complaining irritates me. 他不断的抱怨激怒了我。
+This cream may irritate sensitive skin. 这种面霜可能会刺激敏感皮肤。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：irritates
+过去式：irritated
+过去分词：irritated
+现在分词：irritating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：annoy /əˈnɔɪ/ v. 使烦恼
+反义词：calm /kɑːm/ v. 使平静
+拓展词：irritation /ˌɪrɪˈteɪʃən/ n. 激怒
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't let criticism irritate you. 不要让批评激怒你。
+写作提分句：Learn to respond, not react, when something irritates you. 当有事情激怒你时，学会回应而不是反应。
+
+------
+
+**131 satisfy** /ˈsætɪsfaɪ/ v. 使满意（已在046出现，此处为扩展）
+**一、词根词缀拆解**
+词根：satis = 足够
+后缀：-fy = 使
+整体拆解：satis + fy → 使足够 → 满足
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+satisfy needs（满足需求）
+**三、词性搭配用法（前接 / 后接什么）**
+satisfy（动词）
+  及物：satisfy the requirements
+**四、高频句型（作文直接套）**
+This answer satisfies me. 这个答案让我满意。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：satisfies
+过去式：satisfied
+过去分词：satisfied
+现在分词：satisfying
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：please /pliːz/ v. 取悦
+反义词：dissatisfy /dɪsˈsætɪsfaɪ/ v. 使不满
+拓展词：satisfaction /ˌsætɪsˈfækʃən/ n. 满意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nothing satisfies him. 什么都无法让他满意。
+写作提分句：Don't try to satisfy everyone; it's impossible. 不要试图让每个人都满意，这是不可能的。
+
+------
+
+**132 frustrate** /frʌˈstreɪt/ v. 使沮丧；挫败
+**一、词根词缀拆解**
+词根：frustr = 欺骗；失望（拉丁语 frustra）
+后缀：-ate = 动词后缀
+整体拆解：frustr + ate → 使失望 → 使沮丧
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+frustrate someone（使某人沮丧）
+be frustrated with（对……感到沮丧）
+**三、词性搭配用法（前接 / 后接什么）**
+frustrate（动词）
+  及物：frustrate the plan
+**四、高频句型（作文直接套）**
+The constant delays frustrated me. 不断的延误让我很沮丧。
+His lack of progress frustrated his teacher. 他的缺乏进步让老师沮丧。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：frustrates
+过去式：frustrated
+过去分词：frustrated
+现在分词：frustrating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：discourage /dɪsˈkʌrɪdʒ/ v. 使气馁
+反义词：encourage /ɪnˈkʌrɪdʒ/ v. 鼓励
+拓展词：frustration /frʌˈstreɪʃən/ n. 沮丧
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't let failure frustrate you. 不要让失败使你沮丧。
+写作提分句：Frustration is a sign that you're pushing your limits. 沮丧是你正在突破极限的标志。
+
+------
+
+**133 depress** /dɪˈpres/ v. 使沮丧；使抑郁
+**一、词根词缀拆解**
+词根：press = 压（拉丁语 pressare）
+前缀：de- = 向下
+整体拆解：de + press → 向下压 → 使沮丧
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+depress someone（使某人沮丧）
+be depressed about（对……感到抑郁）
+**三、词性搭配用法（前接 / 后接什么）**
+depress（动词）
+  及物：depress the economy
+**四、高频句型（作文直接套）**
+The news depressed him. 这个消息让他沮丧。
+Wet weather always depresses me. 潮湿的天气总是让我情绪低落。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：depresses
+过去式：depressed
+过去分词：depressed
+现在分词：depressing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sadden /ˈsædən/ v. 使悲伤
+反义词：cheer /tʃɪə/ v. 使高兴
+拓展词：depression /dɪˈpreʃən/ n. 抑郁
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't let negative thoughts depress you. 不要让消极想法使你沮丧。
+写作提分句：If you feel depressed, reach out for help. 如果你感到抑郁，寻求帮助。
+
+------
+
+**134 cheer up** /tʃɪər ʌp/ v. 振作起来；使高兴
+**一、词根词缀拆解**
+词根：cheer = 欢呼；up = 向上
+整体拆解：cheer up → 向上欢呼 → 振作
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cheer up（振作起来）
+cheer someone up（使某人高兴）
+**三、词性搭配用法（前接 / 后接什么）**
+cheer up（动词短语）
+  不及物：Cheer up!
+  及物：cheer him up
+**四、高频句型（作文直接套）**
+Cheer up! Things will get better. 振作起来！事情会好起来的。
+I bought flowers to cheer her up. 我买了花让她开心。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：cheers up
+过去式：cheered up
+过去分词：cheered up
+现在分词：cheering up
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：brighten /ˈbraɪtən/ v. 使明亮
+反义词：depress /dɪˈpres/ v. 使沮丧
+拓展词：cheerful /ˈtʃɪəfəl/ adj. 快乐的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cheer up, it's not the end of the world. 振作起来，这不是世界末日。
+写作提分句：A simple smile can cheer someone up. 一个简单的微笑就能让某人开心。
+
+------
+
+**135 cheer** /tʃɪə/ v. 欢呼；鼓舞（已在090出现，此处为扩展）
+**一、词根词缀拆解**
+词根：cheer = 面容；心情
+后缀：无
+整体拆解：cheer → 欢呼
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cheer for（为……欢呼）
+**三、词性搭配用法（前接 / 后接什么）**
+cheer（动词）
+  不及物：cheer loudly
+**四、高频句型（作文直接套）**
+The crowd cheered for the winner. 人群为获胜者欢呼。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：cheers
+过去式：cheered
+过去分词：cheered
+现在分词：cheering
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：applaud /əˈplɔːd/ v. 鼓掌
+反义词：boo /buː/ v. 喝倒彩
+拓展词：cheerful /ˈtʃɪəfəl/ adj. 快乐的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cheer for your team. 为你的团队欢呼。
+写作提分句：Cheer others on; your support matters. 为他人加油，你的支持很重要。
+
+------
+
+**136 motivate** /ˈməʊtɪveɪt/ v. 激励；激发
+**一、词根词缀拆解**
+词根：mot = 移动（拉丁语 movere）
+后缀：-ivate = 动词后缀
+整体拆解：mot + ivate → 使移动 → 激励
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+motivate someone to do（激励某人做）
+be motivated by（被……激励）
+**三、词性搭配用法（前接 / 后接什么）**
+motivate（动词）
+  及物：motivate the team
+  及物 + to do：motivate him to work harder
+**四、高频句型（作文直接套）**
+Great leaders motivate their teams. 伟大的领导者激励他们的团队。
+What motivates you? 什么激励你？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：motivates
+过去式：motivated
+过去分词：motivated
+现在分词：motivating
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：inspire /ɪnˈspaɪə/ v. 鼓舞
+反义词：discourage /dɪsˈkʌrɪdʒ/ v. 使气馁
+拓展词：motivation /ˌməʊtɪˈveɪʃən/ n. 动力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Find what motivates you. 找到激励你的东西。
+写作提分句：Motivate yourself every day with a small goal. 每天用小目标激励自己。
+
+------
+
+**137 encourage** /ɪnˈkʌrɪdʒ/ v. 鼓励（已在037出现，此处为扩展）
+**一、词根词缀拆解**
+词根：cour = 心
+前缀：en- = 使成为
+后缀：-age = 动词后缀
+整体拆解：en + cour + age → 使有心 → 鼓励
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+encourage someone to do（鼓励某人做）
+**三、词性搭配用法（前接 / 后接什么）**
+encourage（动词）
+  及物 + to do：encourage them to try
+**四、高频句型（作文直接套）**
+Parents should encourage their children. 父母应该鼓励孩子。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：encourages
+过去式：encouraged
+过去分词：encouraged
+现在分词：encouraging
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：motivate /ˈməʊtɪveɪt/ v. 激励
+反义词：discourage /dɪsˈkʌrɪdʒ/ v. 劝阻
+拓展词：encouragement /ɪnˈkʌrɪdʒmənt/ n. 鼓励
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：She encouraged me to apply. 她鼓励我申请。
+写作提分句：Encourage others to reach their potential. 鼓励他人发挥潜力。
+
+------
+
+**138 inspire** /ɪnˈspaɪə/ v. 鼓舞；激发灵感（已在039出现，此处为扩展）
+**一、词根词缀拆解**
+词根：spir = 呼吸
+前缀：in- = 向内
+后缀：-e
+整体拆解：in + spir + e → 吸入精神 → 鼓舞
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+inspire someone to do（激励某人做）
+**三、词性搭配用法（前接 / 后接什么）**
+inspire（动词）
+  及物 + to do：inspire him to work harder
+**四、高频句型（作文直接套）**
+His story inspires me. 他的故事激励了我。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：inspires
+过去式：inspired
+过去分词：inspired
+现在分词：inspiring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：motivate /ˈməʊtɪveɪt/ v. 激励
+反义词：discourage /dɪsˈkʌrɪdʒ/ v. 使气馁
+拓展词：inspiration /ˌɪnspəˈreɪʃən/ n. 灵感
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You inspire me. 你激励了我。
+写作提分句：Be the person who inspires others to be better. 成为激励他人变得更好的人。
+
+------
+
+**139 warn** /wɔːn/ v. 警告
+**一、词根词缀拆解**
+词根：warn = 小心（古英语 warnian）
+后缀：无
+整体拆解：warn → 警告
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+warn someone about（警告某人关于）
+warn against（警告不要）
+warn of danger（警告危险）
+**三、词性搭配用法（前接 / 后接什么）**
+warn（动词）
+  及物 + of/about：warn them of the risks
+  及物 + to do：warn him not to go
+**四、高频句型（作文直接套）**
+The sign warns of danger. 标志警告有危险。
+I warned you not to touch that. 我警告过你别碰那个。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：warns
+过去式：warned
+过去分词：warned
+现在分词：warning
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：alert /əˈlɜːt/ v. 提醒
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：warning /ˈwɔːnɪŋ/ n. 警告
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I warned you. 我警告过你。
+写作提分句：Warn others of potential risks. 提醒他人潜在风险。
+
+------
+
+**140 remind** /rɪˈmaɪnd/ v. 提醒
+**一、词根词缀拆解**
+词根：mind = 心智（古英语 gemynd）
+前缀：re- = 再次
+后缀：无
+整体拆解：re + mind → 再次进入心智 → 提醒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+remind someone of（使某人想起）
+remind someone to do（提醒某人做）
+remind that（提醒……）
+**三、词性搭配用法（前接 / 后接什么）**
+remind（动词）
+  及物 + of：remind me of you
+  及物 + to do：remind her to call
+**四、高频句型（作文直接套）**
+Remind me to call him. 提醒我给他打电话。
+This song reminds me of my childhood. 这首歌让我想起童年。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：reminds
+过去式：reminded
+过去分词：reminded
+现在分词：reminding
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：prompt /prɒmpt/ v. 提示
+反义词：forget /fəˈɡet/ v. 忘记
+拓展词：reminder /rɪˈmaɪndə/ n. 提醒物
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Remind me later. 待会儿提醒我。
+写作提分句：Set alarms to remind you of deadlines. 设闹钟提醒截止日期。
+
+------
+
+**141 notice** /ˈnəʊtɪs/ v. 注意（已在096出现，此处为扩展）
+**一、词根词缀拆解**
+词根：not = 知道
+后缀：-ice = 动词后缀
+整体拆解：not + ice → 知道 → 注意到
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+notice someone doing（注意到某人在做）
+**三、词性搭配用法（前接 / 后接什么）**
+notice（动词）
+  感官动词 + doing：notice him leaving
+**四、高频句型（作文直接套）**
+Did you notice anything strange? 你注意到什么奇怪的事了吗？
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：notices
+过去式：noticed
+过去分词：noticed
+现在分词：noticing
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：observe /əbˈzɜːv/ v. 观察
+反义词：ignore /ɪɡˈnɔː/ v. 忽视
+拓展词：notice /ˈnəʊtɪs/ n. 通知
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I noticed you were late. 我注意到你迟到了。
+写作提分句：Notice the small details; they make the difference. 注意小细节，它们决定成败。
+
+------
+
+**142 ignore** /ɪɡˈnɔː/ v. 忽视；不理
+**一、词根词缀拆解**
+词根：gnor = 知道（拉丁语 gnoscere）
+前缀：ig- = 不（in-的变体）
+后缀：-e
+整体拆解：ig + nor + e → 不知道 → 忽视
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+ignore someone（不理某人）
+ignore the problem（忽视问题）
+**三、词性搭配用法（前接 / 后接什么）**
+ignore（动词）
+  及物：ignore the warning
+**四、高频句型（作文直接套）**
+Ignore him. 别理他。
+Don't ignore the signs. 不要忽视这些迹象。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：ignores
+过去式：ignored
+过去分词：ignored
+现在分词：ignoring
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：neglect /nɪˈɡlekt/ v. 疏忽
+反义词：notice /ˈnəʊtɪs/ v. 注意
+拓展词：ignorance /ˈɪɡnərəns/ n. 无知
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't ignore your health. 不要忽视你的健康。
+写作提分句：Ignoring a problem doesn't make it go away. 忽视问题不会让它消失。
+
+------
+
+**143 overlook** /ˌəʊvəˈlʊk/ v. 忽视；俯瞰
+**一、词根词缀拆解**
+词根：look = 看
+前缀：over- = 在上面
+整体拆解：over + look → 从上面看 → 俯瞰 → 忽视
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+overlook a mistake（忽略一个错误）
+overlook the city（俯瞰城市）
+**三、词性搭配用法（前接 / 后接什么）**
+overlook（动词）
+  及物：overlook the details
+**四、高频句型（作文直接套）**
+I'm willing to overlook your mistake. 我愿意忽略你的错误。
+The hotel overlooks the sea. 酒店俯瞰大海。
+**五、词形变化（词性转换题 / 写作核心）**
+第三人称单数：overlooks
+过去式：overlooked
+过去分词：overlooked
+现在分词：overlooking
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：miss /mɪs/ v. 错过
+反义词：notice /ˈnəʊtɪs/ v. 注意
+拓展词：overlook /ˈəʊvəlʊk/ n. 俯瞰处
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't overlook the importance of small things. 不要忽视小事的重要性。
+写作提分句：Overlook minor faults in others. 忽略他人小的缺点。
