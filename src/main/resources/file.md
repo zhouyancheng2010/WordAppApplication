@@ -56242,3 +56242,5915 @@ The hotel overlooks the sea. 酒店俯瞰大海。
 **七、语境用法（适配简单句 / 话题写作，直接套用）**
 基础句：Don't overlook the importance of small things. 不要忽视小事的重要性。
 写作提分句：Overlook minor faults in others. 忽略他人小的缺点。
+
+---
+
+###### 形容词（100词）
+
+**001 happy** /ˈhæpi/ adj. 快乐的；幸福的
+**一、词根词缀拆解**
+词根：hap = 运气；机会（古英语 happ）
+后缀：-y = 形容词后缀
+整体拆解：hap + y → 运气好的 → 快乐的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+happy about（对……感到高兴）
+happy with（对……满意）
+happy hour（欢乐时光）
+**三、词性搭配用法（前接 / 后接什么）**
+happy（形容词）
+  后接 about：happy about the news
+  后接 with：happy with the result
+  后接 to do：happy to help
+**四、高频句型（作文直接套）**
+I'm so happy to see you. 见到你我很高兴。
+Happy birthday! 生日快乐！
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：happier /ˈhæpiə/
+最高级：happiest /ˈhæpiɪst/
+副词：happily /ˈhæpɪli/
+名词：happiness /ˈhæpinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：joyful /ˈdʒɔɪfəl/ adj. 喜悦的
+反义词：sad /sæd/ adj. 悲伤的
+拓展词：unhappy /ʌnˈhæpi/ adj. 不快乐的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be happy. 开心点。
+写作提分句：Happiness is not by chance, but by choice. 幸福不是偶然，而是选择。
+
+------
+
+**002 sad** /sæd/ adj. 悲伤的；难过的
+**一、词根词缀拆解**
+词根：sad = 满足的；沉重的（古英语 sæd）
+后缀：无
+整体拆解：sad → 悲伤的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sad about（对……感到难过）
+sad to say（说来遗憾）
+sad face（悲伤的脸）
+**三、词性搭配用法（前接 / 后接什么）**
+sad（形容词）
+  后接 about：sad about the loss
+  后接 to do：sad to hear that
+**四、高频句型（作文直接套）**
+I'm sad to hear that. 听到那件事我很难过。
+It's a sad story. 那是一个悲伤的故事。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：sadder /ˈsædə/
+最高级：saddest /ˈsædɪst/
+副词：sadly /ˈsædli/
+名词：sadness /ˈsædnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unhappy /ʌnˈhæpi/ adj. 不快乐的
+反义词：happy /ˈhæpi/ adj. 快乐的
+拓展词：sadden /ˈsædən/ v. 使悲伤
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Why are you so sad? 你为什么这么难过？
+写作提分句：Sadness is a natural part of life; embrace it and move on. 悲伤是生活的自然部分，接受它然后继续前进。
+
+------
+
+**003 angry** /ˈæŋɡri/ adj. 生气的；愤怒的
+**一、词根词缀拆解**
+词根：ang = 狭窄；痛苦（古挪威语 angr）
+后缀：-y = 形容词后缀
+整体拆解：ang + ry → 痛苦的 → 生气的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+angry with（对……生气）
+angry about（因……生气）
+angry at（对……发怒）
+**三、词性搭配用法（前接 / 后接什么）**
+angry（形容词）
+  后接 with：angry with him
+  后接 about：angry about the delay
+  后接 at：angry at the situation
+**四、高频句型（作文直接套）**
+I'm angry with you. 我对你很生气。
+Don't be angry. 别生气。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：angrier /ˈæŋɡriə/
+最高级：angriest /ˈæŋɡriɪst/
+副词：angrily /ˈæŋɡrɪli/
+名词：anger /ˈæŋɡə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mad /mæd/ adj. 疯狂的（生气）
+反义词：calm /kɑːm/ adj. 平静的
+拓展词：anger /ˈæŋɡə/ n. 愤怒
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be angry. 别生气。
+写作提分句：Never make a decision when you are angry. 生气时绝不做决定。
+
+------
+
+**004 afraid** /əˈfreɪd/ adj. 害怕的；担心的
+**一、词根词缀拆解**
+词根：fray = 打扰；害怕（古法语 afrayer）
+前缀：a- = 处于……状态
+整体拆解：a + fraid → 处于害怕状态 → 害怕的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+afraid of（害怕……）
+afraid to do（害怕做某事）
+I'm afraid that...（恐怕……）
+**三、词性搭配用法（前接 / 后接什么）**
+afraid（形容词）
+  后接 of：afraid of spiders
+  后接 to do：afraid to speak
+  后接 that：I'm afraid that I can't come.
+**四、高频句型（作文直接套）**
+Don't be afraid. 别害怕。
+I'm afraid I have to go now. 恐怕我现在得走了。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more afraid
+最高级：most afraid
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：scared /skeəd/ adj. 害怕的；frightened /ˈfraɪtnd/ adj. 受惊的
+反义词：brave /breɪv/ adj. 勇敢的
+拓展词：fear /fɪə/ n. 恐惧
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be afraid to fail. 不要害怕失败。
+写作提分句：The only thing we have to fear is fear itself. 我们唯一要害怕的就是害怕本身。
+
+------
+
+**005 frightened** /ˈfraɪtnd/ adj. 受惊的；害怕的
+**一、词根词缀拆解**
+词根：fright = 恐惧（古英语 fryhto）
+后缀：-en = 动词后缀 → -ed = 形容词后缀
+整体拆解：fright + en + ed → 被吓到的 → 受惊的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+frightened of（害怕……）
+frightened to do（害怕做）
+frightened by（被……吓到）
+**三、词性搭配用法（前接 / 后接什么）**
+frightened（形容词）
+  后接 of：frightened of the dark
+  后接 to do：frightened to move
+**四、高频句型（作文直接套）**
+He was too frightened to speak. 他吓得说不出话。
+Don't be frightened. 别害怕。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more frightened
+最高级：most frightened
+副词：frightenedly /ˈfraɪtndli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：scared /skeəd/ adj. 害怕的；afraid /əˈfreɪd/ adj. 害怕的
+反义词：brave /breɪv/ adj. 勇敢的
+拓展词：fright /fraɪt/ n. 惊吓
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be frightened; it's just a dog. 别害怕，只是一只狗。
+写作提分句：The frightened child needed comfort. 受惊的孩子需要安慰。
+
+------
+
+**006 scared** /skeəd/ adj. 害怕的；恐惧的
+**一、词根词缀拆解**
+词根：scare = 惊吓（古挪威语 skirra）
+后缀：-ed = 形容词后缀
+整体拆解：scare + ed → 被惊吓的 → 害怕的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+scared of（害怕……）
+scared to do（害怕做）
+scared to death（吓得要死）
+**三、词性搭配用法（前接 / 后接什么）**
+scared（形容词）
+  后接 of：scared of heights
+  后接 to do：scared to speak up
+**四、高频句型（作文直接套）**
+I'm scared of spiders. 我害怕蜘蛛。
+Are you scared? 你害怕吗？
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more scared
+最高级：most scared
+副词：scaredly /ˈskeərdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：frightened /ˈfraɪtnd/ adj. 受惊的；afraid /əˈfreɪd/ adj. 害怕的
+反义词：brave /breɪv/ adj. 勇敢的
+拓展词：scare /skeə/ v. 惊吓
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be scared. 别害怕。
+写作提分句：Being scared is normal; letting it stop you is a choice. 害怕是正常的，让它阻止你是选择。
+
+------
+
+**007 nervous** /ˈnɜːvəs/ adj. 紧张的
+**一、词根词缀拆解**
+词根：nerv = 神经（拉丁语 nervus）
+后缀：-ous = 充满……的
+整体拆解：nerv + ous → 神经紧张的 → 紧张的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+nervous about（对……感到紧张）
+nervous system（神经系统）
+make nervous（使紧张）
+**三、词性搭配用法（前接 / 后接什么）**
+nervous（形容词）
+  后接 about：nervous about the exam
+  后接 of：nervous of speaking in public
+**四、高频句型（作文直接套）**
+I'm nervous about the interview. 我对面试感到紧张。
+Don't be nervous. 别紧张。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more nervous
+最高级：most nervous
+副词：nervously /ˈnɜːvəsli/
+名词：nervousness /ˈnɜːvəsnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tense /tens/ adj. 紧张的
+反义词：calm /kɑːm/ adj. 平静的；relaxed /rɪˈlækst/ adj. 放松的
+拓展词：nerve /nɜːv/ n. 神经
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Take a deep breath if you feel nervous. 如果感到紧张就深呼吸。
+写作提分句：Nervousness before a challenge is a sign that you care. 挑战前的紧张是在乎的表现。
+
+------
+
+**008 worried** /ˈwʌrid/ adj. 担心的；焦虑的
+**一、词根词缀拆解**
+词根：wor = 勒死；担心（古英语 wyrgan）
+后缀：-y = 动词后缀 → -ed = 形容词后缀
+整体拆解：wor + y + ed → 被担心的 → 担心的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+worried about（担心……）
+worried that（担心……）
+**三、词性搭配用法（前接 / 后接什么）**
+worried（形容词）
+  后接 about：worried about the future
+  后接 that：worried that he might be late
+**四、高频句型（作文直接套）**
+I'm worried about you. 我担心你。
+Don't be so worried. 别这么担心。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more worried
+最高级：most worried
+副词：worriedly /ˈwʌrɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：anxious /ˈæŋkʃəs/ adj. 焦虑的
+反义词：calm /kɑːm/ adj. 平静的
+拓展词：worry /ˈwʌri/ v. 担心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Everything will be fine; don't be worried. 一切都会好的，别担心。
+写作提分句：Worried about things you can't control is a waste of energy. 担心无法控制的事情是浪费精力。
+
+------
+
+**009 anxious** /ˈæŋkʃəs/ adj. 焦虑的；担忧的
+**一、词根词缀拆解**
+词根：anx = 勒紧；痛苦（拉丁语 angere）
+后缀：-ious = 形容词后缀
+整体拆解：anx + ious → 痛苦的 → 焦虑的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+anxious about（对……焦虑）
+anxious to do（渴望做）
+**三、词性搭配用法（前接 / 后接什么）**
+anxious（形容词）
+  后接 about：anxious about the test
+  后接 to do：anxious to please
+**四、高频句型（作文直接套）**
+I'm anxious about the results. 我对结果感到焦虑。
+He is anxious to meet you. 他渴望见到你。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more anxious
+最高级：most anxious
+副词：anxiously /ˈæŋkʃəsli/
+名词：anxiety /æŋˈzaɪəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：worried /ˈwʌrid/ adj. 担心的
+反义词：calm /kɑːm/ adj. 平静的
+拓展词：anxiety /æŋˈzaɪəti/ n. 焦虑
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be anxious; everything will work out. 别焦虑，一切都会解决的。
+写作提分句：Anxious thoughts can be managed with mindfulness. 焦虑的想法可以通过正念来管理。
+
+------
+
+**010 confident** /ˈkɒnfɪdənt/ adj. 自信的
+**一、词根词缀拆解**
+词根：fid = 信任（拉丁语 fidere）
+前缀：con- = 一起；完全
+后缀：-ent = 形容词后缀
+整体拆解：con + fid + ent → 完全信任的 → 自信的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+confident of/about（对……有信心）
+confident in（信任……）
+confident manner（自信的态度）
+**三、词性搭配用法（前接 / 后接什么）**
+confident（形容词）
+  后接 of：confident of success
+  后接 about：confident about the future
+**四、高频句型（作文直接套）**
+I am confident that I will pass. 我有信心我会通过。
+She feels confident in her abilities. 她对自己的能力有信心。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more confident
+最高级：most confident
+副词：confidently /ˈkɒnfɪdəntli/
+名词：confidence /ˈkɒnfɪdəns/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：assured /əˈʃʊəd/ adj. 自信的
+反义词：shy /ʃaɪ/ adj. 害羞的；unconfident /ʌnˈkɒnfɪdənt/ adj. 不自信的
+拓展词：confidence /ˈkɒnfɪdəns/ n. 信心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be confident. 自信点。
+写作提分句：Confident people take risks and grow faster. 自信的人敢于冒险，成长更快。
+
+------
+
+**011 brave** /breɪv/ adj. 勇敢的
+**一、词根词缀拆解**
+词根：brave = 勇敢（意大利语 bravo）
+后缀：无
+整体拆解：brave → 勇敢的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+brave enough（足够勇敢）
+brave decision（勇敢的决定）
+brave face（勇敢的面孔）
+**三、词性搭配用法（前接 / 后接什么）**
+brave（形容词）
+  后接 enough：brave enough to try
+  后接 to do：brave to speak out
+**四、高频句型（作文直接套）**
+It was brave of you to tell the truth. 你说出真相很勇敢。
+Be brave. 勇敢点。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：braver /ˈbreɪvə/
+最高级：bravest /ˈbreɪvɪst/
+副词：bravely /ˈbreɪvli/
+名词：bravery /ˈbreɪvəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：courageous /kəˈreɪdʒəs/ adj. 有勇气的
+反义词：cowardly /ˈkaʊədli/ adj. 懦弱的
+拓展词：bravery /ˈbreɪvəri/ n. 勇敢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be brave. 勇敢点。
+写作提分句：Brave people face challenges head-on. 勇敢的人直面挑战。
+
+------
+
+**012 shy** /ʃaɪ/ adj. 害羞的；胆怯的
+**一、词根词缀拆解**
+词根：shy = 害羞（古英语 sceoh）
+后缀：无
+整体拆解：shy → 害羞的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+shy of（对……害羞）
+shy away from（回避）
+shy person（害羞的人）
+**三、词性搭配用法（前接 / 后接什么）**
+shy（形容词）
+  后接 of：shy of strangers
+  后接 about：shy about speaking in public
+**四、高频句型（作文直接套）**
+He is too shy to speak to her. 他太害羞了，不敢和她说话。
+Don't be shy. 别害羞。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：shyer /ˈʃaɪə/ 或 more shy
+最高级：shyest /ˈʃaɪɪst/ 或 most shy
+副词：shyly /ˈʃaɪli/
+名词：shyness /ˈʃaɪnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：timid /ˈtɪmɪd/ adj. 胆怯的
+反义词：confident /ˈkɒnfɪdənt/ adj. 自信的；outgoing /ˈaʊtɡəʊɪŋ/ adj. 外向的
+拓展词：shyly /ˈʃaɪli/ adv. 害羞地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be shy. 别害羞。
+写作提分句：Being shy is okay, but don't let it hold you back. 害羞没关系，但不要让它阻碍你。
+
+------
+
+**013 proud** /praʊd/ adj. 自豪的；骄傲的
+**一、词根词缀拆解**
+词根：proud = 骄傲（古英语 prud）
+后缀：无
+整体拆解：proud → 自豪的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+proud of（为……感到自豪）
+proud moment（自豪的时刻）
+proud parent（自豪的父母）
+**三、词性搭配用法（前接 / 后接什么）**
+proud（形容词）
+  后接 of：proud of his son
+  后接 to do：proud to serve
+**四、高频句型（作文直接套）**
+I'm proud of you. 我为你感到自豪。
+She is proud of her achievements. 她为自己的成就感到自豪。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：prouder /ˈpraʊdə/
+最高级：proudest /ˈpraʊdɪst/
+副词：proudly /ˈpraʊdli/
+名词：pride /praɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：satisfied /ˈsætɪsfaɪd/ adj. 满意的
+反义词：ashamed /əˈʃeɪmd/ adj. 羞愧的
+拓展词：pride /praɪd/ n. 自豪
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be proud of who you are. 为自己感到自豪。
+写作提分句：Take pride in your work, not in your ego. 为你的工作感到自豪，而不是为你的自负。
+
+------
+
+**014 modest** /ˈmɒdɪst/ adj. 谦虚的；适度的
+**一、词根词缀拆解**
+词根：mod = 方式；尺度（拉丁语 modus）
+后缀：-est = 形容词后缀
+整体拆解：mod + est → 有尺度的 → 谦虚的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+modest about（对……谦虚）
+modest price（适中的价格）
+modest person（谦虚的人）
+**三、词性搭配用法（前接 / 后接什么）**
+modest（形容词）
+  后接 about：modest about his achievements
+**四、高频句型（作文直接套）**
+He is modest about his success. 他对自己的成功很谦虚。
+Stay modest. 保持谦虚。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more modest
+最高级：most modest
+副词：modestly /ˈmɒdɪstli/
+名词：modesty /ˈmɒdəsti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：humble /ˈhʌmbəl/ adj. 谦逊的
+反义词：proud /praʊd/ adj. 骄傲的
+拓展词：modesty /ˈmɒdəsti/ n. 谦虚
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay modest. 保持谦虚。
+写作提分句：A modest person learns more because they are open to feedback. 谦虚的人学到更多，因为他们对反馈开放。
+
+------
+
+**015 honest** /ˈɒnɪst/ adj. 诚实的
+**一、词根词缀拆解**
+词根：hon = 荣誉（拉丁语 honos）
+后缀：-est = 形容词后缀
+整体拆解：hon + est → 有荣誉的 → 诚实的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+honest about（对……诚实）
+honest person（诚实的人）
+honest opinion（诚实的意见）
+**三、词性搭配用法（前接 / 后接什么）**
+honest（形容词）
+  后接 about：honest about his feelings
+  后接 with：honest with you
+**四、高频句型（作文直接套）**
+To be honest, I don't know. 老实说，我不知道。
+He is an honest man. 他是个诚实的人。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more honest
+最高级：most honest
+副词：honestly /ˈɒnɪstli/
+名词：honesty /ˈɒnəsti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：truthful /ˈtruːθfəl/ adj. 诚实的
+反义词：dishonest /dɪsˈɒnɪst/ adj. 不诚实的
+拓展词：honesty /ˈɒnəsti/ n. 诚实
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Honesty is the best policy. 诚实是上策。
+写作提分句：An honest reputation is priceless. 诚实的声誉是无价的。
+
+------
+
+**016 dishonest** /dɪsˈɒnɪst/ adj. 不诚实的
+**一、词根词缀拆解**
+词根：hon = 荣誉
+前缀：dis- = 否定
+后缀：-est = 形容词后缀
+整体拆解：dis + hon + est → 不诚实的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dishonest about（对……不诚实）
+dishonest behavior（不诚实的行为）
+dishonest person（不诚实的人）
+**三、词性搭配用法（前接 / 后接什么）**
+dishonest（形容词）
+  后接 about：dishonest about his past
+  后接 with：dishonest with clients
+**四、高频句型（作文直接套）**
+He was dishonest with me. 他对我不诚实。
+Dishonest people eventually get caught. 不诚实的人最终会被抓住。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more dishonest
+最高级：most dishonest
+副词：dishonestly /dɪsˈɒnɪstli/
+名词：dishonesty /dɪsˈɒnəsti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：deceitful /dɪˈsiːtfəl/ adj. 欺骗的
+反义词：honest /ˈɒnɪst/ adj. 诚实的
+拓展词：dishonesty /dɪsˈɒnəsti/ n. 不诚实
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Dishonesty destroys trust. 不诚实摧毁信任。
+写作提分句：One dishonest act can ruin years of reputation. 一次不诚实的行为可以毁掉多年的声誉。
+
+------
+
+**017 polite** /pəˈlaɪt/ adj. 有礼貌的
+**一、词根词缀拆解**
+词根：polit = 光滑；有教养（拉丁语 politus）
+后缀：-e
+整体拆解：polit + e → 有教养的 → 礼貌的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+polite to（对……有礼貌）
+polite manner（礼貌的举止）
+polite request（礼貌的请求）
+**三、词性搭配用法（前接 / 后接什么）**
+polite（形容词）
+  后接 to：polite to guests
+  后接 of：It's polite of you.
+**四、高频句型（作文直接套）**
+It's polite to say thank you. 说谢谢是有礼貌的。
+He is always polite to everyone. 他对每个人都很礼貌。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：politer /pəˈlaɪtə/ 或 more polite
+最高级：politest /pəˈlaɪtɪst/ 或 most polite
+副词：politely /pəˈlaɪtli/
+名词：politeness /pəˈlaɪtnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：courteous /ˈkɜːtiəs/ adj. 有礼貌的
+反义词：rude /ruːd/ adj. 粗鲁的
+拓展词：politeness /pəˈlaɪtnəs/ n. 礼貌
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be polite. 有礼貌。
+写作提分句：Politeness costs nothing but gains everything. 礼貌不费分文却赢得一切。
+
+------
+
+**018 rude** /ruːd/ adj. 粗鲁的；无礼的
+**一、词根词缀拆解**
+词根：rude = 粗糙；未加工（拉丁语 rudis）
+后缀：无
+整体拆解：rude → 粗鲁的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rude to（对……粗鲁）
+rude behavior（粗鲁的行为）
+rude remark（粗鲁的言语）
+**三、词性搭配用法（前接 / 后接什么）**
+rude（形容词）
+  后接 to：rude to customers
+  后接 of：It's rude of him.
+**四、高频句型（作文直接套）**
+Don't be rude. 别粗鲁。
+It's rude to interrupt. 打断别人是不礼貌的。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：ruder /ˈruːdə/
+最高级：rudest /ˈruːdɪst/
+副词：rudely /ˈruːdli/
+名词：rudeness /ˈruːdnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：impolite /ˌɪmpəˈlaɪt/ adj. 无礼的
+反义词：polite /pəˈlaɪt/ adj. 有礼貌的
+拓展词：rudely /ˈruːdli/ adv. 粗鲁地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Rude people push others away. 粗鲁的人把人推开。
+写作提分句：A rude comment can ruin a relationship. 一句粗鲁的话可以毁掉一段关系。
+
+------
+
+**019 kind** /kaɪnd/ adj. 善良的；友好的
+**一、词根词缀拆解**
+词根：kind = 种类；本性（古英语 cynd）
+后缀：无
+整体拆解：kind → 本性好的 → 善良的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+kind to（对……友善）
+kind heart（善良的心）
+kind gesture（善意的举动）
+**三、词性搭配用法（前接 / 后接什么）**
+kind（形容词）
+  后接 to：kind to animals
+  后接 of：It's kind of you.
+**四、高频句型（作文直接套）**
+Be kind to others. 善待他人。
+It's very kind of you to help. 你帮忙真是太好了。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：kinder /ˈkaɪndə/
+最高级：kindest /ˈkaɪndɪst/
+副词：kindly /ˈkaɪndli/
+名词：kindness /ˈkaɪndnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：nice /naɪs/ adj. 友好的
+反义词：cruel /ˈkruːəl/ adj. 残忍的
+拓展词：kindness /ˈkaɪndnəs/ n. 善良
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Kind words cost nothing. 善言不费分文。
+写作提分句：A kind gesture can change someone's day. 一个善意的举动可以改变某人的一天。
+
+------
+
+**020 cruel** /ˈkruːəl/ adj. 残忍的；残酷的
+**一、词根词缀拆解**
+词根：cruel = 残忍（拉丁语 crudelis）
+后缀：无
+整体拆解：cruel → 残忍的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cruel to（对……残忍）
+cruel punishment（残酷的惩罚）
+cruel fate（残酷的命运）
+**三、词性搭配用法（前接 / 后接什么）**
+cruel（形容词）
+  后接 to：cruel to animals
+**四、高频句型（作文直接套）**
+It's cruel to hurt animals. 伤害动物是残忍的。
+Life can be cruel sometimes. 生活有时很残酷。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：crueller /ˈkruːələ/ 或 more cruel
+最高级：cruellest /ˈkruːəlɪst/ 或 most cruel
+副词：cruelly /ˈkruːəli/
+名词：cruelty /ˈkruːəlti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：brutal /ˈbruːtəl/ adj. 野蛮的
+反义词：kind /kaɪnd/ adj. 善良的
+拓展词：cruelly /ˈkruːəli/ adv. 残忍地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cruelty is a sign of weakness. 残忍是软弱的表现。
+写作提分句：A cruel word can wound more deeply than a sword. 恶语伤人比刀剑更深。
+
+------
+
+**021 friendly** /ˈfrendli/ adj. 友好的
+**一、词根词缀拆解**
+词根：friend = 朋友（古英语 freond）
+后缀：-ly = 像……的
+整体拆解：friend + ly → 像朋友一样的 → 友好的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+friendly to/with（对……友好）
+friendly atmosphere（友好的氛围）
+friendly advice（善意的建议）
+**三、词性搭配用法（前接 / 后接什么）**
+friendly（形容词）
+  后接 to：friendly to strangers
+  后接 with：friendly with everyone
+**四、高频句型（作文直接套）**
+She is very friendly. 她非常友好。
+The staff were friendly and helpful. 员工友好且乐于助人。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：friendlier /ˈfrendliə/
+最高级：friendliest /ˈfrendliɪst/
+副词：friendlily /ˈfrendlɪli/
+名词：friendliness /ˈfrendlinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：kind /kaɪnd/ adj. 友善的
+反义词：unfriendly /ʌnˈfrendli/ adj. 不友好的
+拓展词：friend /frend/ n. 朋友
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be friendly to everyone. 对每个人都友好。
+写作提分句：A friendly workplace boosts productivity. 友好的工作场所提高生产力。
+
+------
+
+**022 unfriendly** /ʌnˈfrendli/ adj. 不友好的
+**一、词根词缀拆解**
+词根：friend = 朋友
+前缀：un- = 不
+后缀：-ly = 像……的
+整体拆解：un + friend + ly → 不像朋友的 → 不友好的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unfriendly to（对……不友好）
+unfriendly attitude（不友好的态度）
+**三、词性搭配用法（前接 / 后接什么）**
+unfriendly（形容词）
+  后接 to：unfriendly to newcomers
+**四、高频句型（作文直接套）**
+The receptionist was unfriendly. 接待员不友好。
+He gave me an unfriendly look. 他给了我一个不友好的眼神。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：unfriendlier /ʌnˈfrendliə/
+最高级：unfriendliest /ʌnˈfrendliɪst/
+副词：unfriendlily /ʌnˈfrendlɪli/
+名词：unfriendliness /ʌnˈfrendlinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：cold /kəʊld/ adj. 冷淡的
+反义词：friendly /ˈfrendli/ adj. 友好的
+拓展词：unfriend /ʌnˈfrend/ v. 删除好友
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be unfriendly. 不要不友好。
+写作提分句：An unfriendly environment discourages teamwork. 不友好的环境阻碍团队合作。
+
+------
+
+**023 careful** /ˈkeəfəl/ adj. 小心的；仔细的
+**一、词根词缀拆解**
+词根：care = 关心；小心（古英语 caru）
+后缀：-ful = 充满……的
+整体拆解：care + ful → 充满小心的 → 仔细的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+careful about/of（小心……）
+be careful（小心）
+careful planning（仔细规划）
+**三、词性搭配用法（前接 / 后接什么）**
+careful（形容词）
+  后接 of/about：careful of your health
+  后接 with：careful with money
+**四、高频句型（作文直接套）**
+Be careful! 小心！
+You should be careful about what you say. 你说话应该小心。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more careful
+最高级：most careful
+副词：carefully /ˈkeəfəli/
+名词：carefulness /ˈkeəfəlnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：cautious /ˈkɔːʃəs/ adj. 谨慎的
+反义词：careless /ˈkeələs/ adj. 粗心的
+拓展词：care /keə/ n. 小心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be careful out there. 在外面小心。
+写作提分句：Careful preparation prevents problems. 仔细的准备可以防止问题。
+
+------
+
+**024 careless** /ˈkeələs/ adj. 粗心的；疏忽的
+**一、词根词缀拆解**
+词根：care = 关心；小心
+后缀：-less = 没有……的
+整体拆解：care + less → 没有小心的 → 粗心的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+careless of/about（对……粗心）
+careless mistake（粗心错误）
+careless attitude（粗心的态度）
+**三、词性搭配用法（前接 / 后接什么）**
+careless（形容词）
+  后接 of：careless of the consequences
+  后接 about：careless about details
+**四、高频句型（作文直接套）**
+That was a careless mistake. 那是个粗心的错误。
+Don't be so careless. 别这么粗心。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more careless
+最高级：most careless
+副词：carelessly /ˈkeələsli/
+名词：carelessness /ˈkeələsnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：negligent /ˈneɡlɪdʒənt/ adj. 疏忽的
+反义词：careful /ˈkeəfəl/ adj. 小心的
+拓展词：care /keə/ n. 小心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A careless mistake cost him the job. 一个粗心的错误让他丢了工作。
+写作提分句：Careless work leads to poor results. 粗心的工作导致糟糕的结果。
+
+------
+
+**025 active** /ˈæktɪv/ adj. 活跃的；积极的
+**一、词根词缀拆解**
+词根：act = 行动（拉丁语 agere）
+后缀：-ive = 有……倾向的
+整体拆解：act + ive → 倾向于行动的 → 活跃的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+active in（在……方面活跃）
+active role（积极角色）
+active lifestyle（积极的生活方式）
+**三、词性搭配用法（前接 / 后接什么）**
+active（形容词）
+  后接 in：active in the community
+  后接 at：active at work
+**四、高频句型（作文直接套）**
+He is active in sports. 他积极参加体育活动。
+Stay active. 保持活跃。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more active
+最高级：most active
+副词：actively /ˈæktɪvli/
+名词：activity /ækˈtɪvəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：energetic /ˌenəˈdʒetɪk/ adj. 精力充沛的
+反义词：inactive /ɪnˈæktɪv/ adj. 不活跃的
+拓展词：action /ˈækʃən/ n. 行动
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay active and healthy. 保持活跃和健康。
+写作提分句：An active mind is a sharp mind. 活跃的头脑是敏锐的头脑。
+
+------
+
+**026 inactive** /ɪnˈæktɪv/ adj. 不活跃的；怠惰的
+**一、词根词缀拆解**
+词根：act = 行动
+前缀：in- = 不
+后缀：-ive = 有……倾向的
+整体拆解：in + act + ive → 不倾向于行动的 → 不活跃的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+inactive member（不活跃成员）
+inactive lifestyle（不活跃的生活方式）
+**三、词性搭配用法（前接 / 后接什么）**
+inactive（形容词）
+  后接 in：inactive in politics
+**四、高频句型（作文直接套）**
+He has been inactive for months. 他已经几个月不活跃了。
+The account is inactive. 该账户已停用。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more inactive
+最高级：most inactive
+副词：inactively /ɪnˈæktɪvli/
+名词：inactivity /ˌɪnækˈtɪvəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：idle /ˈaɪdəl/ adj. 闲置的
+反义词：active /ˈæktɪv/ adj. 活跃的
+拓展词：inaction /ɪnˈækʃən/ n. 不作为
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't remain inactive. 不要保持不活跃。
+写作提分句：An inactive lifestyle can harm your health. 不活跃的生活方式会损害健康。
+
+------
+
+**027 positive** /ˈpɒzətɪv/ adj. 积极的；肯定的
+**一、词根词缀拆解**
+词根：posit = 放置（拉丁语 ponere）
+后缀：-ive = 有……倾向的
+整体拆解：posit + ive → 确定放置的 → 肯定的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+positive attitude（积极态度）
+positive effect（积极影响）
+positive about（对……乐观）
+**三、词性搭配用法（前接 / 后接什么）**
+positive（形容词）
+  后接 about：positive about the future
+  后接 that：positive that it will work
+**四、高频句型（作文直接套）**
+Stay positive. 保持积极。
+I'm positive that he will succeed. 我肯定他会成功。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more positive
+最高级：most positive
+副词：positively /ˈpɒzətɪvli/
+名词：positivity /ˌpɒzəˈtɪvəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：optimistic /ˌɒptɪˈmɪstɪk/ adj. 乐观的
+反义词：negative /ˈneɡətɪv/ adj. 消极的
+拓展词：position /pəˈzɪʃən/ n. 位置
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Think positive. 积极思考。
+写作提分句：A positive mindset attracts success. 积极的心态吸引成功。
+
+------
+
+**028 negative** /ˈneɡətɪv/ adj. 消极的；否定的
+**一、词根词缀拆解**
+词根：neg = 否定（拉丁语 negare）
+后缀：-ative = 形容词后缀
+整体拆解：neg + ative → 否定的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+negative attitude（消极态度）
+negative effect（负面影响）
+negative feedback（负面反馈）
+**三、词性搭配用法（前接 / 后接什么）**
+negative（形容词）
+  后接 about：negative about life
+  后接 towards：negative towards change
+**四、高频句型（作文直接套）**
+Don't be so negative. 别这么消极。
+His comment had a negative impact. 他的评论产生了负面影响。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more negative
+最高级：most negative
+副词：negatively /ˈneɡətɪvli/
+名词：negativity /ˌneɡəˈtɪvəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pessimistic /ˌpesɪˈmɪstɪk/ adj. 悲观的
+反义词：positive /ˈpɒzətɪv/ adj. 积极的
+拓展词：negation /nɪˈɡeɪʃən/ n. 否定
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Avoid negative people. 避开消极的人。
+写作提分句：Negative thinking holds you back. 消极思维阻碍你前进。
+
+------
+
+**029 excited** /ɪkˈsaɪtɪd/ adj. 兴奋的；激动的
+**一、词根词缀拆解**
+词根：cite = 激发；召唤（拉丁语 citare）
+前缀：ex- = 向外
+后缀：-ed = 形容词后缀（被……的）
+整体拆解：ex + cit + ed → 被激发的 → 兴奋的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+excited about（对……兴奋）
+excited to do（兴奋地做）
+excited for（为……兴奋）
+**三、词性搭配用法（前接 / 后接什么）**
+excited（形容词）
+  后接 about：excited about the trip
+  后接 to do：excited to see you
+**四、高频句型（作文直接套）**
+I'm so excited! 我太兴奋了！
+She is excited about her new job. 她对她的新工作很兴奋。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more excited
+最高级：most excited
+副词：excitedly /ɪkˈsaɪtɪdli/
+名词：excitement /ɪkˈsaɪtmənt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thrilled /θrɪld/ adj. 非常激动的
+反义词：calm /kɑːm/ adj. 平静的
+拓展词：exciting /ɪkˈsaɪtɪŋ/ adj. 令人兴奋的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay excited about life. 对生活保持兴奋。
+写作提分句：Excited people achieve more. 充满激情的人成就更多。
+
+------
+
+**030 exciting** /ɪkˈsaɪtɪŋ/ adj. 令人兴奋的
+**一、词根词缀拆解**
+词根：cite = 激发
+前缀：ex- = 向外
+后缀：-ing = 形容词后缀
+整体拆解：ex + cit + ing → 令人激发的 → 令人兴奋的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+exciting news（令人兴奋的消息）
+exciting opportunity（令人兴奋的机会）
+**三、词性搭配用法（前接 / 后接什么）**
+exciting（形容词）
+  后接 to：exciting to see
+**四、高频句型（作文直接套）**
+This is an exciting moment. 这是一个激动人心的时刻。
+That sounds exciting! 听起来很刺激！
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more exciting
+最高级：most exciting
+副词：excitingly /ɪkˈsaɪtɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thrilling /ˈθrɪlɪŋ/ adj. 令人激动的
+反义词：boring /ˈbɔːrɪŋ/ adj. 无聊的
+拓展词：excite /ɪkˈsaɪt/ v. 使兴奋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life is exciting when you try new things. 当你尝试新事物时，生活是令人兴奋的。
+写作提分句：An exciting future awaits those who work for it. 令人兴奋的未来等待着为之努力的人。
+
+------
+
+**031 surprised** /səˈpraɪzd/ adj. 感到惊讶的
+**一、词根词缀拆解**
+词根：prise = 抓住（拉丁语 prehendere）
+前缀：sur- = 超过；上面
+后缀：-ed = 形容词后缀
+整体拆解：sur + pris + ed → 被突然抓住的 → 感到惊讶的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+surprised at/by（对……感到惊讶）
+surprised to do（惊讶地做）
+surprised that（惊讶于……）
+**三、词性搭配用法（前接 / 后接什么）**
+surprised（形容词）
+  后接 at：surprised at the news
+  后接 to do：surprised to see you
+**四、高频句型（作文直接套）**
+I'm surprised to see you here. 在这里见到你很惊讶。
+He was surprised by the result. 他对结果感到惊讶。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more surprised
+最高级：most surprised
+副词：surprisedly /səˈpraɪzɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：astonished /əˈstɒnɪʃt/ adj. 震惊的
+反义词：unsurprised /ˌʌnsəˈpraɪzd/ adj. 不惊讶的
+拓展词：surprise /səˈpraɪz/ n. 惊讶
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I was surprised by his honesty. 我对他的诚实感到惊讶。
+写作提分句：Be surprised by the beauty of small things. 对小事物的美丽感到惊讶。
+
+------
+
+**032 surprising** /səˈpraɪzɪŋ/ adj. 令人惊讶的
+**一、词根词缀拆解**
+词根：prise = 抓住
+前缀：sur- = 超过；上面
+后缀：-ing = 形容词后缀
+整体拆解：sur + pris + ing → 令人被抓住的 → 令人惊讶的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+surprising news（令人惊讶的消息）
+surprising result（令人惊讶的结果）
+find surprising（觉得惊讶）
+**三、词性搭配用法（前接 / 后接什么）**
+surprising（形容词）
+  后接 to：surprising to me
+  后接 that：surprising that he came
+**四、高频句型（作文直接套）**
+It's surprising how fast time flies. 时间过得真快，令人惊讶。
+The results were surprising. 结果令人惊讶。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more surprising
+最高级：most surprising
+副词：surprisingly /səˈpraɪzɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：astonishing /əˈstɒnɪʃɪŋ/ adj. 令人震惊的
+反义词：expected /ɪkˈspektɪd/ adj. 预期的
+拓展词：surprise /səˈpraɪz/ n. 惊讶
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The most surprising thing is... 最令人惊讶的是……
+写作提分句：Surprising opportunities often come from unexpected places. 令人惊讶的机会常常来自意想不到的地方。
+
+------
+
+**033 interested** /ˈɪntrəstɪd/ adj. 感兴趣的
+**一、词根词缀拆解**
+词根：inter = 在……之间（拉丁语 interesse）
+后缀：-ed = 形容词后缀
+整体拆解：inter + est + ed → 被置于其中的 → 感兴趣的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+interested in（对……感兴趣）
+interested to do（有兴趣做）
+**三、词性搭配用法（前接 / 后接什么）**
+interested（形容词）
+  后接 in：interested in art
+  后接 to do：interested to learn more
+**四、高频句型（作文直接套）**
+I'm interested in learning Chinese. 我对学习中文感兴趣。
+He is not interested in politics. 他对政治不感兴趣。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more interested
+最高级：most interested
+副词：interestedly /ˈɪntrəstɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：curious /ˈkjʊəriəs/ adj. 好奇的
+反义词：bored /bɔːd/ adj. 感到无聊的
+拓展词：interest /ˈɪntrəst/ n. 兴趣
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be interested in something every day. 每天对某件事感兴趣。
+写作提分句：Interested people are interesting people. 感兴趣的人是有趣的人。
+
+------
+
+**034 interesting** /ˈɪntrəstɪŋ/ adj. 有趣的
+**一、词根词缀拆解**
+词根：inter = 在……之间
+后缀：-esting = 形容词后缀
+整体拆解：inter + est + ing → 令人投入的 → 有趣的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+interesting book（有趣的书）
+interesting idea（有趣的想法）
+find interesting（觉得有趣）
+**三、词性搭配用法（前接 / 后接什么）**
+interesting（形容词）
+  后接 to：interesting to me
+  后接 for：interesting for children
+**四、高频句型（作文直接套）**
+That's interesting! 真有趣！
+I find this topic very interesting. 我觉得这个话题很有趣。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more interesting
+最高级：most interesting
+副词：interestingly /ˈɪntrəstɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fascinating /ˈfæsɪneɪtɪŋ/ adj. 迷人的
+反义词：boring /ˈbɔːrɪŋ/ adj. 无聊的
+拓展词：interest /ˈɪntrəst/ n. 兴趣
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep it interesting. 保持趣味。
+写作提分句：An interesting life is one full of learning. 有趣的生活是充满学习的生活。
+
+------
+
+**035 bored** /bɔːd/ adj. 感到无聊的
+**一、词根词缀拆解**
+词根：bore = 钻孔；使厌烦（古英语 borian）
+后缀：-ed = 形容词后缀
+整体拆解：bore + ed → 被使厌烦的 → 感到无聊的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bored with（对……感到无聊）
+bored to death（无聊得要死）
+**三、词性搭配用法（前接 / 后接什么）**
+bored（形容词）
+  后接 with：bored with the job
+  后接 of：bored of the same routine
+**四、高频句型（作文直接套）**
+I'm bored. 我觉得无聊。
+He is bored with his job. 他对工作感到厌倦。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more bored
+最高级：most bored
+副词：boredly /ˈbɔːrɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tired /taɪəd/ adj. 疲倦的
+反义词：interested /ˈɪntrəstɪd/ adj. 感兴趣的
+拓展词：bore /bɔː/ v. 使厌烦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：If you're bored, find something new to learn. 如果你感到无聊，找些新东西来学。
+写作提分句：Boredom is the mother of creativity. 无聊是创造力之母。
+
+------
+
+**036 boring** /ˈbɔːrɪŋ/ adj. 无聊的；乏味的
+**一、词根词缀拆解**
+词根：bore = 钻孔；使厌烦
+后缀：-ing = 形容词后缀
+整体拆解：bore + ing → 令人厌烦的 → 无聊的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+boring movie（无聊的电影）
+boring job（乏味的工作）
+find boring（觉得无聊）
+**三、词性搭配用法（前接 / 后接什么）**
+boring（形容词）
+  后接 to：boring to me
+  后接 for：boring for students
+**四、高频句型（作文直接套）**
+This is so boring. 这太无聊了。
+I find the lecture boring. 我觉得这个讲座很无聊。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more boring
+最高级：most boring
+副词：boringly /ˈbɔːrɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：dull /dʌl/ adj. 枯燥的
+反义词：interesting /ˈɪntrəstɪŋ/ adj. 有趣的
+拓展词：bored /bɔːd/ adj. 感到无聊的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Boring people talk about themselves. 无聊的人谈论自己。
+写作提分句：A boring routine kills creativity. 无聊的例行公事扼杀创造力。
+
+------
+
+**037 tired** /taɪəd/ adj. 疲倦的；厌倦的
+**一、词根词缀拆解**
+词根：tire = 疲倦（古英语 tēorian）
+后缀：-ed = 形容词后缀
+整体拆解：tire + ed → 疲倦的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tired of（厌倦……）
+tired from（因……而疲倦）
+tired out（筋疲力尽）
+**三、词性搭配用法（前接 / 后接什么）**
+tired（形容词）
+  后接 of：tired of waiting
+  后接 from：tired from work
+**四、高频句型（作文直接套）**
+I'm so tired. 我很累。
+He is tired of doing the same thing every day. 他厌倦了每天做同样的事。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more tired
+最高级：most tired
+副词：tiredly /ˈtaɪədli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：exhausted /ɪɡˈzɔːstɪd/ adj. 精疲力竭的
+反义词：energetic /ˌenəˈdʒetɪk/ adj. 精力充沛的
+拓展词：tire /taɪə/ v. 使疲倦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Rest when you are tired. 累了就休息。
+写作提分句：Never get tired of learning. 永远不要厌倦学习。
+
+------
+
+**038 tiring** /ˈtaɪərɪŋ/ adj. 令人疲倦的
+**一、词根词缀拆解**
+词根：tire = 疲倦
+后缀：-ing = 形容词后缀
+整体拆解：tire + ing → 令人疲倦的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tiring day（累人的一天）
+tiring work（累人的工作）
+**三、词性搭配用法（前接 / 后接什么）**
+tiring（形容词）
+  后接 to：tiring to walk
+**四、高频句型（作文直接套）**
+It's a tiring job. 这是一份累人的工作。
+The journey was very tiring. 旅程非常累人。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more tiring
+最高级：most tiring
+副词：tiringly /ˈtaɪərɪŋli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：exhausting /ɪɡˈzɔːstɪŋ/ adj. 令人精疲力竭的
+反义词：refreshing /rɪˈfreʃɪŋ/ adj. 令人精神焕发的
+拓展词：tire /taɪə/ v. 使疲倦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Long hours can be tiring. 长时间工作会让人疲倦。
+写作提分句：Tiring work is often the most rewarding. 累人的工作往往是最有价值的。
+
+------
+
+**039 satisfied** /ˈsætɪsfaɪd/ adj. 满意的
+**一、词根词缀拆解**
+词根：satis = 足够（拉丁语 satis）
+后缀：-fy = 使 → -ed = 形容词后缀
+整体拆解：satis + fy + ed → 被满足的 → 满意的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+satisfied with（对……满意）
+satisfied customer（满意的顾客）
+satisfied smile（满意的微笑）
+**三、词性搭配用法（前接 / 后接什么）**
+satisfied（形容词）
+  后接 with：satisfied with the result
+  后接 that：satisfied that it's done
+**四、高频句型（作文直接套）**
+I'm satisfied with my life. 我对我的生活满意。
+Are you satisfied with the service? 你对服务满意吗？
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more satisfied
+最高级：most satisfied
+副词：satisfiedly /ˈsætɪsfaɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：content /kənˈtent/ adj. 满足的
+反义词：dissatisfied /dɪsˈsætɪsfaɪd/ adj. 不满意的
+拓展词：satisfy /ˈsætɪsfaɪ/ v. 满足
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be satisfied, but never stop improving. 保持满意，但永不停止改进。
+写作提分句：A satisfied employee is a productive employee. 满意的员工是高效率的员工。
+
+------
+
+**040 dissatisfied** /dɪsˈsætɪsfaɪd/ adj. 不满意的
+**一、词根词缀拆解**
+词根：satis = 足够
+前缀：dis- = 否定
+后缀：-fy = 使 → -ed = 形容词后缀
+整体拆解：dis + satis + fy + ed → 不被满足的 → 不满意的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dissatisfied with（对……不满意）
+dissatisfied customer（不满意的顾客）
+dissatisfied expression（不满的表情）
+**三、词性搭配用法（前接 / 后接什么）**
+dissatisfied（形容词）
+  后接 with：dissatisfied with the service
+  后接 at：dissatisfied at the outcome
+**四、高频句型（作文直接套）**
+Many customers are dissatisfied. 许多顾客不满意。
+He was dissatisfied with his progress. 他对自己的进展不满意。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more dissatisfied
+最高级：most dissatisfied
+副词：dissatisfiedly /dɪsˈsætɪsfaɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unhappy /ʌnˈhæpi/ adj. 不高兴的
+反义词：satisfied /ˈsætɪsfaɪd/ adj. 满意的
+拓展词：dissatisfy /dɪsˈsætɪsfaɪ/ v. 使不满
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Dissatisfaction can be a motivator for change. 不满可以成为改变的动力。
+写作提分句：Don't just complain about being dissatisfied; take action. 不要只是抱怨不满意，要采取行动。
+
+------
+
+**041 pleased** /pliːzd/ adj. 高兴的；满意的
+**一、词根词缀拆解**
+词根：pleas = 使满意（拉丁语 placere）
+后缀：-ed = 形容词后缀
+整体拆解：pleas + ed → 被取悦的 → 高兴的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+pleased with（对……满意）
+pleased to do（高兴地做）
+pleased that（对……感到高兴）
+**三、词性搭配用法（前接 / 后接什么）**
+pleased（形容词）
+  后接 with：pleased with the result
+  后接 to do：pleased to meet you
+**四、高频句型（作文直接套）**
+I'm pleased to meet you. 很高兴认识你。
+She was pleased with her exam results. 她对考试成绩很满意。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more pleased
+最高级：most pleased
+副词：pleasedly /ˈpliːzɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：happy /ˈhæpi/ adj. 快乐的
+反义词：displeased /dɪsˈpliːzd/ adj. 不高兴的
+拓展词：please /pliːz/ v. 取悦
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：I'm pleased with your progress. 我对你的进步感到满意。
+写作提分句：A pleased customer is a loyal customer. 满意的顾客是忠实的顾客。
+
+------
+
+**042 unpleasant** /ʌnˈplezənt/ adj. 令人不快的；不愉快的
+**一、词根词缀拆解**
+词根：pleas = 使满意
+前缀：un- = 不
+后缀：-ant = 形容词后缀
+整体拆解：un + pleas + ant → 不令人满意的 → 令人不快的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unpleasant experience（不愉快的经历）
+unpleasant smell（难闻的气味）
+unpleasant surprise（不愉快的惊讶）
+**三、词性搭配用法（前接 / 后接什么）**
+unpleasant（形容词）
+  后接 to：unpleasant to hear
+**四、高频句型（作文直接套）**
+The weather was unpleasant. 天气令人不快。
+He has an unpleasant manner. 他的态度令人不快。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more unpleasant
+最高级：most unpleasant
+副词：unpleasantly /ʌnˈplezəntli/
+名词：unpleasantness /ʌnˈplezəntnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：disagreeable /ˌdɪsəˈɡriːəbəl/ adj. 令人不快的
+反义词：pleasant /ˈplezənt/ adj. 令人愉快的
+拓展词：pleasure /ˈpleʒə/ n. 快乐
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sometimes we have to do unpleasant tasks. 有时我们不得不做不愉快的任务。
+写作提分句：An unpleasant truth is better than a pleasant lie. 不愉快的真相胜过愉快的谎言。
+
+------
+
+**043 relaxed** /rɪˈlækst/ adj. 放松的；轻松的
+**一、词根词缀拆解**
+词根：lax = 松开（拉丁语 laxare）
+前缀：re- = 再次
+后缀：-ed = 形容词后缀
+整体拆解：re + lax + ed → 被放松的 → 放松的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+relaxed atmosphere（轻松的氛围）
+feel relaxed（感到放松）
+relaxed about（对……放松）
+**三、词性搭配用法（前接 / 后接什么）**
+relaxed（形容词）
+  后接 about：relaxed about the outcome
+**四、高频句型（作文直接套）**
+I feel relaxed after yoga. 瑜伽后我感到放松。
+The atmosphere here is very relaxed. 这里的气氛非常轻松。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more relaxed
+最高级：most relaxed
+副词：relaxedly /rɪˈlæksɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：calm /kɑːm/ adj. 平静的
+反义词：stressed /strest/ adj. 紧张的
+拓展词：relax /rɪˈlæks/ v. 放松
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay relaxed under pressure. 在压力下保持放松。
+写作提分句：A relaxed mind is a creative mind. 放松的头脑是创造性的头脑。
+
+------
+
+**044 stressed** /strest/ adj. 紧张的；有压力的
+**一、词根词缀拆解**
+词根：stress = 压力（拉丁语 strictus）
+后缀：-ed = 形容词后缀
+整体拆解：stress + ed → 有压力的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+stressed out（压力过大）
+stressed about（对……感到压力）
+**三、词性搭配用法（前接 / 后接什么）**
+stressed（形容词）
+  后接 about：stressed about work
+  后接 out：stressed out
+**四、高频句型（作文直接套）**
+I'm so stressed about the exam. 我对考试感到非常紧张。
+He looks stressed. 他看起来很紧张。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more stressed
+最高级：most stressed
+副词：stressedly /ˈstrestli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tense /tens/ adj. 紧张的
+反义词：relaxed /rɪˈlækst/ adj. 放松的
+拓展词：stress /stres/ n. 压力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't get too stressed; take a break. 不要太紧张，休息一下。
+写作提分句：Stressed is just "desserts" spelled backward. 紧张就是"甜点"倒着拼。
+
+------
+
+**045 easy** /ˈiːzi/ adj. 容易的；轻松的
+**一、词根词缀拆解**
+词根：eas = 容易（古法语 aisié）
+后缀：-y = 形容词后缀
+整体拆解：eas + y → 容易的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+easy for（对……容易）
+easy task（容易的任务）
+easy to use（易于使用）
+**三、词性搭配用法（前接 / 后接什么）**
+easy（形容词）
+  后接 for：easy for you
+  后接 to do：easy to learn
+**四、高频句型（作文直接套）**
+Take it easy. 放轻松。
+It's easier said than done. 说起来容易做起来难。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：easier /ˈiːziə/
+最高级：easiest /ˈiːziɪst/
+副词：easily /ˈiːzɪli/
+名词：easiness /ˈiːzinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：simple /ˈsɪmpəl/ adj. 简单的
+反义词：difficult /ˈdɪfɪkəlt/ adj. 困难的
+拓展词：ease /iːz/ n. 容易
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Easy come, easy go. 来得容易，去得快。
+写作提分句：Nothing worth having comes easy. 值得拥有的东西都不容易得到。
+
+------
+
+**046 difficult** /ˈdɪfɪkəlt/ adj. 困难的；难相处的
+**一、词根词缀拆解**
+词根：fic = 做（拉丁语 facere）
+前缀：dis- = 否定
+后缀：-ult = 形容词后缀
+整体拆解：dis + fic + ult → 不容易做的 → 困难的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+difficult for（对……困难）
+difficult task（困难的任务）
+difficult decision（艰难的决定）
+**三、词性搭配用法（前接 / 后接什么）**
+difficult（形容词）
+  后接 for：difficult for children
+  后接 to do：difficult to understand
+**四、高频句型（作文直接套）**
+It's difficult to learn a new language. 学习一门新语言很难。
+He is a difficult person to work with. 他是一个难以共事的人。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more difficult
+最高级：most difficult
+副词：difficultly /ˈdɪfɪkəltli/
+名词：difficulty /ˈdɪfɪkəlti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hard /hɑːd/ adj. 困难的
+反义词：easy /ˈiːzi/ adj. 容易的
+拓展词：difficulty /ˈdɪfɪkəlti/ n. 困难
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nothing is too difficult if you try. 只要尝试，没有什么是太难的。
+写作提分句：Difficult roads often lead to beautiful destinations. 艰难的道路常常通向美丽的终点。
+
+------
+
+**047 hard** /hɑːd/ adj. 困难的；硬的；努力的
+**一、词根词缀拆解**
+词根：hard = 坚硬（古英语 heard）
+后缀：无
+整体拆解：hard → 困难的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hard to do（难以做）
+hard work（艰苦的工作）
+hard decision（艰难的决定）
+**三、词性搭配用法（前接 / 后接什么）**
+hard（形容词）
+  后接 for：hard for beginners
+  后接 to do：hard to believe
+**四、高频句型（作文直接套）**
+It's hard to say. 很难说。
+Work hard, play hard. 努力工作，尽情玩耍。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：harder /ˈhɑːdə/
+最高级：hardest /ˈhɑːdɪst/
+副词：hard /hɑːd/
+名词：hardness /ˈhɑːdnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：difficult /ˈdɪfɪkəlt/ adj. 困难的
+反义词：easy /ˈiːzi/ adj. 容易的
+拓展词：harden /ˈhɑːdən/ v. 变硬
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Old habits die hard. 旧习难改。
+写作提分句：The harder you work, the luckier you get. 越努力，越幸运。
+
+------
+
+**048 simple** /ˈsɪmpəl/ adj. 简单的；简朴的
+**一、词根词缀拆解**
+词根：sim = 一；相同（拉丁语 simplex）
+后缀：-ple = 折叠
+整体拆解：sim + ple → 折叠一次的 → 简单的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+simple solution（简单的解决方案）
+simple life（简朴的生活）
+simple question（简单的问题）
+**三、词性搭配用法（前接 / 后接什么）**
+simple（形容词）
+  后接 for：simple for beginners
+  后接 to do：simple to use
+**四、高频句型（作文直接套）**
+Keep it simple. 保持简单。
+The answer is simple. 答案很简单。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：simpler /ˈsɪmplə/
+最高级：simplest /ˈsɪmplɪst/
+副词：simply /ˈsɪmpli/
+名词：simplicity /sɪmˈplɪsəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：easy /ˈiːzi/ adj. 容易的
+反义词：complex /ˈkɒmpleks/ adj. 复杂的
+拓展词：simplify /ˈsɪmplɪfaɪ/ v. 简化
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Live a simple life. 过简朴的生活。
+写作提分句：The simplest way is often the best. 最简单的方式往往是最好的。
+
+------
+
+**049 complex** /ˈkɒmpleks/ adj. 复杂的
+**一、词根词缀拆解**
+词根：plex = 折叠（拉丁语 plectere）
+前缀：com- = 一起
+整体拆解：com + plex → 折叠在一起的 → 复杂的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+complex problem（复杂问题）
+complex system（复杂系统）
+complex relationship（复杂关系）
+**三、词性搭配用法（前接 / 后接什么）**
+complex（形容词）
+  后接 for：complex for beginners
+**四、高频句型（作文直接套）**
+This problem is very complex. 这个问题非常复杂。
+The human brain is complex. 人脑是复杂的。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more complex
+最高级：most complex
+副词：complexly /ˈkɒmpleksli/
+名词：complexity /kəmˈpleksəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：complicated /ˈkɒmplɪkeɪtɪd/ adj. 复杂的
+反义词：simple /ˈsɪmpəl/ adj. 简单的
+拓展词：complexity /kəmˈpleksəti/ n. 复杂性
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Break complex tasks into smaller steps. 把复杂的任务分解成小步骤。
+写作提分句：Complex problems require simple solutions. 复杂的问题需要简单的解决方案。
+
+------
+
+**050 clear** /klɪə/ adj. 清楚的；清晰的
+**一、词根词缀拆解**
+词根：clear = 清晰（拉丁语 clarus）
+后缀：无
+整体拆解：clear → 清晰的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+clear about（对……清楚）
+clear understanding（清晰的理解）
+clear instructions（清晰的指示）
+**三、词性搭配用法（前接 / 后接什么）**
+clear（形容词）
+  后接 about：clear about his intentions
+  后接 to：clear to everyone
+**四、高频句型（作文直接套）**
+Is that clear? 清楚了吗？
+It's clear that he is lying. 很明显他在说谎。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：clearer /ˈklɪərə/
+最高级：clearest /ˈklɪərɪst/
+副词：clearly /ˈklɪəli/
+名词：clearness /ˈklɪənəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：obvious /ˈɒbviəs/ adj. 明显的
+反义词：unclear /ʌnˈklɪə/ adj. 不清楚的
+拓展词：clarify /ˈklærɪfaɪ/ v. 澄清
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Make it clear. 说清楚。
+写作提分句：Clear communication prevents misunderstandings. 清晰的沟通防止误解。
+
+------
+
+**051 unclear** /ʌnˈklɪə/ adj. 不清楚的；含糊的
+**一、词根词缀拆解**
+词根：clear = 清晰
+前缀：un- = 不
+后缀：无
+整体拆解：un + clear → 不清楚的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unclear about（对……不清楚）
+unclear instructions（不清楚的指示）
+unclear meaning（含糊的意思）
+**三、词性搭配用法（前接 / 后接什么）**
+unclear（形容词）
+  后接 about：unclear about the details
+  后接 to：unclear to me
+**四、高频句型（作文直接套）**
+It is unclear what happened. 不清楚发生了什么。
+The instructions were unclear. 指示不清楚。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more unclear / unclearer
+最高级：most unclear / unclearest
+副词：unclearly /ʌnˈklɪəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：vague /veɪɡ/ adj. 模糊的
+反义词：clear /klɪə/ adj. 清楚的
+拓展词：clarify /ˈklærɪfaɪ/ v. 澄清
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：If unclear, ask. 如果不清楚，就问。
+写作提分句：Unclear goals lead to unfocused efforts. 不清楚的目标导致努力不集中。
+
+------
+
+**052 true** /truː/ adj. 真实的；真正的
+**一、词根词缀拆解**
+词根：true = 忠实；真实（古英语 treowe）
+后缀：无
+整体拆解：true → 真实的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+true story（真实故事）
+true love（真爱）
+true meaning（真正含义）
+**三、词性搭配用法（前接 / 后接什么）**
+true（形容词）
+  后接 to：true to his word
+  后接 of：true of most people
+**四、高频句型（作文直接套）**
+It's true that he is honest. 他是诚实的，这是真的。
+Dreams can come true. 梦想可以成真。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：truer /ˈtruːə/
+最高级：truest /ˈtruːɪst/
+副词：truly /ˈtruːli/
+名词：truth /truːθ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：real /rɪəl/ adj. 真实的
+反义词：false /fɔːls/ adj. 虚假的
+拓展词：truthful /ˈtruːθfəl/ adj. 诚实的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay true to yourself. 忠于自己。
+写作提分句：True success is measured by happiness, not wealth. 真正的成功以幸福衡量，而非财富。
+
+------
+
+**053 false** /fɔːls/ adj. 虚假的；错误的
+**一、词根词缀拆解**
+词根：false = 欺骗（拉丁语 falsus）
+后缀：无
+整体拆解：false → 虚假的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+false information（虚假信息）
+false hope（虚假希望）
+false alarm（假警报）
+**三、词性搭配用法（前接 / 后接什么）**
+false（形容词）
+  后接 about：false about the facts
+**四、高频句型（作文直接套）**
+He gave false information. 他提供了虚假信息。
+Don't raise false hopes. 不要给人虚假的希望。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：falser /ˈfɔːlsə/ 或 more false
+最高级：falsest /ˈfɔːlsɪst/ 或 most false
+副词：falsely /ˈfɔːlsli/
+名词：falseness /ˈfɔːlsnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：untrue /ʌnˈtruː/ adj. 不真实的
+反义词：true /truː/ adj. 真实的
+拓展词：falsify /ˈfɔːlsɪfaɪ/ v. 伪造
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：False friends are worse than enemies. 假朋友比敌人更糟。
+写作提分句：False confidence can lead to failure. 虚假的信心会导致失败。
+
+------
+
+**054 right** /raɪt/ adj. 正确的；右边的
+**一、词根词缀拆解**
+词根：right = 直；正确（古英语 riht）
+后缀：无
+整体拆解：right → 正确的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+right answer（正确答案）
+right decision（正确决定）
+right way（正确方式）
+**三、词性搭配用法（前接 / 后接什么）**
+right（形容词）
+  后接 for：right for you
+  后接 about：right about that
+**四、高频句型（作文直接套）**
+You are right. 你是对的。
+It's the right thing to do. 这是正确的事。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：righter（罕见）或 more right
+最高级：rightest（罕见）或 most right
+副词：right /raɪt/ 或 rightly /ˈraɪtli/
+名词：rightness /ˈraɪtnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：correct /kəˈrekt/ adj. 正确的
+反义词：wrong /rɒŋ/ adj. 错误的
+拓展词：righteous /ˈraɪtʃəs/ adj. 正义的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Do the right thing. 做正确的事。
+写作提分句：Being right is not always the goal; being effective is. 正确不总是目标，有效才是。
+
+------
+
+**055 wrong** /rɒŋ/ adj. 错误的
+**一、词根词缀拆解**
+词根：wrong = 弯曲；错误（古挪威语 rangr）
+后缀：无
+整体拆解：wrong → 错误的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wrong answer（错误答案）
+wrong decision（错误决定）
+wrong way（错误方式）
+**三、词性搭配用法（前接 / 后接什么）**
+wrong（形容词）
+  后接 about：wrong about that
+  后接 with：wrong with the machine
+**四、高频句型（作文直接套）**
+You are wrong. 你错了。
+What's wrong? 怎么了？
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more wrong
+最高级：most wrong
+副词：wrong /rɒŋ/ 或 wrongly /ˈrɒŋli/
+名词：wrongness /ˈrɒŋnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：incorrect /ˌɪnkəˈrekt/ adj. 不正确的
+反义词：right /raɪt/ adj. 正确的
+拓展词：wrongdoing /ˈrɒŋduːɪŋ/ n. 不法行为
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nothing is wrong. 没什么问题。
+写作提分句：It's okay to be wrong; it's not okay to stay wrong. 犯错没关系，坚持错误就不行。
+
+------
+
+**056 good** /ɡʊd/ adj. 好的
+**一、词根词缀拆解**
+词根：good = 好（古英语 god）
+后缀：无
+整体拆解：good → 好的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+good at（擅长）
+good for（对……有好处）
+good idea（好主意）
+**三、词性搭配用法（前接 / 后接什么）**
+good（形容词）
+  后接 at：good at math
+  后接 for：good for health
+**四、高频句型（作文直接套）**
+It's good to see you. 很高兴见到你。
+This is a good opportunity. 这是一个好机会。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：better /ˈbetə/
+最高级：best /best/
+副词：well /wel/
+名词：goodness /ˈɡʊdnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：excellent /ˈeksələnt/ adj. 极好的
+反义词：bad /bæd/ adj. 坏的
+拓展词：goodwill /ˌɡʊdˈwɪl/ n. 善意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Do good. 做好事。
+写作提分句：Good things come to those who work for them. 好事降临在为它们努力的人身上。
+
+------
+
+**057 bad** /bæd/ adj. 坏的；糟糕的
+**一、词根词缀拆解**
+词根：bad = 坏（古英语 bæddel）
+后缀：无
+整体拆解：bad → 坏的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bad at（不擅长）
+bad for（对……有害）
+bad habit（坏习惯）
+**三、词性搭配用法（前接 / 后接什么）**
+bad（形容词）
+  后接 at：bad at sports
+  后接 for：bad for you
+**四、高频句型（作文直接套）**
+That's too bad. 太糟糕了。
+Smoking is bad for your health. 吸烟对健康有害。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：worse /wɜːs/
+最高级：worst /wɜːst/
+副词：badly /ˈbædli/
+名词：badness /ˈbædnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：terrible /ˈterəbəl/ adj. 可怕的
+反义词：good /ɡʊd/ adj. 好的
+拓展词：badly /ˈbædli/ adv. 糟糕地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A bad beginning makes a bad ending. 不善始者不善终。
+写作提分句：Bad news travels fast. 坏事传千里。
+
+------
+
+**058 better** /ˈbetə/ adj. 更好的
+**一、词根词缀拆解**
+词根：good = 好
+后缀：-er = 比较级后缀
+整体拆解：good → better（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+better than（比……更好）
+better off（境况更好）
+better way（更好的方式）
+**三、词性搭配用法（前接 / 后接什么）**
+better（形容词）
+  后接 than：better than before
+  后接 at：better at it
+**四、高频句型（作文直接套）**
+You can do better. 你可以做得更好。
+Better late than never. 迟做总比不做好。
+**五、词形变化（词性转换题 / 写作核心）**
+原级：good /ɡʊd/
+最高级：best /best/
+副词：better /ˈbetə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：superior /suːˈpɪəriə/ adj. 更优越的
+反义词：worse /wɜːs/ adj. 更差的
+拓展词：betterment /ˈbetəmənt/ n. 改善
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Change for the better. 变得更好。
+写作提分句：It's better to give than to receive. 给予比接受更好。
+
+------
+
+**059 worse** /wɜːs/ adj. 更差的；更糟的
+**一、词根词缀拆解**
+词根：bad = 坏
+后缀：-er = 比较级后缀
+整体拆解：bad → worse（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+worse than（比……更差）
+get worse（变得更糟）
+worse case（更糟的情况）
+**三、词性搭配用法（前接 / 后接什么）**
+worse（形容词）
+  后接 than：worse than before
+**四、高频句型（作文直接套）**
+Things can't get worse. 情况不能再糟了。
+His condition is worse today. 他今天情况更差了。
+**五、词形变化（词性转换题 / 写作核心）**
+原级：bad /bæd/
+最高级：worst /wɜːst/
+副词：worse /wɜːs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：inferior /ɪnˈfɪəriə/ adj. 更劣的
+反义词：better /ˈbetə/ adj. 更好的
+拓展词：worsen /ˈwɜːsən/ v. 恶化
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：For better or worse. 无论好坏。
+写作提分句：Things often get worse before they get better. 事情往往在变好之前先变糟。
+
+------
+
+**060 best** /best/ adj. 最好的
+**一、词根词缀拆解**
+词根：good = 好
+后缀：-est = 最高级后缀
+整体拆解：good → best（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+best at（最擅长）
+best way（最好的方式）
+best friend（最好的朋友）
+**三、词性搭配用法（前接 / 后接什么）**
+best（形容词）
+  后接 at：best at solving problems
+  后接 for：best for you
+**四、高频句型（作文直接套）**
+Do your best. 尽你最大努力。
+He is the best in his class. 他在班里是最好的。
+**五、词形变化（词性转换题 / 写作核心）**
+原级：good /ɡʊd/
+比较级：better /ˈbetə/
+副词：best /best/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：finest /ˈfaɪnɪst/ adj. 最好的
+反义词：worst /wɜːst/ adj. 最差的
+拓展词：best-selling /ˌbestˈselɪŋ/ adj. 畅销的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hope for the best. 抱最好的希望。
+写作提分句：The best way to predict the future is to create it. 预测未来的最好方式是创造它。
+
+------
+
+**061 worst** /wɜːst/ adj. 最差的；最糟的
+**一、词根词缀拆解**
+词根：bad = 坏
+后缀：-est = 最高级后缀
+整体拆解：bad → worst（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+worst case（最坏情况）
+worst enemy（最大的敌人）
+worst mistake（最大的错误）
+**三、词性搭配用法（前接 / 后接什么）**
+worst（形容词）
+  后接 at：worst at math
+**四、高频句型（作文直接套）**
+Prepare for the worst. 做好最坏的准备。
+That's the worst movie I've ever seen. 那是我看过的最糟的电影。
+**五、词形变化（词性转换题 / 写作核心）**
+原级：bad /bæd/
+比较级：worse /wɜːs/
+副词：worst /wɜːst/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：poorest /ˈpʊərɪst/ adj. 最差的
+反义词：best /best/ adj. 最好的
+拓展词：worst-case /ˌwɜːstˈkeɪs/ adj. 最坏情况的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Hope for the best, prepare for the worst. 抱最好的希望，做最坏的准备。
+写作提分句：The worst failure is the failure to try. 最糟糕的失败是放弃尝试。
+
+------
+
+**062 beautiful** /ˈbjuːtɪfəl/ adj. 美丽的
+**一、词根词缀拆解**
+词根：beauty = 美（拉丁语 bellus）
+后缀：-ful = 充满……的
+整体拆解：beauty + ful → 充满美的 → 美丽的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+beautiful view（美丽的景色）
+beautiful day（美好的一天）
+beautiful mind（美好的心灵）
+**三、词性搭配用法（前接 / 后接什么）**
+beautiful（形容词）
+  后接 to：beautiful to look at
+**四、高频句型（作文直接套）**
+You look beautiful. 你看上去很美。
+What a beautiful day! 多么美好的一天！
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more beautiful
+最高级：most beautiful
+副词：beautifully /ˈbjuːtɪfəli/
+名词：beauty /ˈbjuːti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：lovely /ˈlʌvli/ adj. 可爱的
+反义词：ugly /ˈʌɡli/ adj. 丑陋的
+拓展词：beauty /ˈbjuːti/ n. 美丽
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Beauty is in the eye of the beholder. 美在观察者的眼中。
+写作提分句：A beautiful heart is more important than a beautiful face. 美丽的心灵比美丽的脸庞更重要。
+
+------
+
+**063 ugly** /ˈʌɡli/ adj. 丑陋的；难看的
+**一、词根词缀拆解**
+词根：ug = 可怕（古挪威语 uggligr）
+后缀：-ly = 形容词后缀
+整体拆解：ug + ly → 可怕的 → 丑陋的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+ugly truth（丑陋的真相）
+ugly behavior（丑陋的行为）
+**三、词性搭配用法（前接 / 后接什么）**
+ugly（形容词）
+  后接 to：ugly to see
+**四、高频句型（作文直接套）**
+The truth can be ugly. 真相可能很丑陋。
+Don't be ugly to others. 不要对他人刻薄。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：uglier /ˈʌɡliə/
+最高级：ugliest /ˈʌɡliɪst/
+副词：uglily /ˈʌɡlɪli/
+名词：ugliness /ˈʌɡlinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hideous /ˈhɪdiəs/ adj. 骇人的
+反义词：beautiful /ˈbjuːtɪfəl/ adj. 美丽的
+拓展词：ugliness /ˈʌɡlinəs/ n. 丑陋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't judge someone by their ugly appearance. 不要以貌取人。
+写作提分句：Ugly attitudes are worse than ugly faces. 丑陋的态度比丑陋的面孔更糟糕。
+
+------
+
+**064 clean** /kliːn/ adj. 干净的
+**一、词根词缀拆解**
+词根：clean = 清洁（古英语 clæne）
+后缀：无
+整体拆解：clean → 干净的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+clean air（干净的空气）
+clean record（清白的记录）
+clean energy（清洁能源）
+**三、词性搭配用法（前接 / 后接什么）**
+clean（形容词）
+  后接 of：clean of dirt
+**四、高频句型（作文直接套）**
+Keep your room clean. 保持你的房间干净。
+Start with a clean slate. 从头开始。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：cleaner /ˈkliːnə/
+最高级：cleanest /ˈkliːnɪst/
+副词：cleanly /ˈkliːnli/
+名词：cleanliness /ˈklenlinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pure /pjʊə/ adj. 纯净的
+反义词：dirty /ˈdɜːti/ adj. 脏的
+拓展词：cleanse /klenz/ v. 清洁
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A clean environment promotes health. 干净的环境促进健康。
+写作提分句：Keep your mind clean from negative thoughts. 让你的头脑远离消极思想。
+
+------
+
+**065 dirty** /ˈdɜːti/ adj. 脏的；卑鄙的
+**一、词根词缀拆解**
+词根：dirt = 污垢（古挪威语 drit）
+后缀：-y = 形容词后缀
+整体拆解：dirt + y → 脏的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dirty clothes（脏衣服）
+dirty work（脏活）
+dirty trick（卑鄙手段）
+**三、词性搭配用法（前接 / 后接什么）**
+dirty（形容词）
+  后接 with：dirty with mud
+**四、高频句型（作文直接套）**
+The floor is dirty. 地板脏了。
+Don't play dirty. 不要耍卑鄙手段。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：dirtier /ˈdɜːtiə/
+最高级：dirtiest /ˈdɜːtiɪst/
+副词：dirtily /ˈdɜːtɪli/
+名词：dirtiness /ˈdɜːtinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：filthy /ˈfɪlθi/ adj. 肮脏的
+反义词：clean /kliːn/ adj. 干净的
+拓展词：dirt /dɜːt/ n. 污垢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Clean up your dirty mess. 清理你的脏乱。
+写作提分句：A dirty mind is the enemy of clarity. 肮脏的头脑是清晰的大敌。
+
+------
+
+**066 quiet** /ˈkwaɪət/ adj. 安静的
+**一、词根词缀拆解**
+词根：quiet = 安静（拉丁语 quietus）
+后缀：无
+整体拆解：quiet → 安静的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+quiet place（安静的地方）
+keep quiet（保持安静）
+quiet voice（轻柔的声音）
+**三、词性搭配用法（前接 / 后接什么）**
+quiet（形容词）
+  后接 about：quiet about the plan
+**四、高频句型（作文直接套）**
+Please be quiet. 请安静。
+The library is quiet. 图书馆很安静。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：quieter /ˈkwaɪətə/
+最高级：quietest /ˈkwaɪətɪst/
+副词：quietly /ˈkwaɪətli/
+名词：quietness /ˈkwaɪətnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：silent /ˈsaɪlənt/ adj. 沉默的
+反义词：noisy /ˈnɔɪzi/ adj. 吵闹的
+拓展词：quietly /ˈkwaɪətli/ adv. 安静地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Quiet people have the loudest minds. 安静的人有最响亮的头脑。
+写作提分句：Find a quiet moment to reflect each day. 每天找一个安静的时刻反思。
+
+------
+
+**067 noisy** /ˈnɔɪzi/ adj. 吵闹的
+**一、词根词缀拆解**
+词根：noise = 噪音（拉丁语 nausea）
+后缀：-y = 形容词后缀
+整体拆解：noise + y → 吵闹的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+noisy place（吵闹的地方）
+noisy children（吵闹的孩子）
+**三、词性搭配用法（前接 / 后接什么）**
+noisy（形容词）
+  后接 with：noisy with traffic
+**四、高频句型（作文直接套）**
+The classroom is too noisy. 教室太吵了。
+Don't be so noisy. 别这么吵。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：noisier /ˈnɔɪziə/
+最高级：noisiest /ˈnɔɪziɪst/
+副词：noisily /ˈnɔɪzɪli/
+名词：noisiness /ˈnɔɪzinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：loud /laʊd/ adj. 大声的
+反义词：quiet /ˈkwaɪət/ adj. 安静的
+拓展词：noise /nɔɪz/ n. 噪音
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Noisy environments can affect concentration. 吵闹的环境会影响专注力。
+写作提分句：Actions are louder than words, but noisy actions don't mean effective ones. 行动胜于言语，但吵闹的行动不一定有效。
+
+------
+
+**068 warm** /wɔːm/ adj. 温暖的；热情的
+**一、词根词缀拆解**
+词根：warm = 温暖（古英语 wearm）
+后缀：无
+整体拆解：warm → 温暖的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+warm welcome（热烈欢迎）
+warm heart（热心肠）
+warm weather（温暖的天气）
+**三、词性搭配用法（前接 / 后接什么）**
+warm（形容词）
+  后接 to：warm to the idea
+**四、高频句型（作文直接套）**
+The water is warm. 水是温的。
+She has a warm personality. 她性格热情。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：warmer /ˈwɔːmə/
+最高级：warmest /ˈwɔːmɪst/
+副词：warmly /ˈwɔːmli/
+名词：warmth /wɔːmθ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hot /hɒt/ adj. 热的
+反义词：cool /kuːl/ adj. 凉爽的；cold /kəʊld/ adj. 冷的
+拓展词：warmth /wɔːmθ/ n. 温暖
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A warm smile goes a long way. 一个温暖的微笑大有作用。
+写作提分句：A warm heart attracts kind people. 温暖的心吸引善良的人。
+
+------
+
+**069 cold** /kəʊld/ adj. 冷的；冷漠的
+**一、词根词缀拆解**
+词根：cold = 冷（古英语 cald）
+后缀：无
+整体拆解：cold → 冷的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cold weather（寒冷的天气）
+cold drink（冷饮）
+cold shoulder（冷漠对待）
+**三、词性搭配用法（前接 / 后接什么）**
+cold（形容词）
+  后接 to：cold to strangers
+**四、高频句型（作文直接套）**
+It's cold outside. 外面很冷。
+She gave me a cold stare. 她冷冷地看了我一眼。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：colder /ˈkəʊldə/
+最高级：coldest /ˈkəʊldɪst/
+副词：coldly /ˈkəʊldli/
+名词：coldness /ˈkəʊldnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：chilly /ˈtʃɪli/ adj. 寒冷的
+反义词：hot /hɒt/ adj. 热的；warm /wɔːm/ adj. 温暖的
+拓展词：coldness /ˈkəʊldnəs/ n. 寒冷
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cold hands, warm heart. 手冷心热。
+写作提分句：Don't give people the cold shoulder; warmth builds bridges. 不要冷漠待人，温暖能架起桥梁。
+
+------
+
+**070 cool** /kuːl/ adj. 凉爽的；酷的
+**一、词根词缀拆解**
+词根：cool = 凉爽（古英语 col）
+后缀：无
+整体拆解：cool → 凉爽的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cool water（凉水）
+cool breeze（凉风）
+cool down（冷静下来）
+**三、词性搭配用法（前接 / 后接什么）**
+cool（形容词）
+  后接 with：cool with the idea
+**四、高频句型（作文直接套）**
+The weather is cool today. 今天天气凉爽。
+That's a cool idea. 那是个很酷的想法。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：cooler /ˈkuːlə/
+最高级：coolest /ˈkuːlɪst/
+副词：coolly /ˈkuːlli/
+名词：coolness /ˈkuːlnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：chilly /ˈtʃɪli/ adj. 寒冷的
+反义词：warm /wɔːm/ adj. 温暖的
+拓展词：coolly /ˈkuːlli/ adv. 冷静地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep your cool in stressful situations. 在压力情况下保持冷静。
+写作提分句：It's cool to be kind. 善良很酷。
+
+------
+
+**071 hot** /hɒt/ adj. 热的；辣的；热门的
+**一、词根词缀拆解**
+词根：hot = 热（古英语 hat）
+后缀：无
+整体拆解：hot → 热的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hot weather（炎热的天气）
+hot topic（热门话题）
+hot and spicy（辣的）
+**三、词性搭配用法（前接 / 后接什么）**
+hot（形容词）
+  后接 in：hot in summer
+**四、高频句型（作文直接套）**
+The coffee is too hot. 咖啡太烫了。
+This is a hot issue. 这是一个热门问题。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：hotter /ˈhɒtə/
+最高级：hottest /ˈhɒtɪst/
+副词：hotly /ˈhɒtli/
+名词：hotness /ˈhɒtnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：boiling /ˈbɔɪlɪŋ/ adj. 沸腾的
+反义词：cold /kəʊld/ adj. 冷的
+拓展词：heat /hiːt/ n. 热量
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Strike while the iron is hot. 趁热打铁。
+写作提分句：Hot tempers can cool quickly; think before you act. 火气可以很快冷却，行动前三思。
+
+------
+
+**072 free** /friː/ adj. 自由的；免费的
+**一、词根词缀拆解**
+词根：free = 自由（古英语 freo）
+后缀：无
+整体拆解：free → 自由的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+free time（空闲时间）
+free speech（言论自由）
+free of charge（免费）
+**三、词性搭配用法（前接 / 后接什么）**
+free（形容词）
+  后接 from：free from stress
+  后接 of：free of cost
+**四、高频句型（作文直接套）**
+You are free to go. 你可以走了。
+Admission is free. 免费入场。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：freer /ˈfriːə/
+最高级：freest /ˈfriːɪst/
+副词：freely /ˈfriːli/
+名词：freedom /ˈfriːdəm/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：independent /ˌɪndɪˈpendənt/ adj. 独立的
+反义词：busy /ˈbɪzi/ adj. 忙碌的
+拓展词：freely /ˈfriːli/ adv. 自由地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Free your mind. 解放你的思想。
+写作提分句：Education should be free for all. 教育应对所有人免费。
+
+------
+
+**073 busy** /ˈbɪzi/ adj. 忙碌的
+**一、词根词缀拆解**
+词根：busy = 忙碌（古英语 bisig）
+后缀：无
+整体拆解：busy → 忙碌的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+busy with（忙于……）
+busy schedule（繁忙的日程）
+busy street（繁忙的街道）
+**三、词性搭配用法（前接 / 后接什么）**
+busy（形容词）
+  后接 with：busy with work
+  后接 doing：busy preparing for the exam
+**四、高频句型（作文直接套）**
+I'm busy right now. 我现在很忙。
+The line is busy. 电话占线。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：busier /ˈbɪziə/
+最高级：busiest /ˈbɪziɪst/
+副词：busily /ˈbɪzɪli/
+名词：busyness /ˈbɪzinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：occupied /ˈɒkjupaɪd/ adj. 被占用的
+反义词：free /friː/ adj. 空闲的
+拓展词：business /ˈbɪznəs/ n. 生意
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay busy, stay productive. 保持忙碌，保持高效。
+写作提分句：Being busy doesn't always mean being productive. 忙碌并不总是意味着高效。
+
+------
+
+**074 lucky** /ˈlʌki/ adj. 幸运的
+**一、词根词缀拆解**
+词根：luck = 运气（中古英语 lucke）
+后缀：-y = 形容词后缀
+整体拆解：luck + y → 幸运的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+lucky to do（幸运地做）
+lucky enough（足够幸运）
+lucky charm（幸运符）
+**三、词性搭配用法（前接 / 后接什么）**
+lucky（形容词）
+  后接 to do：lucky to be alive
+  后接 enough：lucky enough to win
+**四、高频句型（作文直接套）**
+I'm lucky to have you. 有你我很幸运。
+Good luck! 祝你好运！
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：luckier /ˈlʌkiə/
+最高级：luckiest /ˈlʌkiɪst/
+副词：luckily /ˈlʌkɪli/
+名词：luck /lʌk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fortunate /ˈfɔːtʃənət/ adj. 幸运的
+反义词：unlucky /ʌnˈlʌki/ adj. 不幸的
+拓展词：luck /lʌk/ n. 运气
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Better to be lucky than good. 幸运比优秀更好。
+写作提分句：Luck is when preparation meets opportunity. 运气是准备遇上了机会。
+
+------
+
+**075 unlucky** /ʌnˈlʌki/ adj. 不幸的；倒霉的
+**一、词根词缀拆解**
+词根：luck = 运气
+前缀：un- = 不
+后缀：-y = 形容词后缀
+整体拆解：un + luck + y → 不幸的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unlucky day（倒霉的一天）
+unlucky number（不吉利的数字）
+**三、词性搭配用法（前接 / 后接什么）**
+unlucky（形容词）
+  后接 to do：unlucky to lose
+**四、高频句型（作文直接套）**
+I was unlucky to miss the bus. 我不走运错过了公交车。
+He is unlucky in love. 他在爱情上不走运。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：unluckier /ʌnˈlʌkiə/
+最高级：unluckiest /ʌnˈlʌkiɪst/
+副词：unluckily /ʌnˈlʌkɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unfortunate /ʌnˈfɔːtʃənət/ adj. 不幸的
+反义词：lucky /ˈlʌki/ adj. 幸运的
+拓展词：luck /lʌk/ n. 运气
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Unlucky moments don't last. 不走运的时刻不会持久。
+写作提分句：Even the unluckiest person can create their own luck. 即使是最不幸的人也能创造自己的运气。
+
+------
+
+**076 healthy** /ˈhelθi/ adj. 健康的
+**一、词根词缀拆解**
+词根：heal = 健康（古英语 hælth）
+后缀：-thy → -th + y = 形容词后缀
+整体拆解：heal + th + y → 健康的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+healthy lifestyle（健康的生活方式）
+healthy food（健康食品）
+healthy relationship（健康的关系）
+**三、词性搭配用法（前接 / 后接什么）**
+healthy（形容词）
+  后接 for：healthy for you
+**四、高频句型（作文直接套）**
+Eat healthy food. 吃健康的食物。
+Regular exercise keeps you healthy. 经常运动让你保持健康。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：healthier /ˈhelθiə/
+最高级：healthiest /ˈhelθiɪst/
+副词：healthily /ˈhelθɪli/
+名词：health /helθ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fit /fɪt/ adj. 健康的
+反义词：unhealthy /ʌnˈhelθi/ adj. 不健康的
+拓展词：heal /hiːl/ v. 治愈
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay healthy. 保持健康。
+写作提分句：A healthy mind in a healthy body. 健康的心灵寓于健康的身体。
+
+------
+
+**077 unhealthy** /ʌnˈhelθi/ adj. 不健康的
+**一、词根词缀拆解**
+词根：heal = 健康
+前缀：un- = 不
+后缀：-thy → -th + y
+整体拆解：un + heal + th + y → 不健康的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+unhealthy diet（不健康的饮食）
+unhealthy lifestyle（不健康的生活方式）
+unhealthy relationship（不健康的关系）
+**三、词性搭配用法（前接 / 后接什么）**
+unhealthy（形容词）
+  后接 for：unhealthy for you
+**四、高频句型（作文直接套）**
+Smoking is unhealthy. 吸烟不健康。
+He has an unhealthy diet. 他的饮食不健康。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：unhealthier /ʌnˈhelθiə/
+最高级：unhealthiest /ʌnˈhelθiɪst/
+副词：unhealthily /ʌnˈhelθɪli/
+名词：unhealthiness /ʌnˈhelθinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：harmful /ˈhɑːmfəl/ adj. 有害的
+反义词：healthy /ˈhelθi/ adj. 健康的
+拓展词：health /helθ/ n. 健康
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Avoid unhealthy habits. 避免不健康的习惯。
+写作提分句：An unhealthy environment affects productivity. 不健康的环境影响生产力。
+
+------
+
+**078 safe** /seɪf/ adj. 安全的
+**一、词根词缀拆解**
+词根：safe = 无伤（拉丁语 salvus）
+后缀：无
+整体拆解：safe → 安全的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+safe place（安全的地方）
+safe choice（安全的选择）
+safe and sound（安然无恙）
+**三、词性搭配用法（前接 / 后接什么）**
+safe（形容词）
+  后接 from：safe from harm
+  后接 for：safe for children
+**四、高频句型（作文直接套）**
+Is it safe? 安全吗？
+Better safe than sorry. 安全总比后悔好。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：safer /ˈseɪfə/
+最高级：safest /ˈseɪfɪst/
+副词：safely /ˈseɪfli/
+名词：safety /ˈseɪfti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：secure /sɪˈkjʊə/ adj. 安全的
+反义词：dangerous /ˈdeɪndʒərəs/ adj. 危险的
+拓展词：save /seɪv/ v. 拯救
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay safe. 注意安全。
+写作提分句：A safe workplace is a productive workplace. 安全的工作场所是高效率的工作场所。
+
+------
+
+**079 dangerous** /ˈdeɪndʒərəs/ adj. 危险的
+**一、词根词缀拆解**
+词根：danger = 危险（拉丁语 dominus）
+后缀：-ous = 充满……的
+整体拆解：danger + ous → 充满危险的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dangerous situation（危险情况）
+dangerous job（危险工作）
+dangerous driver（危险的司机）
+**三、词性搭配用法（前接 / 后接什么）**
+dangerous（形容词）
+  后接 for：dangerous for kids
+  后接 to：dangerous to health
+**四、高频句型（作文直接套）**
+It's dangerous to play with fire. 玩火是危险的。
+The road is dangerous. 这条路很危险。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more dangerous
+最高级：most dangerous
+副词：dangerously /ˈdeɪndʒərəsli/
+名词：danger /ˈdeɪndʒə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：risky /ˈrɪski/ adj. 有风险的
+反义词：safe /seɪf/ adj. 安全的
+拓展词：endanger /ɪnˈdeɪndʒə/ v. 危及
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be careful, it's dangerous. 小心，很危险。
+写作提分句：Ignoring warnings can lead to dangerous consequences. 忽视警告可能导致危险后果。
+
+------
+
+**080 calm** /kɑːm/ adj. 平静的；冷静的
+**一、词根词缀拆解**
+词根：calm = 平静（希腊语 kauma）
+后缀：无
+整体拆解：calm → 平静的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+calm down（冷静下来）
+stay calm（保持冷静）
+calm sea（平静的海面）
+**三、词性搭配用法（前接 / 后接什么）**
+calm（形容词）
+  后接 about：calm about the situation
+**四、高频句型（作文直接套）**
+Stay calm in an emergency. 紧急情况下保持冷静。
+The sea is calm today. 今天海面平静。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：calmer /ˈkɑːmə/
+最高级：calmest /ˈkɑːmɪst/
+副词：calmly /ˈkɑːmli/
+名词：calmness /ˈkɑːmnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：peaceful /ˈpiːsfəl/ adj. 平静的
+反义词：nervous /ˈnɜːvəs/ adj. 紧张的
+拓展词：calm /kɑːm/ v. 使平静
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep calm and carry on. 保持冷静，继续前进。
+写作提分句：A calm mind can solve any problem. 平静的头脑可以解决任何问题。
+
+------
+
+**081 tense** /tens/ adj. 紧张的
+**一、词根词缀拆解**
+词根：tens = 拉伸（拉丁语 tendere）
+后缀：-e
+整体拆解：tens + e → 被拉伸的 → 紧张的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tense situation（紧张局势）
+tense muscles（紧张的肌肉）
+feel tense（感到紧张）
+**三、词性搭配用法（前接 / 后接什么）**
+tense（形容词）
+  后接 about：tense about the exam
+**四、高频句型（作文直接套）**
+The atmosphere is tense. 气氛很紧张。
+I feel tense before a test. 考试前我感到紧张。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：tenser /ˈtensə/
+最高级：tensest /ˈtensɪst/
+副词：tensely /ˈtensli/
+名词：tenseness /ˈtensnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：stressed /strest/ adj. 紧张的
+反义词：relaxed /rɪˈlækst/ adj. 放松的
+拓展词：tension /ˈtenʃən/ n. 紧张
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't get so tense; breathe deeply. 别这么紧张，深呼吸。
+写作提分句：A tense mind makes poor decisions. 紧张的头脑做出糟糕的决定。
+
+------
+
+**082 eager** /ˈiːɡə/ adj. 热切的；渴望的
+**一、词根词缀拆解**
+词根：eager = 尖锐的；热切的（拉丁语 acer）
+后缀：无
+整体拆解：eager → 渴望的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+eager to do（渴望做）
+eager for（渴望得到）
+eager beaver（做事卖力的人）
+**三、词性搭配用法（前接 / 后接什么）**
+eager（形容词）
+  后接 to do：eager to learn
+  后接 for：eager for success
+**四、高频句型（作文直接套）**
+I'm eager to see you. 我渴望见到你。
+He is eager for knowledge. 他渴望知识。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：eagerer /ˈiːɡərə/ 或 more eager
+最高级：eagerest /ˈiːɡərɪst/ 或 most eager
+副词：eagerly /ˈiːɡəli/
+名词：eagerness /ˈiːɡənəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：enthusiastic /ɪnˌθjuːziˈæstɪk/ adj. 热情的
+反义词：reluctant /rɪˈlʌktənt/ adj. 不情愿的
+拓展词：eagerly /ˈiːɡəli/ adv. 热切地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be eager to learn, but patient to master. 渴望学习，但耐心掌握。
+写作提分句：Eager learners are the fastest growers. 热切的学习者成长最快。
+
+------
+
+**083 curious** /ˈkjʊəriəs/ adj. 好奇的
+**一、词根词缀拆解**
+词根：cur = 关心（拉丁语 cura）
+后缀：-ious = 形容词后缀
+整体拆解：cur + ious → 关心的 → 好奇的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+curious about（对……好奇）
+curious to know（好奇想知道）
+**三、词性搭配用法（前接 / 后接什么）**
+curious（形容词）
+  后接 about：curious about the world
+  后接 to do：curious to see what happens
+**四、高频句型（作文直接套）**
+I'm curious about how it works. 我很好奇它是如何工作的。
+Children are naturally curious. 孩子天生好奇。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more curious
+最高级：most curious
+副词：curiously /ˈkjʊəriəsli/
+名词：curiosity /ˌkjʊəriˈɒsəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：inquisitive /ɪnˈkwɪzətɪv/ adj. 好问的
+反义词：indifferent /ɪnˈdɪfərənt/ adj. 冷漠的
+拓展词：curiosity /ˌkjʊəriˈɒsəti/ n. 好奇心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay curious. 保持好奇。
+写作提分句：Curious minds change the world. 好奇的头脑改变世界。
+
+------
+
+**084 generous** /ˈdʒenərəs/ adj. 慷慨的；大方的
+**一、词根词缀拆解**
+词根：gen = 出生；种类（拉丁语 genus）
+后缀：-erous = 形容词后缀
+整体拆解：gen + erous → 有良好出身的 → 慷慨的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+generous to/with（对……慷慨）
+generous donation（慷慨捐赠）
+generous person（大方的人）
+**三、词性搭配用法（前接 / 后接什么）**
+generous（形容词）
+  后接 to：generous to the poor
+  后接 with：generous with his time
+**四、高频句型（作文直接套）**
+It's generous of you to help. 你帮助别人真是慷慨。
+He is generous with his praise. 他不吝赞美。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more generous
+最高级：most generous
+副词：generously /ˈdʒenərəsli/
+名词：generosity /ˌdʒenəˈrɒsəti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：charitable /ˈtʃærɪtəbəl/ adj. 慈善的
+反义词：selfish /ˈselfɪʃ/ adj. 自私的
+拓展词：generosity /ˌdʒenəˈrɒsəti/ n. 慷慨
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be generous with kindness. 慷慨给予善意。
+写作提分句：A generous heart attracts abundance. 慷慨的心吸引富足。
+
+------
+
+**085 selfish** /ˈselfɪʃ/ adj. 自私的
+**一、词根词缀拆解**
+词根：self = 自己（古英语 self）
+后缀：-ish = 形容词后缀
+整体拆解：self + ish → 只顾自己的 → 自私的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+selfish person（自私的人）
+selfish behavior（自私的行为）
+**三、词性搭配用法（前接 / 后接什么）**
+selfish（形容词）
+  后接 about：selfish about his time
+**四、高频句型（作文直接套）**
+Don't be so selfish. 别这么自私。
+He only thinks of himself; he's selfish. 他只想着自己，他很自私。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more selfish
+最高级：most selfish
+副词：selfishly /ˈselfɪʃli/
+名词：selfishness /ˈselfɪʃnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：self-centered /ˌself ˈsentəd/ adj. 以自我为中心的
+反义词：generous /ˈdʒenərəs/ adj. 慷慨的
+拓展词：self /self/ n. 自我
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Selfish people are lonely people. 自私的人是孤独的人。
+写作提分句：Putting others first is not selfish; it's wise. 把别人放在第一位不是自私，而是明智。
+
+------
+
+**086 gentle** /ˈdʒentəl/ adj. 温和的；温柔的
+**一、词根词缀拆解**
+词根：gent = 出生；种类（拉丁语 gens）
+后缀：-le = 形容词后缀
+整体拆解：gent + le → 有良好出生的 → 文雅的 → 温和的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+gentle with（对……温和）
+gentle voice（温柔的声音）
+gentle reminder（善意的提醒）
+**三、词性搭配用法（前接 / 后接什么）**
+gentle（形容词）
+  后接 with：gentle with children
+  后接 on：gentle on the skin
+**四、高频句型（作文直接套）**
+Be gentle with yourself. 对自己温柔一点。
+He has a gentle nature. 他性格温和。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：gentler /ˈdʒentələ/
+最高级：gentlest /ˈdʒentəlɪst/
+副词：gently /ˈdʒentli/
+名词：gentleness /ˈdʒentəlnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tender /ˈtendə/ adj. 温柔的
+反义词：harsh /hɑːʃ/ adj. 严厉的
+拓展词：gentleman /ˈdʒentəlmən/ n. 绅士
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A gentle answer turns away anger. 温和的回答消除怒气。
+写作提分句：Gentle leadership builds trust and loyalty. 温和的领导建立信任和忠诚。
+
+------
+
+**087 silent** /ˈsaɪlənt/ adj. 沉默的；安静的
+**一、词根词缀拆解**
+词根：sil = 安静（拉丁语 silere）
+后缀：-ent = 形容词后缀
+整体拆解：sil + ent → 安静的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+silent treatment（沉默对待）
+silent night（寂静的夜晚）
+keep silent（保持沉默）
+**三、词性搭配用法（前接 / 后接什么）**
+silent（形容词）
+  后接 about：silent about the plan
+**四、高频句型（作文直接套）**
+Please keep silent in the library. 图书馆里请保持安静。
+He remained silent throughout. 他全程保持沉默。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more silent
+最高级：most silent
+副词：silently /ˈsaɪləntli/
+名词：silence /ˈsaɪləns/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：quiet /ˈkwaɪət/ adj. 安静的
+反义词：noisy /ˈnɔɪzi/ adj. 吵闹的
+拓展词：silence /ˈsaɪləns/ n. 沉默
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Silent people have the loudest minds. 沉默的人有最响亮的头脑。
+写作提分句：Sometimes silence speaks louder than words. 有时沉默比言语更有力。
+
+------
+
+**088 humorous** /ˈhjuːmərəs/ adj. 幽默的
+**一、词根词缀拆解**
+词根：hum = 潮湿（拉丁语 humor）
+后缀：-ous = 充满……的
+整体拆解：hum + or + ous → 充满体液的 → 幽默的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+humorous person（幽默的人）
+humorous story（幽默的故事）
+**三、词性搭配用法（前接 / 后接什么）**
+humorous（形容词）
+  后接 about：humorous about himself
+**四、高频句型（作文直接套）**
+He has a humorous personality. 他性格幽默。
+The movie is humorous. 这部电影很幽默。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more humorous
+最高级：most humorous
+副词：humorously /ˈhjuːmərəsli/
+名词：humor /ˈhjuːmə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：funny /ˈfʌni/ adj. 有趣的
+反义词：serious /ˈsɪəriəs/ adj. 严肃的
+拓展词：humor /ˈhjuːmə/ n. 幽默
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A humorous attitude makes life lighter. 幽默的态度让生活更轻松。
+写作提分句：Humorous people are often the most resilient. 幽默的人往往最有韧性。
+
+------
+
+**089 serious** /ˈsɪəriəs/ adj. 严肃的；认真的
+**一、词根词缀拆解**
+词根：ser = 严肃；认真（拉丁语 serius）
+后缀：-ious = 形容词后缀
+整体拆解：ser + ious → 严肃的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+serious about（对……认真）
+serious problem（严重的问题）
+serious face（严肃的表情）
+**三、词性搭配用法（前接 / 后接什么）**
+serious（形容词）
+  后接 about：serious about his studies
+  后接 for：serious for the economy
+**四、高频句型（作文直接套）**
+Are you serious? 你是认真的吗？
+This is a serious matter. 这是一个严肃的问题。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more serious
+最高级：most serious
+副词：seriously /ˈsɪəriəsli/
+名词：seriousness /ˈsɪəriəsnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：earnest /ˈɜːnɪst/ adj. 认真的
+反义词：funny /ˈfʌni/ adj. 有趣的
+拓展词：seriously /ˈsɪəriəsli/ adv. 严肃地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Take your goals seriously. 认真对待你的目标。
+写作提分句：A serious mind is a focused mind. 严肃的头脑是专注的头脑。
+
+------
+
+**090 silly** /ˈsɪli/ adj. 愚蠢的；傻的
+**一、词根词缀拆解**
+词根：silly = 幸福的；天真的（古英语 sælig）
+后缀：无
+整体拆解：silly → 愚蠢的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+silly mistake（愚蠢的错误）
+silly question（愚蠢的问题）
+silly behavior（愚蠢的行为）
+**三、词性搭配用法（前接 / 后接什么）**
+silly（形容词）
+  后接 of：silly of him
+**四、高频句型（作文直接套）**
+That's a silly idea. 那是个愚蠢的想法。
+Don't be silly. 别傻了。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：sillier /ˈsɪliə/
+最高级：silliest /ˈsɪliɪst/
+副词：sillily /ˈsɪlɪli/
+名词：silliness /ˈsɪlinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：foolish /ˈfuːlɪʃ/ adj. 愚蠢的
+反义词：wise /waɪz/ adj. 明智的
+拓展词：silliness /ˈsɪlinəs/ n. 愚蠢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There's no such thing as a silly question. 没有所谓愚蠢的问题。
+写作提分句：Silly mistakes teach us to be more careful. 愚蠢的错误教会我们更小心。
+
+------
+
+**091 crazy** /ˈkreɪzi/ adj. 疯狂的；着迷的
+**一、词根词缀拆解**
+词根：craze = 发狂（古挪威语 krass）
+后缀：-y = 形容词后缀
+整体拆解：craze + y → 疯狂的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+crazy about（对……着迷）
+crazy idea（疯狂的想法）
+drive someone crazy（把某人逼疯）
+**三、词性搭配用法（前接 / 后接什么）**
+crazy（形容词）
+  后接 about：crazy about music
+  后接 to do：crazy to try
+**四、高频句型（作文直接套）**
+That's crazy! 那太疯狂了！
+He is crazy about football. 他对足球着迷。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：crazier /ˈkreɪziə/
+最高级：craziest /ˈkreɪziɪst/
+副词：crazily /ˈkreɪzɪli/
+名词：craziness /ˈkreɪzinəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mad /mæd/ adj. 疯狂的
+反义词：sane /seɪn/ adj. 理智的
+拓展词：craze /kreɪz/ n. 狂热
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Crazy ideas sometimes change the world. 疯狂的想法有时改变世界。
+写作提分句：It's crazy not to follow your dreams. 不追随梦想是疯狂的。
+
+------
+
+**092 normal** /ˈnɔːməl/ adj. 正常的
+**一、词根词缀拆解**
+词根：norm = 规则；标准（拉丁语 norma）
+后缀：-al = 形容词后缀
+整体拆解：norm + al → 符合标准的 → 正常的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+normal life（正常生活）
+normal people（普通人）
+back to normal（恢复正常）
+**三、词性搭配用法（前接 / 后接什么）**
+normal（形容词）
+  后接 for：normal for this time of year
+**四、高频句型（作文直接套）**
+It's normal to feel nervous. 感到紧张是正常的。
+Things are back to normal. 一切恢复正常。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more normal
+最高级：most normal
+副词：normally /ˈnɔːməli/
+名词：normality /nɔːˈmæləti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ordinary /ˈɔːdənəri/ adj. 普通的
+反义词：abnormal /æbˈnɔːməl/ adj. 异常的
+拓展词：norm /nɔːm/ n. 规范
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There is no normal in a diverse world. 在多样化的世界里没有所谓的正常。
+写作提分句：Being different is normal; being yourself is beautiful. 与众不同是正常的，做自己是美丽的。
+
+------
+
+**093 abnormal** /æbˈnɔːməl/ adj. 异常的
+**一、词根词缀拆解**
+词根：norm = 规则；标准
+前缀：ab- = 偏离
+后缀：-al = 形容词后缀
+整体拆解：ab + norm + al → 偏离标准的 → 异常的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+abnormal behavior（异常行为）
+abnormal situation（异常情况）
+**三、词性搭配用法（前接 / 后接什么）**
+abnormal（形容词）
+  后接 for：abnormal for this time
+**四、高频句型（作文直接套）**
+His behavior is abnormal. 他的行为异常。
+The test results were abnormal. 测试结果异常。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more abnormal
+最高级：most abnormal
+副词：abnormally /æbˈnɔːməli/
+名词：abnormality /ˌæbnɔːˈmæləti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：unusual /ʌnˈjuːʒuəl/ adj. 不寻常的
+反义词：normal /ˈnɔːməl/ adj. 正常的
+拓展词：abnormality /ˌæbnɔːˈmæləti/ n. 异常
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Abnormal doesn't mean wrong. 异常不代表错误。
+写作提分句：Sometimes abnormal thinking leads to normal success. 有时异常的思维带来正常的成功。
+
+------
+
+**094 optimistic** /ˌɒptɪˈmɪstɪk/ adj. 乐观的
+**一、词根词缀拆解**
+词根：opt = 希望；选择（拉丁语 optare）
+后缀：-imistic = 形容词后缀
+整体拆解：opt + imistic → 往好处想的 → 乐观的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+optimistic about（对……乐观）
+optimistic view（乐观的看法）
+**三、词性搭配用法（前接 / 后接什么）**
+optimistic（形容词）
+  后接 about：optimistic about the future
+**四、高频句型（作文直接套）**
+I'm optimistic about the future. 我对未来感到乐观。
+Stay optimistic. 保持乐观。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more optimistic
+最高级：most optimistic
+副词：optimistically /ˌɒptɪˈmɪstɪkli/
+名词：optimism /ˈɒptɪmɪzəm/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hopeful /ˈhəʊpfəl/ adj. 有希望的
+反义词：pessimistic /ˌpesɪˈmɪstɪk/ adj. 悲观的
+拓展词：optimist /ˈɒptɪmɪst/ n. 乐观主义者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Optimistic people live longer. 乐观的人活得更久。
+写作提分句：An optimistic attitude attracts positive outcomes. 乐观的态度吸引积极的结果。
+
+------
+
+**095 pessimistic** /ˌpesɪˈmɪstɪk/ adj. 悲观的
+**一、词根词缀拆解**
+词根：pessim = 最坏（拉丁语 pessimus）
+后缀：-istic = 形容词后缀
+整体拆解：pessim + istic → 认为最坏的 → 悲观的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+pessimistic about（对……悲观）
+pessimistic view（悲观的看法）
+**三、词性搭配用法（前接 / 后接什么）**
+pessimistic（形容词）
+  后接 about：pessimistic about the economy
+**四、高频句型（作文直接套）**
+Don't be so pessimistic. 别这么悲观。
+He is pessimistic about the future. 他对未来感到悲观。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more pessimistic
+最高级：most pessimistic
+副词：pessimistically /ˌpesɪˈmɪstɪkli/
+名词：pessimism /ˈpesɪmɪzəm/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：negative /ˈneɡətɪv/ adj. 消极的
+反义词：optimistic /ˌɒptɪˈmɪstɪk/ adj. 乐观的
+拓展词：pessimist /ˈpesɪmɪst/ n. 悲观主义者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pessimism is a self-fulfilling prophecy. 悲观是自我实现的预言。
+写作提分句：Don't let pessimism rob you of opportunities. 不要让悲观夺走你的机会。
+
+------
+
+**096 grateful** /ˈɡreɪtfəl/ adj. 感激的
+**一、词根词缀拆解**
+词根：grat = 感谢；愉快（拉丁语 gratus）
+后缀：-eful = 充满……的
+整体拆解：grat + eful → 充满感激的 → 感激的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+grateful for（对……感激）
+grateful to（感激某人）
+grateful that（感激……）
+**三、词性搭配用法（前接 / 后接什么）**
+grateful（形容词）
+  后接 for：grateful for your help
+  后接 to：grateful to you
+**四、高频句型（作文直接套）**
+I'm so grateful for your support. 我非常感激你的支持。
+We are grateful that you came. 我们感激你来了。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more grateful
+最高级：most grateful
+副词：gratefully /ˈɡreɪtfəli/
+名词：gratitude /ˈɡrætɪtjuːd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：thankful /ˈθæŋkfəl/ adj. 感谢的
+反义词：ungrateful /ʌnˈɡreɪtfəl/ adj. 忘恩负义的
+拓展词：gratitude /ˈɡrætɪtjuːd/ n. 感激
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Be grateful for what you have. 对你拥有的心存感激。
+写作提分句：A grateful heart is a magnet for miracles. 感恩的心是吸引奇迹的磁铁。
+
+------
+
+**097 thankful** /ˈθæŋkfəl/ adj. 感谢的；欣慰的
+**一、词根词缀拆解**
+词根：thank = 感谢（古英语 thanc）
+后缀：-ful = 充满……的
+整体拆解：thank + ful → 充满感谢的 → 感谢的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+thankful for（对……感谢）
+thankful to（感谢某人）
+thankful that（欣慰……）
+**三、词性搭配用法（前接 / 后接什么）**
+thankful（形容词）
+  后接 for：thankful for your help
+  后接 to：thankful to God
+**四、高频句型（作文直接套）**
+I'm thankful for my family. 我感谢我的家人。
+We are thankful that no one was hurt. 我们欣慰没有人受伤。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more thankful
+最高级：most thankful
+副词：thankfully /ˈθæŋkfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grateful /ˈɡreɪtfəl/ adj. 感激的
+反义词：thankless /ˈθæŋkləs/ adj. 不感恩的
+拓展词：thank /θæŋk/ v. 感谢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Count your blessings and be thankful. 数算你的福气，心存感激。
+写作提分句：Being thankful changes your perspective. 心存感激改变你的视角。
+
+------
+
+**098 sympathetic** /ˌsɪmpəˈθetɪk/ adj. 同情的；体谅的
+**一、词根词缀拆解**
+词根：path = 感觉；痛苦（希腊语 pathos）
+前缀：sym- = 一起
+后缀：-etic = 形容词后缀
+整体拆解：sym + path + etic → 一起感受的 → 同情的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sympathetic to/towards（对……同情）
+sympathetic ear（同情的倾听）
+**三、词性搭配用法（前接 / 后接什么）**
+sympathetic（形容词）
+  后接 to：sympathetic to the cause
+  后接 towards：sympathetic towards others
+**四、高频句型（作文直接套）**
+She is sympathetic to my situation. 她同情我的处境。
+He gave me a sympathetic look. 他给了我一个同情的眼神。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more sympathetic
+最高级：most sympathetic
+副词：sympathetically /ˌsɪmpəˈθetɪkli/
+名词：sympathy /ˈsɪmpəθi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：compassionate /kəmˈpæʃənət/ adj. 有同情心的
+反义词：unsympathetic /ˌʌnˌsɪmpəˈθetɪk/ adj. 无同情心的
+拓展词：sympathy /ˈsɪmpəθi/ n. 同情
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A sympathetic friend listens without judging. 一个有同情心的朋友倾听而不评判。
+写作提分句：Sympathetic leaders build loyal teams. 有同情心的领导者建立忠诚的团队。
+
+------
+
+**099 warm-hearted** /ˌwɔːm ˈhɑːtɪd/ adj. 热心的；善良的
+**一、词根词缀拆解**
+词根：warm = 温暖；heart = 心
+后缀：-ed = 形容词后缀
+整体拆解：warm + heart + ed → 心温暖的 → 热心的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+warm-hearted person（热心的人）
+warm-hearted gesture（善意的举动）
+**三、词性搭配用法（前接 / 后接什么）**
+warm-hearted（形容词）
+  后接 towards：warm-hearted towards others
+**四、高频句型（作文直接套）**
+She is a warm-hearted person. 她是个热心肠的人。
+Thanks to all the warm-hearted volunteers. 感谢所有热心的志愿者。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more warm-hearted
+最高级：most warm-hearted
+副词：warm-heartedly /ˌwɔːm ˈhɑːtɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：kind-hearted /ˌkaɪnd ˈhɑːtɪd/ adj. 好心肠的
+反义词：cold-hearted /ˌkəʊld ˈhɑːtɪd/ adj. 冷酷的
+拓展词：warmth /wɔːmθ/ n. 温暖
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Warm-hearted people make the world better. 热心的人让世界更美好。
+写作提分句：A warm-hearted gesture costs nothing but means everything. 一个善意的举动不费分文，却意味一切。
+
+------
+
+**100 cold-hearted** /ˌkəʊld ˈhɑːtɪd/ adj. 冷酷的；无情的
+**一、词根词缀拆解**
+词根：cold = 冷；heart = 心
+后缀：-ed = 形容词后缀
+整体拆解：cold + heart + ed → 心冷的 → 冷酷的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cold-hearted person（冷酷的人）
+cold-hearted decision（冷酷的决定）
+**三、词性搭配用法（前接 / 后接什么）**
+cold-hearted（形容词）
+  后接 towards：cold-hearted towards the poor
+**四、高频句型（作文直接套）**
+He is cold-hearted and never helps anyone. 他很冷酷，从不帮助任何人。
+That was a cold-hearted thing to say. 那话说得太冷酷了。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：more cold-hearted
+最高级：most cold-hearted
+副词：cold-heartedly /ˌkəʊld ˈhɑːtɪdli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：heartless /ˈhɑːtləs/ adj. 无情的
+反义词：warm-hearted /ˌwɔːm ˈhɑːtɪd/ adj. 热心的
+拓展词：coldness /ˈkəʊldnəs/ n. 冷漠
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cold-hearted people push others away. 冷酷的人把人推开。
+写作提分句：Don't let success make you cold-hearted. 不要让成功使你变得冷酷。
+
+---
+
+##### 4）科技环境 / 健康生活（400词）
+
+###### 名词（170词）
+
+**001 science** /ˈsaɪəns/ n. 科学；自然科学
+**一、词根词缀拆解**
+词根：sci = 知道（拉丁语 scire）
+后缀：-ence = 名词后缀
+整体拆解：sci + ence → 知识 → 科学
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+science fiction（科幻小说）
+computer science（计算机科学）
+natural science（自然科学）
+**三、词性搭配用法（前接 / 后接什么）**
+science（名词）
+  后接 of：science of biology
+  不可数名词
+**四、高频句型（作文直接套）**
+Science has changed our lives. 科学改变了我们的生活。
+Science is the key to understanding the world. 科学是理解世界的关键。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：scientific /ˌsaɪənˈtɪfɪk/
+副词：scientifically /ˌsaɪənˈtɪfɪkli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：knowledge /ˈnɒlɪdʒ/ n. 知识
+反义词：ignorance /ˈɪɡnərəns/ n. 无知
+拓展词：scientist /ˈsaɪəntɪst/ n. 科学家
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Science is fun. 科学很有趣。
+写作提分句：Science is the tool that allows us to understand the universe. 科学是让我们理解宇宙的工具。
+
+------
+
+**002 technology** /tekˈnɒlədʒi/ n. 技术；科技
+**一、词根词缀拆解**
+词根：techn = 技艺；艺术（希腊语 techne）
+后缀：-ology = 学科
+整体拆解：techn + ology → 技艺的学科 → 技术
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+modern technology（现代技术）
+information technology（信息技术）
+high technology（高科技）
+**三、词性搭配用法（前接 / 后接什么）**
+technology（名词）
+  后接 of：technology of communication
+  可数/不可数
+**四、高频句型（作文直接套）**
+Technology is advancing rapidly. 技术正在快速发展。
+Technology makes our lives easier. 技术让我们的生活更轻松。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：technologies /tekˈnɒlədʒiz/
+形容词：technological /ˌteknəˈlɒdʒɪkəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：innovation /ˌɪnəˈveɪʃən/ n. 创新
+反义词：tradition /trəˈdɪʃən/ n. 传统
+拓展词：technologist /tekˈnɒlədʒɪst/ n. 技术专家
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Technology changes fast. 技术变化很快。
+写作提分句：Technology is a double-edged sword; use it wisely. 技术是一把双刃剑，明智地使用它。
+
+------
+
+**003 computer** /kəmˈpjuːtə/ n. 电脑；计算机
+**一、词根词缀拆解**
+词根：put = 思考；计算（拉丁语 putare）
+前缀：com- = 一起
+后缀：-er = 人或物
+整体拆解：com + put + er → 一起计算的机器 → 计算机
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+personal computer（个人电脑）
+computer program（计算机程序）
+computer science（计算机科学）
+**三、词性搭配用法（前接 / 后接什么）**
+computer（名词）
+  后接 of：computer of the future
+  可数名词
+**四、高频句型（作文直接套）**
+I need a new computer. 我需要一台新电脑。
+The computer is down. 电脑死机了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：computers /kəmˈpjuːtəz/
+形容词：computerized /kəmˈpjuːtəraɪzd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：PC /ˌpiː ˈsiː/ n. 个人电脑
+反义词：无
+拓展词：compute /kəmˈpjuːt/ v. 计算
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Computers are everywhere. 电脑无处不在。
+写作提分句：The computer is one of the greatest inventions of the 20th century. 计算机是20世纪最伟大的发明之一。
+
+------
+
+**004 laptop** /ˈlæptɒp/ n. 笔记本电脑
+**一、词根词缀拆解**
+词根：lap = 大腿（古英语 læppa）；top = 顶部
+后缀：无
+整体拆解：lap + top → 放在大腿顶部的电脑 → 笔记本电脑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+laptop computer（笔记本电脑）
+laptop bag（笔记本电脑包）
+**三、词性搭配用法（前接 / 后接什么）**
+laptop（名词）
+  后接 with：laptop with a large screen
+  可数名词
+**四、高频句型（作文直接套）**
+I carry my laptop everywhere. 我随身带着笔记本电脑。
+My laptop is broken. 我的笔记本电脑坏了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：laptops /ˈlæptɒps/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：notebook /ˈnəʊtbʊk/ n. 笔记本电脑
+反义词：desktop /ˈdesktɒp/ n. 台式电脑
+拓展词：lap /læp/ n. 大腿
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Laptops are portable. 笔记本电脑便于携带。
+写作提分句：The laptop has made remote work possible for millions. 笔记本电脑让数百万人实现了远程工作。
+
+------
+
+**005 phone** /fəʊn/ n. 电话；手机
+**一、词根词缀拆解**
+词根：phone = 声音（希腊语 phone）
+后缀：无
+整体拆解：phone → 传递声音的设备 → 电话
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mobile phone（手机）
+cell phone（手机）
+phone call（电话通话）
+**三、词性搭配用法（前接 / 后接什么）**
+phone（名词）
+  后接 of：phone of the future
+  可数名词
+**四、高频句型（作文直接套）**
+Your phone is ringing. 你的电话响了。
+I left my phone at home. 我把手机忘在家里了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：phones /fəʊnz/
+形容词：phonic /ˈfəʊnɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：smartphone /ˈsmɑːtfəʊn/ n. 智能手机
+反义词：无
+拓展词：headphone /ˈhedfəʊn/ n. 耳机
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Answer the phone. 接电话。
+写作提分句：The phone has connected the world like never before. 手机以前所未有的方式连接了世界。
+
+------
+
+**006 mobile** /ˈməʊbaɪl/ n. 移动电话 adj. 可移动的
+**一、词根词缀拆解**
+词根：mob = 移动（拉丁语 movere）
+后缀：-ile = 能够……的
+整体拆解：mob + ile → 能够移动的 → 移动电话
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mobile phone（手机）
+mobile device（移动设备）
+mobile app（移动应用）
+**三、词性搭配用法（前接 / 后接什么）**
+mobile（名词）
+  可数名词
+**四、高频句型（作文直接套）**
+Mobile phones have changed our lives. 手机改变了我们的生活。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：mobiles /ˈməʊbaɪlz/
+名词：mobility /məʊˈbɪləti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：cellphone /ˈselfəʊn/ n. 手机
+反义词：landline /ˈlændlaɪn/ n. 座机
+拓展词：automobile /ˈɔːtəməbiːl/ n. 汽车
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't use your mobile while driving. 开车时不要使用手机。
+写作提分句：The mobile phone has become an essential part of modern life. 手机已成为现代生活不可或缺的一部分。
+
+------
+
+**007 internet** /ˈɪntənet/ n. 互联网
+**一、词根词缀拆解**
+词根：net = 网络（拉丁语 net）
+前缀：inter- = 在……之间
+整体拆解：inter + net → 网络之间的连接 → 互联网
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+surf the internet（上网）
+internet access（互联网接入）
+high-speed internet（高速互联网）
+**三、词性搭配用法（前接 / 后接什么）**
+internet（名词）
+  后接 of：internet of things
+  不可数名词
+**四、高频句型（作文直接套）**
+I use the internet every day. 我每天都用互联网。
+The internet is down. 网络断了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：internet-based /ˈɪntənet beɪst/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：web /web/ n. 网络
+反义词：无
+拓展词：intranet /ˈɪntrənet/ n. 内联网
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The internet is full of information. 互联网充满了信息。
+写作提分句：The internet has democratized access to knowledge. 互联网让知识获取变得民主化。
+
+------
+
+**008 network** /ˈnetwɜːk/ n. 网络；网
+**一、词根词缀拆解**
+词根：net = 网；work = 工作
+后缀：无
+整体拆解：net + work → 网状的连接系统 → 网络
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+social network（社交网络）
+computer network（计算机网络）
+network security（网络安全）
+**三、词性搭配用法（前接 / 后接什么）**
+network（名词）
+  后接 of：network of computers
+  可数名词
+**四、高频句型（作文直接套）**
+Social networks are very popular. 社交网络非常流行。
+We have a strong network of contacts. 我们有强大的人脉网络。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：networks /ˈnetwɜːks/
+动词：network /ˈnetwɜːk/ v. 建立网络
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grid /ɡrɪd/ n. 网格
+反义词：无
+拓展词：networking /ˈnetwɜːkɪŋ/ n. 人际网络
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Build your professional network. 建立你的职业网络。
+写作提分句：A good network opens doors to opportunities. 好的网络打开机会之门。
+
+------
+
+**009 website** /ˈwebsaɪt/ n. 网站
+**一、词根词缀拆解**
+词根：web = 网；site = 地点
+后缀：无
+整体拆解：web + site → 网络上的地点 → 网站
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+official website（官方网站）
+website address（网址）
+visit a website（访问网站）
+**三、词性搭配用法（前接 / 后接什么）**
+website（名词）
+  后接 of：website of the company
+  可数名词
+**四、高频句型（作文直接套）**
+I found this information on a website. 我在一个网站上找到了这个信息。
+What's your favorite website? 你最喜欢的网站是什么？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：websites /ˈwebsaɪts/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：webpage /ˈwebpeɪdʒ/ n. 网页
+反义词：无
+拓展词：web /web/ n. 网络
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Create a website for your business. 为你的生意创建一个网站。
+写作提分句：A well-designed website builds trust with customers. 设计良好的网站建立客户信任。
+
+------
+
+**010 page** /peɪdʒ/ n. 页；页面
+**一、词根词缀拆解**
+词根：page = 页（拉丁语 pagina）
+后缀：无
+整体拆解：page → 页面
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+home page（主页）
+web page（网页）
+turn the page（翻页）
+**三、词性搭配用法（前接 / 后接什么）**
+page（名词）
+  后接 of：page of a book
+  可数名词
+**四、高频句型（作文直接套）**
+Open your book to page ten. 把书翻到第十页。
+The website has many pages. 这个网站有很多页面。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：pages /ˈpeɪdʒɪz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sheet /ʃiːt/ n. 纸张
+反义词：无
+拓展词：pagination /ˌpædʒɪˈneɪʃən/ n. 页码
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Read the next page. 读下一页。
+写作提分句：Every page of history is written by those who dare to act. 历史的每一页都是由敢于行动的人书写的。
+
+------
+
+**011 program** /ˈprəʊɡræm/ n. 程序；节目；计划
+**一、词根词缀拆解**
+词根：gram = 写；记录（希腊语 gramma）
+前缀：pro- = 向前
+整体拆解：pro + gram → 提前写好的内容 → 计划/程序
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+computer program（计算机程序）
+TV program（电视节目）
+training program（培训计划）
+**三、词性搭配用法（前接 / 后接什么）**
+program（名词）
+  后接 for：program for beginners
+  可数名词
+**四、高频句型（作文直接套）**
+This program is easy to use. 这个程序很容易使用。
+What's your favorite TV program? 你最喜欢的电视节目是什么？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：programs /ˈprəʊɡræmz/
+动词：program /ˈprəʊɡræm/ v. 编程
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：software /ˈsɒftweə/ n. 软件
+反义词：无
+拓展词：programmer /ˈprəʊɡræmə/ n. 程序员
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Learn to write computer programs. 学习编写计算机程序。
+写作提分句：A good program solves problems efficiently. 好的程序高效地解决问题。
+
+------
+
+**012 software** /ˈsɒftweə/ n. 软件
+**一、词根词缀拆解**
+词根：soft = 柔软的；ware = 物品
+后缀：无
+整体拆解：soft + ware → 软性物品 → 软件
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+software development（软件开发）
+software update（软件更新）
+software engineer（软件工程师）
+**三、词性搭配用法（前接 / 后接什么）**
+software（名词）
+  后接 for：software for editing photos
+  不可数名词
+**四、高频句型（作文直接套）**
+This software is very useful. 这个软件非常有用。
+I need to install new software. 我需要安装新软件。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：software-based /ˈsɒftweə beɪst/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：program /ˈprəʊɡræm/ n. 程序
+反义词：hardware /ˈhɑːdweə/ n. 硬件
+拓展词：shareware /ˈʃeəweə/ n. 共享软件
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep your software up to date. 保持你的软件更新。
+写作提分句：Software has transformed every industry. 软件已经改变了每一个行业。
+
+------
+
+**013 hardware** /ˈhɑːdweə/ n. 硬件
+**一、词根词缀拆解**
+词根：hard = 硬的；ware = 物品
+后缀：无
+整体拆解：hard + ware → 硬性物品 → 硬件
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+computer hardware（计算机硬件）
+hardware store（五金店）
+hardware upgrade（硬件升级）
+**三、词性搭配用法（前接 / 后接什么）**
+hardware（名词）
+  后接 for：hardware for gaming
+  不可数名词
+**四、高频句型（作文直接套）**
+This computer has good hardware. 这台电脑硬件很好。
+Hardware is the physical part of a computer. 硬件是计算机的物理部分。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：hardware-based /ˈhɑːdweə beɪst/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：equipment /ɪˈkwɪpmənt/ n. 设备
+反义词：software /ˈsɒftweə/ n. 软件
+拓展词：hard /hɑːd/ adj. 硬的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Good hardware needs good software. 好的硬件需要好的软件。
+写作提分句：Without hardware, software is just an idea. 没有硬件，软件只是一个想法。
+
+------
+
+**014 data** /ˈdeɪtə/ n. 数据；资料
+**一、词根词缀拆解**
+词根：dat = 给予（拉丁语 dare）
+后缀：-a = 复数后缀
+整体拆解：dat + a → 被给予的东西 → 数据
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+big data（大数据）
+data analysis（数据分析）
+personal data（个人数据）
+**三、词性搭配用法（前接 / 后接什么）**
+data（名词）
+  后接 on：data on climate change
+  后接 about：data about users
+  不可数名词/复数名词
+**四、高频句型（作文直接套）**
+The data shows a clear trend. 数据显示了一个明显的趋势。
+We need more data. 我们需要更多数据。
+**五、词形变化（词性转换题 / 写作核心）**
+单数：datum /ˈdeɪtəm/
+形容词：digital /ˈdɪdʒɪtəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：information /ˌɪnfəˈmeɪʃən/ n. 信息
+反义词：无
+拓展词：database /ˈdeɪtəbeɪs/ n. 数据库
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Protect your personal data. 保护你的个人数据。
+写作提分句：Data is the new oil of the digital economy. 数据是数字经济的新石油。
+
+------
+
+**015 information** /ˌɪnfəˈmeɪʃən/ n. 信息；情报
+**一、词根词缀拆解**
+词根：form = 形式；塑造（拉丁语 forma）
+前缀：in- = 向内
+后缀：-ation = 名词后缀
+整体拆解：in + form + ation → 赋予形式的内容 → 信息
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+information technology（信息技术）
+piece of information（一条信息）
+information desk（问讯处）
+**三、词性搭配用法（前接 / 后接什么）**
+information（名词）
+  后接 about：information about the event
+  后接 on：information on health
+  不可数名词
+**四、高频句型（作文直接套）**
+Can you give me more information? 你能给我更多信息吗？
+This information is very helpful. 这个信息很有帮助。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：informative /ɪnˈfɔːmətɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：data /ˈdeɪtə/ n. 数据
+反义词：ignorance /ˈɪɡnərəns/ n. 无知
+拓展词：inform /ɪnˈfɔːm/ v. 通知
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Information is power. 信息就是力量。
+写作提分句：In the age of information, knowledge is your greatest asset. 在信息时代，知识是你最大的资产。
+
+------
+
+**016 message** /ˈmesɪdʒ/ n. 信息；消息
+**一、词根词缀拆解**
+词根：mess = 发送（拉丁语 mittere）
+后缀：-age = 名词后缀
+整体拆解：mess + age → 被发送的东西 → 消息
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+text message（短信）
+leave a message（留言）
+get the message（明白意思）
+**三、词性搭配用法（前接 / 后接什么）**
+message（名词）
+  后接 from：message from a friend
+  后接 for：message for you
+  可数名词
+**四、高频句型（作文直接套）**
+I got your message. 我收到了你的信息。
+Please leave a message after the beep. 请在哔声后留言。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：messages /ˈmesɪdʒɪz/
+动词：message /ˈmesɪdʒ/ v. 发信息
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：note /nəʊt/ n. 便条
+反义词：无
+拓展词：messenger /ˈmesɪndʒə/ n. 信使
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Send me a message. 给我发个信息。
+写作提分句：The message of kindness never gets old. 善意的信息永不过时。
+
+------
+
+**017 email** /ˈiːmeɪl/ n. 电子邮件
+**一、词根词缀拆解**
+词根：mail = 邮件（拉丁语 mala）
+前缀：e- = 电子
+整体拆解：e + mail → 电子邮件
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+send an email（发送邮件）
+email address（电子邮件地址）
+check email（查收邮件）
+**三、词性搭配用法（前接 / 后接什么）**
+email（名词）
+  后接 from：email from the boss
+  后接 to：email to a friend
+  可数/不可数
+**四、高频句型（作文直接套）**
+I'll send you an email. 我会给你发一封电子邮件。
+Please reply to my email. 请回复我的邮件。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：emails /ˈiːmeɪlz/
+动词：email /ˈiːmeɪl/ v. 发邮件
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：e-mail /ˈiːmeɪl/ n. 电子邮件
+反义词：letter /ˈletə/ n. 信件
+拓展词：mail /meɪl/ n. 邮件
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Check your email regularly. 定期查收邮件。
+写作提分句：Email has made communication faster than ever. 电子邮件让沟通比以往任何时候都更快。
+
+------
+
+**018 letter** /ˈletə/ n. 信；字母
+**一、词根词缀拆解**
+词根：letter = 字母；书信（拉丁语 littera）
+后缀：无
+整体拆解：letter → 信件
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cover letter（求职信）
+letter of recommendation（推荐信）
+capital letter（大写字母）
+**三、词性搭配用法（前接 / 后接什么）**
+letter（名词）
+  后接 from：letter from home
+  后接 to：letter to the editor
+  可数名词
+**四、高频句型（作文直接套）**
+I received a letter from my mother. 我收到了妈妈的信。
+Write a letter to your friend. 给你的朋友写封信。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：letters /ˈletəz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：note /nəʊt/ n. 便条
+反义词：email /ˈiːmeɪl/ n. 电子邮件
+拓展词：literature /ˈlɪtrətʃə/ n. 文学
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A handwritten letter is special. 手写的信很特别。
+写作提分句：Letters carry emotions that emails cannot match. 信件承载着电子邮件无法比拟的情感。
+
+------
+
+**019 mail** /meɪl/ n. 邮件；邮政
+**一、词根词缀拆解**
+词根：mail = 邮件（拉丁语 mala）
+后缀：无
+整体拆解：mail → 邮件
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+by mail（通过邮寄）
+snail mail（普通邮件）
+voice mail（语音邮件）
+**三、词性搭配用法（前接 / 后接什么）**
+mail（名词）
+  后接 from：mail from the bank
+  不可数名词
+**四、高频句型（作文直接套）**
+Is there any mail for me? 有我的邮件吗？
+I sent the package by mail. 我通过邮寄寄出了包裹。
+**五、词形变化（词性转换题 / 写作核心）**
+动词：mail /meɪl/ v. 邮寄
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：post /pəʊst/ n. 邮政
+反义词：无
+拓展词：mailbox /ˈmeɪlbɒks/ n. 邮箱
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Check your mail every day. 每天检查你的邮件。
+写作提分句：The mail system connects the world. 邮政系统连接着世界。
+
+------
+
+**020 post** /pəʊst/ n. 邮政；职位；帖子
+**一、词根词缀拆解**
+词根：post = 放置（拉丁语 ponere）
+后缀：无
+整体拆解：post → 邮政
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+post office（邮局）
+by post（通过邮寄）
+job post（职位公告）
+**三、词性搭配用法（前接 / 后接什么）**
+post（名词）
+  后接 of：post of manager
+  可数/不可数
+**四、高频句型（作文直接套）**
+I'll send it by post. 我会通过邮寄寄出。
+He applied for the post. 他申请了这个职位。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：posts /pəʊsts/
+动词：post /pəʊst/ v. 邮寄；发布
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mail /meɪl/ n. 邮件
+反义词：无
+拓展词：postage /ˈpəʊstɪdʒ/ n. 邮资
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The post arrives at noon. 邮件中午到达。
+写作提分句：Social media posts can influence public opinion. 社交媒体帖子可以影响公众舆论。
+
+------
+
+**021 card** /kɑːd/ n. 卡片；纸牌
+**一、词根词缀拆解**
+词根：card = 纸片（希腊语 chartes）
+后缀：无
+整体拆解：card → 卡片
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+credit card（信用卡）
+ID card（身份证）
+birthday card（生日贺卡）
+**三、词性搭配用法（前接 / 后接什么）**
+card（名词）
+  后接 for：card for the occasion
+  可数名词
+**四、高频句型（作文直接套）**
+I sent her a birthday card. 我给她寄了一张生日贺卡。
+Do you accept credit cards? 你们接受信用卡吗？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：cards /kɑːdz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：postcard /ˈpəʊstkɑːd/ n. 明信片
+反义词：无
+拓展词：cardboard /ˈkɑːdbɔːd/ n. 纸板
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Write a card to your grandmother. 给你奶奶写张贺卡。
+写作提分句：A simple card can brighten someone's day. 一张简单的卡片可以照亮别人的一天。
+
+------
+
+**022 photo** /ˈfəʊtəʊ/ n. 照片
+**一、词根词缀拆解**
+词根：phot = 光（希腊语 phos）
+后缀：-o = 名词后缀
+整体拆解：phot + o → 光记录的东西 → 照片
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take a photo（拍照）
+black and white photo（黑白照片）
+photo album（相册）
+**三、词性搭配用法（前接 / 后接什么）**
+photo（名词）
+  后接 of：photo of the family
+  可数名词
+**四、高频句型（作文直接套）**
+Can you take a photo of us? 你能给我们拍张照吗？
+This photo brings back memories. 这张照片唤起了回忆。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：photos /ˈfəʊtəʊz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：picture /ˈpɪktʃə/ n. 图片
+反义词：无
+拓展词：photography /fəˈtɒɡrəfi/ n. 摄影
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A photo is worth a thousand words. 一张照片胜过千言万语。
+写作提分句：Photos capture moments that words cannot describe. 照片捕捉了言语无法描述的时刻。
+
+------
+
+**023 picture** /ˈpɪktʃə/ n. 图片；图画；照片
+**一、词根词缀拆解**
+词根：pict = 绘画（拉丁语 pingere）
+后缀：-ure = 名词后缀
+整体拆解：pict + ure → 绘画出来的东西 → 图片
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+draw a picture（画画）
+picture frame（画框）
+get the picture（明白）
+**三、词性搭配用法（前接 / 后接什么）**
+picture（名词）
+  后接 of：picture of the beach
+  可数名词
+**四、高频句型（作文直接套）**
+This picture reminds me of my childhood. 这张照片让我想起童年。
+Let me paint you a picture. 让我给你描绘一幅画面。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：pictures /ˈpɪktʃəz/
+动词：picture /ˈpɪktʃə/ v. 想象
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：image /ˈɪmɪdʒ/ n. 图像
+反义词：无
+拓展词：picturesque /ˌpɪktʃəˈresk/ adj. 如画的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A picture is worth a thousand words. 一幅画胜过千言万语。
+写作提分句：The picture of success looks different for everyone. 成功的画面对每个人来说都不同。
+
+------
+
+**024 image** /ˈɪmɪdʒ/ n. 图像；形象
+**一、词根词缀拆解**
+词根：imag = 相似（拉丁语 imago）
+后缀：-e
+整体拆解：imag + e → 相似的东西 → 图像
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+public image（公众形象）
+image processing（图像处理）
+mirror image（镜像）
+**三、词性搭配用法（前接 / 后接什么）**
+image（名词）
+  后接 of：image of himself
+  可数名词
+**四、高频句型（作文直接套）**
+He cares a lot about his image. 他很在意自己的形象。
+The image is not clear. 图像不清晰。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：images /ˈɪmɪdʒɪz/
+形容词：imaginative /ɪˈmædʒɪnətɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：picture /ˈpɪktʃə/ n. 图片
+反义词：reality /riˈæləti/ n. 现实
+拓展词：imagine /ɪˈmædʒɪn/ v. 想象
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Your image matters in business. 在商界，你的形象很重要。
+写作提分句：A positive self-image leads to success. 积极的自我形象带来成功。
+
+------
+
+**025 video** /ˈvɪdiəʊ/ n. 视频；录像
+**一、词根词缀拆解**
+词根：vid = 看（拉丁语 videre）
+后缀：-eo
+整体拆解：vid + eo → 看的东西 → 视频
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+watch a video（看视频）
+video game（电子游戏）
+video call（视频通话）
+**三、词性搭配用法（前接 / 后接什么）**
+video（名词）
+  后接 of：video of the event
+  可数/不可数
+**四、高频句型（作文直接套）**
+I watched a funny video online. 我在网上看了一个有趣的视频。
+Let's make a video. 我们拍个视频吧。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：videos /ˈvɪdiəʊz/
+形容词：visual /ˈvɪʒuəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：film /fɪlm/ n. 电影
+反义词：audio /ˈɔːdiəʊ/ n. 音频
+拓展词：videotape /ˈvɪdiəʊteɪp/ n. 录像带
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Video has changed how we share stories. 视频改变了我们分享故事的方式。
+写作提分句：A video can capture the emotion of a moment perfectly. 视频可以完美地捕捉一个时刻的情感。
+
+------
+
+**026 audio** /ˈɔːdiəʊ/ n. 音频；声音
+**一、词根词缀拆解**
+词根：aud = 听（拉丁语 audire）
+后缀：-io
+整体拆解：aud + io → 听的东西 → 音频
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+audio file（音频文件）
+audio book（有声书）
+audio quality（音质）
+**三、词性搭配用法（前接 / 后接什么）**
+audio（名词）
+  后接 of：audio of the concert
+  不可数名词
+**四、高频句型（作文直接套）**
+The audio is not clear. 音频不清晰。
+I listen to audio books on my commute. 我在通勤路上听有声书。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：auditory /ˈɔːdɪtəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sound /saʊnd/ n. 声音
+反义词：video /ˈvɪdiəʊ/ n. 视频
+拓展词：audience /ˈɔːdiəns/ n. 听众
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Good audio quality is important for podcasts. 好的音质对播客很重要。
+写作提分句：Audio content allows learning while doing other tasks. 音频内容允许在做其他事情的同时学习。
+
+------
+
+**027 sound** /saʊnd/ n. 声音
+**一、词根词缀拆解**
+词根：sound = 声音（拉丁语 sonus）
+后缀：无
+整体拆解：sound → 声音
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sound of（……的声音）
+sound wave（声波）
+make a sound（发出声音）
+**三、词性搭配用法（前接 / 后接什么）**
+sound（名词）
+  后接 of：sound of rain
+  可数/不可数
+**四、高频句型（作文直接套）**
+I heard a strange sound. 我听到一个奇怪的声音。
+Sound travels slower than light. 声音比光传播得慢。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：sounds /saʊndz/
+形容词：sound /saʊnd/ adj. 健康的；soundless /ˈsaʊndləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：noise /nɔɪz/ n. 噪音
+反义词：silence /ˈsaɪləns/ n. 沉默
+拓展词：resound /rɪˈzaʊnd/ v. 回响
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sound is vibration. 声音是振动。
+写作提分句：The sound of laughter is the most beautiful music. 笑声是最美丽的音乐。
+
+------
+
+**028 voice** /vɔɪs/ n. 声音；嗓音
+**一、词根词缀拆解**
+词根：voice = 声音（拉丁语 vox）
+后缀：无
+整体拆解：voice → 嗓音
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+voice mail（语音邮件）
+raise one's voice（提高嗓门）
+tone of voice（语气）
+**三、词性搭配用法（前接 / 后接什么）**
+voice（名词）
+  后接 of：voice of the people
+  可数/不可数
+**四、高频句型（作文直接套）**
+She has a beautiful voice. 她有一副好嗓子。
+I didn't recognize your voice. 我没听出你的声音。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：voices /ˈvɔɪsɪz/
+形容词：voiceless /ˈvɔɪsləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sound /saʊnd/ n. 声音
+反义词：silence /ˈsaɪləns/ n. 沉默
+拓展词：vocal /ˈvəʊkəl/ adj. 声音的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Use your voice to speak up for what is right. 用你的声音为正义发声。
+写作提分句：Everyone deserves to have their voice heard. 每个人都值得被倾听。
+
+------
+
+**029 machine** /məˈʃiːn/ n. 机器
+**一、词根词缀拆解**
+词根：mach = 手段；装置（希腊语 mekhos）
+后缀：-ine
+整体拆解：mach + ine → 装置 → 机器
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+washing machine（洗衣机）
+vending machine（自动售货机）
+machine learning（机器学习）
+**三、词性搭配用法（前接 / 后接什么）**
+machine（名词）
+  后接 for：machine for cutting
+  可数名词
+**四、高频句型（作文直接套）**
+This machine is easy to operate. 这台机器很容易操作。
+The machine is broken. 机器坏了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：machines /məˈʃiːnz/
+形容词：mechanical /məˈkænɪkəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：device /dɪˈvaɪs/ n. 设备
+反义词：无
+拓展词：machinery /məˈʃiːnəri/ n. 机械
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Machines make our lives easier. 机器让我们的生活更轻松。
+写作提分句：A machine is only as good as the person who operates it. 机器的好坏取决于操作它的人。
+
+------
+
+**030 tool** /tuːl/ n. 工具
+**一、词根词缀拆解**
+词根：tool = 工具（古英语 tol）
+后缀：无
+整体拆解：tool → 工具
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+power tool（电动工具）
+tool box（工具箱）
+learning tool（学习工具）
+**三、词性搭配用法（前接 / 后接什么）**
+tool（名词）
+  后接 for：tool for learning
+  可数名词
+**四、高频句型（作文直接套）**
+A hammer is a basic tool. 锤子是一个基本工具。
+The internet is a powerful tool. 互联网是一个强大的工具。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：tools /tuːlz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：instrument /ˈɪnstrəmənt/ n. 仪器
+反义词：无
+拓展词：toolkit /ˈtuːlkɪt/ n. 工具包
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Use the right tool for the job. 为工作使用正确的工具。
+写作提分句：The mind is the most powerful tool we possess. 头脑是我们拥有的最强大的工具。
+
+------
+
+**031 equipment** /ɪˈkwɪpmənt/ n. 设备；装备
+**一、词根词缀拆解**
+词根：equip = 装备（古法语 eschiper）
+后缀：-ment = 名词后缀
+整体拆解：equip + ment → 装备的结果 → 设备
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+safety equipment（安全设备）
+sports equipment（体育器材）
+office equipment（办公设备）
+**三、词性搭配用法（前接 / 后接什么）**
+equipment（名词）
+  后接 for：equipment for camping
+  不可数名词
+**四、高频句型（作文直接套）**
+We need new equipment. 我们需要新设备。
+The equipment is very expensive. 设备很昂贵。
+**五、词形变化（词性转换题 / 写作核心）**
+动词：equip /ɪˈkwɪp/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：gear /ɡɪə/ n. 装备
+反义词：无
+拓展词：equip /ɪˈkwɪp/ v. 装备
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Always wear the proper safety equipment. 始终穿戴适当的安全设备。
+写作提分句：Good equipment makes work more efficient. 好的设备让工作更高效。
+
+------
+
+**032 device** /dɪˈvaɪs/ n. 设备；装置
+**一、词根词缀拆解**
+词根：devise = 设计（拉丁语 dividere）
+后缀：-ice
+整体拆解：devis + e → 设计出来的东西 → 装置
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+electronic device（电子设备）
+mobile device（移动设备）
+storage device（存储设备）
+**三、词性搭配用法（前接 / 后接什么）**
+device（名词）
+  后接 for：device for measuring temperature
+  可数名词
+**四、高频句型（作文直接套）**
+This device can track your steps. 这个设备可以追踪你的步数。
+He invented a clever device. 他发明了一个巧妙的装置。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：devices /dɪˈvaɪsɪz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：gadget /ˈɡædʒɪt/ n. 小器具
+反义词：无
+拓展词：devise /dɪˈvaɪz/ v. 设计
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't spend too much time on your devices. 不要花太多时间在电子设备上。
+写作提分句：Every device has a purpose; use it wisely. 每个设备都有其用途，明智地使用它。
+
+------
+
+**033 system** /ˈsɪstəm/ n. 系统；体系
+**一、词根词缀拆解**
+词根：system = 放置在一起（希腊语 synistanai）
+后缀：无
+整体拆解：system → 系统
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+operating system（操作系统）
+solar system（太阳系）
+education system（教育体系）
+**三、词性搭配用法（前接 / 后接什么）**
+system（名词）
+  后接 of：system of government
+  可数名词
+**四、高频句型（作文直接套）**
+The system is not working. 系统不工作了。
+We need a better system. 我们需要一个更好的系统。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：systems /ˈsɪstəmz/
+形容词：systematic /ˌsɪstəˈmætɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：network /ˈnetwɜːk/ n. 网络
+反义词：chaos /ˈkeɪɒs/ n. 混乱
+拓展词：systematic /ˌsɪstəˈmætɪk/ adj. 系统的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A good system saves time. 好的系统节省时间。
+写作提分句：Systems create order out of chaos. 系统从混乱中创造秩序。
+
+------
+
+**034 method** /ˈmeθəd/ n. 方法
+**一、词根词缀拆解**
+词根：method = 追求（希腊语 meta + hodos）
+后缀：无
+整体拆解：method → 方法
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+teaching method（教学方法）
+scientific method（科学方法）
+method of（……的方法）
+**三、词性搭配用法（前接 / 后接什么）**
+method（名词）
+  后接 of：method of communication
+  后接 for：method for solving problems
+  可数名词
+**四、高频句型（作文直接套）**
+This method works well. 这个方法很有效。
+Try a different method. 试试不同的方法。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：methods /ˈmeθədz/
+形容词：methodical /məˈθɒdɪkəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：way /weɪ/ n. 方式
+反义词：无
+拓展词：methodology /ˌmeθəˈdɒlədʒi/ n. 方法论
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There is no single right method. 没有唯一正确的方法。
+写作提分句：The method you choose determines the results you get. 你选择的方法决定了你得到的结果。
+
+------
+
+**035 way** /weɪ/ n. 方式；方法；道路
+**一、词根词缀拆解**
+词根：way = 路（古英语 weg）
+后缀：无
+整体拆解：way → 道路
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+way of life（生活方式）
+find a way（找到方法）
+by the way（顺便说）
+**三、词性搭配用法（前接 / 后接什么）**
+way（名词）
+  后接 of：way of thinking
+  后接 to：way to success
+  可数名词
+**四、高频句型（作文直接套）**
+There's always a way. 总有办法。
+I like your way of doing things. 我喜欢你做事情的方式。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：ways /weɪz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：method /ˈmeθəd/ n. 方法
+反义词：无
+拓展词：wayfarer /ˈweɪfeərə/ n. 旅行者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Where there's a will, there's a way. 有志者事竟成。
+写作提分句：The way you start your day affects the rest of it. 你开始一天的方式会影响这一天剩下的时间。
+
+------
+
+**036 process** /ˈprəʊses/ n. 过程；流程
+**一、词根词缀拆解**
+词根：cess = 走；前进（拉丁语 cedere）
+前缀：pro- = 向前
+后缀：无
+整体拆解：pro + cess → 向前走 → 过程
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+learning process（学习过程）
+decision-making process（决策过程）
+in the process of（在……过程中）
+**三、词性搭配用法（前接 / 后接什么）**
+process（名词）
+  后接 of：process of change
+  可数名词
+**四、高频句型（作文直接套）**
+Change is a slow process. 变化是一个缓慢的过程。
+The process takes time. 这个过程需要时间。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：processes /ˈprəʊsesɪz/
+动词：process /ˈprəʊses/ v. 处理
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：procedure /prəˈsiːdʒə/ n. 程序
+反义词：无
+拓展词：procession /prəˈseʃən/ n. 行列
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Trust the process. 相信过程。
+写作提分句：Success is a process, not an event. 成功是一个过程，不是一个事件。
+
+------
+
+**037 product** /ˈprɒdʌkt/ n. 产品；产物
+**一、词根词缀拆解**
+词根：duct = 引导；带领（拉丁语 ducere）
+前缀：pro- = 向前
+后缀：无
+整体拆解：pro + duct → 向前引导出来的东西 → 产品
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+new product（新产品）
+product development（产品开发）
+product quality（产品质量）
+**三、词性搭配用法（前接 / 后接什么）**
+product（名词）
+  后接 of：product of hard work
+  可数名词
+**四、高频句型（作文直接套）**
+This product is very popular. 这个产品很受欢迎。
+The company launched a new product. 公司推出了一款新产品。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：products /ˈprɒdʌkts/
+形容词：productive /prəˈdʌktɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：goods /ɡʊdz/ n. 商品
+反义词：waste /weɪst/ n. 废物
+拓展词：produce /prəˈdjuːs/ v. 生产
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The best product doesn't always win. 最好的产品并不总是赢。
+写作提分句：Your thoughts are the products of your mind. 你的思想是你头脑的产物。
+
+------
+
+**038 material** /məˈtɪəriəl/ n. 材料；物质 adj. 物质的
+**一、词根词缀拆解**
+词根：mater = 母亲；源头（拉丁语 materia）
+后缀：-ial = 形容词后缀
+整体拆解：mater + ial → 来源于母体的 → 材料
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+raw material（原材料）
+building material（建筑材料）
+teaching material（教材）
+**三、词性搭配用法（前接 / 后接什么）**
+material（名词）
+  后接 for：material for the project
+  可数/不可数
+**四、高频句型（作文直接套）**
+This material is very strong. 这种材料很坚固。
+What material is this made of? 这是用什么材料做的？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：materials /məˈtɪəriəlz/
+形容词：materialistic /məˌtɪəriəˈlɪstɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：substance /ˈsʌbstəns/ n. 物质
+反义词：spirit /ˈspɪrɪt/ n. 精神
+拓展词：matter /ˈmætə/ n. 物质
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Choose the right material for the job. 为工作选择正确的材料。
+写作提分句：Material things are temporary; experiences last forever. 物质的东西是暂时的，经历是永恒的。
+
+------
+
+**039 energy** /ˈenədʒi/ n. 能量；精力
+**一、词根词缀拆解**
+词根：erg = 工作（希腊语 ergon）
+后缀：-y = 名词后缀
+整体拆解：en + erg + y → 内在工作的能力 → 能量
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+renewable energy（可再生能源）
+solar energy（太阳能）
+full of energy（精力充沛）
+**三、词性搭配用法（前接 / 后接什么）**
+energy（名词）
+  后接 to：energy to work
+  不可数名词
+**四、高频句型（作文直接套）**
+I have no energy today. 我今天没精力。
+Save your energy for later. 为以后保存精力。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：energetic /ˌenəˈdʒetɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：power /ˈpaʊə/ n. 力量
+反义词：fatigue /fəˈtiːɡ/ n. 疲劳
+拓展词：energize /ˈenədʒaɪz/ v. 使充满活力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Renewable energy is the future. 可再生能源是未来。
+写作提分句：Energy flows where attention goes. 能量流向注意力所在之处。
+
+------
+
+**040 power** /ˈpaʊə/ n. 力量；权力；电力
+**一、词根词缀拆解**
+词根：power = 能够（拉丁语 potere）
+后缀：无
+整体拆解：power → 力量
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+electric power（电力）
+will power（意志力）
+power plant（发电厂）
+**三、词性搭配用法（前接 / 后接什么）**
+power（名词）
+  后接 of：power of nature
+  后接 over：power over others
+  不可数名词
+**四、高频句型（作文直接套）**
+Knowledge is power. 知识就是力量。
+The power is out. 停电了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：powerful /ˈpaʊəfəl/
+副词：powerfully /ˈpaʊəfəli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：strength /streŋθ/ n. 力量
+反义词：weakness /ˈwiːknəs/ n. 弱点
+拓展词：empower /ɪmˈpaʊə/ v. 赋予权力
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：With great power comes great responsibility. 能力越大，责任越大。
+写作提分句：The power to change your life is in your hands. 改变你生活的力量就在你手中。
+
+------
+
+**041 force** /fɔːs/ n. 力；力量；武力
+**一、词根词缀拆解**
+词根：forc = 强壮（拉丁语 fortis）
+后缀：-e
+整体拆解：forc + e → 力量
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+air force（空军）
+labor force（劳动力）
+force of nature（自然之力）
+**三、词性搭配用法（前接 / 后接什么）**
+force（名词）
+  后接 of：force of gravity
+  可数/不可数
+**四、高频句型（作文直接套）**
+He used force to open the door. 他用蛮力打开了门。
+The force of the wind was strong. 风力很强。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：forces /ˈfɔːsɪz/
+形容词：forceful /ˈfɔːsfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：power /ˈpaʊə/ n. 力量
+反义词：weakness /ˈwiːknəs/ n. 软弱
+拓展词：enforce /ɪnˈfɔːs/ v. 强制执行
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't use force when words will do. 言语能解决就不要使用武力。
+写作提分句：The force of habit is powerful. 习惯的力量是强大的。
+
+------
+
+**042 strength** /streŋθ/ n. 力量；优点；强度
+**一、词根词缀拆解**
+词根：strong = 强壮（古英语 strang）
+后缀：-th = 名词后缀
+整体拆解：strong → strength（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strength of character（性格的力量）
+inner strength（内在力量）
+strengths and weaknesses（优点和缺点）
+**三、词性搭配用法（前接 / 后接什么）**
+strength（名词）
+  后接 of：strength of the team
+  后接 to：strength to carry on
+  不可数/可数
+**四、高频句型（作文直接套）**
+Everyone has different strengths. 每个人都有不同的优点。
+She showed great strength. 她表现出了极大的力量。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：strong /strɒŋ/
+动词：strengthen /ˈstreŋθən/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：power /ˈpaʊə/ n. 力量
+反义词：weakness /ˈwiːknəs/ n. 弱点
+拓展词：strengthen /ˈstreŋθən/ v. 加强
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Know your strengths and weaknesses. 了解你的优点和缺点。
+写作提分句：Strength doesn't come from what you can do; it comes from overcoming what you thought you couldn't. 力量不来自你能做什么，而来自克服你以为自己做不到的事。
+
+------
+
+**043 environment** /ɪnˈvaɪrənmənt/ n. 环境
+**一、词根词缀拆解**
+词根：viron = 周围（古法语 environ）
+前缀：en- = 使进入
+后缀：-ment = 名词后缀
+整体拆解：en + viron + ment → 周围的东西 → 环境
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+protect the environment（保护环境）
+learning environment（学习环境）
+work environment（工作环境）
+**三、词性搭配用法（前接 / 后接什么）**
+environment（名词）
+  后接 for：environment for learning
+  可数名词
+**四、高频句型（作文直接套）**
+We must protect our environment. 我们必须保护我们的环境。
+A positive environment helps you succeed. 积极的环境帮助你成功。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：environments /ɪnˈvaɪrənmənts/
+形容词：environmental /ɪnˌvaɪrənˈmentəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：surroundings /səˈraʊndɪŋz/ n. 周围环境
+反义词：无
+拓展词：environmentalist /ɪnˌvaɪrənˈmentəlɪst/ n. 环保主义者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A clean environment is essential for health. 干净的环境对健康至关重要。
+写作提分句：Your environment shapes your habits. 你的环境塑造你的习惯。
+
+------
+
+**044 nature** /ˈneɪtʃə/ n. 自然；本性
+**一、词根词缀拆解**
+词根：nat = 出生（拉丁语 nasci）
+后缀：-ure = 名词后缀
+整体拆解：nat + ure → 天生的东西 → 本性
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+human nature（人性）
+by nature（天生地）
+force of nature（自然之力）
+**三、词性搭配用法（前接 / 后接什么）**
+nature（名词）
+  后接 of：nature of the problem
+  不可数名词
+**四、高频句型（作文直接套）**
+Nature is beautiful. 大自然是美丽的。
+It's in his nature to be kind. 善良是他的本性。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：natural /ˈnætʃərəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：environment /ɪnˈvaɪrənmənt/ n. 环境
+反义词：nurture /ˈnɜːtʃə/ n. 养育
+拓展词：natural /ˈnætʃərəl/ adj. 自然的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nature heals. 大自然治愈。
+写作提分句：Respect nature, and nature will respect you. 尊重自然，自然也会尊重你。
+
+------
+
+**045 world** /wɜːld/ n. 世界
+**一、词根词缀拆解**
+词根：world = 世界（古英语 weorold）
+后缀：无
+整体拆解：world → 世界
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+around the world（世界各地）
+world peace（世界和平）
+world view（世界观）
+**三、词性搭配用法（前接 / 后接什么）**
+world（名词）
+  后接 of：world of difference
+  可数名词
+**四、高频句型（作文直接套）**
+It's a small world. 世界真小。
+The world is your oyster. 世界是你的牡蛎。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：worldly /ˈwɜːldli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：earth /ɜːθ/ n. 地球
+反义词：无
+拓展词：worldwide /ˌwɜːldˈwaɪd/ adj. 全球的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The world is a book, and those who do not travel read only one page. 世界是一本书，不旅行的人只读了一页。
+写作提分句：Be the change you wish to see in the world. 成为你希望在世界上看到的改变。
+
+------
+
+**046 earth** /ɜːθ/ n. 地球；土地
+**一、词根词缀拆解**
+词根：earth = 土地（古英语 eorthe）
+后缀：无
+整体拆解：earth → 地球
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on earth（在地球上；究竟）
+planet Earth（地球）
+earth science（地球科学）
+**三、词性搭配用法（前接 / 后接什么）**
+earth（名词）
+  后接 of：surface of the earth
+  不可数名词
+**四、高频句型（作文直接套）**
+The Earth is our home. 地球是我们的家园。
+What on earth are you doing? 你到底在做什么？
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：earthen /ˈɜːθən/ / earthly /ˈɜːθli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ground /ɡraʊnd/ n. 地面
+反义词：sky /skaɪ/ n. 天空
+拓展词：earthquake /ˈɜːθkweɪk/ n. 地震
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Protect the Earth for future generations. 为子孙后代保护地球。
+写作提分句：The Earth does not belong to us; we belong to the Earth. 地球不属于我们，我们属于地球。
+
+------
+
+**047 planet** /ˈplænɪt/ n. 行星
+**一、词根词缀拆解**
+词根：plan = 漫游（希腊语 planetes）
+后缀：-et
+整体拆解：plan + et → 漫游的天体 → 行星
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+planet Earth（地球）
+dwarf planet（矮行星）
+habitable planet（宜居行星）
+**三、词性搭配用法（前接 / 后接什么）**
+planet（名词）
+  后接 of：planet of the solar system
+  可数名词
+**四、高频句型（作文直接套）**
+Mars is a red planet. 火星是一颗红色行星。
+There are eight planets in our solar system. 太阳系有八颗行星。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：planets /ˈplænɪts/
+形容词：planetary /ˈplænɪtəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：world /wɜːld/ n. 世界
+反义词：star /stɑː/ n. 恒星
+拓展词：planetarium /ˌplænɪˈteəriəm/ n. 天文馆
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Our planet needs our care. 我们的星球需要我们的关爱。
+写作提分句：We are just one small planet in a vast universe. 我们只是广阔宇宙中的一颗小行星。
+
+------
+
+**048 sun** /sʌn/ n. 太阳；阳光
+**一、词根词缀拆解**
+词根：sun = 太阳（古英语 sunne）
+后缀：无
+整体拆解：sun → 太阳
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+under the sun（天下；世界上）
+sun light（阳光）
+sun rise/set（日出/日落）
+**三、词性搭配用法（前接 / 后接什么）**
+sun（名词）
+  后接 of：sun of the morning
+  不可数名词
+**四、高频句型（作文直接套）**
+The sun is shining brightly. 阳光明媚。
+Everything under the sun has a purpose. 世间万物皆有目的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sunny /ˈsʌni/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sunshine /ˈsʌnʃaɪn/ n. 阳光
+反义词：moon /muːn/ n. 月亮
+拓展词：sunset /ˈsʌnset/ n. 日落
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Make hay while the sun shines. 趁热打铁。
+写作提分句：The sun rises every day, bringing new hope. 太阳每天升起，带来新的希望。
+
+------
+
+**049 moon** /muːn/ n. 月亮；卫星
+**一、词根词缀拆解**
+词根：moon = 月亮（古英语 mona）
+后缀：无
+整体拆解：moon → 月亮
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+full moon（满月）
+new moon（新月）
+once in a blue moon（千载难逢）
+**三、词性搭配用法（前接 / 后接什么）**
+moon（名词）
+  后接 of：moon of Jupiter
+  可数名词
+**四、高频句型（作文直接套）**
+The moon is beautiful tonight. 今晚的月亮很美。
+I see you once in a blue moon. 我很少见到你。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：moons /muːnz/
+形容词：moonlit /ˈmuːnlɪt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：satellite /ˈsætəlaɪt/ n. 卫星
+反义词：sun /sʌn/ n. 太阳
+拓展词：moonlight /ˈmuːnlaɪt/ n. 月光
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Shoot for the moon; even if you miss, you'll land among the stars. 瞄准月亮，即使错过了，你也将置身群星之中。
+写作提分句：The moon reminds us that darkness can be beautiful. 月亮提醒我们黑暗也可以美丽。
+
+------
+
+**050 star** /stɑː/ n. 星星；明星
+**一、词根词缀拆解**
+词根：star = 星星（古英语 steorra）
+后缀：无
+整体拆解：star → 星星
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+shooting star（流星）
+movie star（电影明星）
+star sign（星座）
+**三、词性搭配用法（前接 / 后接什么）**
+star（名词）
+  后接 of：star of the show
+  可数名词
+**四、高频句型（作文直接套）**
+Look at the stars in the sky. 看天上的星星。
+She is a rising star. 她是一颗冉冉升起的新星。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：stars /stɑːz/
+形容词：starry /ˈstɑːri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：celebrity /səˈlebrəti/ n. 名人
+反义词：planet /ˈplænɪt/ n. 行星
+拓展词：starlight /ˈstɑːlaɪt/ n. 星光
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：We are all made of stardust. 我们都是星尘构成的。
+写作提分句：Don't just wish upon a star; work to become one. 不要只向星星许愿，努力成为一颗星星。
+
+------
+
+**051 sky** /skaɪ/ n. 天空
+**一、词根词缀拆解**
+词根：sky = 云；天空（古挪威语 sky）
+后缀：无
+整体拆解：sky → 天空
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+blue sky（蓝天）
+night sky（夜空）
+the sky is the limit（无限可能）
+**三、词性搭配用法（前接 / 后接什么）**
+sky（名词）
+  后接 over：sky over the city
+  可数/不可数
+**四、高频句型（作文直接套）**
+The sky is clear today. 今天天空晴朗。
+The sky's the limit. 一切皆有可能。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：skies /skaɪz/
+形容词：sky-blue /ˌskaɪ ˈbluː/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：heaven /ˈhevən/ n. 天空
+反义词：earth /ɜːθ/ n. 地球
+拓展词：skyscraper /ˈskaɪskreɪpə/ n. 摩天大楼
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Reach for the sky. 触摸天空。
+写作提分句：The sky is not the limit; it's just the beginning. 天空不是极限，它只是开始。
+
+------
+
+**052 air** /eə/ n. 空气；天空
+**一、词根词缀拆解**
+词根：air = 空气（拉丁语 aer）
+后缀：无
+整体拆解：air → 空气
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fresh air（新鲜空气）
+air pollution（空气污染）
+in the air（在空中；即将发生）
+**三、词性搭配用法（前接 / 后接什么）**
+air（名词）
+  后接 of：air of confidence
+  不可数名词
+**四、高频句型（作文直接套）**
+Open the window for fresh air. 打开窗户呼吸新鲜空气。
+There's excitement in the air. 空气中充满了兴奋。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：airy /ˈeəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：atmosphere /ˈætməsfɪə/ n. 大气
+反义词：water /ˈwɔːtə/ n. 水
+拓展词：airplane /ˈeəpleɪn/ n. 飞机
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Clean air is essential for life. 干净的空气对生命至关重要。
+写作提分句：Air pollution is a global problem that requires global action. 空气污染是一个需要全球行动的全球性问题。
+
+------
+
+**053 water** /ˈwɔːtə/ n. 水
+**一、词根词缀拆解**
+词根：water = 水（古英语 wæter）
+后缀：无
+整体拆解：water → 水
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+drinking water（饮用水）
+fresh water（淡水）
+waste water（废水）
+**三、词性搭配用法（前接 / 后接什么）**
+water（名词）
+  后接 of：water of the river
+  不可数名词
+**四、高频句型（作文直接套）**
+Water is life. 水是生命。
+Don't waste water. 不要浪费水。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：watery /ˈwɔːtəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：H2O n. 水
+反义词：fire /faɪə/ n. 火
+拓展词：waterfall /ˈwɔːtəfɔːl/ n. 瀑布
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Water covers most of the Earth's surface. 水覆盖了地球表面的大部分。
+写作提分句：Clean water is a basic human right. 干净的水是一项基本人权。
+
+------
+
+**054 river** /ˈrɪvə/ n. 河；江
+**一、词根词缀拆解**
+词根：river = 河流（拉丁语 ripa）
+后缀：无
+整体拆解：river → 河流
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+river bank（河岸）
+river water（河水）
+cross the river（过河）
+**三、词性搭配用法（前接 / 后接什么）**
+river（名词）
+  后接 of：river of tears
+  可数名词
+**四、高频句型（作文直接套）**
+The river flows into the sea. 这条河流入大海。
+We swam in the river. 我们在河里游泳。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：rivers /ˈrɪvəz/
+形容词：riverine /ˈrɪvəraɪn/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：stream /striːm/ n. 小溪
+反义词：ocean /ˈəʊʃən/ n. 海洋
+拓展词：riverbank /ˈrɪvəbæŋk/ n. 河岸
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You can't step into the same river twice. 你不能两次踏进同一条河流。
+写作提分句：Rivers are the arteries of our planet. 河流是我们星球的动脉。
+
+------
+
+**055 lake** /leɪk/ n. 湖
+**一、词根词缀拆解**
+词根：lake = 湖（拉丁语 lacus）
+后缀：无
+整体拆解：lake → 湖
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+lake water（湖水）
+salt lake（盐湖）
+artificial lake（人工湖）
+**三、词性搭配用法（前接 / 后接什么）**
+lake（名词）
+  后接 of：lake of fire
+  可数名词
+**四、高频句型（作文直接套）**
+The lake is frozen in winter. 冬天湖面结冰了。
+We went fishing in the lake. 我们去湖里钓鱼了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：lakes /leɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pond /pɒnd/ n. 池塘
+反义词：ocean /ˈəʊʃən/ n. 海洋
+拓展词：lakefront /ˈleɪkfrʌnt/ n. 湖边
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The lake is calm and peaceful. 湖面平静而安宁。
+写作提分句：A lake reflects not just the sky, but the soul of nature. 湖不仅映照天空，也映照自然的灵魂。
+
+------
+
+**056 sea** /siː/ n. 海；海洋
+**一、词根词缀拆解**
+词根：sea = 海（古英语 sæ）
+后缀：无
+整体拆解：sea → 海
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+by the sea（在海边）
+sea level（海平面）
+open sea（公海）
+**三、词性搭配用法（前接 / 后接什么）**
+sea（名词）
+  后接 of：sea of faces
+  可数/不可数
+**四、高频句型（作文直接套）**
+The sea is beautiful. 大海很美。
+He lives by the sea. 他住在海边。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：seas /siːz/
+形容词：seaside /ˈsiːsaɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ocean /ˈəʊʃən/ n. 海洋
+反义词：land /lænd/ n. 陆地
+拓展词：seafood /ˈsiːfuːd/ n. 海鲜
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The sea is a source of life. 海洋是生命之源。
+写作提分句：A smooth sea never made a skilled sailor. 平静的海面练不出熟练的水手。
+
+------
+
+**057 ocean** /ˈəʊʃən/ n. 海洋
+**一、词根词缀拆解**
+词根：ocean = 大洋（希腊语 okeanos）
+后缀：无
+整体拆解：ocean → 海洋
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+Pacific Ocean（太平洋）
+Atlantic Ocean（大西洋）
+ocean floor（海底）
+**三、词性搭配用法（前接 / 后接什么）**
+ocean（名词）
+  后接 of：ocean of water
+  可数名词
+**四、高频句型（作文直接套）**
+The ocean covers most of the Earth. 海洋覆盖了地球的大部分。
+Ocean pollution is a serious problem. 海洋污染是一个严重的问题。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：oceans /ˈəʊʃənz/
+形容词：oceanic /ˌəʊʃiˈænɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sea /siː/ n. 海
+反义词：land /lænd/ n. 陆地
+拓展词：oceanography /ˌəʊʃəˈnɒɡrəfi/ n. 海洋学
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：We know more about space than the ocean floor. 我们对太空的了解比对海底的了解还多。
+写作提分句：The ocean reminds us of our smallness in the universe. 海洋提醒我们在宇宙中的渺小。
+
+------
+
+**058 mountain** /ˈmaʊntɪn/ n. 山；山脉
+**一、词根词缀拆解**
+词根：mount = 上升（拉丁语 mons）
+后缀：-ain = 名词后缀
+整体拆解：mount + ain → 上升的东西 → 山
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mountain range（山脉）
+climb a mountain（爬山）
+mountain top（山顶）
+**三、词性搭配用法（前接 / 后接什么）**
+mountain（名词）
+  后接 of：mountain of work
+  可数名词
+**四、高频句型（作文直接套）**
+The mountain is very high. 这座山很高。
+We climbed to the top of the mountain. 我们爬到了山顶。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：mountains /ˈmaʊntɪnz/
+形容词：mountainous /ˈmaʊntɪnəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：peak /piːk/ n. 山峰
+反义词：valley /ˈvæli/ n. 山谷
+拓展词：mountaineer /ˌmaʊntɪˈnɪə/ n. 登山者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Faith can move mountains. 信念可以移山。
+写作提分句：Every mountain is a challenge waiting to be conquered. 每一座山都是一个等待被征服的挑战。
+
+------
+
+**059 hill** /hɪl/ n. 山丘；小山
+**一、词根词缀拆解**
+词根：hill = 山丘（古英语 hyll）
+后缀：无
+整体拆解：hill → 山丘
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rolling hills（起伏的丘陵）
+hill station（山区避暑地）
+over the hill（走下坡路）
+**三、词性搭配用法（前接 / 后接什么）**
+hill（名词）
+  后接 of：hill of sand
+  可数名词
+**四、高频句型（作文直接套）**
+We walked up the hill. 我们走上山丘。
+The house is on a hill. 房子在山丘上。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：hills /hɪlz/
+形容词：hilly /ˈhɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mound /maʊnd/ n. 土丘
+反义词：valley /ˈvæli/ n. 山谷
+拓展词：hilltop /ˈhɪltɒp/ n. 山顶
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life has its ups and downs, hills and valleys. 人生有起有落，有山丘有山谷。
+写作提分句：The view from the hill is breathtaking. 从山丘上看去，景色令人叹为观止。
+
+------
+
+**060 forest** /ˈfɒrɪst/ n. 森林
+**一、词根词缀拆解**
+词根：forest = 森林（拉丁语 forestis）
+后缀：无
+整体拆解：forest → 森林
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rain forest（雨林）
+forest fire（森林火灾）
+dark forest（黑暗森林）
+**三、词性搭配用法（前接 / 后接什么）**
+forest（名词）
+  后接 of：forest of trees
+  可数/不可数
+**四、高频句型（作文直接套）**
+The forest is home to many animals. 森林是许多动物的家园。
+We walked through the forest. 我们穿过了森林。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：forests /ˈfɒrɪsts/
+形容词：forested /ˈfɒrɪstɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：woods /wʊdz/ n. 树林
+反义词：desert /ˈdezət/ n. 沙漠
+拓展词：deforestation /diːˌfɒrɪˈsteɪʃən/ n. 森林砍伐
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Can't see the forest for the trees. 见树不见林。
+写作提分句：Forests are the lungs of our planet. 森林是地球的肺。
+
+------
+
+**061 tree** /triː/ n. 树
+**一、词根词缀拆解**
+词根：tree = 树（古英语 treow）
+后缀：无
+整体拆解：tree → 树
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+family tree（家谱）
+Christmas tree（圣诞树）
+tree of life（生命之树）
+**三、词性搭配用法（前接 / 后接什么）**
+tree（名词）
+  后接 of：tree of knowledge
+  可数名词
+**四、高频句型（作文直接套）**
+Plant a tree. 种一棵树。
+The tree is very old. 这棵树很老了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：trees /triːz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：plant /plɑːnt/ n. 植物
+反义词：无
+拓展词：treehouse /ˈtriːhaʊs/ n. 树屋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A tree is known by its fruit. 观其果而知其树。
+写作提分句：The best time to plant a tree was twenty years ago; the second best time is now. 种树的最佳时间是二十年前，其次是现在。
+
+------
+
+**062 plant** /plɑːnt/ n. 植物；工厂 v. 种植
+**一、词根词缀拆解**
+词根：plant = 植物（拉丁语 planta）
+后缀：无
+整体拆解：plant → 植物
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+power plant（发电厂）
+plant life（植物生命）
+house plant（室内植物）
+**三、词性搭配用法（前接 / 后接什么）**
+plant（名词）
+  后接 of：plant of the species
+  可数名词
+**四、高频句型（作文直接套）**
+Plants need sunlight to grow. 植物需要阳光才能生长。
+This plant is poisonous. 这种植物有毒。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：plants /plɑːnts/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：vegetation /ˌvedʒɪˈteɪʃən/ n. 植被
+反义词：animal /ˈænɪməl/ n. 动物
+拓展词：plantation /plænˈteɪʃən/ n. 种植园
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Plants are the foundation of the food chain. 植物是食物链的基础。
+写作提分句：A plant grows where it is planted, but a person grows where they choose. 植物在哪里种就在哪里长，但人在哪里选择就在哪里成长。
+
+------
+
+**063 flower** /ˈflaʊə/ n. 花
+**一、词根词缀拆解**
+词根：flower = 花（拉丁语 flos）
+后缀：无
+整体拆解：flower → 花
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wild flower（野花）
+flower garden（花园）
+in flower（开花）
+**三、词性搭配用法（前接 / 后接什么）**
+flower（名词）
+  后接 of：flower of youth
+  可数名词
+**四、高频句型（作文直接套）**
+The flowers are blooming. 花儿正在盛开。
+She received a bouquet of flowers. 她收到了一束花。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：flowers /ˈflaʊəz/
+形容词：flowery /ˈflaʊəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：blossom /ˈblɒsəm/ n. 花
+反义词：weed /wiːd/ n. 杂草
+拓展词：flowerpot /ˈflaʊəpɒt/ n. 花盆
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every flower blooms in its own time. 每朵花都在自己的时间绽放。
+写作提分句：Flowers don't worry about how they're going to bloom; they just bloom. 花儿不担心如何绽放，它们只是绽放。
+
+------
+
+**064 grass** /ɡrɑːs/ n. 草；草坪
+**一、词根词缀拆解**
+词根：grass = 草（古英语 græs）
+后缀：无
+整体拆解：grass → 草
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+grass roots（草根）
+cut the grass（割草）
+grass field（草地）
+**三、词性搭配用法（前接 / 后接什么）**
+grass（名词）
+  后接 of：grass of the field
+  不可数名词
+**四、高频句型（作文直接套）**
+The grass is green. 草是绿的。
+Don't walk on the grass. 不要踩草地。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：grassy /ˈɡrɑːsi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：lawn /lɔːn/ n. 草坪
+反义词：concrete /ˈkɒŋkriːt/ n. 混凝土
+拓展词：grasshopper /ˈɡrɑːshɒpə/ n. 蚱蜢
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The grass is always greener on the other side. 这山望着那山高。
+写作提分句：Water your own grass; it's greener than you think. 浇灌你自己的草坪，它比你想象的更绿。
+
+------
+
+**065 animal** /ˈænɪməl/ n. 动物
+**一、词根词缀拆解**
+词根：animal = 生命；灵魂（拉丁语 anima）
+后缀：-al = 名词后缀
+整体拆解：anim + al → 有生命的东西 → 动物
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wild animal（野生动物）
+domestic animal（家畜）
+animal rights（动物权利）
+**三、词性搭配用法（前接 / 后接什么）**
+animal（名词）
+  后接 of：animal of the forest
+  可数名词
+**四、高频句型（作文直接套）**
+Animals are our friends. 动物是我们的朋友。
+Don't treat animals cruelly. 不要残忍对待动物。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：animals /ˈænɪməlz/
+形容词：animalistic /ˌænɪməˈlɪstɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：creature /ˈkriːtʃə/ n. 生物
+反义词：plant /plɑːnt/ n. 植物
+拓展词：animality /ˌænɪˈmæləti/ n. 动物性
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The greatness of a nation can be judged by the way its animals are treated. 一个国家的伟大可以通过对待动物的方式来评判。
+写作提分句：Animals speak a language we don't understand, but they feel what we feel. 动物说着我们不懂的语言，但它们感受着我们的感受。
+
+------
+
+**066 bird** /bɜːd/ n. 鸟
+**一、词根词缀拆解**
+词根：bird = 鸟（古英语 brid）
+后缀：无
+整体拆解：bird → 鸟
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bird of prey（猛禽）
+early bird（早起的人）
+bird watching（观鸟）
+**三、词性搭配用法（前接 / 后接什么）**
+bird（名词）
+  后接 of：bird of paradise
+  可数名词
+**四、高频句型（作文直接套）**
+Birds fly south in winter. 鸟冬天飞往南方。
+The early bird catches the worm. 早起的鸟儿有虫吃。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：birds /bɜːdz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fowl /faʊl/ n. 家禽
+反义词：fish /fɪʃ/ n. 鱼
+拓展词：birdhouse /ˈbɜːdhaʊs/ n. 鸟舍
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A bird in the hand is worth two in the bush. 一鸟在手胜过双鸟在林。
+写作提分句：Birds sing even after a storm; why shouldn't we? 鸟儿在暴风雨后依然歌唱，我们为什么不能？
+
+------
+
+**067 fish** /fɪʃ/ n. 鱼
+**一、词根词缀拆解**
+词根：fish = 鱼（古英语 fisc）
+后缀：无
+整体拆解：fish → 鱼
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+tropical fish（热带鱼）
+fish and chips（炸鱼薯条）
+go fishing（去钓鱼）
+**三、词性搭配用法（前接 / 后接什么）**
+fish（名词）
+  后接 of：fish of the sea
+  可数/不可数
+**四、高频句型（作文直接套）**
+There are many fish in the river. 河里有很多鱼。
+Fish can't live out of water. 鱼离不开水。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：fish /fɪʃ/ 或 fishes /ˈfɪʃɪz/
+动词：fish /fɪʃ/ v. 钓鱼
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：seafood /ˈsiːfuːd/ n. 海鲜
+反义词：bird /bɜːd/ n. 鸟
+拓展词：fisherman /ˈfɪʃəmən/ n. 渔夫
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There are plenty of fish in the sea. 天涯何处无芳草。
+写作提分句：Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime. 授人以鱼不如授人以渔。
+
+------
+
+**068 insect** /ˈɪnsekt/ n. 昆虫
+**一、词根词缀拆解**
+词根：sect = 切（拉丁语 secare）
+前缀：in- = 向内
+整体拆解：in + sect → 切成段的 → 昆虫（身体分节）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+insect bite（昆虫叮咬）
+insect repellent（驱虫剂）
+social insect（群居昆虫）
+**三、词性搭配用法（前接 / 后接什么）**
+insect（名词）
+  后接 of：insect of the garden
+  可数名词
+**四、高频句型（作文直接套）**
+There are millions of insects on Earth. 地球上有数百万种昆虫。
+This insect is harmless. 这种昆虫无害。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：insects /ˈɪnsekts/
+形容词：insect-like /ˈɪnsektaɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：bug /bʌɡ/ n. 虫子
+反义词：mammal /ˈmæməl/ n. 哺乳动物
+拓展词：insecticide /ɪnˈsektɪsaɪd/ n. 杀虫剂
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Insects play a vital role in the ecosystem. 昆虫在生态系统中起着至关重要的作用。
+写作提分句：Even the smallest insect has a purpose in nature. 即使是最小的昆虫在大自然中也有其目的。
+
+------
+
+**069 weather** /ˈweðə/ n. 天气
+**一、词根词缀拆解**
+词根：weather = 天气（古英语 weder）
+后缀：无
+整体拆解：weather → 天气
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+weather forecast（天气预报）
+bad weather（坏天气）
+under the weather（身体不适）
+**三、词性搭配用法（前接 / 后接什么）**
+weather（名词）
+  后接 of：weather of the region
+  不可数名词
+**四、高频句型（作文直接套）**
+What's the weather like today? 今天天气怎么样？
+The weather is changing. 天气在变化。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：weatherproof /ˈweðəpruːf/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：climate /ˈklaɪmət/ n. 气候
+反义词：无
+拓展词：weatherman /ˈweðəmæn/ n. 天气预报员
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Weather is what you get; climate is what you expect. 天气是你得到的，气候是你期待的。
+写作提分句：No matter the weather, there's always something beautiful to see. 无论天气如何，总有美丽的事物可看。
+
+------
+
+**070 climate** /ˈklaɪmət/ n. 气候
+**一、词根词缀拆解**
+词根：clim = 倾斜（希腊语 klima）
+后缀：-ate = 名词后缀
+整体拆解：clim + ate → 与倾斜有关 → 气候
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+climate change（气候变化）
+global climate（全球气候）
+business climate（商业环境）
+**三、词性搭配用法（前接 / 后接什么）**
+climate（名词）
+  后接 of：climate of the region
+  可数名词
+**四、高频句型（作文直接套）**
+Climate change is a serious issue. 气候变化是一个严重的问题。
+The climate is getting warmer. 气候正在变暖。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：climates /ˈklaɪməts/
+形容词：climatic /klaɪˈmætɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：weather /ˈweðə/ n. 天气
+反义词：无
+拓展词：climatology /ˌklaɪməˈtɒlədʒi/ n. 气候学
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：We need to act now to stop climate change. 我们需要立即行动来阻止气候变化。
+写作提分句：The climate of a place shapes the lives of its people. 一个地方的气候塑造了那里人民的生活。
+
+------
+
+**071 temperature** /ˈtemprətʃə/ n. 温度
+**一、词根词缀拆解**
+词根：temper = 混合；调节（拉丁语 temperare）
+后缀：-ature = 名词后缀
+整体拆解：temper + ature → 调节的状态 → 温度
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+body temperature（体温）
+room temperature（室温）
+high/low temperature（高温/低温）
+**三、词性搭配用法（前接 / 后接什么）**
+temperature（名词）
+  后接 of：temperature of the water
+  可数/不可数
+**四、高频句型（作文直接套）**
+What's the temperature today? 今天多少度？
+His temperature is high. 他的体温很高。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：temperate /ˈtempərət/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：heat /hiːt/ n. 热度
+反义词：cold /kəʊld/ n. 冷
+拓展词：thermometer /θəˈmɒmɪtə/ n. 温度计
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The temperature is rising. 温度在上升。
+写作提分句：Global temperatures are increasing at an alarming rate. 全球温度正在以惊人的速度上升。
+
+------
+
+**072 wind** /wɪnd/ n. 风
+**一、词根词缀拆解**
+词根：wind = 风（古英语 wind）
+后缀：无
+整体拆解：wind → 风
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+strong wind（强风）
+wind power（风力）
+get wind of（听到风声）
+**三、词性搭配用法（前接 / 后接什么）**
+wind（名词）
+  后接 of：wind of change
+  可数/不可数
+**四、高频句型（作文直接套）**
+The wind is blowing hard. 风刮得很大。
+Wind is a source of renewable energy. 风是可再生能源的来源。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：windy /ˈwɪndi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：breeze /briːz/ n. 微风
+反义词：calm /kɑːm/ n. 平静
+拓展词：windmill /ˈwɪndmɪl/ n. 风车
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's better to be a warrior in a garden than a gardener in a war. 宁为园中战士，不为战中园丁。
+写作提分句：The wind is invisible, but its power is undeniable. 风是看不见的，但它的力量是不可否认的。
+
+------
+
+**073 rain** /reɪn/ n. 雨
+**一、词根词缀拆解**
+词根：rain = 雨（古英语 regn）
+后缀：无
+整体拆解：rain → 雨
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+heavy rain（大雨）
+rain forest（雨林）
+rain or shine（风雨无阻）
+**三、词性搭配用法（前接 / 后接什么）**
+rain（名词）
+  后接 of：rain of tears
+  不可数名词
+**四、高频句型（作文直接套）**
+The rain is coming. 要下雨了。
+We got caught in the rain. 我们被雨淋了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：rainy /ˈreɪni/
+动词：rain /reɪn/ v. 下雨
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：shower /ˈʃaʊə/ n. 阵雨
+反义词：drought /draʊt/ n. 干旱
+拓展词：rainbow /ˈreɪnbəʊ/ n. 彩虹
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：After rain comes fair weather. 雨过天晴。
+写作提分句：Rain is a blessing for those who wait for it. 雨是等待它的人的祝福。
+
+------
+
+**074 snow** /snəʊ/ n. 雪
+**一、词根词缀拆解**
+词根：snow = 雪（古英语 snaw）
+后缀：无
+整体拆解：snow → 雪
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+heavy snow（大雪）
+snow white（雪白）
+snow storm（暴风雪）
+**三、词性搭配用法（前接 / 后接什么）**
+snow（名词）
+  后接 of：snow of winter
+  不可数名词
+**四、高频句型（作文直接套）**
+The snow is falling. 正在下雪。
+The mountain is covered with snow. 山上覆盖着雪。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：snowy /ˈsnəʊi/
+动词：snow /snəʊ/ v. 下雪
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：blizzard /ˈblɪzəd/ n. 暴风雪
+反义词：sun /sʌn/ n. 太阳
+拓展词：snowflake /ˈsnəʊfleɪk/ n. 雪花
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Snow makes everything look pure. 雪让一切看起来纯净。
+写作提分句：Like snowflakes, no two people are exactly alike. 就像雪花一样，没有两个人是完全相同的。
+
+------
+
+**075 cloud** /klaʊd/ n. 云
+**一、词根词缀拆解**
+词根：cloud = 云（古英语 clud）
+后缀：无
+整体拆解：cloud → 云
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rain cloud（雨云）
+cloud storage（云存储）
+every cloud has a silver lining（黑暗中总有一线光明）
+**三、词性搭配用法（前接 / 后接什么）**
+cloud（名词）
+  后接 of：cloud of smoke
+  可数名词
+**四、高频句型（作文直接套）**
+The clouds are dark. 云很暗。
+There is a cloud in the sky. 天空有一朵云。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：clouds /klaʊdz/
+形容词：cloudy /ˈklaʊdi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fog /fɒɡ/ n. 雾
+反义词：clear sky（晴空）
+拓展词：cloudburst /ˈklaʊdbɜːst/ n. 倾盆大雨
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every cloud has a silver lining. 黑暗中总有一线光明。
+写作提分句：Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky. 云朵飘入我的生命，不再带来雨或风暴，只为给我的夕阳天空增添色彩。
+
+------
+
+**076 fog** /fɒɡ/ n. 雾
+**一、词根词缀拆解**
+词根：fog = 雾（古挪威语 fok）
+后缀：无
+整体拆解：fog → 雾
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+thick fog（浓雾）
+fog warning（雾警报）
+in a fog（茫然）
+**三、词性搭配用法（前接 / 后接什么）**
+fog（名词）
+  后接 of：fog of war
+  不可数名词
+**四、高频句型（作文直接套）**
+The fog is very thick today. 今天雾很大。
+I couldn't see through the fog. 雾中我什么也看不见。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：foggy /ˈfɒɡi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mist /mɪst/ n. 薄雾
+反义词：clear /klɪə/ adj. 清晰的
+拓展词：foghorn /ˈfɒɡhɔːn/ n. 雾号
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The fog will lift by noon. 雾会在中午散去。
+写作提分句：In the fog of uncertainty, trust your inner compass. 在不确定的迷雾中，相信你内心的指南针。
+
+------
+
+**077 storm** /stɔːm/ n. 风暴
+**一、词根词缀拆解**
+词根：storm = 风暴（古英语 storm）
+后缀：无
+整体拆解：storm → 风暴
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+thunderstorm（雷暴）
+brainstorm（头脑风暴）
+weather the storm（渡过难关）
+**三、词性搭配用法（前接 / 后接什么）**
+storm（名词）
+  后接 of：storm of anger
+  可数名词
+**四、高频句型（作文直接套）**
+The storm is coming. 风暴要来了。
+They survived the storm. 他们在风暴中幸存下来。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：storms /stɔːmz/
+形容词：stormy /ˈstɔːmi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tempest /ˈtempɪst/ n. 暴风雨
+反义词：calm /kɑːm/ n. 平静
+拓展词：stormy /ˈstɔːmi/ adj. 风暴的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：After the storm comes the calm. 风暴过后是平静。
+写作提分句：A storm is a reminder that after every difficult time, there is a new beginning. 风暴提醒我们，每次艰难时期过后，都有一个新的开始。
+
+------
+
+**078 pollution** /pəˈluːʃən/ n. 污染
+**一、词根词缀拆解**
+词根：lut = 弄脏；洗（拉丁语 luere）
+前缀：pol- = 向前
+后缀：-tion = 名词后缀
+整体拆解：pol + lut + ion → 弄脏的结果 → 污染
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+air pollution（空气污染）
+water pollution（水污染）
+pollution control（污染控制）
+**三、词性搭配用法（前接 / 后接什么）**
+pollution（名词）
+  后接 of：pollution of the environment
+  不可数名词
+**四、高频句型（作文直接套）**
+Pollution is a global problem. 污染是一个全球性问题。
+We need to reduce pollution. 我们需要减少污染。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：polluted /pəˈluːtɪd/
+动词：pollute /pəˈluːt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：contamination /kənˌtæmɪˈneɪʃən/ n. 污染
+反义词：cleanliness /ˈklenlinəs/ n. 清洁
+拓展词：pollutant /pəˈluːtənt/ n. 污染物
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pollution harms all living things. 污染伤害所有生物。
+写作提分句：The solution to pollution is not dilution, but elimination. 解决污染的方法不是稀释，而是消除。
+
+------
+
+**079 waste** /weɪst/ n. 废物；浪费
+**一、词根词缀拆解**
+词根：waste = 荒芜（拉丁语 vastus）
+后缀：无
+整体拆解：waste → 废物
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+waste management（废物管理）
+toxic waste（有毒废物）
+a waste of time（浪费时间）
+**三、词性搭配用法（前接 / 后接什么）**
+waste（名词）
+  后接 of：waste of energy
+  不可数名词
+**四、高频句型（作文直接套）**
+Don't waste food. 不要浪费食物。
+It's a waste of time. 这是浪费时间。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：wasteful /ˈweɪstfəl/
+动词：waste /weɪst/ v. 浪费
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：garbage /ˈɡɑːbɪdʒ/ n. 垃圾
+反义词：resource /rɪˈzɔːs/ n. 资源
+拓展词：wasteland /ˈweɪstlænd/ n. 荒地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Waste not, want not. 不浪费，不匮乏。
+写作提分句：One man's waste is another man's treasure. 一个人的废物是另一个人的财富。
+
+------
+
+**080 rubbish** /ˈrʌbɪʃ/ n. 垃圾；废话
+**一、词根词缀拆解**
+词根：rubbish = 垃圾（古法语 rubouse）
+后缀：无
+整体拆解：rubbish → 垃圾
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rubbish bin（垃圾桶）
+rubbish collection（垃圾收集）
+talk rubbish（说废话）
+**三、词性搭配用法（前接 / 后接什么）**
+rubbish（名词）
+  后接 of：rubbish of the city
+  不可数名词
+**四、高频句型（作文直接套）**
+Throw it in the rubbish bin. 把它扔进垃圾桶。
+Don't talk rubbish. 别说废话。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：rubbishy /ˈrʌbɪʃi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：trash /træʃ/ n. 垃圾
+反义词：treasure /ˈtreʒə/ n. 珍宝
+拓展词：rubbish dump /ˈrʌbɪʃ dʌmp/ n. 垃圾场
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't throw rubbish on the ground. 不要在地上扔垃圾。
+写作提分句：What is rubbish to one person may be art to another. 一个人的垃圾可能是另一个人的艺术。
+
+------
+
+**081 trash** /træʃ/ n. 垃圾
+**一、词根词缀拆解**
+词根：trash = 垃圾（古挪威语 tros）
+后缀：无
+整体拆解：trash → 垃圾
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+trash can（垃圾桶）
+trash talk（垃圾话）
+white trash（白人垃圾）
+**三、词性搭配用法（前接 / 后接什么）**
+trash（名词）
+  后接 of：trash of the city
+  不可数名词
+**四、高频句型（作文直接套）**
+Take out the trash. 把垃圾拿出去。
+Don't read that trash. 不要读那种垃圾。
+**五、词形变化（词性转换题 / 写作核心）**
+动词：trash /træʃ/ v. 毁坏
+形容词：trashy /ˈtræʃi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：garbage /ˈɡɑːbɪdʒ/ n. 垃圾
+反义词：treasure /ˈtreʒə/ n. 珍宝
+拓展词：trashy /ˈtræʃi/ adj. 垃圾的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：One man's trash is another man's treasure. 一个人的垃圾是另一个人的宝藏。
+写作提分句：Reduce, reuse, recycle – don't trash the planet. 减少、重复使用、回收利用——不要糟蹋地球。
+
+------
+
+**082 clean** /kliːn/ n. 清洁 adj. 干净的
+**一、词根词缀拆解**
+词根：clean = 清洁（古英语 clæne）
+后缀：无
+整体拆解：clean → 清洁
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+clean water（干净的水）
+clean energy（清洁能源）
+clean up（清理）
+**三、词性搭配用法（前接 / 后接什么）**
+clean（名词）
+  后接 of：clean of the room
+  不可数名词
+**四、高频句型（作文直接套）**
+Give it a good clean. 好好清洁一下。
+**五、词形变化（词性转换题 / 写作核心）**
+比较级：cleaner /ˈkliːnə/
+最高级：cleanest /ˈkliːnɪst/
+副词：cleanly /ˈkliːnli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pure /pjʊə/ adj. 纯净的
+反义词：dirty /ˈdɜːti/ adj. 脏的
+拓展词：cleanliness /ˈklenlinəs/ n. 清洁
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cleanliness is next to godliness. 清洁近乎神圣。
+写作提分句：A clean environment leads to a clear mind. 干净的环境带来清晰的头脑。
+
+------
+
+**083 dirt** /dɜːt/ n. 污垢；泥土
+**一、词根词缀拆解**
+词根：dirt = 污垢（古挪威语 drit）
+后缀：无
+整体拆解：dirt → 污垢
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dirt road（土路）
+dig up dirt（挖掘丑闻）
+as cheap as dirt（便宜得如泥土）
+**三、词性搭配用法（前接 / 后接什么）**
+dirt（名词）
+  后接 of：dirt of the floor
+  不可数名词
+**四、高频句型（作文直接套）**
+Wash the dirt off your hands. 洗掉手上的污垢。
+There is dirt on the floor. 地板上有灰尘。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dirty /ˈdɜːti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：soil /sɔɪl/ n. 土壤
+反义词：clean /kliːn/ n. 清洁
+拓展词：dirtiness /ˈdɜːtinəs/ n. 肮脏
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't be afraid to get your hands dirty. 不要害怕弄脏手。
+写作提分句：From dirt, flowers grow. 从泥土中，花朵生长。
+
+------
+
+**084 dust** /dʌst/ n. 灰尘；尘土
+**一、词根词缀拆解**
+词根：dust = 灰尘（古英语 dust）
+后缀：无
+整体拆解：dust → 灰尘
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dust storm（沙尘暴）
+dust off（掸去灰尘）
+turn to dust（化为尘土）
+**三、词性搭配用法（前接 / 后接什么）**
+dust（名词）
+  后接 of：dust of the earth
+  不可数名词
+**四、高频句型（作文直接套）**
+There is dust everywhere. 到处都是灰尘。
+The old books were covered in dust. 旧书上落满了灰尘。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dusty /ˈdʌsti/
+动词：dust /dʌst/ v. 除尘
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：powder /ˈpaʊdə/ n. 粉末
+反义词：clean /kliːn/ adj. 干净的
+拓展词：dustbin /ˈdʌstbɪn/ n. 垃圾箱
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：From dust we came, to dust we shall return. 我们从尘土中来，终将归于尘土。
+写作提分句：Dust settles when you stop stirring it. 当你停止搅动时，灰尘就会落下。
+
+------
+
+**085 health** /helθ/ n. 健康
+**一、词根词缀拆解**
+词根：heal = 治愈（古英语 hælan）
+后缀：-th = 名词后缀
+整体拆解：heal + th → 健康的状态
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+health care（医疗保健）
+mental health（心理健康）
+public health（公共卫生）
+**三、词性搭配用法（前接 / 后接什么）**
+health（名词）
+  后接 of：health of the nation
+  不可数名词
+**四、高频句型（作文直接套）**
+Health is wealth. 健康就是财富。
+She is in good health. 她身体健康。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：healthy /ˈhelθi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：wellness /ˈwelnəs/ n. 健康
+反义词：illness /ˈɪlnəs/ n. 疾病
+拓展词：healthcare /ˈhelθkeə/ n. 医疗保健
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Health is the greatest wealth. 健康是最大的财富。
+写作提分句：Take care of your health; it's the only body you have. 照顾好你的健康，这是你唯一的身体。
+
+------
+
+**086 body** /ˈbɒdi/ n. 身体；主体
+**一、词根词缀拆解**
+词根：body = 身体（古英语 bodig）
+后缀：无
+整体拆解：body → 身体
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+body language（肢体语言）
+human body（人体）
+body of water（水体）
+**三、词性搭配用法（前接 / 后接什么）**
+body（名词）
+  后接 of：body of the car
+  可数名词
+**四、高频句型（作文直接套）**
+Regular exercise is good for your body. 定期运动对你的身体有好处。
+The body needs rest. 身体需要休息。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：bodies /ˈbɒdiz/
+形容词：bodily /ˈbɒdɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：physique /fɪˈziːk/ n. 体格
+反义词：mind /maɪnd/ n. 头脑
+拓展词：bodyguard /ˈbɒdiɡɑːd/ n. 保镖
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A sound mind in a sound body. 健全的精神寓于健全的身体。
+写作提分句：Listen to your body; it knows what it needs. 倾听你的身体，它知道需要什么。
+
+------
+
+**087 mind** /maɪnd/ n. 头脑；思维
+**一、词根词缀拆解**
+词根：mind = 思维（古英语 gemynd）
+后缀：无
+整体拆解：mind → 头脑
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+peace of mind（内心的平静）
+state of mind（心态）
+change your mind（改变主意）
+**三、词性搭配用法（前接 / 后接什么）**
+mind（名词）
+  后接 of：mind of a genius
+  可数名词
+**四、高频句型（作文直接套）**
+A healthy mind is as important as a healthy body. 健康的头脑和健康的身体一样重要。
+Great minds think alike. 英雄所见略同。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：mindful /ˈmaɪndfəl/ / mindless /ˈmaɪndləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：brain /breɪn/ n. 大脑
+反义词：body /ˈbɒdi/ n. 身体
+拓展词：mindset /ˈmaɪndset/ n. 心态
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A mind is a terrible thing to waste. 浪费头脑是可怕的事。
+写作提分句：Train your mind to see the good in every situation. 训练你的头脑在每种情况下都看到好的一面。
+
+------
+
+**088 heart** /hɑːt/ n. 心脏；心
+**一、词根词缀拆解**
+词根：heart = 心（古英语 heorte）
+后缀：无
+整体拆解：heart → 心
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+heart attack（心脏病发作）
+by heart（背诵）
+change of heart（改变想法）
+**三、词性搭配用法（前接 / 后接什么）**
+heart（名词）
+  后接 of：heart of the city
+  可数名词
+**四、高频句型（作文直接套）**
+Follow your heart. 跟随你的心。
+He has a good heart. 他心地善良。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：heartfelt /ˈhɑːtfelt/ / heartless /ˈhɑːtləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：soul /səʊl/ n. 灵魂
+反义词：head /hed/ n. 头脑
+拓展词：heartbeat /ˈhɑːtbiːt/ n. 心跳
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Home is where the heart is. 心之所在即为家。
+写作提分句：The heart has reasons that reason cannot understand. 心有着理性无法理解的理由。
+
+------
+
+**089 head** /hed/ n. 头；头部；领导
+**一、词根词缀拆解**
+词根：head = 头（古英语 heafod）
+后缀：无
+整体拆解：head → 头
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+head of the company（公司领导）
+use your head（动脑筋）
+head start（领先）
+**三、词性搭配用法（前接 / 后接什么）**
+head（名词）
+  后接 of：head of the department
+  可数名词
+**四、高频句型（作文直接套）**
+Use your head. 动动脑子。
+He is the head of the family. 他是一家之主。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：heads /hedz/
+形容词：heady /ˈhedi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：mind /maɪnd/ n. 头脑
+反义词：heart /hɑːt/ n. 心
+拓展词：headache /ˈhedeɪk/ n. 头痛
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep your head up. 抬起头来。
+写作提分句：Two heads are better than one. 两人智慧胜一人。
+
+------
+
+**090 hand** /hænd/ n. 手
+**一、词根词缀拆解**
+词根：hand = 手（古英语 hand）
+后缀：无
+整体拆解：hand → 手
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on the other hand（另一方面）
+lend a hand（帮忙）
+hand in hand（手牵手）
+**三、词性搭配用法（前接 / 后接什么）**
+hand（名词）
+  后接 of：hand of God
+  可数名词
+**四、高频句型（作文直接套）**
+Give me a hand, please. 请帮我一下。
+Many hands make light work. 人多好办事。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：hands /hændz/
+形容词：handy /ˈhændi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：palm /pɑːm/ n. 手掌
+反义词：foot /fʊt/ n. 脚
+拓展词：handshake /ˈhændʃeɪk/ n. 握手
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：One hand washes the other. 互相帮助。
+写作提分句：The hand that gives is the hand that receives. 给予的手就是得到的手。
+
+------
+
+**091 foot** /fʊt/ n. 脚；英尺
+**一、词根词缀拆解**
+词根：foot = 脚（古英语 fot）
+后缀：无
+整体拆解：foot → 脚
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on foot（步行）
+foot of the mountain（山脚）
+put your foot down（坚决反对）
+**三、词性搭配用法（前接 / 后接什么）**
+foot（名词）
+  后接 of：foot of the bed
+  可数名词
+**四、高频句型（作文直接套）**
+We traveled on foot. 我们徒步旅行。
+The foot of the mountain is beautiful. 山脚很美。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：feet /fiːt/
+形容词：footless /ˈfʊtləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：paw /pɔː/ n. 爪子
+反义词：hand /hænd/ n. 手
+拓展词：footstep /ˈfʊtstep/ n. 脚步
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：My feet are tired. 我的脚累了。
+写作提分句：Put yourself in someone else's shoes before judging them. 在评判别人之前，先设身处地为他们着想。
+
+------
+
+**092 leg** /leɡ/ n. 腿
+**一、词根词缀拆解**
+词根：leg = 腿（古挪威语 leggr）
+后缀：无
+整体拆解：leg → 腿
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+break a leg（祝你好运）
+pull someone's leg（开某人玩笑）
+on its last legs（快不行了）
+**三、词性搭配用法（前接 / 后接什么）**
+leg（名词）
+  后接 of：leg of the journey
+  可数名词
+**四、高频句型（作文直接套）**
+He broke his leg. 他摔断了腿。
+This chair has four legs. 这把椅子有四条腿。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：legs /leɡz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：limb /lɪm/ n. 肢
+反义词：arm /ɑːm/ n. 手臂
+拓展词：legroom /ˈleɡruːm/ n. 腿部空间
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stretch your legs after sitting for long. 久坐后伸展双腿。
+写作提分句：The longest journey begins with a single step. 千里之行始于足下。
+
+------
+
+**093 arm** /ɑːm/ n. 手臂；武器
+**一、词根词缀拆解**
+词根：arm = 手臂；武器（拉丁语 armus）
+后缀：无
+整体拆解：arm → 手臂
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+arm in arm（臂挽臂）
+cost an arm and a leg（价格昂贵）
+with open arms（热烈欢迎）
+**三、词性搭配用法（前接 / 后接什么）**
+arm（名词）
+  后接 of：arm of the law
+  可数名词
+**四、高频句型（作文直接套）**
+He took her by the arm. 他拉住了她的手臂。
+Welcome him with open arms. 张开双臂欢迎他。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：arms /ɑːmz/
+形容词：armless /ˈɑːmləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：limb /lɪm/ n. 肢
+反义词：leg /leɡ/ n. 腿
+拓展词：armpit /ˈɑːmpɪt/ n. 腋窝
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：He held the baby in his arms. 他把婴儿抱在怀里。
+写作提分句：Lend a helping arm to those in need. 向需要的人伸出援助之手。
+
+------
+
+**094 eye** /aɪ/ n. 眼睛
+**一、词根词缀拆解**
+词根：eye = 眼睛（古英语 eage）
+后缀：无
+整体拆解：eye → 眼睛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+keep an eye on（留意）
+catch someone's eye（吸引某人注意）
+see eye to eye（意见一致）
+**三、词性搭配用法（前接 / 后接什么）**
+eye（名词）
+  后接 of：eye of the storm
+  可数名词
+**四、高频句型（作文直接套）**
+She has beautiful eyes. 她有美丽的眼睛。
+Keep an eye on your belongings. 看好你的物品。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：eyes /aɪz/
+形容词：eyeless /ˈaɪləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：eyeball /ˈaɪbɔːl/ n. 眼球
+反义词：无
+拓展词：eyebrow /ˈaɪbraʊ/ n. 眉毛
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：An eye for an eye makes the whole world blind. 以眼还眼，世界只会更盲目。
+写作提分句：Beauty is in the eye of the beholder. 美在观察者的眼中。
+
+------
+
+**095 ear** /ɪə/ n. 耳朵
+**一、词根词缀拆解**
+词根：ear = 耳朵（古英语 eare）
+后缀：无
+整体拆解：ear → 耳朵
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+play by ear（即兴演奏；随机应变）
+lend an ear（倾听）
+walls have ears（隔墙有耳）
+**三、词性搭配用法（前接 / 后接什么）**
+ear（名词）
+  后接 of：ear of the listener
+  可数名词
+**四、高频句型（作文直接套）**
+She whispered in his ear. 她在他耳边低语。
+He has a good ear for music. 他对音乐很有鉴赏力。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：ears /ɪəz/
+形容词：earless /ˈɪələs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：听力：hearing /ˈhɪərɪŋ/ n.
+反义词：无
+拓展词：earring /ˈɪərɪŋ/ n. 耳环
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Lend a sympathetic ear to a friend in need. 向需要帮助的朋友伸出同情的耳朵。
+写作提分句：We have two ears and one mouth, so we should listen twice as much as we speak. 我们有两只耳朵一张嘴，所以我们听的应该是说的两倍。
+
+------
+
+**096 nose** /nəʊz/ n. 鼻子
+**一、词根词缀拆解**
+词根：nose = 鼻子（古英语 nosu）
+后缀：无
+整体拆解：nose → 鼻子
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+follow your nose（凭直觉走）
+nose around（四处打听）
+under your nose（就在眼前）
+**三、词性搭配用法（前接 / 后接什么）**
+nose（名词）
+  后接 of：nose of the plane
+  可数名词
+**四、高频句型（作文直接套）**
+My nose is running. 我流鼻涕了。
+He has a big nose. 他有一个大鼻子。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：noses /ˈnəʊzɪz/
+形容词：nasal /ˈneɪzəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：nostril /ˈnɒstrəl/ n. 鼻孔
+反义词：无
+拓展词：nosebleed /ˈnəʊzbliːd/ n. 流鼻血
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Keep your nose clean. 不要惹麻烦。
+写作提分句：The nose knows – trust your instincts. 鼻子知道——相信你的直觉。
+
+------
+
+**097 mouth** /maʊθ/ n. 嘴；口
+**一、词根词缀拆解**
+词根：mouth = 嘴（古英语 muð）
+后缀：无
+整体拆解：mouth → 嘴
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+word of mouth（口口相传）
+mouth watering（令人垂涎）
+open your mouth（开口说话）
+**三、词性搭配用法（前接 / 后接什么）**
+mouth（名词）
+  后接 of：mouth of the river
+  可数名词
+**四、高频句型（作文直接套）**
+Open your mouth wider. 把嘴张大一点。
+Don't talk with your mouth full. 嘴里有东西时不要说话。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：mouths /maʊðz/
+形容词：mouthy /ˈmaʊθi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：lips /lɪps/ n. 嘴唇
+反义词：无
+拓展词：mouthful /ˈmaʊθfʊl/ n. 一口
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A closed mouth catches no flies. 闭嘴不招祸。
+写作提分句：The mouth speaks what the heart is full of. 嘴里说的是心里所充满的。
+
+------
+
+**098 tooth** /tuːθ/ n. 牙齿
+**一、词根词缀拆解**
+词根：tooth = 牙齿（古英语 toð）
+后缀：无
+整体拆解：tooth → 牙齿
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sweet tooth（爱吃甜食）
+tooth decay（蛀牙）
+fight tooth and nail（拼命战斗）
+**三、词性搭配用法（前接 / 后接什么）**
+tooth（名词）
+  后接 of：tooth of the comb
+  可数名词
+**四、高频句型（作文直接套）**
+Brush your teeth twice a day. 每天刷两次牙。
+He lost a tooth. 他掉了一颗牙。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：teeth /tiːθ/
+形容词：toothless /ˈtuːθləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：molar /ˈməʊlə/ n. 臼齿
+反义词：无
+拓展词：toothbrush /ˈtuːθbrʌʃ/ n. 牙刷
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：An eye for an eye, a tooth for a tooth. 以眼还眼，以牙还牙。
+写作提分句：A smile is a curve that sets everything straight. 微笑是一条曲线，能让一切变直。
+
+------
+
+**099 hair** /heə/ n. 头发；毛发
+**一、词根词缀拆解**
+词根：hair = 头发（古英语 hær）
+后缀：无
+整体拆解：hair → 头发
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+hair cut（理发）
+let your hair down（放松）
+split hairs（吹毛求疵）
+**三、词性搭配用法（前接 / 后接什么）**
+hair（名词）
+  后接 of：hair of the dog（解宿醉的酒）
+  不可数/可数
+**四、高频句型（作文直接套）**
+She has long hair. 她有一头长发。
+I need to get a hair cut. 我需要理发。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：hairy /ˈheəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fur /fɜː/ n. 毛皮
+反义词：无
+拓展词：hairbrush /ˈheəbrʌʃ/ n. 发刷
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't split hairs over small things. 不要在小事上吹毛求疵。
+写作提分句：A single hair can cast a shadow. 一根头发也能投下阴影。
+
+------
+
+**100 skin** /skɪn/ n. 皮肤
+**一、词根词缀拆解**
+词根：skin = 皮肤（古挪威语 skinn）
+后缀：无
+整体拆解：skin → 皮肤
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+skin care（护肤）
+under the skin（在皮肤下）
+skin and bones（皮包骨）
+**三、词性搭配用法（前接 / 后接什么）**
+skin（名词）
+  后接 of：skin of the fruit
+  不可数/可数
+**四、高频句型（作文直接套）**
+Protect your skin from the sun. 保护你的皮肤免受阳光伤害。
+She has fair skin. 她皮肤白皙。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：skinny /ˈskɪni/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：epidermis /ˌepɪˈdɜːmɪs/ n. 表皮
+反义词：无
+拓展词：skincare /ˈskɪnkeə/ n. 护肤
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Beauty is only skin deep. 美貌只是一层皮。
+写作提分句：Learn to be comfortable in your own skin. 学会对自己的皮肤感到自在。

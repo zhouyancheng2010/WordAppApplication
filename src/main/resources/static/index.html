@@ -318,6 +318,7 @@
             display: flex;
             align-items: center;
             gap: 15px;
+            flex-wrap: wrap;
         }
 
         .word-card .word-number {
@@ -452,6 +453,44 @@
 
         .back-btn:hover {
             background: #764ba2;
+        }
+
+        .word-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+            margin-top: 20px;
+            border-top: 1px solid #e4e7ed;
+        }
+
+        .nav-btn {
+            padding: 8px 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .nav-btn:hover:not(:disabled) {
+            transform: scale(1.05);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .nav-info {
+            font-size: 14px;
+            color: #606266;
         }
 
         .pagination {
@@ -609,6 +648,8 @@
     let isReadingAll = false;
     let readAllIndex = 0;
     let currentView = 'list';
+    let lastListPosition = { page: 1, scrollTop: 0 };
+    let currentDetailIndex = -1;
 
     marked.setOptions({
         breaks: true,
@@ -647,11 +688,93 @@
         }
     }
 
+    // ==================== 通过ID精确跳转 ====================
+    async function showWordDetailById(wordId) {
+        console.log(`🔍 通过ID精确查找: ${wordId}`);
+
+        try {
+            const response = await fetch(`/api/word/id/${wordId}`);
+            if (response.ok) {
+                const word = await response.json();
+                console.log(`✅ 找到单词: ${word.word}, 序号=${word.sortOrder}`);
+
+                const currentIndex = filteredWords.findIndex(w => w.id === word.id);
+
+                currentView = 'detail';
+                currentDetailIndex = currentIndex >= 0 ? currentIndex : 0;
+                document.getElementById('pagination').style.display = 'none';
+                document.getElementById('backToListBtn').style.display = 'inline-block';
+                document.getElementById('contentTitle').textContent = '单词详情';
+
+                renderWordContentWithNav(word, currentDetailIndex);
+                highlightCurrentWordInList(word.word, word.sortOrder, word.id);
+            } else {
+                const word = allWords.find(w => w.id === wordId);
+                if (word) {
+                    showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
+                }
+            }
+        } catch (error) {
+            const word = allWords.find(w => w.id === wordId);
+            if (word) {
+                showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
+            }
+        }
+    }
+
+    function showWordDetailByWordAndSortOrder(wordName, sortOrder) {
+        let targetWord = allWords.find(w => w.word === wordName && w.sortOrder === sortOrder);
+        if (!targetWord) {
+            targetWord = allWords.find(w => w.word === wordName);
+        }
+        if (targetWord) {
+            const currentIndex = filteredWords.findIndex(w => w.id === targetWord.id);
+            currentView = 'detail';
+            currentDetailIndex = currentIndex >= 0 ? currentIndex : 0;
+            document.getElementById('pagination').style.display = 'none';
+            document.getElementById('backToListBtn').style.display = 'inline-block';
+            document.getElementById('contentTitle').textContent = '单词详情';
+            renderWordContentWithNav(targetWord, currentDetailIndex);
+            highlightCurrentWordInList(targetWord.word, targetWord.sortOrder, targetWord.id);
+        }
+    }
+
+    function highlightCurrentWordInList(wordName, sortOrder, wordId) {
+        requestAnimationFrame(() => {
+            document.querySelectorAll('.catalog-word-item').forEach(item => {
+                item.classList.remove('active');
+            });
+
+            let activeItem = null;
+            if (wordId) {
+                activeItem = document.querySelector(`.catalog-word-item[data-word-id="${wordId}"]`);
+            }
+            if (!activeItem && sortOrder !== undefined) {
+                activeItem = document.querySelector(
+                    `.catalog-word-item[data-word-name="${wordName}"][data-sort-order="${sortOrder}"]`
+                );
+            }
+            if (!activeItem) {
+                activeItem = document.querySelector(`.catalog-word-item[data-word-name="${wordName}"]`);
+            }
+            if (activeItem) {
+                activeItem.classList.add('active');
+                activeItem.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            }
+        });
+    }
+
+    // ==================== 渲染目录（保持原始样式） ====================
     function renderCatalog(structure) {
         const container = document.getElementById('catalogContainer');
         container.innerHTML = '';
 
-        structure.forEach((layer1) => {
+        if (!structure || structure.length === 0) {
+            container.innerHTML = '<div class="no-data"><div class="icon">📂</div><p>暂无分类数据</p></div>';
+            return;
+        }
+
+        structure.forEach((layer1, idx1) => {
             const layer1Div = document.createElement('div');
             layer1Div.className = 'catalog-level1';
 
@@ -700,33 +823,10 @@
                     if (hasLayer2Words) {
                         const wordsDiv = document.createElement('div');
                         wordsDiv.className = 'catalog-words';
+                        wordsDiv.classList.add('expanded');
 
                         layer2.words.forEach(word => {
-                            const wordItem = document.createElement('div');
-                            wordItem.className = 'catalog-word-item';
-
-                            const wordText = document.createElement('span');
-                            wordText.textContent = `${word.number} ${word.word}`;
-
-                            const speakIcon = document.createElement('span');
-                            speakIcon.className = 'speak-icon';
-                            speakIcon.onclick = (e) => {
-                                e.stopPropagation();
-                                speakWord(word.word);
-                            };
-
-                            wordItem.appendChild(wordText);
-                            wordItem.appendChild(speakIcon);
-
-                            if (word.id) {
-                                wordItem.dataset.wordId = word.id;
-                                wordItem.onclick = (e) => {
-                                    if (e) e.stopPropagation();
-                                    console.log('📌 点击单词:', word.word, 'ID:', word.id);
-                                    showWordDetail(word.id);
-                                };
-                            }
-
+                            const wordItem = createWordItem(word);
                             wordsDiv.appendChild(wordItem);
                         });
 
@@ -735,6 +835,7 @@
 
                     const layer3Container = document.createElement('div');
                     layer3Container.className = 'catalog-level3-container';
+                    layer3Container.classList.add('expanded');
 
                     if (hasLayer3Children) {
                         layer2.children.forEach((layer3) => {
@@ -745,12 +846,16 @@
                             layer3Title.className = 'catalog-level3-title';
 
                             const hasLayer3Words = layer3.words && layer3.words.length > 0;
+
                             if (hasLayer3Words) {
                                 layer3Title.innerHTML = `<span>${layer3.title}</span><span class="arrow">▶</span>`;
                                 layer3Title.onclick = (e) => {
                                     e.stopPropagation();
                                     layer3Title.classList.toggle('expanded');
-                                    layer3Div.querySelector('.catalog-words').classList.toggle('expanded');
+                                    const wordsDiv = layer3Div.querySelector('.catalog-words');
+                                    if (wordsDiv) {
+                                        wordsDiv.classList.toggle('expanded');
+                                    }
                                 };
                             } else {
                                 layer3Title.textContent = layer3.title;
@@ -760,34 +865,11 @@
 
                             const wordsDiv = document.createElement('div');
                             wordsDiv.className = 'catalog-words';
+                            wordsDiv.classList.add('expanded');
 
                             if (hasLayer3Words) {
                                 layer3.words.forEach(word => {
-                                    const wordItem = document.createElement('div');
-                                    wordItem.className = 'catalog-word-item';
-
-                                    const wordText = document.createElement('span');
-                                    wordText.textContent = `${word.number} ${word.word}`;
-
-                                    const speakIcon = document.createElement('span');
-                                    speakIcon.className = 'speak-icon';
-                                    speakIcon.onclick = (e) => {
-                                        e.stopPropagation();
-                                        speakWord(word.word);
-                                    };
-
-                                    wordItem.appendChild(wordText);
-                                    wordItem.appendChild(speakIcon);
-
-                                    if (word.id) {
-                                        wordItem.dataset.wordId = word.id;
-                                        wordItem.onclick = (e) => {
-                                            if (e) e.stopPropagation();
-                                            console.log('📌 点击单词:', word.word, 'ID:', word.id);
-                                            showWordDetail(word.id);
-                                        };
-                                    }
-
+                                    const wordItem = createWordItem(word);
                                     wordsDiv.appendChild(wordItem);
                                 });
                             }
@@ -803,33 +885,10 @@
             } else if (layer1.words && layer1.words.length > 0) {
                 const wordsDiv = document.createElement('div');
                 wordsDiv.className = 'catalog-words';
+                wordsDiv.classList.add('expanded');
 
                 layer1.words.forEach(word => {
-                    const wordItem = document.createElement('div');
-                    wordItem.className = 'catalog-word-item';
-
-                    const wordText = document.createElement('span');
-                    wordText.textContent = `${word.number} ${word.word}`;
-
-                    const speakIcon = document.createElement('span');
-                    speakIcon.className = 'speak-icon';
-                    speakIcon.onclick = (e) => {
-                        e.stopPropagation();
-                        speakWord(word.word);
-                    };
-
-                    wordItem.appendChild(wordText);
-                    wordItem.appendChild(speakIcon);
-
-                    if (word.id) {
-                        wordItem.dataset.wordId = word.id;
-                        wordItem.onclick = (e) => {
-                            if (e) e.stopPropagation();
-                            console.log('📌 点击单词:', word.word, 'ID:', word.id);
-                            showWordDetail(word.id);
-                        };
-                    }
-
+                    const wordItem = createWordItem(word);
                     wordsDiv.appendChild(wordItem);
                 });
 
@@ -838,7 +897,49 @@
 
             layer1Div.appendChild(layer2Container);
             container.appendChild(layer1Div);
+
+            if (idx1 === 0) {
+                layer1Title.classList.add('expanded');
+                layer2Container.classList.add('expanded');
+            }
         });
+    }
+
+    // ==================== 创建单词项（保存ID） ====================
+    function createWordItem(word) {
+        const wordItem = document.createElement('div');
+        wordItem.className = 'catalog-word-item';
+
+        const wordText = document.createElement('span');
+        const displayNumber = (word.number && word.number !== '000') ? `${word.number} ` : '';
+        wordText.textContent = `${displayNumber}${word.word}`;
+
+        const speakIcon = document.createElement('span');
+        speakIcon.className = 'speak-icon';
+        speakIcon.onclick = (e) => {
+            e.stopPropagation();
+            speakWord(word.word);
+        };
+
+        wordItem.appendChild(wordText);
+        wordItem.appendChild(speakIcon);
+
+        wordItem.dataset.wordId = word.id;
+        wordItem.dataset.wordName = word.word;
+        wordItem.dataset.sortOrder = word.sortOrder;
+        wordItem.dataset.number = word.number;
+
+        wordItem.onclick = (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            if (word.id) {
+                showWordDetailById(word.id);
+            } else {
+                showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
+            }
+        };
+
+        return wordItem;
     }
 
     function speakWord(word) {
@@ -858,20 +959,20 @@
             speechSynth.cancel();
             isReadingAll = false;
             btn.classList.remove('reading');
+            btn.textContent = '全文朗读';
             return;
         }
 
         isReadingAll = true;
         readAllIndex = 0;
         btn.classList.add('reading');
+        btn.textContent = '停止朗读';
         readNextWord();
     }
 
     function readNextWord() {
         if (!isReadingAll || readAllIndex >= filteredWords.length) {
-            isReadingAll = false;
-            const btn = document.getElementById('readAllBtn');
-            btn.classList.remove('reading');
+            toggleReadAll();
             return;
         }
 
@@ -890,49 +991,41 @@
         speechSynth.speak(utterance);
     }
 
-    function showWordDetail(wordId) {
-        const word = allWords.find(w => w.id === wordId);
-        if (!word) {
-            console.error('❌ 未找到单词，wordId:', wordId);
-            return;
-        }
-
-        currentView = 'detail';
-        document.getElementById('pagination').style.display = 'none';
-        document.getElementById('backToListBtn').style.display = 'inline-block';
-
-        document.querySelectorAll('.catalog-word-item').forEach(item => {
-            item.classList.remove('active');
-        });
-        const activeItem = document.querySelector(`[data-word-id="${wordId}"]`);
-        if (activeItem) {
-            activeItem.classList.add('active');
-            activeItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-        }
-
-        renderWordContent(word);
-        console.log('✅ 显示单词详情:', word.word);
-    }
-
     function backToList() {
         currentView = 'list';
+        currentDetailIndex = -1;
         document.getElementById('backToListBtn').style.display = 'none';
         document.getElementById('contentTitle').textContent = '全部单词';
-        currentPageNum = 1;
-        showPage(1);
+
+        showPage(lastListPosition.page);
+
+        setTimeout(() => {
+            const contentBody = document.getElementById('contentBody');
+            contentBody.scrollTop = lastListPosition.scrollTop;
+        }, 50);
     }
 
-    function renderWordContent(word) {
+    function renderWordContentWithNav(word, currentIndex) {
         const contentBody = document.getElementById('contentBody');
         const contentTitle = document.getElementById('contentTitle');
 
-        const numberMatch = word.content.match(/^(\d{3})/);
-        const number = numberMatch ? numberMatch[1] : '';
-
         contentTitle.textContent = '单词详情';
+        contentBody.innerHTML = '';
 
         const card = document.createElement('div');
         card.className = 'word-card';
+
+        let number = '';
+        if (word.content) {
+            const pattern1 = word.content.match(/^(\d{3})\s/);
+            const pattern2 = word.content.match(/^\*\*(\d{3})\s/);
+            const pattern3 = word.content.match(/^(\d{3})\s+\*\*/);
+            if (pattern1) number = pattern1[1];
+            else if (pattern2) number = pattern2[1];
+            else if (pattern3) number = pattern3[1];
+        }
+        if (!number && word.number) number = word.number;
+        if (!number && word.sortOrder != null) number = String(word.sortOrder).padStart(3, '0');
 
         const header = document.createElement('div');
         header.style.marginBottom = '20px';
@@ -942,7 +1035,7 @@
         const wordTitle = document.createElement('div');
         wordTitle.className = 'word-title';
 
-        if (number) {
+        if (number && number !== '000') {
             const numberBadge = document.createElement('span');
             numberBadge.className = 'word-number';
             numberBadge.textContent = number;
@@ -971,20 +1064,53 @@
 
         const markdownContent = document.createElement('div');
         markdownContent.className = 'markdown-content';
-
-        let content = word.content || '';
-        const htmlContent = marked.parse(content);
-        markdownContent.innerHTML = htmlContent;
+        markdownContent.innerHTML = marked.parse(word.content || '');
 
         card.appendChild(header);
         card.appendChild(markdownContent);
 
-        contentBody.innerHTML = '';
+        const navigation = document.createElement('div');
+        navigation.className = 'word-navigation';
+
+        const prevBtn = document.createElement('button');
+        prevBtn.className = 'nav-btn';
+        prevBtn.innerHTML = '◀ 上一个';
+        prevBtn.disabled = currentIndex <= 0;
+        prevBtn.onclick = () => {
+            if (currentIndex > 0) {
+                const prevWord = filteredWords[currentIndex - 1];
+                showWordDetailById(prevWord.id);
+            }
+        };
+
+        const navInfo = document.createElement('span');
+        navInfo.className = 'nav-info';
+        navInfo.textContent = `${currentIndex + 1} / ${filteredWords.length}`;
+
+        const nextBtn = document.createElement('button');
+        nextBtn.className = 'nav-btn';
+        nextBtn.innerHTML = '下一个 ▶';
+        nextBtn.disabled = currentIndex >= filteredWords.length - 1;
+        nextBtn.onclick = () => {
+            if (currentIndex < filteredWords.length - 1) {
+                const nextWord = filteredWords[currentIndex + 1];
+                showWordDetailById(nextWord.id);
+            }
+        };
+
+        navigation.appendChild(prevBtn);
+        navigation.appendChild(navInfo);
+        navigation.appendChild(nextBtn);
+        card.appendChild(navigation);
+
         contentBody.appendChild(card);
+
+        highlightCurrentWordInList(word.word, word.sortOrder, word.id);
     }
 
     function showPage(page) {
         currentView = 'list';
+        currentDetailIndex = -1;
         const totalPages = Math.ceil(filteredWords.length / pageSize);
         if (totalPages === 0) {
             document.getElementById('pagination').style.display = 'none';
@@ -1006,6 +1132,10 @@
         document.getElementById('prevBtn').disabled = page === 1;
         document.getElementById('nextBtn').disabled = page === totalPages;
         document.getElementById('pagination').style.display = 'flex';
+
+        if (currentView === 'list') {
+            lastListPosition.page = page;
+        }
     }
 
     function prevPage() {
@@ -1036,7 +1166,6 @@
 
     function renderContent(words) {
         const contentBody = document.getElementById('contentBody');
-        const contentTitle = document.getElementById('contentTitle');
         contentBody.innerHTML = '';
 
         if (!words || words.length === 0) {
@@ -1053,7 +1182,7 @@
             const card = document.createElement('div');
             card.className = 'word-card';
 
-            const numberMatch = word.content.match(/^(\d{3})/);
+            const numberMatch = word.content ? word.content.match(/^(\d{3})/) : null;
             const number = numberMatch ? numberMatch[1] : '';
 
             const header = document.createElement('div');
@@ -1062,7 +1191,7 @@
             const wordTitle = document.createElement('div');
             wordTitle.className = 'word-title';
 
-            if (number) {
+            if (number && number !== '000') {
                 const numberBadge = document.createElement('span');
                 numberBadge.className = 'word-number';
                 numberBadge.textContent = number;
@@ -1084,8 +1213,7 @@
 
             const markdownContent = document.createElement('div');
             markdownContent.className = 'markdown-content';
-            markdownContent.innerHTML = marked.parse(word.content ||
-                `单词：${word.word} | 释义：${word.definition || ''}`);
+            markdownContent.innerHTML = marked.parse(word.content || `单词：${word.word}`);
 
             card.appendChild(markdownContent);
             contentBody.appendChild(card);
@@ -1096,9 +1224,6 @@
     function handleSearch(keyword) {
         clearTimeout(searchTimer);
         searchTimer = setTimeout(() => {
-            console.log('🔍 搜索关键词:', keyword);
-            console.log('📊 allWords 数量:', allWords.length);
-
             if (!keyword.trim()) {
                 handleFilter(currentFilter);
                 return;
@@ -1106,23 +1231,16 @@
 
             const searchKeyword = keyword.toLowerCase().trim();
 
-            const exactMatch = allWords.find(w => w.word && w.word.toLowerCase() === searchKeyword);
-            if (exactMatch) {
-                console.log('✅ 精确匹配:', exactMatch.word);
-                currentView = 'detail';
-                document.getElementById('backToListBtn').style.display = 'inline-block';
-                document.getElementById('contentTitle').textContent = '单词详情';
-                renderWordContent(exactMatch);
-                document.getElementById('pagination').style.display = 'none';
+            let exactMatch = allWords.find(w =>
+                w.word && w.word.toLowerCase() === searchKeyword
+            );
 
-                document.querySelectorAll('.catalog-word-item').forEach(item => {
-                    item.classList.remove('active');
-                });
-                const activeItem = document.querySelector(`[data-word-id="${exactMatch.id}"]`);
-                if (activeItem) {
-                    activeItem.classList.add('active');
-                    activeItem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-                }
+            if (exactMatch) {
+                lastListPosition = {
+                    page: currentPageNum,
+                    scrollTop: document.getElementById('contentBody').scrollTop
+                };
+                showWordDetailById(exactMatch.id);
                 return;
             }
 
@@ -1133,11 +1251,10 @@
                 return wordMatch || definitionMatch || contentMatch;
             });
 
-            console.log('✅ 模糊搜索结果:', filteredWords.length, '个单词');
-
             document.getElementById('contentTitle').textContent =
                 `搜索结果：${filteredWords.length} 个单词`;
             document.getElementById('backToListBtn').style.display = 'none';
+            currentView = 'list';
             currentPageNum = 1;
             showPage(1);
         }, 300);
@@ -1146,6 +1263,7 @@
     function handleFilter(value) {
         currentFilter = value;
         currentView = 'list';
+        currentDetailIndex = -1;
         document.getElementById('backToListBtn').style.display = 'none';
 
         if (value === 'all') {
@@ -1192,4 +1310,3 @@
 </script>
 </body>
 </html>
-
