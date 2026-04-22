@@ -62154,3 +62154,1997 @@ She has fair skin. 她皮肤白皙。
 **七、语境用法（适配简单句 / 话题写作，直接套用）**
 基础句：Beauty is only skin deep. 美貌只是一层皮。
 写作提分句：Learn to be comfortable in your own skin. 学会对自己的皮肤感到自在。
+
+---
+
+**101 bone** /bəʊn/ n. 骨头
+**一、词根词缀拆解**
+词根：bone = 骨头（古英语 ban）
+后缀：无
+整体拆解：bone → 骨头
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+bone marrow（骨髓）
+bone china（骨瓷）
+bone of contention（争论焦点）
+**三、词性搭配用法（前接 / 后接什么）**
+bone（名词）
+  后接 of：bone of the arm
+  可数/不可数
+**四、高频句型（作文直接套）**
+I have a bone to pick with you. 我对你有意见。
+He broke a bone in his leg. 他腿上一根骨头断了。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：bones /bəʊnz/
+形容词：bony /ˈbəʊni/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：skeleton /ˈskelɪtən/ n. 骨骼
+反义词：flesh /fleʃ/ n. 肉
+拓展词：bonehead /ˈbəʊnhed/ n. 笨蛋
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sticks and stones may break my bones, but words will never hurt me. 棍棒和石头能打断我的骨头，但言语永远伤害不了我。
+写作提分句：Old age is not a disease; it is strength and survivorship, triumph over all kinds of vicissitudes and disappointments, trials and illnesses. 年老不是疾病，它是力量和生存的证明，是对所有沧桑、失望、考验和疾病的胜利。
+
+------
+
+**102 blood** /blʌd/ n. 血液；血缘
+**一、词根词缀拆解**
+词根：blood = 血（古英语 blod）
+后缀：无
+整体拆解：blood → 血
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+blood pressure（血压）
+blood type（血型）
+in cold blood（冷血地）
+**三、词性搭配用法（前接 / 后接什么）**
+blood（名词）
+  后接 of：blood of the victim
+  不可数名词
+**四、高频句型（作文直接套）**
+Blood is thicker than water. 血浓于水。
+He lost a lot of blood. 他流了很多血。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：bloody /ˈblʌdi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：lineage /ˈlɪniɪdʒ/ n. 血统
+反义词：无
+拓展词：bloodstream /ˈblʌdstriːm/ n. 血流
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Blood, sweat, and tears. 血、汗和泪水。
+写作提分句：The blood of the covenant is thicker than the water of the womb. 契约之血浓于子宫之水（患难之交胜于血缘之亲）。
+
+------
+
+**103 life** /laɪf/ n. 生活；生命
+**一、词根词缀拆解**
+词根：life = 生命（古英语 lif）
+后缀：无
+整体拆解：life → 生命
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+way of life（生活方式）
+quality of life（生活质量）
+life and death（生死）
+**三、词性搭配用法（前接 / 后接什么）**
+life（名词）
+  后接 of：life of the party
+  可数/不可数
+**四、高频句型（作文直接套）**
+Life is what you make it. 生活是你创造的。
+That's life! 这就是生活！
+**五、词形变化（词性转换题 / 写作核心）**
+复数：lives /laɪvz/
+形容词：lifelong /ˈlaɪflɒŋ/ / lifeless /ˈlaɪfləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：existence /ɪɡˈzɪstəns/ n. 存在
+反义词：death /deθ/ n. 死亡
+拓展词：lifestyle /ˈlaɪfstaɪl/ n. 生活方式
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Life is short, make it sweet. 生命短暂，让它甜蜜。
+写作提分句：The purpose of life is a life of purpose. 生命的意义在于有目的的生活。
+
+------
+
+**104 death** /deθ/ n. 死亡
+**一、词根词缀拆解**
+词根：die = 死（古英语 diegan）
+后缀：-th = 名词后缀
+整体拆解：die → death（不规则变化）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+death penalty（死刑）
+life and death（生死）
+death rate（死亡率）
+**三、词性搭配用法（前接 / 后接什么）**
+death（名词）
+  后接 of：death of the king
+  不可数/可数
+**四、高频句型（作文直接套）**
+Death is a natural part of life. 死亡是生命的自然部分。
+He was scared to death. 他吓得要死。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dead /ded/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：passing /ˈpɑːsɪŋ/ n. 去世
+反义词：life /laɪf/ n. 生命
+拓展词：deathbed /ˈdeθbed/ n. 临终床
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Death is not the greatest loss in life. The greatest loss is what dies inside us while we live. 死亡不是生命中最大的损失。最大的损失是在我们活着的时候内心已死。
+写作提分句：In the midst of life, we are in death. 活在当下，死亦何惧。
+
+------
+
+**105 disease** /dɪˈziːz/ n. 疾病
+**一、词根词缀拆解**
+词根：eas = 容易（古法语 aise）
+前缀：dis- = 否定
+后缀：无
+整体拆解：dis + ease → 不舒服 → 疾病
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+heart disease（心脏病）
+infectious disease（传染病）
+chronic disease（慢性病）
+**三、词性搭配用法（前接 / 后接什么）**
+disease（名词）
+  后接 of：disease of the lungs
+  可数/不可数
+**四、高频句型（作文直接套）**
+Prevention is better than cure for most diseases. 对大多数疾病来说，预防胜于治疗。
+He is suffering from a rare disease. 他患有一种罕见的疾病。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：diseased /dɪˈziːzd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：illness /ˈɪlnəs/ n. 疾病
+反义词：health /helθ/ n. 健康
+拓展词：disease control /dɪˈziːz kənˈtrəʊl/ n. 疾病控制
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Disease is the tax of the body. 疾病是身体的赋税。
+写作提分句：Laughter is the best medicine against disease. 笑声是对抗疾病的最佳良药。
+
+------
+
+**106 illness** /ˈɪlnəs/ n. 疾病；生病
+**一、词根词缀拆解**
+词根：ill = 生病（古挪威语 illr）
+后缀：-ness = 名词后缀
+整体拆解：ill + ness → 生病的状态 → 疾病
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+mental illness（精神疾病）
+serious illness（严重疾病）
+recover from an illness（从疾病中恢复）
+**三、词性搭配用法（前接 / 后接什么）**
+illness（名词）
+  后接 of：illness of the elderly
+  可数/不可数
+**四、高频句型（作文直接套）**
+She missed work due to illness. 她因病没去上班。
+Illness can strike anyone at any time. 疾病随时可能降临到任何人身上。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：ill /ɪl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：disease /dɪˈziːz/ n. 疾病
+反义词：health /helθ/ n. 健康
+拓展词：illness prevention /ˈɪlnəs prɪˈvenʃən/ n. 疾病预防
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Illness is the doctor's teacher. 疾病是医生的老师。
+写作提分句：Every illness is a story that teaches us about our bodies. 每一种疾病都是一本关于我们身体的故事书。
+
+------
+
+**107 pain** /peɪn/ n. 疼痛；痛苦
+**一、词根词缀拆解**
+词根：pain = 惩罚；痛苦（拉丁语 poena）
+后缀：无
+整体拆解：pain → 疼痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in pain（在痛苦中）
+pain relief（缓解疼痛）
+chest pain（胸痛）
+**三、词性搭配用法（前接 / 后接什么）**
+pain（名词）
+  后接 in：pain in the back
+  可数/不可数
+**四、高频句型（作文直接套）**
+No pain, no gain. 不劳无获。
+He is in great pain. 他非常痛苦。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：painful /ˈpeɪnfəl/ / painless /ˈpeɪnləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ache /eɪk/ n. 疼痛
+反义词：pleasure /ˈpleʒə/ n. 快乐
+拓展词：painkiller /ˈpeɪnkɪlə/ n. 止痛药
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Pain is temporary, quitting lasts forever. 痛苦是暂时的，放弃是永恒的。
+写作提分句：Growth often comes through pain. 成长往往伴随着痛苦。
+
+------
+
+**108 ache** /eɪk/ n. 疼痛 v. 疼痛
+**一、词根词缀拆解**
+词根：ache = 疼痛（古英语 acan）
+后缀：无
+整体拆解：ache → 疼痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+stomach ache（胃痛）
+headache（头痛）
+aches and pains（各种疼痛）
+**三、词性搭配用法（前接 / 后接什么）**
+ache（名词）
+  后接 in：ache in my leg
+  可数名词
+**四、高频句型（作文直接套）**
+My body aches. 我浑身酸痛。
+I have a toothache. 我牙痛。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：aches /eɪks/
+形容词：achy /ˈeɪki/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：pain /peɪn/ n. 疼痛
+反义词：relief /rɪˈliːf/ n. 缓解
+拓展词：backache /ˈbækeɪk/ n. 背痛
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Time heals all aches. 时间治愈所有疼痛。
+写作提分句：Every ache reminds us that we are alive. 每一次疼痛都提醒我们还活着。
+
+------
+
+**109 fever** /ˈfiːvə/ n. 发烧
+**一、词根词缀拆解**
+词根：fever = 热（拉丁语 febris）
+后缀：无
+整体拆解：fever → 发烧
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+high fever（高烧）
+have a fever（发烧）
+fever dream（发烧时的梦）
+**三、词性搭配用法（前接 / 后接什么）**
+fever（名词）
+  后接 of：fever of excitement
+  可数/不可数
+**四、高频句型（作文直接套）**
+She has a fever. 她发烧了。
+His fever is gone. 他的烧退了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：feverish /ˈfiːvərɪʃ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：temperature /ˈtemprətʃə/ n. 体温
+反义词：无
+拓展词：feverish /ˈfiːvərɪʃ/ adj. 发烧的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Fever is the body's way of fighting infection. 发烧是身体对抗感染的方式。
+写作提分句：A fever can be a sign that the body is healing itself. 发烧可能是身体自我修复的信号。
+
+------
+
+**110 cough** /kɒf/ n. 咳嗽 v. 咳嗽
+**一、词根词缀拆解**
+词根：cough = 咳嗽（古英语 cohhetan）
+后缀：无
+整体拆解：cough → 咳嗽
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dry cough（干咳）
+whooping cough（百日咳）
+cough syrup（止咳糖浆）
+**三、词性搭配用法（前接 / 后接什么）**
+cough（名词）
+  后接 of：cough of the patient
+  可数名词
+**四、高频句型（作文直接套）**
+He has a bad cough. 他咳嗽得很厉害。
+Cover your mouth when you cough. 咳嗽时捂住嘴。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：coughs /kɒfs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hack /hæk/ n. 干咳
+反义词：无
+拓展词：cough drop /ˈkɒf drɒp/ n. 止咳糖
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A cough is a sign that something is irritating your throat. 咳嗽是喉咙受到刺激的信号。
+写作提分句：Coughs and sneezes spread diseases. 咳嗽和打喷嚏会传播疾病。
+
+------
+
+**111 cold** /kəʊld/ n. 感冒；寒冷 adj. 冷的
+**一、词根词缀拆解**
+词根：cold = 冷（古英语 cald）
+后缀：无
+整体拆解：cold → 寒冷/感冒
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+common cold（普通感冒）
+catch a cold（感冒）
+cold weather（寒冷的天气）
+**三、词性搭配用法（前接 / 后接什么）**
+cold（名词）
+  后接 of：cold of winter
+  可数/不可数
+**四、高频句型（作文直接套）**
+I caught a cold. 我感冒了。
+Stay inside if you have a cold. 感冒了就待在室内。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：cold /kəʊld/ / coldish /ˈkəʊldɪʃ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：flu /fluː/ n. 流感（更严重）
+反义词：heat /hiːt/ n. 热
+拓展词：cold medicine /ˈkəʊld ˈmedɪsən/ n. 感冒药
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：There is no cure for the common cold. 普通感冒没有治愈方法。
+写作提分句：A cold can be a reminder to slow down and rest. 感冒可能是提醒你放慢脚步休息的信号。
+
+------
+
+**112 headache** /ˈhedeɪk/ n. 头痛
+**一、词根词缀拆解**
+词根：head = 头；ache = 疼痛
+后缀：无
+整体拆解：head + ache → 头痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+severe headache（严重头痛）
+splitting headache（剧烈头痛）
+headache pill（头痛药）
+**三、词性搭配用法（前接 / 后接什么）**
+headache（名词）
+  后接 of：headache of the problem
+  可数名词
+**四、高频句型（作文直接套）**
+I have a headache. 我头痛。
+This paperwork is a real headache. 这些文书工作真让人头疼。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：headaches /ˈhedeɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：migraine /ˈmiːɡreɪn/ n. 偏头痛
+反义词：relief /rɪˈliːf/ n. 缓解
+拓展词：headache medicine /ˈhedeɪk ˈmedɪsən/ n. 头痛药
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stress is a common cause of headaches. 压力是头痛的常见原因。
+写作提分句：Sometimes the best cure for a headache is a good night's sleep. 有时头痛的最佳良药是一夜好眠。
+
+------
+
+**113 stomachache** /ˈstʌməkeɪk/ n. 胃痛
+**一、词根词缀拆解**
+词根：stomach = 胃；ache = 疼痛
+后缀：无
+整体拆解：stomach + ache → 胃痛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+severe stomachache（严重胃痛）
+stomachache after eating（饭后胃痛）
+**三、词性搭配用法（前接 / 后接什么）**
+stomachache（名词）
+  后接 from：stomachache from food poisoning
+  可数/不可数
+**四、高频句型（作文直接套）**
+I have a stomachache. 我胃痛。
+Eating too much can cause a stomachache. 吃太多会导致胃痛。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：stomachaches /ˈstʌməkeɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：abdominal pain /æbˈdɒmɪnəl peɪn/ n. 腹痛
+反义词：无
+拓展词：stomachache remedy /ˈstʌməkeɪk ˈremədi/ n. 胃痛药
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A stomachache can be a sign of something you ate. 胃痛可能是你吃了什么东西的信号。
+写作提分句：Listen to your stomach; it often knows what your body needs. 倾听你的胃，它常常知道身体需要什么。
+
+------
+
+**114 medicine** /ˈmedɪsən/ n. 药；医学
+**一、词根词缀拆解**
+词根：medic = 治愈（拉丁语 medicus）
+后缀：-ine = 名词后缀
+整体拆解：medic + ine → 治愈的东西 → 药
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take medicine（吃药）
+traditional medicine（传统医学）
+preventive medicine（预防医学）
+**三、词性搭配用法（前接 / 后接什么）**
+medicine（名词）
+  后接 for：medicine for cold
+  不可数/可数
+**四、高频句型（作文直接套）**
+Take your medicine on time. 按时吃药。
+Laughter is the best medicine. 笑声是最好的良药。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：medicines /ˈmedɪsənz/
+形容词：medicinal /məˈdɪsɪnəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：drug /drʌɡ/ n. 药物
+反义词：poison /ˈpɔɪzən/ n. 毒药
+拓展词：medical /ˈmedɪkəl/ adj. 医学的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：An apple a day keeps the doctor away, but medicine is for when you're sick. 一天一苹果，医生远离我，但生病时还是要吃药。
+写作提分句：The best medicine is a positive attitude. 最好的药是积极的态度。
+
+------
+
+**115 drug** /drʌɡ/ n. 药物；毒品
+**一、词根词缀拆解**
+词根：drug = 药物（古法语 drogue）
+后缀：无
+整体拆解：drug → 药物
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+prescription drug（处方药）
+drug abuse（药物滥用）
+drug store（药店）
+**三、词性搭配用法（前接 / 后接什么）**
+drug（名词）
+  后接 for：drug for pain
+  可数名词
+**四、高频句型（作文直接套）**
+Don't take drugs without a prescription. 不要在没有处方的情况下服药。
+Drug abuse ruins lives. 药物滥用毁掉生活。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：drugs /drʌɡz/
+形容词：drug-related /ˈdrʌɡ rɪˈleɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：medication /ˌmedɪˈkeɪʃən/ n. 药物
+反义词：无
+拓展词：drugstore /ˈdrʌɡstɔː/ n. 药店
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A drug is a substance that changes the way your body works. 药物是改变你身体工作方式的物质。
+写作提分句：The difference between a medicine and a poison is the dose. 药物和毒药的区别在于剂量。
+
+------
+
+**116 pill** /pɪl/ n. 药丸；药片
+**一、词根词缀拆解**
+词根：pill = 药丸（拉丁语 pilula）
+后缀：无
+整体拆解：pill → 药丸
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sleeping pill（安眠药）
+pill box（药盒）
+sugar pill（糖丸）
+**三、词性搭配用法（前接 / 后接什么）**
+pill（名词）
+  后接 for：pill for headache
+  可数名词
+**四、高频句型（作文直接套）**
+Take two pills three times a day. 每天三次，每次两片。
+This pill is hard to swallow. 这药丸很难吞。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：pills /pɪlz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：tablet /ˈtæblət/ n. 药片
+反义词：liquid /ˈlɪkwɪd/ n. 液体药
+拓展词：pillow /ˈpɪləʊ/ n. 枕头（不同词）
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A pill can cure a disease, but only you can cure a bad habit. 药丸可以治愈疾病，但只有你能治愈坏习惯。
+写作提分句：Sometimes the hardest pill to swallow is the truth. 有时最难吞下的药丸是真相。
+
+------
+
+**117 treatment** /ˈtriːtmənt/ n. 治疗；处理
+**一、词根词缀拆解**
+词根：treat = 处理（拉丁语 tractare）
+后缀：-ment = 名词后缀
+整体拆解：treat + ment → 处理的结果 → 治疗
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+medical treatment（医疗治疗）
+water treatment（水处理）
+special treatment（特殊待遇）
+**三、词性搭配用法（前接 / 后接什么）**
+treatment（名词）
+  后接 for：treatment for cancer
+  后接 of：treatment of waste
+  可数/不可数
+**四、高频句型（作文直接套）**
+He is receiving treatment for his illness. 他正在接受疾病治疗。
+Everyone deserves equal treatment. 每个人都应得到平等对待。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：treatments /ˈtriːtmənts/
+动词：treat /triːt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：therapy /ˈθerəpi/ n. 疗法
+反义词：neglect /nɪˈɡlekt/ n. 忽视
+拓展词：treatment plan /ˈtriːtmənt plæn/ n. 治疗方案
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Early treatment often leads to better outcomes. 早期治疗通常带来更好的结果。
+写作提分句：The best treatment for any disease is prevention. 任何疾病的最佳治疗是预防。
+
+------
+
+**118 care** /keə/ n. 照顾；护理；关心
+**一、词根词缀拆解**
+词根：care = 关心（古英语 caru）
+后缀：无
+整体拆解：care → 照顾
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+health care（医疗保健）
+take care of（照顾）
+skin care（护肤）
+**三、词性搭配用法（前接 / 后接什么）**
+care（名词）
+  后接 for：care for the elderly
+  后接 of：care of the patient
+  不可数名词
+**四、高频句型（作文直接套）**
+Take good care of yourself. 好好照顾自己。
+The quality of care is important. 护理质量很重要。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：careful /ˈkeəfəl/ / careless /ˈkeələs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：attention /əˈtenʃən/ n. 关注
+反义词：neglect /nɪˈɡlekt/ n. 忽视
+拓展词：caregiver /ˈkeəɡɪvə/ n. 照护者
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Care is love in action. 照顾是行动中的爱。
+写作提分句：A little care can go a long way. 一点点的关心可以大有作用。
+
+------
+
+**119 doctor** /ˈdɒktə/ n. 医生；博士
+**一、词根词缀拆解**
+词根：doc = 教导（拉丁语 docere）
+后缀：-or = 人
+整体拆解：doc + or → 教导的人 → 博士 → 医生
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+see a doctor（看医生）
+doctor's appointment（医生预约）
+doctor's degree（博士学位）
+**三、词性搭配用法（前接 / 后接什么）**
+doctor（名词）
+  后接 of：doctor of medicine
+  可数名词
+**四、高频句型（作文直接套）**
+You should see a doctor. 你应该去看医生。
+The doctor prescribed some medicine. 医生开了一些药。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：doctors /ˈdɒktəz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：physician /fɪˈzɪʃən/ n. 内科医生
+反义词：patient /ˈpeɪʃənt/ n. 病人
+拓展词：doctorate /ˈdɒktərət/ n. 博士学位
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：An apple a day keeps the doctor away. 一天一苹果，医生远离我。
+写作提分句：Doctors save lives, but they also need to take care of their own health. 医生拯救生命，但他们也需要照顾自己的健康。
+
+------
+
+**120 nurse** /nɜːs/ n. 护士 v. 护理
+**一、词根词缀拆解**
+词根：nurse = 滋养（拉丁语 nutrire）
+后缀：无
+整体拆解：nurse → 护士
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+registered nurse（注册护士）
+nurse station（护士站）
+nurse back to health（护理到康复）
+**三、词性搭配用法（前接 / 后接什么）**
+nurse（名词）
+  后接 of：nurse of the ward
+  可数名词
+**四、高频句型（作文直接套）**
+The nurse checked my temperature. 护士量了我的体温。
+She works as a nurse. 她是一名护士。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：nurses /ˈnɜːsɪz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：caregiver /ˈkeəɡɪvə/ n. 照护者
+反义词：patient /ˈpeɪʃənt/ n. 病人
+拓展词：nursery /ˈnɜːsəri/ n. 托儿所
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Nurses are the backbone of healthcare. 护士是医疗保健的支柱。
+写作提分句：A good nurse cares not only for the body but also for the spirit. 好护士不仅照顾身体，也照顾精神。
+
+------
+
+**121 hospital** /ˈhɒspɪtəl/ n. 医院
+**一、词根词缀拆解**
+词根：hospit = 客人（拉丁语 hospes）
+后缀：-al = 名词后缀
+整体拆解：hospit + al → 接待客人的地方 → 医院
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+go to hospital（去医院）
+in hospital（住院）
+hospital bed（病床）
+**三、词性搭配用法（前接 / 后接什么）**
+hospital（名词）
+  后接 of：hospital of the city
+  可数名词
+**四、高频句型（作文直接套）**
+He was taken to hospital. 他被送往医院。
+She works in a hospital. 她在医院工作。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：hospitals /ˈhɒspɪtəlz/
+形容词：hospitalized /ˈhɒspɪtəlaɪzd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：clinic /ˈklɪnɪk/ n. 诊所
+反义词：home /həʊm/ n. 家
+拓展词：hospitality /ˌhɒspɪˈtæləti/ n. 好客
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The hospital is a place of healing. 医院是治愈的地方。
+写作提分句：Hospitals are where hope meets science. 医院是希望与科学相遇的地方。
+
+------
+
+**122 clinic** /ˈklɪnɪk/ n. 诊所；门诊部
+**一、词根词缀拆解**
+词根：clin = 床；倾斜（希腊语 kline）
+后缀：-ic = 名词后缀
+整体拆解：clin + ic → 有床的地方 → 诊所
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+dental clinic（牙科诊所）
+clinic hours（门诊时间）
+walk-in clinic（无需预约的诊所）
+**三、词性搭配用法（前接 / 后接什么）**
+clinic（名词）
+  后接 for：clinic for children
+  可数名词
+**四、高频句型（作文直接套）**
+The clinic is open from 9 to 5. 诊所营业时间是9点到5点。
+She visited the clinic for a check-up. 她去诊所做体检。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：clinics /ˈklɪnɪks/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：medical center /ˈmedɪkəl ˈsentə/ n. 医疗中心
+反义词：hospital /ˈhɒspɪtəl/ n. 医院（更大）
+拓展词：clinical /ˈklɪnɪkəl/ adj. 临床的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A clinic is often the first stop for medical care. 诊所通常是医疗护理的第一站。
+写作提分句：Community clinics provide essential healthcare to those who need it most. 社区诊所为最需要的人提供基本医疗保健。
+
+------
+
+**123 patient** /ˈpeɪʃənt/ n. 病人 adj. 耐心的
+**一、词根词缀拆解**
+词根：pati = 忍受（拉丁语 pati）
+后缀：-ent = 形容词/名词后缀
+整体拆解：pati + ent → 忍受痛苦的人 → 病人
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cancer patient（癌症病人）
+patient care（病人护理）
+outpatient（门诊病人）
+**三、词性搭配用法（前接 / 后接什么）**
+patient（名词）
+  后接 of：patient of the doctor
+  可数名词
+**四、高频句型（作文直接套）**
+The patient needs rest. 病人需要休息。
+The doctor listened to the patient's concerns. 医生倾听了病人的担忧。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：patients /ˈpeɪʃənts/
+形容词：patient /ˈpeɪʃənt/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sick person /sɪk ˈpɜːsən/ n. 生病的人
+反义词：doctor /ˈdɒktə/ n. 医生
+拓展词：patience /ˈpeɪʃəns/ n. 耐心
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every patient has a story. 每个病人都有一个故事。
+写作提分句：Treat every patient with the same care you would want for your own family. 像对待自己家人一样对待每一位病人。
+
+------
+
+**124 food** /fuːd/ n. 食物
+**一、词根词缀拆解**
+词根：food = 食物（古英语 foda）
+后缀：无
+整体拆解：food → 食物
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fast food（快餐）
+organic food（有机食品）
+junk food（垃圾食品）
+**三、词性搭配用法（前接 / 后接什么）**
+food（名词）
+  后接 of：food of the region
+  不可数/可数
+**四、高频句型（作文直接套）**
+Food is essential for survival. 食物是生存所必需的。
+This restaurant serves delicious food. 这家餐厅的食物很美味。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：foods /fuːdz/
+形容词：food-related /ˈfuːd rɪˈleɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：meal /miːl/ n. 餐食
+反义词：hunger /ˈhʌŋɡə/ n. 饥饿
+拓展词：foodstuff /ˈfuːdstʌf/ n. 食品
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You are what you eat. 人如其食。
+写作提分句：Food is not just fuel; it is culture, comfort, and connection. 食物不仅仅是燃料，它是文化、安慰和连接。
+
+------
+
+**125 drink** /drɪŋk/ n. 饮料 v. 喝
+**一、词根词缀拆解**
+词根：drink = 喝（古英语 drincan）
+后缀：无
+整体拆解：drink → 饮料
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+soft drink（软饮料）
+energy drink（能量饮料）
+drink water（喝水）
+**三、词性搭配用法（前接 / 后接什么）**
+drink（名词）
+  后接 of：drink of water
+  可数/不可数
+**四、高频句型（作文直接套）**
+Can I have a drink? 能给我一杯饮料吗？
+Drink plenty of water every day. 每天喝足量的水。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：drinks /drɪŋks/
+过去式：drank /dræŋk/
+过去分词：drunk /drʌŋk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：beverage /ˈbevərɪdʒ/ n. 饮料
+反义词：food /fuːd/ n. 食物
+拓展词：drinkable /ˈdrɪŋkəbəl/ adj. 可饮用的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：You can lead a horse to water, but you can't make it drink. 牵马到水边易，逼马饮水难。
+写作提分句：Choose your drinks wisely; water is always the best choice. 明智地选择你的饮料，水永远是最好的选择。
+
+------
+
+**126 meal** /miːl/ n. 一餐；膳食
+**一、词根词缀拆解**
+词根：meal = 餐（古英语 mæl）
+后缀：无
+整体拆解：meal → 一餐
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+three meals a day（一日三餐）
+hot meal（热餐）
+square meal（丰盛的一餐）
+**三、词性搭配用法（前接 / 后接什么）**
+meal（名词）
+  后接 of：meal of the day
+  可数名词
+**四、高频句型（作文直接套）**
+Don't skip meals. 不要不吃饭。
+Let's go out for a meal. 我们出去吃顿饭吧。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：meals /miːlz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：repast /rɪˈpɑːst/ n. 餐（正式）
+反义词：snack /snæk/ n. 零食
+拓展词：mealtime /ˈmiːltaɪm/ n. 用餐时间
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A good meal brings people together. 一顿美餐把人们聚在一起。
+写作提分句：Share a meal with those you love; it's a simple joy that lasts. 与你爱的人共享一餐，这是持久的简单快乐。
+
+------
+
+**127 diet** /ˈdaɪət/ n. 饮食；节食
+**一、词根词缀拆解**
+词根：diet = 生活方式（希腊语 diaita）
+后缀：无
+整体拆解：diet → 饮食
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+balanced diet（均衡饮食）
+go on a diet（节食）
+diet plan（饮食计划）
+**三、词性搭配用法（前接 / 后接什么）**
+diet（名词）
+  后接 of：diet of fruits and vegetables
+  可数/不可数
+**四、高频句型（作文直接套）**
+A balanced diet is important for health. 均衡饮食对健康很重要。
+She is on a diet to lose weight. 她在节食减肥。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：diets /ˈdaɪəts/
+形容词：dietary /ˈdaɪətəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：nutrition /njuːˈtrɪʃən/ n. 营养
+反义词：indulgence /ɪnˈdʌldʒəns/ n. 放纵
+拓展词：dietician /ˌdaɪəˈtɪʃən/ n. 营养师
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Your diet shapes your health. 你的饮食塑造你的健康。
+写作提分句：Don't go on a diet; change your diet for life. 不要节食，要改变你的终身饮食习惯。
+
+------
+
+**128 exercise** /ˈeksəsaɪz/ n. 运动；锻炼 v. 锻炼
+**一、词根词缀拆解**
+词根：exerc = 保持忙碌（拉丁语 exercere）
+后缀：-ise = 名词后缀
+整体拆解：exerc + ise → 使保持忙碌 → 运动
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+regular exercise（规律运动）
+exercise routine（锻炼计划）
+get some exercise（做些运动）
+**三、词性搭配用法（前接 / 后接什么）**
+exercise（名词）
+  后接 of：exercise of the body
+  不可数/可数
+**四、高频句型（作文直接套）**
+Exercise is good for your health. 运动对你的健康有好处。
+Do you get enough exercise? 你有足够的运动吗？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：exercises /ˈeksəsaɪzɪz/
+形容词：exercise-related /ˈeksəsaɪz rɪˈleɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：workout /ˈwɜːkaʊt/ n. 锻炼
+反义词：inactivity /ˌɪnækˈtɪvəti/ n. 不活动
+拓展词：exercise bike /ˈeksəsaɪz baɪk/ n. 健身自行车
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Exercise is medicine for the body and mind. 运动是身心的良药。
+写作提分句：Make exercise a habit, not a chore. 让运动成为习惯，而不是苦差事。
+
+------
+
+**129 sport** /spɔːt/ n. 运动；体育
+**一、词根词缀拆解**
+词根：sport = 娱乐（古法语 desport）
+后缀：无
+整体拆解：sport → 运动
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sports event（体育赛事）
+team sport（团队运动）
+sports equipment（体育器材）
+**三、词性搭配用法（前接 / 后接什么）**
+sport（名词）
+  后接 of：sport of running
+  可数/不可数
+**四、高频句型（作文直接套）**
+Football is my favorite sport. 足球是我最喜欢的运动。
+Sport brings people together. 体育把人们聚集在一起。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：sports /spɔːts/
+形容词：sporty /ˈspɔːti/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：game /ɡeɪm/ n. 比赛
+反义词：work /wɜːk/ n. 工作
+拓展词：sportsman /ˈspɔːtsmən/ n. 运动员
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's not whether you win or lose, it's how you play the game. 重要的不是输赢，而是你如何比赛。
+写作提分句：Sport teaches us discipline, teamwork, and perseverance. 体育教会我们纪律、团队合作和毅力。
+
+------
+
+**130 activity** /ækˈtɪvəti/ n. 活动
+**一、词根词缀拆解**
+词根：act = 行动（拉丁语 agere）
+后缀：-ivity = 名词后缀
+整体拆解：act + ivity → 行动的状态 → 活动
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+physical activity（体育活动）
+outdoor activity（户外活动）
+leisure activity（休闲活动）
+**三、词性搭配用法（前接 / 后接什么）**
+activity（名词）
+  后接 of：activity of the brain
+  可数/不可数
+**四、高频句型（作文直接套）**
+Children need plenty of physical activity. 孩子需要大量的体育活动。
+What's your favorite leisure activity? 你最喜欢的休闲活动是什么？
+**五、词形变化（词性转换题 / 写作核心）**
+复数：activities /ækˈtɪvətiz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：action /ˈækʃən/ n. 行动
+反义词：inactivity /ˌɪnækˈtɪvəti/ n. 不活动
+拓展词：active /ˈæktɪv/ adj. 活跃的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Stay active; any activity is better than none. 保持活跃，任何活动都比没有好。
+写作提分句：The best activity is one you enjoy and will stick with. 最好的活动是你喜欢并会坚持的。
+
+------
+
+**131 rest** /rest/ n. 休息 v. 休息
+**一、词根词缀拆解**
+词根：rest = 休息（古英语 rest）
+后缀：无
+整体拆解：rest → 休息
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+take a rest（休息一下）
+get some rest（休息一会儿）
+rest day（休息日）
+**三、词性搭配用法（前接 / 后接什么）**
+rest（名词）
+  后接 of：rest of the day
+  不可数名词
+**四、高频句型（作文直接套）**
+You need to get some rest. 你需要休息一下。
+Rest is as important as exercise. 休息和运动一样重要。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：restful /ˈrestfəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：break /breɪk/ n. 休息
+反义词：work /wɜːk/ n. 工作
+拓展词：restroom /ˈrestruːm/ n. 卫生间
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Rest is not a waste of time; it's an investment in energy. 休息不是浪费时间，而是对精力的投资。
+写作提分句：Take rest when you need it; your body knows best. 需要休息时就休息，你的身体最了解。
+
+------
+
+**132 sleep** /sliːp/ n. 睡眠 v. 睡觉
+**一、词根词缀拆解**
+词根：sleep = 睡觉（古英语 slæpan）
+后缀：无
+整体拆解：sleep → 睡眠
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+deep sleep（深度睡眠）
+get enough sleep（获得充足睡眠）
+lack of sleep（睡眠不足）
+**三、词性搭配用法（前接 / 后接什么）**
+sleep（名词）
+  后接 of：sleep of the just
+  不可数名词
+**四、高频句型（作文直接套）**
+You need eight hours of sleep a night. 你每晚需要八小时睡眠。
+Sleep is essential for health. 睡眠对健康至关重要。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sleepy /ˈsliːpi/ / sleepless /ˈsliːpləs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：rest /rest/ n. 休息
+反义词：wakefulness /ˈweɪkfəlnəs/ n. 清醒
+拓展词：sleeping pill /ˈsliːpɪŋ pɪl/ n. 安眠药
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sleep is the best meditation. 睡眠是最好的冥想。
+写作提分句：Don't sacrifice sleep for work; a well-rested mind is more productive. 不要为了工作牺牲睡眠，休息好的头脑更有效率。
+
+------
+
+**133 wake** /weɪk/ n. 醒来；守灵 v. 醒来
+**一、词根词缀拆解**
+词根：wake = 醒来（古英语 wacan）
+后缀：无
+整体拆解：wake → 醒来
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wake up（醒来）
+in the wake of（紧随其后）
+wake someone up（叫醒某人）
+**三、词性搭配用法（前接 / 后接什么）**
+wake（名词）
+  后接 of：in the wake of the storm
+  可数名词
+**四、高频句型（作文直接套）**
+What time did you wake up? 你几点醒来的？
+The noise woke me up. 噪音把我吵醒了。
+**五、词形变化（词性转换题 / 写作核心）**
+过去式：woke /wəʊk/ 或 waked /weɪkt/
+过去分词：woken /ˈwəʊkən/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：awaken /əˈweɪkən/ v. 唤醒
+反义词：sleep /sliːp/ v. 睡觉
+拓展词：wakeful /ˈweɪkfəl/ adj. 醒着的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Wake up to the possibilities of a new day. 醒来迎接新一天的可能性。
+写作提分句：Every morning is a chance to wake up and start anew. 每个早晨都是醒来重新开始的机会。
+
+------
+
+**134 lifestyle** /ˈlaɪfstaɪl/ n. 生活方式
+**一、词根词缀拆解**
+词根：life = 生活；style = 风格
+后缀：无
+整体拆解：life + style → 生活的风格 → 生活方式
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+healthy lifestyle（健康的生活方式）
+active lifestyle（积极的生活方式）
+sedentary lifestyle（久坐的生活方式）
+**三、词性搭配用法（前接 / 后接什么）**
+lifestyle（名词）
+  后接 of：lifestyle of the rich
+  可数名词
+**四、高频句型（作文直接套）**
+A healthy lifestyle includes good diet and exercise. 健康的生活方式包括良好的饮食和运动。
+Your lifestyle choices affect your health. 你的生活方式选择影响你的健康。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：lifestyles /ˈlaɪfstaɪlz/
+形容词：lifestyle-related /ˈlaɪfstaɪl rɪˈleɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：way of life /weɪ əv laɪf/ n. 生活方式
+反义词：无
+拓展词：lifestyle change /ˈlaɪfstaɪl tʃeɪndʒ/ n. 生活方式改变
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Small changes in lifestyle can lead to big health improvements. 生活方式的微小改变可以带来健康的大改善。
+写作提分句：The best lifestyle is one that balances work, rest, and play. 最好的生活方式是平衡工作、休息和娱乐。
+
+------
+
+**135 habit** /ˈhæbɪt/ n. 习惯
+**一、词根词缀拆解**
+词根：habit = 居住；拥有（拉丁语 habere）
+后缀：无
+整体拆解：habit → 习惯
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+good habit（好习惯）
+bad habit（坏习惯）
+break a habit（改掉习惯）
+**三、词性搭配用法（前接 / 后接什么）**
+habit（名词）
+  后接 of：habit of reading
+  可数名词
+**四、高频句型（作文直接套）**
+Old habits die hard. 旧习难改。
+It's a good habit to exercise regularly. 定期运动是个好习惯。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：habits /ˈhæbɪts/
+形容词：habitual /həˈbɪtʃuəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：practice /ˈpræktɪs/ n. 惯例
+反义词：break /breɪk/ n. 打破
+拓展词：habitat /ˈhæbɪtæt/ n. 栖息地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：We are what we repeatedly do. Excellence, then, is not an act, but a habit. 我们是我们反复做的事情。因此，卓越不是一种行为，而是一种习惯。
+写作提分句：Change your habits, change your life. 改变习惯，改变生活。
+
+------
+
+**136 safety** /ˈseɪfti/ n. 安全
+**一、词根词缀拆解**
+词根：safe = 安全的（拉丁语 salvus）
+后缀：-ty = 名词后缀
+整体拆解：safe + ty → 安全的状态
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+safety first（安全第一）
+road safety（道路安全）
+safety rules（安全规则）
+**三、词性搭配用法（前接 / 后接什么）**
+safety（名词）
+  后接 of：safety of the children
+  不可数名词
+**四、高频句型（作文直接套）**
+Safety comes first. 安全第一。
+For your safety, please fasten your seatbelt. 为了您的安全，请系好安全带。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：safe /seɪf/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：security /sɪˈkjʊərəti/ n. 安全
+反义词：danger /ˈdeɪndʒə/ n. 危险
+拓展词：safety belt /ˈseɪfti belt/ n. 安全带
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Better safe than sorry. 安全总比后悔好。
+写作提分句：Safety is not a gadget but a state of mind. 安全不是一种装置，而是一种心态。
+
+------
+
+**137 danger** /ˈdeɪndʒə/ n. 危险
+**一、词根词缀拆解**
+词根：danger = 危险（拉丁语 dominus）
+后缀：无
+整体拆解：danger → 危险
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+in danger（处于危险中）
+danger zone（危险区域）
+danger signal（危险信号）
+**三、词性搭配用法（前接 / 后接什么）**
+danger（名词）
+  后接 of：danger of fire
+  可数/不可数
+**四、高频句型（作文直接套）**
+He is in danger. 他处于危险中。
+Danger often comes when you least expect it. 危险往往在你最不期待的时候出现。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：dangerous /ˈdeɪndʒərəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：risk /rɪsk/ n. 风险
+反义词：safety /ˈseɪfti/ n. 安全
+拓展词：dangerous /ˈdeɪndʒərəs/ adj. 危险的
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Danger is the spice of life for some, but for most, it's to be avoided. 对一些人来说，危险是生活的调味品，但对大多数人来说，它是需要避免的。
+写作提分句：Recognize danger before it recognizes you. 在危险认识你之前认识它。
+
+------
+
+**138 protection** /prəˈtekʃən/ n. 保护
+**一、词根词缀拆解**
+词根：tect = 覆盖（拉丁语 tegere）
+前缀：pro- = 向前
+后缀：-ion = 名词后缀
+整体拆解：pro + tect + ion → 向前覆盖 → 保护
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+environmental protection（环境保护）
+legal protection（法律保护）
+protection from（免受……的保护）
+**三、词性搭配用法（前接 / 后接什么）**
+protection（名词）
+  后接 of：protection of the environment
+  后接 from：protection from the sun
+  不可数名词
+**四、高频句型（作文直接套）**
+Sunscreen provides protection from UV rays. 防晒霜提供防紫外线保护。
+The law offers protection to citizens. 法律为公民提供保护。
+**五、词形变化（词性转换题 / 写作核心）**
+动词：protect /prəˈtekt/
+形容词：protective /prəˈtektɪv/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：defense /dɪˈfens/ n. 防御
+反义词：exposure /ɪkˈspəʊʒə/ n. 暴露
+拓展词：protectionism /prəˈtekʃənɪzəm/ n. 保护主义
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The best protection is prevention. 最好的保护是预防。
+写作提分句：Protection of the planet is protection of ourselves. 保护地球就是保护我们自己。
+
+------
+
+**139 electricity** /ɪˌlekˈtrɪsəti/ n. 电
+**一、词根词缀拆解**
+词根：electr = 琥珀（希腊语 elektron）
+后缀：-icity = 名词后缀
+整体拆解：electr + icity → 电
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+electricity bill（电费单）
+generate electricity（发电）
+electricity supply（电力供应）
+**三、词性搭配用法（前接 / 后接什么）**
+electricity（名词）
+  后接 of：electricity of the city
+  不可数名词
+**四、高频句型（作文直接套）**
+Don't waste electricity. 不要浪费电。
+The electricity went out. 停电了。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：electric /ɪˈlektrɪk/ / electrical /ɪˈlektrɪkəl/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：power /ˈpaʊə/ n. 电力
+反义词：无
+拓展词：electrician /ɪˌlekˈtrɪʃən/ n. 电工
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Electricity is the lifeblood of modern society. 电是现代社会的命脉。
+写作提分句：Save electricity, save the planet. 节约用电，拯救地球。
+
+------
+
+**140 gas** /ɡæs/ n. 气体；汽油
+**一、词根词缀拆解**
+词根：gas = 混沌（希腊语 khaos）
+后缀：无
+整体拆解：gas → 气体
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+natural gas（天然气）
+greenhouse gas（温室气体）
+gas station（加油站）
+**三、词性搭配用法（前接 / 后接什么）**
+gas（名词）
+  后接 of：gas of the atmosphere
+  不可数/可数
+**四、高频句型（作文直接套）**
+We need to fill up the gas. 我们需要加油。
+Carbon dioxide is a greenhouse gas. 二氧化碳是一种温室气体。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：gases /ˈɡæsɪz/
+形容词：gaseous /ˈɡæsiəs/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fuel /ˈfjuːəl/ n. 燃料
+反义词：solid /ˈsɒlɪd/ n. 固体
+拓展词：gasoline /ˈɡæsəliːn/ n. 汽油
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Gas emissions are a major cause of climate change. 气体排放是气候变化的主要原因。
+写作提分句：Reduce your gas consumption to help the environment. 减少你的汽油消耗来帮助环境。
+
+------
+
+**141 oil** /ɔɪl/ n. 石油；油
+**一、词根词缀拆解**
+词根：oil = 油（拉丁语 oleum）
+后缀：无
+整体拆解：oil → 油
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cooking oil（食用油）
+crude oil（原油）
+oil spill（漏油）
+**三、词性搭配用法（前接 / 后接什么）**
+oil（名词）
+  后接 of：oil of the lamp
+  不可数/可数
+**四、高频句型（作文直接套）**
+Oil is a non-renewable resource. 石油是不可再生资源。
+The price of oil is rising. 油价在上涨。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：oily /ˈɔɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：petroleum /pəˈtrəʊliəm/ n. 石油
+反义词：water /ˈwɔːtə/ n. 水
+拓展词：oilfield /ˈɔɪlfiːld/ n. 油田
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Oil and water don't mix. 油和水不相融。
+写作提分句：The world's addiction to oil must end for the planet's sake. 为了地球，世界对石油的依赖必须结束。
+
+------
+
+**142 coal** /kəʊl/ n. 煤
+**一、词根词缀拆解**
+词根：coal = 煤（古英语 col）
+后缀：无
+整体拆解：coal → 煤
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+coal mine（煤矿）
+coal power plant（燃煤电厂）
+coal mining（采煤）
+**三、词性搭配用法（前接 / 后接什么）**
+coal（名词）
+  后接 of：coal of the region
+  不可数名词
+**四、高频句型（作文直接套）**
+Coal is a major source of energy. 煤是主要的能源来源。
+Burning coal causes air pollution. 燃烧煤造成空气污染。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：coaly /ˈkəʊli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：charcoal /ˈtʃɑːkəʊl/ n. 木炭
+反义词：无
+拓展词：coalition /ˌkəʊəˈlɪʃən/ n. 联盟（不同词）
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Coal is the dirtiest fossil fuel. 煤是最脏的化石燃料。
+写作提分句：The world is moving away from coal towards cleaner energy. 世界正在从煤转向更清洁的能源。
+
+------
+
+**143 solar** /ˈsəʊlə/ n. 太阳能 adj. 太阳的
+**一、词根词缀拆解**
+词根：sol = 太阳（拉丁语 sol）
+后缀：-ar = 形容词后缀
+整体拆解：sol + ar → 太阳的
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+solar power（太阳能）
+solar panel（太阳能板）
+solar system（太阳系）
+**三、词性搭配用法（前接 / 后接什么）**
+solar（名词）
+  不可数名词
+**四、高频句型（作文直接套）**
+Solar energy is clean and renewable. 太阳能是清洁和可再生的。
+The solar system has eight planets. 太阳系有八颗行星。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：solar /ˈsəʊlə/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：sun /sʌn/ n. 太阳
+反义词：lunar /ˈluːnə/ adj. 月球的
+拓展词：solar panel /ˈsəʊlə ˈpænəl/ n. 太阳能板
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Solar power is the energy of the future. 太阳能是未来的能源。
+写作提分句：Harnessing solar energy can help save the planet. 利用太阳能可以帮助拯救地球。
+
+------
+
+**144 wind** /wɪnd/ n. 风（已在072出现，此处为扩展）
+**一、词根词缀拆解**
+词根：wind = 风（古英语 wind）
+后缀：无
+整体拆解：wind → 风
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wind power（风力）
+wind farm（风电场）
+wind turbine（风力涡轮机）
+**三、词性搭配用法（前接 / 后接什么）**
+wind（名词）
+  后接 of：wind of change
+  不可数名词
+**四、高频句型（作文直接套）**
+Wind is a source of renewable energy. 风是可再生能源的来源。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：windy /ˈwɪndi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：breeze /briːz/ n. 微风
+反义词：calm /kɑːm/ n. 平静
+拓展词：windmill /ˈwɪndmɪl/ n. 风车
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Wind energy is clean and sustainable. 风能是清洁和可持续的。
+写作提分句：The wind is free, so is the energy it provides. 风是免费的，它提供的能量也是免费的。
+
+------
+
+**145 plastic** /ˈplæstɪk/ n. 塑料 adj. 塑料的
+**一、词根词缀拆解**
+词根：plast = 塑造（希腊语 plastos）
+后缀：-ic = 形容词/名词后缀
+整体拆解：plast + ic → 可塑造的材料 → 塑料
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+plastic bottle（塑料瓶）
+plastic waste（塑料废物）
+plastic bag（塑料袋）
+**三、词性搭配用法（前接 / 后接什么）**
+plastic（名词）
+  后接 of：plastic of the toy
+  不可数名词
+**四、高频句型（作文直接套）**
+Plastic pollution is a serious problem. 塑料污染是一个严重的问题。
+Avoid single-use plastics. 避免使用一次性塑料。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：plastic /ˈplæstɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：polymer /ˈpɒlɪmə/ n. 聚合物
+反义词：metal /ˈmetəl/ n. 金属
+拓展词：plasticity /plæˈstɪsəti/ n. 可塑性
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Reduce, reuse, recycle plastic. 减少、重复使用、回收塑料。
+写作提分句：The ocean is becoming a plastic soup. 海洋正在变成塑料汤。
+
+------
+
+**146 metal** /ˈmetəl/ n. 金属
+**一、词根词缀拆解**
+词根：metal = 金属（希腊语 metallon）
+后缀：无
+整体拆解：metal → 金属
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+heavy metal（重金属）
+precious metal（贵金属）
+metal detector（金属探测器）
+**三、词性搭配用法（前接 / 后接什么）**
+metal（名词）
+  后接 of：metal of the bridge
+  可数/不可数
+**四、高频句型（作文直接套）**
+Metal can be recycled. 金属可以回收。
+Iron is a common metal. 铁是一种常见的金属。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：metals /ˈmetəlz/
+形容词：metallic /məˈtælɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ore /ɔː/ n. 矿石
+反义词：plastic /ˈplæstɪk/ n. 塑料
+拓展词：metalwork /ˈmetəlwɜːk/ n. 金属加工
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Metal is strong and durable. 金属坚固耐用。
+写作提分句：Recycling metal saves energy and resources. 回收金属节省能源和资源。
+
+------
+
+**147 wood** /wʊd/ n. 木材；木头
+**一、词根词缀拆解**
+词根：wood = 木材（古英语 wudu）
+后缀：无
+整体拆解：wood → 木材
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wood furniture（木制家具）
+wood floor（木地板）
+wood carving（木雕）
+**三、词性搭配用法（前接 / 后接什么）**
+wood（名词）
+  后接 of：wood of the tree
+  不可数名词
+**四、高频句型（作文直接套）**
+Wood is a renewable resource. 木材是可再生资源。
+The table is made of wood. 这张桌子是木头做的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：wooden /ˈwʊdən/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：timber /ˈtɪmbə/ n. 木材
+反义词：metal /ˈmetəl/ n. 金属
+拓展词：woodland /ˈwʊdlənd/ n. 林地
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't waste wood; it comes from trees. 不要浪费木材，它来自树木。
+写作提分句：Wood is a beautiful and natural building material. 木材是一种美丽而自然的建筑材料。
+
+------
+
+**148 paper** /ˈpeɪpə/ n. 纸；论文
+**一、词根词缀拆解**
+词根：paper = 纸（拉丁语 papyrus）
+后缀：无
+整体拆解：paper → 纸
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+paper waste（废纸）
+research paper（研究论文）
+toilet paper（卫生纸）
+**三、词性搭配用法（前接 / 后接什么）**
+paper（名词）
+  后接 of：paper of the book
+  不可数/可数
+**四、高频句型（作文直接套）**
+Don't waste paper. 不要浪费纸。
+I need to write a paper. 我需要写一篇论文。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：papers /ˈpeɪpəz/
+形容词：papery /ˈpeɪpəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：document /ˈdɒkjəmənt/ n. 文件
+反义词：digital /ˈdɪdʒɪtəl/ adj. 数字的
+拓展词：paperwork /ˈpeɪpəwɜːk/ n. 文书工作
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Save paper, save trees. 节约纸张，拯救树木。
+写作提分句：Paper is made from trees, so use it wisely. 纸是用树做的，所以要明智地使用。
+
+------
+
+**149 cloth** /klɒθ/ n. 布；布料
+**一、词根词缀拆解**
+词根：cloth = 布（古英语 claþ）
+后缀：无
+整体拆解：cloth → 布
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cloth bag（布袋）
+cotton cloth（棉布）
+table cloth（桌布）
+**三、词性搭配用法（前接 / 后接什么）**
+cloth（名词）
+  后接 of：cloth of the shirt
+  不可数/可数
+**四、高频句型（作文直接套）**
+This cloth is very soft. 这块布很软。
+He wiped the table with a cloth. 他用一块布擦了桌子。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：cloths /klɒθs/ 或 /klɒðz/
+形容词：cloth-like /ˈklɒθ laɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fabric /ˈfæbrɪk/ n. 织物
+反义词：无
+拓展词：clothing /ˈkləʊðɪŋ/ n. 衣服
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Use cloth bags instead of plastic ones. 用布袋代替塑料袋。
+写作提分句：The cloth of our clothes comes from nature. 我们衣服的布料来自自然。
+
+------
+
+**150 cotton** /ˈkɒtən/ n. 棉花
+**一、词根词缀拆解**
+词根：cotton = 棉花（阿拉伯语 qutn）
+后缀：无
+整体拆解：cotton → 棉花
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+cotton shirt（棉衬衫）
+cotton field（棉田）
+cotton ball（棉球）
+**三、词性搭配用法（前接 / 后接什么）**
+cotton（名词）
+  后接 of：cotton of the region
+  不可数名词
+**四、高频句型（作文直接套）**
+Cotton is a natural fiber. 棉花是一种天然纤维。
+This shirt is 100% cotton. 这件衬衫是100%棉的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：cottony /ˈkɒtəni/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fiber /ˈfaɪbə/ n. 纤维
+反义词：synthetic /sɪnˈθetɪk/ adj. 合成的
+拓展词：cottonwood /ˈkɒtənwʊd/ n. 棉白杨
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Cotton is breathable and comfortable. 棉花透气舒适。
+写作提分句：Choose natural fibers like cotton over synthetic ones. 选择像棉花这样的天然纤维而不是合成纤维。
+
+------
+
+**151 silk** /sɪlk/ n. 丝绸
+**一、词根词缀拆解**
+词根：silk = 丝绸（古英语 seolc）
+后缀：无
+整体拆解：silk → 丝绸
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+silk dress（丝绸连衣裙）
+silk scarf（丝绸围巾）
+silk road（丝绸之路）
+**三、词性搭配用法（前接 / 后接什么）**
+silk（名词）
+  后接 of：silk of the dress
+  不可数名词
+**四、高频句型（作文直接套）**
+Silk is a luxury fabric. 丝绸是一种奢侈的面料。
+The silk feels smooth. 丝绸摸起来很光滑。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：silky /ˈsɪlki/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：satin /ˈsætɪn/ n. 缎子
+反义词：cotton /ˈkɒtən/ n. 棉花
+拓展词：silkworm /ˈsɪlkwɜːm/ n. 蚕
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The Silk Road connected East and West. 丝绸之路连接了东方和西方。
+写作提分句：Silk is a testament to nature's beauty and human craftsmanship. 丝绸是大自然之美和人类工艺的证明。
+
+------
+
+**152 wool** /wʊl/ n. 羊毛
+**一、词根词缀拆解**
+词根：wool = 羊毛（古英语 wull）
+后缀：无
+整体拆解：wool → 羊毛
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wool sweater（羊毛衫）
+cotton wool（棉絮）
+steel wool（钢丝绒）
+**三、词性搭配用法（前接 / 后接什么）**
+wool（名词）
+  后接 of：wool of the sheep
+  不可数名词
+**四、高频句型（作文直接套）**
+Wool keeps you warm in winter. 羊毛在冬天让你保暖。
+This scarf is made of wool. 这条围巾是羊毛做的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：woolen /ˈwʊlən/ / woolly /ˈwʊli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：fleece /fliːs/ n. 羊毛（从羊身上）
+反义词：cotton /ˈkɒtən/ n. 棉花
+拓展词：woolgathering /ˈwʊlɡæðərɪŋ/ n. 心不在焉
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Wool is a natural insulator. 羊毛是一种天然的绝缘材料。
+写作提分句：Sheep provide us with wool, a renewable resource. 绵羊为我们提供羊毛，这是一种可再生资源。
+
+------
+
+**153 leather** /ˈleðə/ n. 皮革
+**一、词根词缀拆解**
+词根：leather = 皮革（古英语 leþer）
+后缀：无
+整体拆解：leather → 皮革
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+leather jacket（皮夹克）
+leather shoes（皮鞋）
+genuine leather（真皮）
+**三、词性搭配用法（前接 / 后接什么）**
+leather（名词）
+  后接 of：leather of the bag
+  不可数名词
+**四、高频句型（作文直接套）**
+Leather is durable but not eco-friendly. 皮革耐用但不环保。
+He wears a leather belt. 他系了一条皮带。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：leathery /ˈleðəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hide /haɪd/ n. 兽皮
+反义词：fabric /ˈfæbrɪk/ n. 织物
+拓展词：leatherworker /ˈleðəwɜːkə/ n. 皮革工人
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Leather is a byproduct of the meat industry. 皮革是肉类工业的副产品。
+写作提分句：Consider vegan alternatives to leather. 考虑皮革的纯素替代品。
+
+------
+
+**154 rubber** /ˈrʌbə/ n. 橡胶；橡皮
+**一、词根词缀拆解**
+词根：rub = 擦（拉丁语 rubere）
+后缀：-er = 名词后缀
+整体拆解：rub + er → 用来擦的东西 → 橡皮
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rubber band（橡皮筋）
+rubber tire（橡胶轮胎）
+rubber gloves（橡胶手套）
+**三、词性搭配用法（前接 / 后接什么）**
+rubber（名词）
+  后接 of：rubber of the tire
+  不可数/可数
+**四、高频句型（作文直接套）**
+Rubber comes from rubber trees. 橡胶来自橡胶树。
+Tires are made of rubber. 轮胎是橡胶做的。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：rubbery /ˈrʌbəri/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：latex /ˈleɪteks/ n. 乳胶
+反义词：无
+拓展词：rubber stamp /ˈrʌbə stæmp/ n. 橡皮图章
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Rubber is elastic and waterproof. 橡胶有弹性和防水性。
+写作提分句：Recycle rubber to reduce waste. 回收橡胶以减少浪费。
+
+------
+
+**155 glass** /ɡlɑːs/ n. 玻璃；杯子
+**一、词根词缀拆解**
+词根：glass = 玻璃（古英语 glæs）
+后缀：无
+整体拆解：glass → 玻璃
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+glass bottle（玻璃瓶）
+glass window（玻璃窗）
+a glass of water（一杯水）
+**三、词性搭配用法（前接 / 后接什么）**
+glass（名词）
+  后接 of：glass of water
+  不可数/可数
+**四、高频句型（作文直接套）**
+Glass can be recycled. 玻璃可以回收。
+He broke the glass. 他打碎了玻璃杯。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：glasses /ˈɡlɑːsɪz/（眼镜）
+形容词：glassy /ˈɡlɑːsi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：crystal /ˈkrɪstəl/ n. 水晶
+反义词：plastic /ˈplæstɪk/ n. 塑料
+拓展词：glassware /ˈɡlɑːsweə/ n. 玻璃器皿
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：People who live in glass houses shouldn't throw stones. 自己有弱点就不要攻击别人。
+写作提分句：Glass is fragile, so handle with care. 玻璃易碎，小心处理。
+
+------
+
+**156 stone** /stəʊn/ n. 石头；宝石
+**一、词根词缀拆解**
+词根：stone = 石头（古英语 stan）
+后缀：无
+整体拆解：stone → 石头
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+precious stone（宝石）
+stone wall（石墙）
+leave no stone unturned（千方百计）
+**三、词性搭配用法（前接 / 后接什么）**
+stone（名词）
+  后接 of：stone of the building
+  可数/不可数
+**四、高频句型（作文直接套）**
+Stones are hard. 石头很硬。
+He threw a stone into the water. 他向水里扔了一块石头。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：stones /stəʊnz/
+形容词：stony /ˈstəʊni/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：rock /rɒk/ n. 岩石
+反义词：water /ˈwɔːtə/ n. 水
+拓展词：stoneware /ˈstəʊnweə/ n. 石器
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A rolling stone gathers no moss. 滚石不生苔。
+写作提分句：Stone by stone, a great wall is built. 一石一石，筑起长城。
+
+------
+
+**157 sand** /sænd/ n. 沙子
+**一、词根词缀拆解**
+词根：sand = 沙子（古英语 sand）
+后缀：无
+整体拆解：sand → 沙子
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+sand beach（沙滩）
+sand storm（沙尘暴）
+sand castle（沙堡）
+**三、词性搭配用法（前接 / 后接什么）**
+sand（名词）
+  后接 of：sand of the desert
+  不可数名词
+**四、高频句型（作文直接套）**
+The sand is hot. 沙子很烫。
+Children love to play in the sand. 孩子们喜欢在沙子里玩。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：sandy /ˈsændi/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：grit /ɡrɪt/ n. 沙砾
+反义词：rock /rɒk/ n. 岩石
+拓展词：sandpaper /ˈsændpeɪpə/ n. 砂纸
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Sand is made of tiny pieces of rock. 沙子是由细小的岩石碎片组成的。
+写作提分句：The hourglass reminds us that time runs like sand through our fingers. 沙漏提醒我们，时间就像沙子一样从指间流走。
+
+------
+
+**158 soil** /sɔɪl/ n. 土壤；土地
+**一、词根词缀拆解**
+词根：soil = 土壤（拉丁语 solum）
+后缀：无
+整体拆解：soil → 土壤
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+fertile soil（肥沃的土壤）
+soil erosion（土壤侵蚀）
+native soil（故土）
+**三、词性搭配用法（前接 / 后接什么）**
+soil（名词）
+  后接 of：soil of the garden
+  不可数/可数
+**四、高频句型（作文直接套）**
+Plants need good soil to grow. 植物需要好的土壤才能生长。
+This soil is rich in nutrients. 这种土壤富含营养。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：soily /ˈsɔɪli/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：earth /ɜːθ/ n. 泥土
+反义词：sand /sænd/ n. 沙子
+拓展词：soil conservation /sɔɪl ˌkɒnsəˈveɪʃən/ n. 土壤保持
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Soil is the foundation of agriculture. 土壤是农业的基础。
+写作提分句：Protect the soil, and it will protect you. 保护土壤，它会保护你。
+
+------
+
+**159 rock** /rɒk/ n. 岩石；摇滚
+**一、词根词缀拆解**
+词根：rock = 岩石（古法语 roque）
+后缀：无
+整体拆解：rock → 岩石
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rock climbing（攀岩）
+rock music（摇滚乐）
+on the rocks（触礁；加冰的）
+**三、词性搭配用法（前接 / 后接什么）**
+rock（名词）
+  后接 of：rock of the mountain
+  可数/不可数
+**四、高频句型（作文直接套）**
+Rocks are hard and heavy. 岩石又硬又重。
+He hit a rock with his car. 他的车撞到了岩石。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：rocky /ˈrɒki/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：stone /stəʊn/ n. 石头
+反义词：water /ˈwɔːtə/ n. 水
+拓展词：rocket /ˈrɒkɪt/ n. 火箭
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Faith is the rock on which we stand. 信仰是我们站立的岩石。
+写作提分句：Solid as a rock. 坚如磐石。
+
+------
+
+**160 field** /fiːld/ n. 田野；领域
+**一、词根词缀拆解**
+词根：field = 田野（古英语 feld）
+后缀：无
+整体拆解：field → 田野
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+field of study（研究领域）
+corn field（玉米地）
+field trip（实地考察）
+**三、词性搭配用法（前接 / 后接什么）**
+field（名词）
+  后接 of：field of science
+  可数名词
+**四、高频句型（作文直接套）**
+She works in the field of medicine. 她在医学领域工作。
+The field is full of flowers. 田野里开满了花。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：fields /fiːldz/
+形容词：fieldwork /ˈfiːldwɜːk/ n. 实地工作
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：area /ˈeəriə/ n. 区域
+反义词：city /ˈsɪti/ n. 城市
+拓展词：fieldwork /ˈfiːldwɜːk/ n. 实地考察
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Knowledge is the field of the mind. 知识是思想的田野。
+写作提分句：Go out into the field and get your hands dirty. 走出去，到田野里去，弄脏你的手。
+
+------
+
+**161 ground** /ɡraʊnd/ n. 地面；土地
+**一、词根词缀拆解**
+词根：ground = 地面（古英语 grund）
+后缀：无
+整体拆解：ground → 地面
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+on the ground（在地上）
+ground floor（底层）
+common ground（共同点）
+**三、词性搭配用法（前接 / 后接什么）**
+ground（名词）
+  后接 of：ground of the argument
+  不可数名词
+**四、高频句型（作文直接套）**
+The ground is wet after rain. 雨后地面湿了。
+We need to find common ground. 我们需要找到共同点。
+**五、词形变化（词性转换题 / 写作核心）**
+形容词：grounded /ˈɡraʊndɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：earth /ɜːθ/ n. 土地
+反义词：sky /skaɪ/ n. 天空
+拓展词：groundwater /ˈɡraʊndwɔːtə/ n. 地下水
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The ground shook during the earthquake. 地震时地面摇晃。
+写作提分句：Stay grounded no matter how high you rise. 无论你升得多高，都要脚踏实地。
+
+------
+
+**162 park** /pɑːk/ n. 公园
+**一、词根词缀拆解**
+词根：park = 公园（古法语 parc）
+后缀：无
+整体拆解：park → 公园
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+national park（国家公园）
+amusement park（游乐园）
+park bench（公园长椅）
+**三、词性搭配用法（前接 / 后接什么）**
+park（名词）
+  后接 of：park of the city
+  可数名词
+**四、高频句型（作文直接套）**
+Let's go to the park. 我们去公园吧。
+The park is full of people on weekends. 周末公园里挤满了人。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：parks /pɑːks/
+动词：park /pɑːk/ v. 停车
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：garden /ˈɡɑːdən/ n. 花园
+反义词：city /ˈsɪti/ n. 城市
+拓展词：parking /ˈpɑːkɪŋ/ n. 停车
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A walk in the park is good for the soul. 在公园散步有益于心灵。
+写作提分句：Parks are the lungs of the city. 公园是城市的肺。
+
+------
+
+**163 garden** /ˈɡɑːdən/ n. 花园；菜园
+**一、词根词缀拆解**
+词根：garden = 花园（古法语 gardin）
+后缀：无
+整体拆解：garden → 花园
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+botanical garden（植物园）
+vegetable garden（菜园）
+garden party（花园派对）
+**三、词性搭配用法（前接 / 后接什么）**
+garden（名词）
+  后接 of：garden of the house
+  可数名词
+**四、高频句型（作文直接套）**
+She spends hours in her garden. 她在花园里待几个小时。
+The garden is full of roses. 花园里种满了玫瑰。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：gardens /ˈɡɑːdənz/
+形容词：garden-like /ˈɡɑːdən laɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：yard /jɑːd/ n. 院子
+反义词：desert /ˈdezət/ n. 沙漠
+拓展词：gardening /ˈɡɑːdənɪŋ/ n. 园艺
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Every flower is a soul blossoming in nature's garden. 每一朵花都是在大自然花园中绽放的灵魂。
+写作提分句：Tend your garden, and it will tend to you. 照料你的花园，它会照料你。
+
+------
+
+**164 zoo** /zuː/ n. 动物园
+**一、词根词缀拆解**
+词根：zoo = 动物（希腊语 zoion）
+后缀：无
+整体拆解：zoo → 动物园
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+visit the zoo（参观动物园）
+zoo keeper（动物园管理员）
+zoo animal（动物园动物）
+**三、词性搭配用法（前接 / 后接什么）**
+zoo（名词）
+  后接 of：zoo of the city
+  可数名词
+**四、高频句型（作文直接套）**
+Children love going to the zoo. 孩子们喜欢去动物园。
+The zoo has many exotic animals. 动物园有许多珍稀动物。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：zoos /zuːz/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：menagerie /məˈnædʒəri/ n. 动物园（旧）
+反义词：wilderness /ˈwɪldənəs/ n. 荒野
+拓展词：zoology /zuːˈɒlədʒi/ n. 动物学
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A zoo is a window to the animal kingdom. 动物园是通往动物王国的窗口。
+写作提分句：Modern zoos focus on conservation and education. 现代动物园关注保护和教育。
+
+------
+
+**165 farm** /fɑːm/ n. 农场 v. 耕种
+**一、词根词缀拆解**
+词根：farm = 农场（拉丁语 firma）
+后缀：无
+整体拆解：farm → 农场
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+wind farm（风电场）
+solar farm（太阳能农场）
+farm animal（农场动物）
+**三、词性搭配用法（前接 / 后接什么）**
+farm（名词）
+  后接 of：farm of the family
+  可数名词
+**四、高频句型（作文直接套）**
+They live on a farm. 他们住在一个农场上。
+The farm produces organic vegetables. 这个农场生产有机蔬菜。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：farms /fɑːmz/
+形容词：farming /ˈfɑːmɪŋ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：ranch /rɑːntʃ/ n. 牧场
+反义词：city /ˈsɪti/ n. 城市
+拓展词：farmer /ˈfɑːmə/ n. 农民
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：A farm is a place where food begins. 农场是食物开始的地方。
+写作提分句：Support local farms to eat fresh and healthy. 支持本地农场，吃新鲜健康的食物。
+
+------
+
+**166 village** /ˈvɪlɪdʒ/ n. 村庄
+**一、词根词缀拆解**
+词根：vill = 庄园（拉丁语 villa）
+后缀：-age = 名词后缀
+整体拆解：vill + age → 庄园的地方 → 村庄
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+small village（小村庄）
+fishing village（渔村）
+global village（地球村）
+**三、词性搭配用法（前接 / 后接什么）**
+village（名词）
+  后接 of：village of the valley
+  可数名词
+**四、高频句型（作文直接套）**
+He was born in a small village. 他出生在一个小村庄。
+It takes a village to raise a child. 养育一个孩子需要整个村庄。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：villages /ˈvɪlɪdʒɪz/
+形容词：village-like /ˈvɪlɪdʒ laɪk/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：hamlet /ˈhæmlət/ n. 小村庄
+反义词：city /ˈsɪti/ n. 城市
+拓展词：villager /ˈvɪlɪdʒə/ n. 村民
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The village is quiet and peaceful. 村庄安静祥和。
+写作提分句：In a global village, we are all neighbors. 在地球村里，我们都是邻居。
+
+------
+
+**167 town** /taʊn/ n. 城镇
+**一、词根词缀拆解**
+词根：town = 城镇（古英语 tun）
+后缀：无
+整体拆解：town → 城镇
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+town center（镇中心）
+out of town（出城）
+town hall（市政厅）
+**三、词性搭配用法（前接 / 后接什么）**
+town（名词）
+  后接 of：town of the county
+  可数名词
+**四、高频句型（作文直接套）**
+I grew up in a small town. 我在一个小镇长大。
+Let's go into town. 我们进城吧。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：towns /taʊnz/
+形容词：townish /ˈtaʊnɪʃ/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：city /ˈsɪti/ n. 城市（更大）
+反义词：country /ˈkʌntri/ n. 乡村
+拓展词：townsfolk /ˈtaʊnzfəʊk/ n. 镇民
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：It's a small town, everyone knows everyone. 这是一个小镇，每个人都认识每个人。
+写作提分句：The town is the bridge between country and city. 城镇是乡村和城市之间的桥梁。
+
+------
+
+**168 city** /ˈsɪti/ n. 城市
+**一、词根词缀拆解**
+词根：city = 城市（拉丁语 civitas）
+后缀：无
+整体拆解：city → 城市
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+big city（大城市）
+city center（市中心）
+city life（城市生活）
+**三、词性搭配用法（前接 / 后接什么）**
+city（名词）
+  后接 of：city of lights
+  可数名词
+**四、高频句型（作文直接套）**
+New York is a busy city. 纽约是一个繁忙的城市。
+I prefer city life to country life. 比起乡村生活，我更喜欢城市生活。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：cities /ˈsɪtiz/
+形容词：urban /ˈɜːbən/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：metropolis /məˈtrɒpəlɪs/ n. 大都市
+反义词：village /ˈvɪlɪdʒ/ n. 村庄
+拓展词：citizen /ˈsɪtɪzən/ n. 市民
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The city that never sleeps. 不夜城。
+写作提分句：Cities are engines of innovation and opportunity. 城市是创新和机遇的引擎。
+
+------
+
+**169 battery** /ˈbætəri/ n. 电池
+**一、词根词缀拆解**
+词根：batt = 打击（拉丁语 battuere）
+后缀：-ery = 名词后缀
+整体拆解：batt + ery → 打击的地方 → 电池（电击）
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+rechargeable battery（充电电池）
+car battery（汽车电池）
+battery life（电池寿命）
+**三、词性搭配用法（前接 / 后接什么）**
+battery（名词）
+  后接 of：battery of tests
+  可数名词
+**四、高频句型（作文直接套）**
+My phone battery is low. 我的手机电量低。
+This battery needs to be recharged. 这个电池需要充电。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：batteries /ˈbætəriz/
+形容词：battery-operated /ˈbætəri ˈɒpəreɪtɪd/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：cell /sel/ n. 电池
+反义词：无
+拓展词：battery charger /ˈbætəri ˈtʃɑːdʒə/ n. 充电器
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：Don't throw batteries in the trash; recycle them. 不要把电池扔进垃圾桶，要回收它们。
+写作提分句：A battery stores energy for when you need it. 电池为你需要的时候储存能量。
+
+------
+
+**170 chip** /tʃɪp/ n. 芯片；碎片；薯片
+**一、词根词缀拆解**
+词根：chip = 切（古英语 cipp）
+后缀：无
+整体拆解：chip → 碎片/芯片
+**二、高频固定搭配（完形 / 阅读 / 翻译 / 写作必考）**
+computer chip（计算机芯片）
+potato chip（薯片）
+chip away（逐渐削除）
+**三、词性搭配用法（前接 / 后接什么）**
+chip（名词）
+  后接 of：chip of wood
+  可数名词
+**四、高频句型（作文直接套）**
+This computer has the latest chip. 这台电脑有最新的芯片。
+He ate a bag of chips. 他吃了一袋薯片。
+**五、词形变化（词性转换题 / 写作核心）**
+复数：chips /tʃɪps/
+**六、衍生词 / 同义词 / 反义词 / 拓展词**
+同义词：microchip /ˈmaɪkrəʊtʃɪp/ n. 微芯片
+反义词：无
+拓展词：chocolate chip /ˈtʃɒklət tʃɪp/ n. 巧克力碎片
+**七、语境用法（适配简单句 / 话题写作，直接套用）**
+基础句：The chip is the brain of the computer. 芯片是计算机的大脑。
+写作提分句：Every chip in your phone contains billions of tiny switches. 你手机里的每个芯片都包含数十亿个微小的开关。
