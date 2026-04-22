@@ -38,9 +38,17 @@ public class FileChangeScheduler {
     @PostConstruct
     public void init() {
         try {
+            /*从资源库读取file.md文件
             filePath = Paths.get(System.getProperty("user.dir"), "src", "main", "resources", "file.md");
             System.out.println("📂 尝试从路径加载: " + filePath.toAbsolutePath());
+            */
 
+            //从jar包同级目录读取file.md文件
+            filePath = Paths.get(System.getProperty("user.dir"), "file.md");
+            System.out.println("📂 工作目录: " + System.getProperty("user.dir"));
+            System.out.println("📂 file.md路径: " + filePath.toAbsolutePath());
+
+            //以下代码不变
             if (Files.exists(filePath)) {
                 System.out.println("✅ 文件存在，开始同步...");
                 lastModified = Files.getLastModifiedTime(filePath).toMillis();
@@ -243,7 +251,7 @@ public class FileChangeScheduler {
             e.printStackTrace();
         }
     }
-
+    /*增量同步逻辑
     private void syncDatabase(Map<Long, Word> parsedWords) {
         List<Word> existingWords = wordRepository.findAll();
         Map<Long, Word> existingMap = new HashMap<>();
@@ -311,5 +319,56 @@ public class FileChangeScheduler {
             }
         });
     }
+    */
+    //全量同步逻辑
+    private void syncDatabase(Map<Long, Word> parsedWords) {
+        if (parsedWords.isEmpty()) {
+            System.out.println("⚠️ 无数据可同步");
+            return;
+        }
 
+        System.out.println("📊 开始全量同步，共 " + parsedWords.size() + " 个单词");
+        fullSync(parsedWords);
+    }
+
+    private boolean isSameContent(Word existing, Word newWord) {
+        return Objects.equals(existing.getWord(), newWord.getWord()) &&
+                Objects.equals(existing.getPronunciation(), newWord.getPronunciation()) &&
+                Objects.equals(existing.getDefinition(), newWord.getDefinition());
+    }
+    @SuppressWarnings({"JpaQlInspection", "SqlResolve"})
+    private void fullSync(Map<Long, Word> parsedWords) {
+        transactionTemplate.execute(status -> {
+            try {
+                System.out.println("🗑️ 清空旧数据...");
+                wordRepository.deleteAll();
+
+                entityManager.createNativeQuery("ALTER TABLE word AUTO_INCREMENT = 1").executeUpdate();
+                System.out.println("🔄 重置自增ID");
+
+                List<Word> wordsToSave = new ArrayList<>(parsedWords.values());
+
+                int batchSize = 500;
+                for (int i = 0; i < wordsToSave.size(); i += batchSize) {
+                    int endIndex = Math.min(i + batchSize, wordsToSave.size());
+                    List<Word> batch = wordsToSave.subList(i, endIndex);
+                    wordRepository.saveAll(batch);
+                    entityManager.flush();
+                    entityManager.clear();
+                    System.out.println("  📦 已保存批次: " + (i / batchSize + 1) + " (" + batch.size() + " 条)");
+                }
+
+                System.out.println("✅ 全量同步完成，共保存 " + wordsToSave.size() + " 个单词");
+                return null;
+            } catch (Exception e) {
+                System.err.println("❌ 全量同步失败: " + e.getMessage());
+                e.printStackTrace();
+                status.setRollbackOnly();
+                return null;
+            }
+        });
+    }
+    //全量同步逻辑结束
 }
+
+
