@@ -17,7 +17,6 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 @Service
 @Transactional
@@ -57,29 +56,66 @@ public class WordService {
         return wordRepository.findAll(Sort.by(Sort.Direction.ASC, "sortOrder"));
     }
 
+    private String extractSortOrderFromContent(String content) {
+        if (content == null || content.isEmpty()) {
+            return null;
+        }
+
+        List<Pattern> patterns = Arrays.asList(
+                Pattern.compile("^(\\d{3})\\s+\\*\\*"),
+                Pattern.compile("^\\*\\*(\\d{3})\\s+"),
+                Pattern.compile("^\\*\\*(\\d{3})\\s+([a-zA-Z]+)\\*\\*"),
+                Pattern.compile("^(\\d{3})\\s+([a-zA-Z]+)"),
+                Pattern.compile("^\\*\\*([a-zA-Z]+)\\*\\*\\s+(\\d{3})"),
+                Pattern.compile("^([a-zA-Z]+)\\s+(\\d{3})")
+        );
+
+        for (Pattern pattern : patterns) {
+            Matcher matcher = pattern.matcher(content.trim());
+            if (matcher.find()) {
+                if (pattern.toString().contains("\\d{3}.*[a-zA-Z]")) {
+                    return matcher.group(1);
+                } else if (pattern.toString().contains("[a-zA-Z].*\\d{3}")) {
+                    return matcher.group(2);
+                } else {
+                    return matcher.group(1);
+                }
+            }
+        }
+
+        return null;
+    }
+
     public List<Map<String, Object>> buildCatalogStructure() {
-        System.out.println("🔍 开始构建目录结构...");
+        System.out.println("\ud83d\udd0d \u5f00\u59cb\u6784\u5efa\u76ee\u5f55\u7ed3\u6784...");
         List<Map<String, Object>> structure = new ArrayList<>();
 
         try {
             String content = readFileMd();
             if (content == null || content.isEmpty()) {
-                System.err.println("❌ file.md文件不存在或为空");
+                System.err.println("\u274c file.md\u6587\u4ef6\u4e0d\u5b58\u5728\u6216\u4e3a\u7a7a");
                 return structure;
             }
 
-            // 获取所有单词用于ID映射
             List<Word> allWords = wordRepository.findAll();
             Map<String, Word> wordMap = new HashMap<>();
+
             for (Word word : allWords) {
-                String key = word.getWord().toLowerCase() + "|" + word.getSortOrder();
-                wordMap.put(key, word);
+                String sortOrderFromContent = extractSortOrderFromContent(word.getContent());
+                String wordName = word.getWord();
+
+                if (sortOrderFromContent != null && wordName != null) {
+                    String key = sortOrderFromContent + "|" + wordName.toLowerCase();
+                    wordMap.put(key, word);
+                    System.out.println("\u6620\u5c04: " + key + " -> DB ID: " + word.getId());
+                }
             }
-            System.out.println("📊 数据库单词数量: " + allWords.size());
+
+            System.out.println("\ud83d\udcca \u6570\u636e\u5e93\u5355\u8bcd\u6570\u91cf: " + allWords.size());
+            System.out.println("\ud83d\udd17 \u6210\u529f\u5efa\u7acb\u6620\u5c04: " + wordMap.size() + " \u4e2a");
 
             String[] lines = content.split("\\r?\\n");
 
-            // 层级栈 - 支持最多8级标题
             List<Map<String, Object>> stack = new ArrayList<>();
             Map<String, Object> root = new LinkedHashMap<>();
             root.put("title", "root");
@@ -88,30 +124,17 @@ public class WordService {
             root.put("words", new ArrayList<>());
             stack.add(root);
 
-            // 标题正则：支持1-8个#
-            Pattern headingPattern = Pattern.compile("^(#{1,8})\\s+(.+)$");
-
-            // ==================== 单词正则 - 支持6种格式 ====================
-            // 格式1: **001 science** /ˈsaɪəns/
-            // 格式2: 001 **science** /ˈsaɪəns/
-            // 格式3: 001 science /ˈsaɪəns/
-            // 格式4: **science** 001 /ˈsaɪəns/
-            // 格式5: science 001 /ˈsaɪəns/
-            // 格式6: 001-science 或 001_science (连字符/下划线连接)
+            Pattern headingPattern = Pattern.compile("^(#{1,6})\\s+(.+)$");
 
             List<Pattern> wordPatterns = Arrays.asList(
-                    // 格式1: **001 science**
                     Pattern.compile("^\\*\\*(\\d{3})\\s+(.+?)\\*\\*"),
-                    // 格式2: 001 **science**
                     Pattern.compile("^(\\d{3})\\s+\\*\\*(.+?)\\*\\*"),
-                    // 格式3: 001 science
                     Pattern.compile("^(\\d{3})\\s+([a-zA-Z]+(?:[-'][a-zA-Z]+)*)"),
-                    // 格式4: **science** 001
                     Pattern.compile("^\\*\\*(.+?)\\*\\*\\s+(\\d{3})"),
-                    // 格式5: science 001
                     Pattern.compile("^([a-zA-Z]+(?:[-'][a-zA-Z]+)*)\\s+(\\d{3})"),
-                    // 格式6: 001-science 或 001_science
-                    Pattern.compile("^(\\d{3})[-_]([a-zA-Z]+(?:[-'][a-zA-Z]+)*)")
+                    Pattern.compile("^\\*\\*(\\d{3})\\s+([a-zA-Z]+(?:[-'][a-zA-Z]+)*)\\*\\*"),
+                    Pattern.compile("^([a-zA-Z]+(?:[-'][a-zA-Z]+)*)\\s+(\\d{3})\\s"),
+                    Pattern.compile("^\\*\\*([a-zA-Z]+(?:[-'][a-zA-Z]+)*)\\*\\*\\s+(\\d{3})")
             );
 
             int wordCount = 0;
@@ -125,94 +148,75 @@ public class WordService {
                     continue;
                 }
 
-                // ==================== 处理标题 ====================
                 Matcher headingMatcher = headingPattern.matcher(trimmedLine);
                 if (headingMatcher.find()) {
                     String hashes = headingMatcher.group(1);
                     String title = headingMatcher.group(2).trim();
-                    int level = hashes.length();
+                    int markdownLevel = hashes.length();
                     headingCount++;
 
-                    // 创建新节点
+                    int normalizedLevel = Math.max(1, markdownLevel - 2);
+                    if (normalizedLevel > 6) normalizedLevel = 6;
+
                     Map<String, Object> newNode = new LinkedHashMap<>();
                     newNode.put("title", title);
-                    newNode.put("level", level);
+                    newNode.put("level", normalizedLevel);
                     newNode.put("children", new ArrayList<Map<String, Object>>());
                     newNode.put("words", new ArrayList<Map<String, Object>>());
 
-                    // 调整栈到正确层级
-                    while (stack.size() > level) {
+                    while (stack.size() > normalizedLevel) {
                         stack.remove(stack.size() - 1);
                     }
 
-                    // 添加到父节点
                     Map<String, Object> parent = stack.get(stack.size() - 1);
                     @SuppressWarnings("unchecked")
                     List<Map<String, Object>> children = (List<Map<String, Object>>) parent.get("children");
                     children.add(newNode);
 
-                    // 将新节点入栈
                     stack.add(newNode);
 
-                    // 打印日志
-                    String indent = String.join("", Collections.nCopies(level - 1, "  "));
-                    System.out.println(indent + "📑 " + level + "级: " + title);
+                    System.out.println("  ".repeat(normalizedLevel - 1) + "\ud83d\udcc4 " + normalizedLevel + "\u7ea7: " + title);
                     continue;
                 }
 
-                // ==================== 处理单词 ====================
                 String number = null;
                 String wordName = null;
 
-                // 尝试所有格式
                 for (Pattern pattern : wordPatterns) {
                     Matcher matcher = pattern.matcher(trimmedLine);
                     if (matcher.find()) {
                         String patternStr = pattern.toString();
-                        if (patternStr.contains("\\*\\*(\\d{3})\\s+(.+?)\\*\\*")) {
-                            // 格式1: **001 science**
+                        if (patternStr.contains("\\*\\*(\\d{3})\\s+(.+?)\\*\\*") && !patternStr.contains("[a-zA-Z]")) {
                             number = matcher.group(1);
                             wordName = matcher.group(2).trim();
                         } else if (patternStr.contains("(\\d{3})\\s+\\*\\*(.+?)\\*\\*")) {
-                            // 格式2: 001 **science**
                             number = matcher.group(1);
                             wordName = matcher.group(2).trim();
-                        } else if (patternStr.contains("(\\d{3})\\s+([a-zA-Z]+")) {
-                            // 格式3: 001 science
+                        } else if (patternStr.contains("(\\d{3})\\s+([a-zA-Z]+") && !patternStr.contains("\\*\\*")) {
                             number = matcher.group(1);
                             wordName = matcher.group(2).trim();
                         } else if (patternStr.contains("\\*\\*(.+?)\\*\\*\\s+(\\d{3})")) {
-                            // 格式4: **science** 001
                             wordName = matcher.group(1).trim();
                             number = matcher.group(2);
-                        } else if (patternStr.contains("([a-zA-Z]+") && patternStr.contains("\\s+(\\d{3})")) {
-                            // 格式5: science 001
+                        } else if (patternStr.contains("([a-zA-Z]+") && patternStr.contains("\\s+(\\d{3})") && !patternStr.contains("\\*\\*")) {
                             wordName = matcher.group(1).trim();
                             number = matcher.group(2);
-                        } else if (patternStr.contains("(\\d{3})[-_]([a-zA-Z]+")) {
-                            // 格式6: 001-science 或 001_science
+                        } else if (patternStr.contains("\\*\\*(\\d{3})\\s+([a-zA-Z]+") && patternStr.contains("\\*\\*")) {
                             number = matcher.group(1);
                             wordName = matcher.group(2).trim();
+                        } else if (patternStr.contains("([a-zA-Z]+)\\s+(\\d{3})\\s")) {
+                            wordName = matcher.group(1).trim();
+                            number = matcher.group(2);
+                        } else if (patternStr.contains("\\*\\*([a-zA-Z]+)\\*\\*\\s+(\\d{3})")) {
+                            wordName = matcher.group(1).trim();
+                            number = matcher.group(2);
                         }
                         break;
                     }
                 }
 
-                // 额外的宽松匹配：匹配行首的数字
-                if (number == null || wordName == null) {
-                    Pattern loosePattern = Pattern.compile("^(\\d{3})\\s+(\\S+)");
-                    Matcher looseMatcher = loosePattern.matcher(trimmedLine);
-                    if (looseMatcher.find()) {
-                        number = looseMatcher.group(1);
-                        String candidate = looseMatcher.group(2);
-                        // 去除可能的星号和标点
-                        wordName = candidate.replaceAll("[*_，,。；;]", "").trim();
-                    }
-                }
-
                 if (number != null && wordName != null && wordName.length() > 0 && wordName.length() < 50) {
                     wordCount++;
-
                     int sortOrderNum;
                     try {
                         sortOrderNum = Integer.parseInt(number);
@@ -220,8 +224,7 @@ public class WordService {
                         sortOrderNum = wordCount;
                     }
 
-                    // 查找数据库中的单词
-                    String key = wordName.toLowerCase() + "|" + sortOrderNum;
+                    String key = number + "|" + wordName.toLowerCase();
                     Word foundWord = wordMap.get(key);
 
                     Map<String, Object> wordInfo = new LinkedHashMap<>();
@@ -231,17 +234,12 @@ public class WordService {
 
                     if (foundWord != null) {
                         wordInfo.put("id", foundWord.getId());
-                        if (wordCount <= 20) {
-                            System.out.println("✅ 单词: " + wordName + " 序号:" + sortOrderNum + " ID:" + foundWord.getId());
-                        }
+                        System.out.println("\u2705 \u5339\u914d\u6210\u529f: " + key + " -> DB ID: " + foundWord.getId());
                     } else {
                         wordInfo.put("id", null);
-                        if (wordCount <= 20) {
-                            System.out.println("⚠️ 未找到: " + wordName + " 序号:" + sortOrderNum);
-                        }
+                        System.out.println("\u26a0\ufe0f \u672a\u627e\u5230\u6620\u5c04: " + key);
                     }
 
-                    // 添加到当前层级（最深层的节点）
                     Map<String, Object> currentParent = stack.get(stack.size() - 1);
                     @SuppressWarnings("unchecked")
                     List<Map<String, Object>> words = (List<Map<String, Object>>) currentParent.get("words");
@@ -249,41 +247,22 @@ public class WordService {
                 }
             }
 
-            System.out.println("✅ 目录构建完成！");
-            System.out.println("  标题总数: " + headingCount + " 个");
-            System.out.println("  单词总数: " + wordCount + " 个");
-            System.out.println("  一级分类: " + structure.size() + " 个");
-
-            // 打印结构统计
-            printStructure(structure, 0);
+            System.out.println("\u2705 \u76ee\u5f55\u6784\u5efa\u5b8c\u6210\uff01");
+            System.out.println("  \u6807\u9898\u603b\u6570: " + headingCount + " \u4e2a");
+            System.out.println("  \u5355\u8bcd\u603b\u6570: " + wordCount + " \u4e2a");
+            System.out.println("  \u4e00\u7ea7\u5206\u7c7b: " + structure.size() + " \u4e2a");
 
             return structure;
         } catch (Exception e) {
-            System.err.println("❌ 构建目录失败: " + e.getMessage());
+            System.err.println("\u274c \u6784\u5efa\u76ee\u5f55\u5931\u8d25: " + e.getMessage());
             e.printStackTrace();
             return new ArrayList<>();
         }
     }
 
-    @SuppressWarnings("unchecked")
-    private void printStructure(List<Map<String, Object>> nodes, int depth) {
-        String indent = String.join("", Collections.nCopies(depth, "  "));
-        for (Map<String, Object> node : nodes) {
-            String title = (String) node.get("title");
-            Integer level = (Integer) node.get("level");
-            List<Map<String, Object>> children = (List<Map<String, Object>>) node.get("children");
-            List<Map<String, Object>> words = (List<Map<String, Object>>) node.get("words");
-
-            System.out.println(indent + "📁 " + title + " (L" + level + ") - 单词:" + words.size() + ", 子分类:" + children.size());
-            if (!children.isEmpty()) {
-                printStructure(children, depth + 1);
-            }
-        }
-    }
 
     private String readFileMd() {
         try {
-            // 尝试多个路径
             List<Path> possiblePaths = Arrays.asList(
                     Paths.get(System.getProperty("user.dir"), "src", "main", "resources", "file.md"),
                     Paths.get(System.getProperty("user.dir"), "file.md"),
@@ -293,24 +272,23 @@ public class WordService {
 
             for (Path filePath : possiblePaths) {
                 if (Files.exists(filePath)) {
-                    System.out.println("📂 找到文件: " + filePath.toAbsolutePath());
+                    System.out.println("\ud83d\udcc2 \u627e\u5230\u6587\u4ef6: " + filePath.toAbsolutePath());
                     String content = Files.readString(filePath, StandardCharsets.UTF_8);
-                    System.out.println("📖 文件大小: " + content.length() + " 字符");
+                    System.out.println("\ud83d\udcd6 \u6587\u4ef6\u5927\u5c0f: " + content.length() + " \u5b57\u7b26");
                     return content;
                 }
             }
 
-            // 从 classpath 读取
             ClassPathResource resource = new ClassPathResource("file.md");
             if (resource.exists()) {
-                System.out.println("📂 从 classpath 读取 file.md");
+                System.out.println("\ud83d\udcc2 \u4ece classpath \u8bfb\u53d6 file.md");
                 return new String(resource.getInputStream().readAllBytes(), StandardCharsets.UTF_8);
             }
 
-            System.err.println("❌ 无法找到 file.md 文件");
+            System.err.println("\u274c \u65e0\u6cd5\u627e\u5230 file.md \u6587\u4ef6");
             return null;
         } catch (Exception e) {
-            System.err.println("❌ 读取 file.md 失败: " + e.getMessage());
+            System.err.println("\u274c \u8bfb\u53d6 file.md \u5931\u8d25: " + e.getMessage());
             e.printStackTrace();
             return null;
         }

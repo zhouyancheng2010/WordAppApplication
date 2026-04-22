@@ -90,127 +90,102 @@
             border-radius: 3px;
         }
 
-        .catalog-level1 {
-            margin: 5px 0;
+        .catalog-node {
+            margin: 0;
         }
 
-        .catalog-level1-title {
+        .catalog-title {
+            cursor: pointer;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            user-select: none;
+        }
+
+        .catalog-title:hover {
+            background: #f5f7fa;
+        }
+
+        .catalog-title .arrow {
+            font-size: 10px;
+            transition: transform 0.3s;
+            margin-left: 8px;
+            width: 14px;
+            display: inline-block;
+            order: 1;
+        }
+
+        .catalog-title.expanded .arrow {
+            transform: rotate(90deg);
+        }
+
+        .catalog-title-text {
+            flex: 1;
+        }
+
+        .catalog-children {
+            display: none;
+        }
+
+        .catalog-children.expanded {
+            display: block;
+        }
+
+        .level-1 > .catalog-title {
             padding: 12px 20px;
             font-size: 15px;
             font-weight: 600;
             color: #303133;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            transition: background 0.2s;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e4e7ed;
         }
 
-        .catalog-level1-title:hover {
-            background: #f5f7fa;
-        }
-
-        .catalog-level1-title .arrow {
-            font-size: 12px;
-            transition: transform 0.3s;
-        }
-
-        .catalog-level1-title.expanded .arrow {
-            transform: rotate(90deg);
-        }
-
-        .catalog-level2-container {
-            display: none;
-        }
-
-        .catalog-level2-container.expanded {
-            display: block;
-        }
-
-        .catalog-level2 {
-            padding-left: 15px;
-        }
-
-        .catalog-level2-title {
-            padding: 10px 20px;
+        .level-2 > .catalog-title {
+            padding: 10px 20px 10px 35px;
             font-size: 14px;
+            font-weight: 500;
             color: #606266;
-            cursor: pointer;
-            transition: background 0.2s;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
         }
 
-        .catalog-level2-title:hover {
-            background: #f5f7fa;
-        }
-
-        .catalog-level2-title .arrow {
-            font-size: 10px;
-            transition: transform 0.3s;
-        }
-
-        .catalog-level2-title.expanded .arrow {
-            transform: rotate(90deg);
-        }
-
-        .catalog-level3-container {
-            display: none;
-        }
-
-        .catalog-level3-container.expanded {
-            display: block;
-        }
-
-        .catalog-level3 {
-            padding-left: 15px;
-        }
-
-        .catalog-level3-title {
-            padding: 8px 20px;
+        .level-3 > .catalog-title {
+            padding: 8px 20px 8px 50px;
             font-size: 13px;
+            font-weight: 500;
             color: #909399;
-            cursor: pointer;
-            transition: background 0.2s;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
         }
 
-        .catalog-level3-title:hover {
-            background: #f5f7fa;
+        .level-4 > .catalog-title {
+            padding: 8px 20px 8px 65px;
+            font-size: 12px;
+            font-weight: 500;
+            color: #a6a9ad;
         }
 
-        .catalog-level3-title .arrow {
-            font-size: 10px;
-            transition: transform 0.3s;
-        }
-
-        .catalog-level3-title.expanded .arrow {
-            transform: rotate(90deg);
-        }
-
-        .catalog-words {
-            display: none;
-            padding-left: 15px;
-        }
-
-        .catalog-words.expanded {
-            display: block;
+        .level-5 > .catalog-title,
+        .level-6 > .catalog-title {
+            padding: 6px 20px 6px 80px;
+            font-size: 12px;
+            font-weight: normal;
+            color: #b0b3b8;
         }
 
         .catalog-word-item {
-            padding: 8px 20px;
-            font-size: 13px;
+            padding: 6px 20px 6px 80px;
+            font-size: 12px;
             color: #909399;
             cursor: pointer;
             transition: all 0.2s;
             border-left: 3px solid transparent;
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: flex-start;
+            gap: 8px;
         }
+
+        .level-2 .catalog-word-item { padding-left: 50px; }
+        .level-3 .catalog-word-item { padding-left: 65px; }
+        .level-4 .catalog-word-item { padding-left: 80px; }
 
         .catalog-word-item:hover {
             background: #f5f7fa;
@@ -224,6 +199,22 @@
             font-weight: 500;
         }
 
+        .word-number-badge {
+            display: inline-block;
+            background: #e2e8f0;
+            color: #64748b;
+            padding: 2px 6px;
+            border-radius: 10px;
+            font-size: 10px;
+            margin-right: 8px;
+            font-family: monospace;
+        }
+
+        .catalog-word-item.active .word-number-badge {
+            background: #667eea;
+            color: white;
+        }
+
         .speak-icon {
             width: 18px;
             height: 18px;
@@ -234,11 +225,14 @@
             background-repeat: no-repeat;
             background-position: center;
             background-size: contain;
+            flex-shrink: 0;
         }
 
         .catalog-word-item:hover .speak-icon {
             opacity: 1;
         }
+
+
 
         .content-area {
             flex: 1;
@@ -248,7 +242,7 @@
         }
 
         .content-header {
-            padding: 20px 30px;
+            padding: 15px 20px;
             background: #fff;
             border-bottom: 1px solid #e4e7ed;
             display: flex;
@@ -257,7 +251,7 @@
         }
 
         .content-header h2 {
-            font-size: 20px;
+            font-size: 18px;
             color: #303133;
         }
 
@@ -268,10 +262,10 @@
         }
 
         .filter-controls select {
-            padding: 8px 15px;
+            padding: 6px 12px;
             border: 1px solid #dcdfe6;
             border-radius: 4px;
-            font-size: 14px;
+            font-size: 13px;
             color: #606266;
             outline: none;
             cursor: pointer;
@@ -284,40 +278,40 @@
         .content-body {
             flex: 1;
             overflow-y: auto;
-            padding: 30px;
+            padding: 18px 22px;
         }
 
         .content-body::-webkit-scrollbar {
-            width: 8px;
+            width: 6px;
         }
 
         .content-body::-webkit-scrollbar-thumb {
             background: #dcdfe6;
-            border-radius: 4px;
+            border-radius: 3px;
         }
 
         .word-card {
             background: #fff;
-            border-radius: 12px;
-            padding: 30px;
-            margin-bottom: 25px;
-            box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+            border-radius: 8px;
+            padding: 18px 22px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
             transition: transform 0.2s;
         }
 
         .word-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            transform: translateY(-1px);
+            box-shadow: 0 3px 12px rgba(0,0,0,0.06);
         }
 
         .word-card .word-title {
-            font-size: 24px;
+            font-size: 20px;
             font-weight: 700;
             color: #667eea;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             display: flex;
             align-items: center;
-            gap: 15px;
+            gap: 10px;
             flex-wrap: wrap;
         }
 
@@ -325,74 +319,105 @@
             display: inline-block;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 4px 12px;
-            border-radius: 12px;
-            font-size: 14px;
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-size: 13px;
             font-weight: 600;
+        }
+
+        .word-card .word-name {
+            display: inline-block;
+        }
+
+        .word-card .word-pronunciation {
+            color: #909399;
+            font-size: 15px;
+            display: inline-block;
         }
 
         .word-card .word-meta {
             color: #909399;
             font-size: 14px;
-            margin-bottom: 20px;
+            margin-bottom: 12px;
         }
 
         .word-card .markdown-content {
-            line-height: 1.8;
+            line-height: 1.65;
             white-space: pre-wrap;
             word-wrap: break-word;
+            font-size: 15px;
         }
 
         .word-card .markdown-content h1,
         .word-card .markdown-content h2,
         .word-card .markdown-content h3,
-        .word-card .markdown-content h4 {
-            margin-top: 20px;
-            margin-bottom: 12px;
-            font-weight: 600;
-            color: #303133;
-        }
-
-        .word-card .markdown-content h1 { font-size: 1.8em; }
-        .word-card .markdown-content h2 { font-size: 1.5em; }
-        .word-card .markdown-content h3 { font-size: 1.3em; }
-        .word-card .markdown-content h4 { font-size: 1.1em; }
-
-        .word-card .markdown-content strong {
-            color: #667eea;
-            font-weight: 700;
-        }
-
-        .word-card .markdown-content hr {
-            border: none;
-            border-top: 2px solid #e4e7ed;
-            margin: 20px 0;
+        .word-card .markdown-content h4,
+        .word-card .markdown-content h5,
+        .word-card .markdown-content h6 {
+            margin: 10px 0 5px 0;
+            font-size: 16px;
         }
 
         .word-card .markdown-content p {
-            margin-bottom: 8px;
+            margin: 5px 0;
+        }
+
+        .word-card .markdown-content ul,
+        .word-card .markdown-content ol {
+            margin: 5px 0 5px 20px;
+            padding: 0;
+        }
+
+        .word-card .markdown-content li {
+            margin: 3px 0;
+        }
+
+        .word-card .markdown-content code {
+            font-size: 14px;
+            padding: 2px 5px;
+            background: #f5f7fa;
+            border-radius: 3px;
+        }
+
+        .word-card .markdown-content pre {
+            font-size: 14px;
+            padding: 10px;
+            background: #f5f7fa;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+
+        .word-card .markdown-content blockquote {
+            font-size: 14px;
+            margin: 8px 0;
+            padding: 5px 12px;
+            border-left: 3px solid #667eea;
+            background: #f8f9fa;
         }
 
         .speak-btn {
-            padding: 6px 16px 6px 28px;
+            padding: 4px 12px 4px 22px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            border-radius: 20px;
+            border-radius: 16px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
             position: relative;
             transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
         }
 
         .speak-btn::before {
             content: "";
             position: absolute;
-            left: 10px;
+            left: 8px;
             top: 50%;
             transform: translateY(-50%);
-            width: 16px;
-            height: 16px;
+            width: 14px;
+            height: 14px;
             background-image: url('ico/speaker03.png');
             background-repeat: no-repeat;
             background-position: center;
@@ -401,17 +426,17 @@
 
         .speak-btn:hover {
             transform: scale(1.05);
-            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
         }
 
         .read-all-btn {
-            padding: 8px 20px 8px 32px;
+            padding: 7px 18px 7px 28px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            border-radius: 20px;
+            border-radius: 16px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 13px;
             position: relative;
             transition: all 0.3s;
         }
@@ -419,11 +444,11 @@
         .read-all-btn::before {
             content: "";
             position: absolute;
-            left: 10px;
+            left: 9px;
             top: 50%;
             transform: translateY(-50%);
-            width: 18px;
-            height: 18px;
+            width: 14px;
+            height: 14px;
             background-image: url('ico/speaker03.png');
             background-repeat: no-repeat;
             background-position: center;
@@ -432,7 +457,7 @@
 
         .read-all-btn:hover {
             transform: scale(1.05);
-            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
         }
 
         .read-all-btn.reading {
@@ -440,13 +465,13 @@
         }
 
         .back-btn {
-            padding: 8px 16px;
+            padding: 6px 12px;
             background: #667eea;
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
             transition: all 0.2s;
             display: none;
         }
@@ -457,30 +482,33 @@
 
         .word-navigation {
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
-            padding: 15px 0;
-            margin-top: 20px;
+            padding: 8px 0;
+            margin-top: 10px;
             border-top: 1px solid #e4e7ed;
+            gap: 12px;
         }
 
+
+
         .nav-btn {
-            padding: 8px 16px;
+            padding: 6px 12px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            border-radius: 20px;
+            border-radius: 16px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
             transition: all 0.3s;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
         }
 
         .nav-btn:hover:not(:disabled) {
             transform: scale(1.05);
-            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
         }
 
         .nav-btn:disabled {
@@ -489,7 +517,7 @@
         }
 
         .nav-info {
-            font-size: 14px;
+            font-size: 12px;
             color: #606266;
         }
 
@@ -497,19 +525,19 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 10px;
-            padding: 20px;
+            gap: 8px;
+            padding: 12px;
             background: #fff;
             border-top: 1px solid #e4e7ed;
         }
 
         .pagination button {
-            padding: 8px 16px;
+            padding: 6px 12px;
             border: 1px solid #dcdfe6;
             background: #fff;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
             color: #606266;
             transition: all 0.2s;
         }
@@ -525,27 +553,27 @@
         }
 
         .pagination .page-info {
-            font-size: 14px;
+            font-size: 12px;
             color: #606266;
         }
 
         .pagination .jump-input {
-            width: 60px;
-            padding: 6px 10px;
+            width: 50px;
+            padding: 4px 8px;
             border: 1px solid #dcdfe6;
             border-radius: 4px;
             text-align: center;
-            font-size: 14px;
+            font-size: 12px;
         }
 
         .pagination .jump-btn {
-            padding: 6px 12px;
+            padding: 4px 10px;
             background: #667eea;
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 12px;
         }
 
         .pagination .jump-btn:hover {
@@ -582,7 +610,7 @@
             }
 
             .content-body {
-                padding: 15px;
+                padding: 10px;
             }
         }
     </style>
@@ -606,12 +634,8 @@
         <div class="content-header">
             <h2 id="contentTitle">单词详情</h2>
             <div class="filter-controls">
-                <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">
-                    全文朗读
-                </button>
-                <button id="backToListBtn" class="back-btn" onclick="backToList()">
-                    返回列表
-                </button>
+                <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">全文朗读</button>
+                <button id="backToListBtn" class="back-btn" onclick="backToList()">返回列表</button>
                 <select id="filterSelect" onchange="handleFilter(this.value)">
                     <option value="all">全部显示</option>
                     <option value="layer1">一、基础必备层（800词）</option>
@@ -639,280 +663,181 @@
 
 <script>
     let allWords = [];
-    let currentFilter = 'all';
     let catalogStructure = [];
-    let currentPageNum = 1;
-    let pageSize = 10;
     let filteredWords = [];
+    let currentFilter = 'all';
+    let currentPage = 1;
+    let pageSize = 10;
+    let currentView = 'list';
+    let currentDetailIndex = -1;
+    let lastListPosition = { page: 1, scrollTop: 0 };
     let speechSynth = window.speechSynthesis;
     let isReadingAll = false;
     let readAllIndex = 0;
-    let currentView = 'list';
-    let lastListPosition = { page: 1, scrollTop: 0 };
-    let currentDetailIndex = -1;
+    let expandedNodes = new Set();
 
-    marked.setOptions({
-        breaks: true,
-        gfm: true
-    });
+    marked.setOptions({ breaks: true, gfm: true });
 
     async function init() {
         try {
-            const response = await fetch('/api/all-words');
-            allWords = await response.json();
-            console.log('✅ 加载单词数量:', allWords.length);
+            const [wordsRes, catalogRes] = await Promise.all([
+                fetch('/api/all-words'),
+                fetch('/api/catalog')
+            ]);
+            allWords = await wordsRes.json();
+            catalogStructure = await catalogRes.json();
 
-            await loadCatalog();
+            console.log('\u2705 \u52a0\u8f7d\u5b8c\u6210:', allWords.length, '\u4e2a\u5355\u8bcd');
 
-            filteredWords = [...allWords];
-            if (filteredWords.length > 0) {
-                showPage(1);
-            }
-        } catch (error) {
-            console.error('❌ 加载失败:', error);
-            document.getElementById('catalogContainer').innerHTML =
-                '<div class="no-data"><div class="icon">⚠️</div><p>加载失败，请刷新重试</p></div>';
-        }
-    }
-
-    async function loadCatalog() {
-        try {
-            const response = await fetch('/api/catalog');
-            catalogStructure = await response.json();
-            console.log('✅ 加载导航结构:', catalogStructure);
-            renderCatalog(catalogStructure);
-        } catch (error) {
-            console.error('❌ 加载导航失败:', error);
-            document.getElementById('catalogContainer').innerHTML =
-                '<div class="no-data"><div class="icon">⚠️</div><p>导航加载失败</p></div>';
-        }
-    }
-
-    // ==================== 通过ID精确跳转 ====================
-    async function showWordDetailById(wordId) {
-        console.log(`🔍 通过ID精确查找: ${wordId}`);
-
-        try {
-            const response = await fetch(`/api/word/id/${wordId}`);
-            if (response.ok) {
-                const word = await response.json();
-                console.log(`✅ 找到单词: ${word.word}, 序号=${word.sortOrder}`);
-
-                const currentIndex = filteredWords.findIndex(w => w.id === word.id);
-
-                currentView = 'detail';
-                currentDetailIndex = currentIndex >= 0 ? currentIndex : 0;
-                document.getElementById('pagination').style.display = 'none';
-                document.getElementById('backToListBtn').style.display = 'inline-block';
-                document.getElementById('contentTitle').textContent = '单词详情';
-
-                renderWordContentWithNav(word, currentDetailIndex);
-                highlightCurrentWordInList(word.word, word.sortOrder, word.id);
-            } else {
-                const word = allWords.find(w => w.id === wordId);
-                if (word) {
-                    showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
+            const numberMap = buildNumberMap(catalogStructure);
+            allWords = allWords.map(word => {
+                const key = word.word.toLowerCase();
+                if (numberMap[key]) {
+                    word.number = numberMap[key];
+                } else if (word.content) {
+                    const match = word.content.match(/^(\d{3})/);
+                    if (match) {
+                        word.number = match[1];
+                    }
                 }
-            }
-        } catch (error) {
-            const word = allWords.find(w => w.id === wordId);
-            if (word) {
-                showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
-            }
-        }
-    }
-
-    function showWordDetailByWordAndSortOrder(wordName, sortOrder) {
-        let targetWord = allWords.find(w => w.word === wordName && w.sortOrder === sortOrder);
-        if (!targetWord) {
-            targetWord = allWords.find(w => w.word === wordName);
-        }
-        if (targetWord) {
-            const currentIndex = filteredWords.findIndex(w => w.id === targetWord.id);
-            currentView = 'detail';
-            currentDetailIndex = currentIndex >= 0 ? currentIndex : 0;
-            document.getElementById('pagination').style.display = 'none';
-            document.getElementById('backToListBtn').style.display = 'inline-block';
-            document.getElementById('contentTitle').textContent = '单词详情';
-            renderWordContentWithNav(targetWord, currentDetailIndex);
-            highlightCurrentWordInList(targetWord.word, targetWord.sortOrder, targetWord.id);
-        }
-    }
-
-    function highlightCurrentWordInList(wordName, sortOrder, wordId) {
-        requestAnimationFrame(() => {
-            document.querySelectorAll('.catalog-word-item').forEach(item => {
-                item.classList.remove('active');
+                return word;
             });
 
-            let activeItem = null;
-            if (wordId) {
-                activeItem = document.querySelector(`.catalog-word-item[data-word-id="${wordId}"]`);
-            }
-            if (!activeItem && sortOrder !== undefined) {
-                activeItem = document.querySelector(
-                    `.catalog-word-item[data-word-name="${wordName}"][data-sort-order="${sortOrder}"]`
-                );
-            }
-            if (!activeItem) {
-                activeItem = document.querySelector(`.catalog-word-item[data-word-name="${wordName}"]`);
-            }
-            if (activeItem) {
-                activeItem.classList.add('active');
-                activeItem.scrollIntoView({ block: 'center', behavior: 'smooth' });
-            }
-        });
+            console.log('\u6837\u4f8b\u5355\u8bcd:', allWords.slice(0, 3));
+
+            renderCatalog(catalogStructure);
+            filteredWords = [...allWords];
+            if (filteredWords.length > 0) showPage(1);
+        } catch (error) {
+            console.error('\u274c \u52a0\u8f7d\u5931\u8d25:', error);
+            document.getElementById('catalogContainer').innerHTML = '<div class="no-data"><div class="icon">\u26a0\ufe0f</div><p>\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u5237\u65b0\u91cd\u8bd5</p></div>';
+        }
     }
 
-    // ==================== 渲染目录（保持原始样式） ====================
-    function renderCatalog(structure) {
-        const container = document.getElementById('catalogContainer');
-        container.innerHTML = '';
+    function buildNumberMap(nodes, map = {}) {
+        for (const node of nodes) {
+            if (node.words) {
+                for (const word of node.words) {
+                    if (word.word && word.number) {
+                        map[word.word.toLowerCase()] = word.number;
+                    }
+                }
+            }
+            if (node.children) {
+                buildNumberMap(node.children, map);
+            }
+        }
+        return map;
+    }
 
-        if (!structure || structure.length === 0) {
-            container.innerHTML = '<div class="no-data"><div class="icon">📂</div><p>暂无分类数据</p></div>';
-            return;
+
+    function renderCatalog(nodes, level = 1, container = null) {
+        if (!container) {
+            container = document.getElementById('catalogContainer');
+            container.innerHTML = '';
+            if (!nodes || nodes.length === 0) {
+                container.innerHTML = '<div class="no-data"><div class="icon">\ud83d\udcc2</div><p>\u6682\u65e0\u6570\u636e</p></div>';
+                return;
+            }
+            if (nodes.length === 1 && nodes[0].level === 1) {
+                const rootNode = nodes[0];
+                if (rootNode.title && (rootNode.title.includes('自考') || rootNode.title.includes('四层'))) {
+                    nodes = rootNode.children || [];
+                }
+            }
         }
 
-        structure.forEach((layer1, idx1) => {
-            const layer1Div = document.createElement('div');
-            layer1Div.className = 'catalog-level1';
+        const fragment = document.createDocumentFragment();
 
-            const layer1Title = document.createElement('div');
-            layer1Title.className = 'catalog-level1-title';
-            layer1Title.innerHTML = `<span>${layer1.title}</span><span class="arrow">▶</span>`;
-            layer1Title.onclick = (e) => {
-                e.stopPropagation();
-                layer1Title.classList.toggle('expanded');
-                layer1Div.querySelector('.catalog-level2-container').classList.toggle('expanded');
-            };
-            layer1Div.appendChild(layer1Title);
+        for (const node of nodes) {
+            const nodeDiv = document.createElement('div');
+            nodeDiv.className = `catalog-node level-${Math.min(level, 6)}`;
 
-            const layer2Container = document.createElement('div');
-            layer2Container.className = 'catalog-level2-container';
+            const titleDiv = document.createElement('div');
+            titleDiv.className = 'catalog-title';
 
-            if (layer1.children && layer1.children.length > 0) {
-                layer1.children.forEach((layer2) => {
-                    const layer2Div = document.createElement('div');
-                    layer2Div.className = 'catalog-level2';
+            const hasChildren = node.children && node.children.length > 0;
+            const hasWords = node.words && node.words.length > 0;
+            const isExpandable = hasChildren || hasWords;
+            const nodeId = `node-${level}-${node.title}`;
 
-                    const layer2Title = document.createElement('div');
-                    layer2Title.className = 'catalog-level2-title';
+            if (isExpandable) {
+                const textSpan = document.createElement('span');
+                textSpan.className = 'catalog-title-text';
+                textSpan.textContent = node.title;
+                titleDiv.appendChild(textSpan);
 
-                    const hasLayer3Children = layer2.children && layer2.children.length > 0;
-                    const hasLayer2Words = layer2.words && layer2.words.length > 0;
-                    const hasContent = hasLayer3Children || hasLayer2Words;
+                const arrowSpan = document.createElement('span');
+                arrowSpan.className = 'arrow';
+                arrowSpan.textContent = '\u25b6';
+                titleDiv.appendChild(arrowSpan);
 
-                    if (hasContent) {
-                        layer2Title.innerHTML = `<span>${layer2.title}</span><span class="arrow">▶</span>`;
-                        layer2Title.onclick = (e) => {
-                            e.stopPropagation();
-                            layer2Title.classList.toggle('expanded');
-                            if (hasLayer3Children) {
-                                layer2Div.querySelector('.catalog-level3-container').classList.toggle('expanded');
-                            } else if (hasLayer2Words) {
-                                layer2Div.querySelector('.catalog-words').classList.toggle('expanded');
-                            }
-                        };
+                const isExpanded = expandedNodes.has(nodeId) || level === 1;
+                if (isExpanded) {
+                    titleDiv.classList.add('expanded');
+                }
+
+                titleDiv.onclick = (e) => {
+                    e.stopPropagation();
+                    const isNowExpanded = titleDiv.classList.toggle('expanded');
+                    const childrenDiv = nodeDiv.querySelector('.catalog-children');
+                    if (childrenDiv) childrenDiv.classList.toggle('expanded');
+
+                    if (isNowExpanded) {
+                        expandedNodes.add(nodeId);
                     } else {
-                        layer2Title.textContent = layer2.title;
+                        expandedNodes.delete(nodeId);
                     }
-
-                    layer2Div.appendChild(layer2Title);
-
-                    if (hasLayer2Words) {
-                        const wordsDiv = document.createElement('div');
-                        wordsDiv.className = 'catalog-words';
-                        wordsDiv.classList.add('expanded');
-
-                        layer2.words.forEach(word => {
-                            const wordItem = createWordItem(word);
-                            wordsDiv.appendChild(wordItem);
-                        });
-
-                        layer2Div.appendChild(wordsDiv);
-                    }
-
-                    const layer3Container = document.createElement('div');
-                    layer3Container.className = 'catalog-level3-container';
-                    layer3Container.classList.add('expanded');
-
-                    if (hasLayer3Children) {
-                        layer2.children.forEach((layer3) => {
-                            const layer3Div = document.createElement('div');
-                            layer3Div.className = 'catalog-level3';
-
-                            const layer3Title = document.createElement('div');
-                            layer3Title.className = 'catalog-level3-title';
-
-                            const hasLayer3Words = layer3.words && layer3.words.length > 0;
-
-                            if (hasLayer3Words) {
-                                layer3Title.innerHTML = `<span>${layer3.title}</span><span class="arrow">▶</span>`;
-                                layer3Title.onclick = (e) => {
-                                    e.stopPropagation();
-                                    layer3Title.classList.toggle('expanded');
-                                    const wordsDiv = layer3Div.querySelector('.catalog-words');
-                                    if (wordsDiv) {
-                                        wordsDiv.classList.toggle('expanded');
-                                    }
-                                };
-                            } else {
-                                layer3Title.textContent = layer3.title;
-                            }
-
-                            layer3Div.appendChild(layer3Title);
-
-                            const wordsDiv = document.createElement('div');
-                            wordsDiv.className = 'catalog-words';
-                            wordsDiv.classList.add('expanded');
-
-                            if (hasLayer3Words) {
-                                layer3.words.forEach(word => {
-                                    const wordItem = createWordItem(word);
-                                    wordsDiv.appendChild(wordItem);
-                                });
-                            }
-
-                            layer3Div.appendChild(wordsDiv);
-                            layer3Container.appendChild(layer3Div);
-                        });
-                    }
-
-                    layer2Div.appendChild(layer3Container);
-                    layer2Container.appendChild(layer2Div);
-                });
-            } else if (layer1.words && layer1.words.length > 0) {
-                const wordsDiv = document.createElement('div');
-                wordsDiv.className = 'catalog-words';
-                wordsDiv.classList.add('expanded');
-
-                layer1.words.forEach(word => {
-                    const wordItem = createWordItem(word);
-                    wordsDiv.appendChild(wordItem);
-                });
-
-                layer2Container.appendChild(wordsDiv);
+                };
+            } else {
+                const textSpan = document.createElement('span');
+                textSpan.className = 'catalog-title-text';
+                textSpan.textContent = node.title;
+                titleDiv.appendChild(textSpan);
+                titleDiv.style.cursor = 'default';
             }
 
-            layer1Div.appendChild(layer2Container);
-            container.appendChild(layer1Div);
+            nodeDiv.appendChild(titleDiv);
 
-            if (idx1 === 0) {
-                layer1Title.classList.add('expanded');
-                layer2Container.classList.add('expanded');
+            if (isExpandable) {
+                const childrenContainer = document.createElement('div');
+                childrenContainer.className = 'catalog-children';
+
+                const isExpanded = expandedNodes.has(nodeId) || level === 1;
+                if (isExpanded) {
+                    childrenContainer.classList.add('expanded');
+                }
+
+                if (hasChildren) {
+                    renderCatalog(node.children, level + 1, childrenContainer);
+                }
+
+                if (hasWords) {
+                    for (const word of node.words) {
+                        const wordItem = createWordItem(word);
+                        childrenContainer.appendChild(wordItem);
+                    }
+                }
+
+                nodeDiv.appendChild(childrenContainer);
             }
-        });
+
+            fragment.appendChild(nodeDiv);
+        }
+
+        container.appendChild(fragment);
     }
 
-    // ==================== 创建单词项（保存ID） ====================
     function createWordItem(word) {
         const wordItem = document.createElement('div');
         wordItem.className = 'catalog-word-item';
 
-        const wordText = document.createElement('span');
-        const displayNumber = (word.number && word.number !== '000') ? `${word.number} ` : '';
-        wordText.textContent = `${displayNumber}${word.word}`;
+        const leftSpan = document.createElement('span');
+        const numberSpan = document.createElement('span');
+        numberSpan.className = 'word-number-badge';
+        numberSpan.textContent = word.number || String(word.sortOrder).padStart(3, '0');
+        leftSpan.appendChild(numberSpan);
+        leftSpan.appendChild(document.createTextNode(' ' + word.word));
 
         const speakIcon = document.createElement('span');
         speakIcon.className = 'speak-icon';
@@ -921,31 +846,149 @@
             speakWord(word.word);
         };
 
-        wordItem.appendChild(wordText);
+        wordItem.appendChild(leftSpan);
         wordItem.appendChild(speakIcon);
 
-        wordItem.dataset.wordId = word.id;
+        wordItem.dataset.wordId = word.id || '';
         wordItem.dataset.wordName = word.word;
         wordItem.dataset.sortOrder = word.sortOrder;
-        wordItem.dataset.number = word.number;
+        wordItem.dataset.number = word.number || '';
 
-        wordItem.onclick = (e) => {
-            e.preventDefault();
-            e.stopPropagation();
+        wordItem.onclick = () => {
+            console.log('\u70b9\u51fb\u5355\u8bcd:', word.word, 'ID:', word.id, 'number:', word.number, 'sortOrder:', word.sortOrder);
             if (word.id) {
-                showWordDetailById(word.id);
+                showWordById(word.id);
+            } else if (word.number) {
+                showWordByNumber(word.number, word.word);
             } else {
-                showWordDetailByWordAndSortOrder(word.word, word.sortOrder);
+                showWordBySortOrder(word.sortOrder);
             }
         };
 
         return wordItem;
     }
 
-    function speakWord(word) {
-        if (speechSynth.speaking) {
-            speechSynth.cancel();
+    async function showWordById(id) {
+        try {
+            console.log('\u901a\u8fc7ID\u67e5\u627e\u5355\u8bcd:', id);
+            const word = allWords.find(w => String(w.id) === String(id));
+            if (word) {
+                console.log('\u627e\u5230\u5355\u8bcd:', word.word);
+                displayWord(word);
+            } else {
+                console.warn('\u672a\u627e\u5230ID\u4e3a', id, '\u7684\u5355\u8bcd');
+            }
+        } catch (error) {
+            console.error('\u67e5\u627e\u5931\u8d25:', error);
         }
+    }
+
+    function showWordByNumber(number, wordName) {
+        console.log('\u901a\u8fc7number\u67e5\u627e:', number, wordName);
+        const word = allWords.find(w => w.content && w.content.startsWith(number));
+        if (word) {
+            console.log('\u627e\u5230\u5355\u8bcd:', word.word, 'ID:', word.id);
+            displayWord(word);
+        } else {
+            console.error('\u672a\u627e\u5230number\u4e3a', number, '\u7684\u5355\u8bcd');
+        }
+    }
+
+    function showWordBySortOrder(sortOrder) {
+        console.log('\u901a\u8fc7sortOrder\u67e5\u627e:', sortOrder);
+        const word = allWords.find(w => w.sortOrder == sortOrder);
+        if (word) {
+            console.log('\u627e\u5230\u5355\u8bcd:', word.word, 'ID:', word.id);
+            displayWord(word);
+        } else {
+            console.error('\u672a\u627e\u5230sortOrder\u4e3a', sortOrder, '\u7684\u5355\u8bcd');
+        }
+    }
+
+    function displayWord(word) {
+        const index = filteredWords.findIndex(w => w.id == word.id || String(w.id) === String(word.id));
+        currentView = 'detail';
+        currentDetailIndex = index >= 0 ? index : 0;
+
+        document.getElementById('pagination').style.display = 'none';
+        document.getElementById('backToListBtn').style.display = 'inline-block';
+        document.getElementById('contentTitle').textContent = '\u5355\u8bcd\u8be6\u60c5';
+
+        renderWordCard(word, currentDetailIndex);
+        highlightWord(word.id, word.word, word.sortOrder);
+    }
+
+    function renderWordCard(word, index) {
+        const container = document.getElementById('contentBody');
+        container.innerHTML = '';
+
+        const number = word.number || (word.content ? (word.content.match(/^(\d{3})/) || [])[1] : '') || String(word.sortOrder).padStart(3, '0');
+
+        const card = document.createElement('div');
+        card.className = 'word-card';
+        card.innerHTML = `
+            <div class="word-title">
+                <span class="word-number">${number}</span>
+                <span class="word-name">${word.word}</span>
+                <span class="word-pronunciation">${word.pronunciation || ''}</span>
+                <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">朗读</button>
+            </div>
+            ${word.definition ? `<div class="word-meta">${escapeHtml(word.definition)}</div>` : ''}
+            <div class="markdown-content">${marked.parse(word.content || '')}</div>
+            <div class="word-navigation">
+                <button class="nav-btn" id="prevBtn" ${index <= 0 ? 'disabled' : ''}>◀ 上一个</button>
+                <span class="nav-info">${index + 1} / ${filteredWords.length}</span>
+                <button class="nav-btn" id="nextBtn" ${index >= filteredWords.length - 1 ? 'disabled' : ''}>下一个 ▶</button>
+            </div>
+        `;
+
+        container.appendChild(card);
+
+        document.getElementById('prevBtn')?.addEventListener('click', () => {
+            if (index > 0) {
+                const prevWord = filteredWords[index - 1];
+                if (prevWord.id) showWordById(prevWord.id);
+                else if (prevWord.number) showWordByNumber(prevWord.number, prevWord.word);
+                else showWordBySortOrder(prevWord.sortOrder);
+            }
+        });
+        document.getElementById('nextBtn')?.addEventListener('click', () => {
+            if (index < filteredWords.length - 1) {
+                const nextWord = filteredWords[index + 1];
+                if (nextWord.id) showWordById(nextWord.id);
+                else if (nextWord.number) showWordByNumber(nextWord.number, nextWord.word);
+                else showWordBySortOrder(nextWord.sortOrder);
+            }
+        });
+    }
+
+    function escapeHtml(str) {
+        if (!str) return '';
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+
+    function highlightWord(id, wordName, sortOrder) {
+        document.querySelectorAll('.catalog-word-item').forEach(item => item.classList.remove('active'));
+        let target = document.querySelector(`.catalog-word-item[data-word-id="${id}"]`);
+        if (!target && id) {
+            target = document.querySelector(`.catalog-word-item[data-word-id="${id}"]`);
+        }
+        if (!target) {
+            target = document.querySelector(`.catalog-word-item[data-word-name="${wordName}"][data-sort-order="${sortOrder}"]`);
+        }
+        if (target) {
+            target.classList.add('active');
+            target.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        }
+    }
+
+    function speakWord(word) {
+        if (speechSynth.speaking) speechSynth.cancel();
         const utterance = new SpeechSynthesisUtterance(word);
         utterance.lang = 'en-US';
         utterance.rate = 0.8;
@@ -954,7 +997,6 @@
 
     function toggleReadAll() {
         const btn = document.getElementById('readAllBtn');
-
         if (isReadingAll) {
             speechSynth.cancel();
             isReadingAll = false;
@@ -962,7 +1004,6 @@
             btn.textContent = '全文朗读';
             return;
         }
-
         isReadingAll = true;
         readAllIndex = 0;
         btn.classList.add('reading');
@@ -975,252 +1016,80 @@
             toggleReadAll();
             return;
         }
-
-        const word = filteredWords[readAllIndex];
-        const utterance = new SpeechSynthesisUtterance(word.word);
+        const utterance = new SpeechSynthesisUtterance(filteredWords[readAllIndex].word);
         utterance.lang = 'en-US';
         utterance.rate = 0.8;
-
         utterance.onend = () => {
-            if (isReadingAll) {
-                readAllIndex++;
-                setTimeout(readNextWord, 300);
-            }
+            readAllIndex++;
+            setTimeout(readNextWord, 300);
         };
-
         speechSynth.speak(utterance);
     }
 
     function backToList() {
         currentView = 'list';
-        currentDetailIndex = -1;
         document.getElementById('backToListBtn').style.display = 'none';
         document.getElementById('contentTitle').textContent = '全部单词';
-
         showPage(lastListPosition.page);
-
         setTimeout(() => {
-            const contentBody = document.getElementById('contentBody');
-            contentBody.scrollTop = lastListPosition.scrollTop;
+            document.getElementById('contentBody').scrollTop = lastListPosition.scrollTop;
         }, 50);
-    }
-
-    function renderWordContentWithNav(word, currentIndex) {
-        const contentBody = document.getElementById('contentBody');
-        const contentTitle = document.getElementById('contentTitle');
-
-        contentTitle.textContent = '单词详情';
-        contentBody.innerHTML = '';
-
-        const card = document.createElement('div');
-        card.className = 'word-card';
-
-        let number = '';
-        if (word.content) {
-            const pattern1 = word.content.match(/^(\d{3})\s/);
-            const pattern2 = word.content.match(/^\*\*(\d{3})\s/);
-            const pattern3 = word.content.match(/^(\d{3})\s+\*\*/);
-            if (pattern1) number = pattern1[1];
-            else if (pattern2) number = pattern2[1];
-            else if (pattern3) number = pattern3[1];
-        }
-        if (!number && word.number) number = word.number;
-        if (!number && word.sortOrder != null) number = String(word.sortOrder).padStart(3, '0');
-
-        const header = document.createElement('div');
-        header.style.marginBottom = '20px';
-        header.style.borderBottom = '2px solid #e4e7ed';
-        header.style.paddingBottom = '15px';
-
-        const wordTitle = document.createElement('div');
-        wordTitle.className = 'word-title';
-
-        if (number && number !== '000') {
-            const numberBadge = document.createElement('span');
-            numberBadge.className = 'word-number';
-            numberBadge.textContent = number;
-            wordTitle.appendChild(numberBadge);
-        }
-
-        const wordText = document.createElement('span');
-        wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
-        wordTitle.appendChild(wordText);
-
-        const speakBtn = document.createElement('button');
-        speakBtn.className = 'speak-btn';
-        speakBtn.textContent = '朗读';
-        speakBtn.onclick = () => speakWord(word.word);
-        wordTitle.appendChild(speakBtn);
-
-        header.appendChild(wordTitle);
-
-        if (word.definition) {
-            const wordMeta = document.createElement('div');
-            wordMeta.className = 'word-meta';
-            wordMeta.style.marginTop = '10px';
-            wordMeta.textContent = word.definition;
-            header.appendChild(wordMeta);
-        }
-
-        const markdownContent = document.createElement('div');
-        markdownContent.className = 'markdown-content';
-        markdownContent.innerHTML = marked.parse(word.content || '');
-
-        card.appendChild(header);
-        card.appendChild(markdownContent);
-
-        const navigation = document.createElement('div');
-        navigation.className = 'word-navigation';
-
-        const prevBtn = document.createElement('button');
-        prevBtn.className = 'nav-btn';
-        prevBtn.innerHTML = '◀ 上一个';
-        prevBtn.disabled = currentIndex <= 0;
-        prevBtn.onclick = () => {
-            if (currentIndex > 0) {
-                const prevWord = filteredWords[currentIndex - 1];
-                showWordDetailById(prevWord.id);
-            }
-        };
-
-        const navInfo = document.createElement('span');
-        navInfo.className = 'nav-info';
-        navInfo.textContent = `${currentIndex + 1} / ${filteredWords.length}`;
-
-        const nextBtn = document.createElement('button');
-        nextBtn.className = 'nav-btn';
-        nextBtn.innerHTML = '下一个 ▶';
-        nextBtn.disabled = currentIndex >= filteredWords.length - 1;
-        nextBtn.onclick = () => {
-            if (currentIndex < filteredWords.length - 1) {
-                const nextWord = filteredWords[currentIndex + 1];
-                showWordDetailById(nextWord.id);
-            }
-        };
-
-        navigation.appendChild(prevBtn);
-        navigation.appendChild(navInfo);
-        navigation.appendChild(nextBtn);
-        card.appendChild(navigation);
-
-        contentBody.appendChild(card);
-
-        highlightCurrentWordInList(word.word, word.sortOrder, word.id);
     }
 
     function showPage(page) {
         currentView = 'list';
-        currentDetailIndex = -1;
-        const totalPages = Math.ceil(filteredWords.length / pageSize);
-        if (totalPages === 0) {
+        const total = Math.ceil(filteredWords.length / pageSize);
+        if (total === 0) {
             document.getElementById('pagination').style.display = 'none';
+            document.getElementById('contentBody').innerHTML = '<div class="no-data"><div class="icon">🔍</div><p>没有找到单词</p></div>';
             return;
         }
+        page = Math.min(Math.max(1, page), total);
+        currentPage = page;
 
-        if (page < 1) page = 1;
-        if (page > totalPages) page = totalPages;
-
-        currentPageNum = page;
         const start = (page - 1) * pageSize;
         const end = start + pageSize;
-        const pageWords = filteredWords.slice(start, end);
-
-        renderContent(pageWords);
+        renderWordList(filteredWords.slice(start, end));
 
         document.getElementById('currentPage').textContent = page;
-        document.getElementById('totalPages').textContent = totalPages;
+        document.getElementById('totalPages').textContent = total;
         document.getElementById('prevBtn').disabled = page === 1;
-        document.getElementById('nextBtn').disabled = page === totalPages;
+        document.getElementById('nextBtn').disabled = page === total;
         document.getElementById('pagination').style.display = 'flex';
 
-        if (currentView === 'list') {
-            lastListPosition.page = page;
-        }
+        if (currentView === 'list') lastListPosition.page = page;
     }
 
-    function prevPage() {
-        if (currentPageNum > 1) {
-            showPage(currentPageNum - 1);
-        }
-    }
-
-    function nextPage() {
-        const totalPages = Math.ceil(filteredWords.length / pageSize);
-        if (currentPageNum < totalPages) {
-            showPage(currentPageNum + 1);
-        }
-    }
-
-    function jumpToPage() {
-        const input = document.getElementById('jumpPage');
-        const page = parseInt(input.value);
-        const totalPages = Math.ceil(filteredWords.length / pageSize);
-
-        if (page >= 1 && page <= totalPages) {
-            showPage(page);
-            input.value = '';
-        } else {
-            alert(`请输入 1-${totalPages} 之间的页码`);
-        }
-    }
-
-    function renderContent(words) {
-        const contentBody = document.getElementById('contentBody');
-        contentBody.innerHTML = '';
-
-        if (!words || words.length === 0) {
-            contentBody.innerHTML = `
-                <div class="no-data">
-                    <div class="icon">🔍</div>
-                    <p>没有找到匹配的单词</p>
-                </div>
-            `;
-            return;
-        }
-
-        words.forEach(word => {
+    function renderWordList(words) {
+        const container = document.getElementById('contentBody');
+        container.innerHTML = '';
+        for (const word of words) {
+            const number = word.number || (word.content ? (word.content.match(/^(\d{3})/) || [])[1] : '');
             const card = document.createElement('div');
             card.className = 'word-card';
-
-            const numberMatch = word.content ? word.content.match(/^(\d{3})/) : null;
-            const number = numberMatch ? numberMatch[1] : '';
-
-            const header = document.createElement('div');
-            header.style.marginBottom = '15px';
-
-            const wordTitle = document.createElement('div');
-            wordTitle.className = 'word-title';
-
-            if (number && number !== '000') {
-                const numberBadge = document.createElement('span');
-                numberBadge.className = 'word-number';
-                numberBadge.textContent = number;
-                wordTitle.appendChild(numberBadge);
-            }
-
-            const wordText = document.createElement('span');
-            wordText.textContent = `${word.word} ${word.pronunciation || ''}`;
-            wordTitle.appendChild(wordText);
-
-            const speakBtn = document.createElement('button');
-            speakBtn.className = 'speak-btn';
-            speakBtn.textContent = '朗读';
-            speakBtn.onclick = () => speakWord(word.word);
-            wordTitle.appendChild(speakBtn);
-
-            header.appendChild(wordTitle);
-            card.appendChild(header);
-
-            const markdownContent = document.createElement('div');
-            markdownContent.className = 'markdown-content';
-            markdownContent.innerHTML = marked.parse(word.content || `单词：${word.word}`);
-
-            card.appendChild(markdownContent);
-            contentBody.appendChild(card);
-        });
+            card.innerHTML = `
+                <div class="word-title">
+                    ${number ? `<span class="word-number">${number}</span>` : ''}
+                    <span class="word-name">${word.word}</span>
+                    <span class="word-pronunciation">${word.pronunciation || ''}</span>
+                    <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">朗读</button>
+                </div>
+                ${word.definition ? `<div class="word-meta">${escapeHtml(word.definition)}</div>` : ''}
+                <div class="markdown-content">${marked.parse(word.content || '')}</div>
+            `;
+            container.appendChild(card);
+        }
     }
 
-    let searchTimer = null;
+    function prevPage() { if (currentPage > 1) showPage(currentPage - 1); }
+    function nextPage() { const total = Math.ceil(filteredWords.length / pageSize); if (currentPage < total) showPage(currentPage + 1); }
+    function jumpToPage() {
+        const page = parseInt(document.getElementById('jumpPage').value);
+        const total = Math.ceil(filteredWords.length / pageSize);
+        if (page >= 1 && page <= total) { showPage(page); document.getElementById('jumpPage').value = ''; }
+    }
+
+    let searchTimer;
     function handleSearch(keyword) {
         clearTimeout(searchTimer);
         searchTimer = setTimeout(() => {
@@ -1228,78 +1097,43 @@
                 handleFilter(currentFilter);
                 return;
             }
-
-            const searchKeyword = keyword.toLowerCase().trim();
-
-            let exactMatch = allWords.find(w =>
-                w.word && w.word.toLowerCase() === searchKeyword
-            );
-
-            if (exactMatch) {
-                lastListPosition = {
-                    page: currentPageNum,
-                    scrollTop: document.getElementById('contentBody').scrollTop
-                };
-                showWordDetailById(exactMatch.id);
+            const kw = keyword.toLowerCase().trim();
+            const exact = allWords.find(w => w.word.toLowerCase() === kw);
+            if (exact) {
+                lastListPosition = { page: currentPage, scrollTop: document.getElementById('contentBody').scrollTop };
+                showWordById(exact.id);
                 return;
             }
-
-            filteredWords = allWords.filter(w => {
-                const wordMatch = w.word && w.word.toLowerCase().includes(searchKeyword);
-                const definitionMatch = w.definition && w.definition.toLowerCase().includes(searchKeyword);
-                const contentMatch = w.content && w.content.toLowerCase().includes(searchKeyword);
-                return wordMatch || definitionMatch || contentMatch;
-            });
-
-            document.getElementById('contentTitle').textContent =
-                `搜索结果：${filteredWords.length} 个单词`;
+            filteredWords = allWords.filter(w =>
+                w.word.toLowerCase().includes(kw) ||
+                (w.definition && w.definition.toLowerCase().includes(kw)) ||
+                (w.content && w.content.toLowerCase().includes(kw))
+            );
+            document.getElementById('contentTitle').textContent = `搜索结果：${filteredWords.length} 个单词`;
             document.getElementById('backToListBtn').style.display = 'none';
-            currentView = 'list';
-            currentPageNum = 1;
+            currentPage = 1;
             showPage(1);
         }, 300);
     }
 
     function handleFilter(value) {
         currentFilter = value;
-        currentView = 'list';
-        currentDetailIndex = -1;
         document.getElementById('backToListBtn').style.display = 'none';
 
         if (value === 'all') {
             filteredWords = [...allWords];
+            document.getElementById('contentTitle').textContent = '全部单词';
         } else {
-            const layerMap = {
-                'layer1': '一、基础必备层',
-                'layer2': '二、核心高频层',
-                'layer3': '三、高频进阶层',
-                'layer4': '四、低频储备层'
-            };
-
-            const layerKeyword = layerMap[value];
-            filteredWords = allWords.filter(word => {
-                return word.layer1 && word.layer1.includes(layerKeyword);
-            });
+            const map = { layer1: '一、基础必备层', layer2: '二、核心高频层', layer3: '三、高频进阶层', layer4: '四、低频储备层' };
+            const keyword = map[value];
+            filteredWords = allWords.filter(w => w.layer1 && w.layer1.includes(keyword));
+            const titles = { layer1: '🌟 一、基础必备层（800词）', layer2: '⭐ 二、核心高频层（2000词）', layer3: '✨ 三、高频进阶层（1200词）', layer4: '💫 四、低频储备层（1000词）' };
+            document.getElementById('contentTitle').textContent = titles[value];
         }
 
-        const titleMap = {
-            'all': '全部单词',
-            'layer1': '一、基础必备层（800词）',
-            'layer2': '二、核心高频层（2000词）',
-            'layer3': '三、高频进阶层（1200词）',
-            'layer4': '四、低频储备层（1000词）'
-        };
-
-        document.getElementById('contentTitle').textContent = titleMap[value];
-        currentPageNum = 1;
-
+        currentPage = 1;
         if (filteredWords.length === 0) {
-            document.getElementById('contentBody').innerHTML = `
-                <div class="no-data">
-                    <div class="icon">🔍</div>
-                    <p>该分类下暂无单词</p>
-                </div>
-            `;
+            document.getElementById('contentBody').innerHTML = '<div class="no-data"><div class="icon">🔍</div><p>该分类下暂无单词</p></div>';
             document.getElementById('pagination').style.display = 'none';
         } else {
             showPage(1);
