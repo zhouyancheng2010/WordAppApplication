@@ -6,6 +6,7 @@ import jakarta.annotation.PostConstruct;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.support.TransactionTemplate;
@@ -21,63 +22,65 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-@Component
-public class FileChangeScheduler {
-    @Autowired
-    private WordRepository wordRepository;
+    @Component
+    public class FileChangeScheduler {
+        @Autowired
+        private WordRepository wordRepository;
 
-    @PersistenceContext
-    private EntityManager entityManager;
+        @PersistenceContext
+        private EntityManager entityManager;
 
-    @Autowired
-    private TransactionTemplate transactionTemplate;
+        @Autowired
+        private TransactionTemplate transactionTemplate;
 
-    private Path filePath;
-    private long lastModified = 0;
+        @Value("${app.file-md-path:}")
+        private String configuredFilePath;
 
-    @PostConstruct
-    public void init() {
-        try {
-            /*从资源库读取file.md文件
-            filePath = Paths.get(System.getProperty("user.dir"), "src", "main", "resources", "file.md");
-            System.out.println("📂 尝试从路径加载: " + filePath.toAbsolutePath());
-            */
+        private Path filePath;
+        private long lastModified = 0;
 
-            //从jar包同级目录读取file.md文件
-            filePath = Paths.get(System.getProperty("user.dir"), "file.md");
-            System.out.println("📂 工作目录: " + System.getProperty("user.dir"));
-            System.out.println("📂 file.md路径: " + filePath.toAbsolutePath());
+        @PostConstruct
+        public void init() {
+            try {
+                if (configuredFilePath != null && !configuredFilePath.isEmpty()) {
+                    filePath = Paths.get(configuredFilePath);
+                    System.out.println("📂 使用配置的路径: " + filePath.toAbsolutePath());
 
-            //以下代码不变
-            if (Files.exists(filePath)) {
-                System.out.println("✅ 文件存在，开始同步...");
-                lastModified = Files.getLastModifiedTime(filePath).toMillis();
-                parseAndSaveWords();
-            } else {
-                System.err.println("❌ 文件不存在: " + filePath.toAbsolutePath());
-                tryLoadFromClasspath();
+                    if (Files.exists(filePath)) {
+                        System.out.println("✅ 外部文件存在，开始同步...");
+                        lastModified = Files.getLastModifiedTime(filePath).toMillis();
+                        parseAndSaveWords();
+                    } else {
+                        System.err.println("❌ 外部文件不存在: " + filePath.toAbsolutePath());
+                        tryLoadFromClasspath();
+                    }
+                } else {
+                    System.out.println("📂 未配置外部路径，从 classpath 加载...");
+                    tryLoadFromClasspath();
+                }
+            } catch (IOException e) {
+                System.err.println("❌ 初始化文件监控失败: " + e.getMessage());
+                e.printStackTrace();
             }
-        } catch (IOException e) {
-            System.err.println("❌ 初始化文件监控失败: " + e.getMessage());
-            e.printStackTrace();
         }
-    }
 
-    private void tryLoadFromClasspath() {
-        try {
-            System.out.println("📂 尝试从 classpath 加载...");
-            InputStream is = getClass().getClassLoader().getResourceAsStream("file.md");
-            if (is != null) {
-                String content = new String(is.readAllBytes(), StandardCharsets.UTF_8);
-                System.out.println("✅ 从 classpath 加载成功，文件大小: " + content.length() + " 字符");
-                parseContent(content);
-            } else {
-                System.err.println("❌ 无法从 classpath 找到 file.md");
+
+        private void tryLoadFromClasspath() {
+            try {
+                System.out.println("📂 尝试从 classpath 加载...");
+                InputStream is = getClass().getClassLoader().getResourceAsStream("file.md");
+                if (is != null) {
+                    String content = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+                    System.out.println("✅ 从 classpath 加载成功，文件大小: " + content.length() + " 字符");
+                    parseContent(content);
+                    filePath = null;
+                } else {
+                    System.err.println("❌ 无法从 classpath 找到 file.md");
+                }
+            } catch (Exception e) {
+                System.err.println("❌ 从 classpath 加载失败: " + e.getMessage());
             }
-        } catch (Exception e) {
-            System.err.println("❌ 从 classpath 加载失败: " + e.getMessage());
         }
-    }
 
     @Scheduled(fixedRate = 5000)
     public void checkFileChange() {

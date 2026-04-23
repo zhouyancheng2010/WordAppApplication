@@ -52,17 +52,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-
-        <!--打jar包排除file.md文件-->
-        <resources>
-            <resource>
-                <directory>src/main/resources</directory>
-                <excludes>
-                    <exclude>file.md</exclude>
-                </excludes>
-            </resource>
-        </resources>
-        <!--打jar包排除file.md文件结束-->
     </build>
 
 </project>
