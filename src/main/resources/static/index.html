@@ -275,6 +275,30 @@
             border-color: #667eea;
         }
 
+        .export-btn {
+            padding: 6px 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .export-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+        }
+
+        .export-group {
+            display: flex;
+            gap: 8px;
+        }
+
         .content-body {
             flex: 1;
             overflow-y: auto;
@@ -635,6 +659,12 @@
             <h2 id="contentTitle">单词详情</h2>
             <div class="filter-controls">
                 <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">全文朗读</button>
+                <div class="export-group">
+                    <button class="export-btn" onclick="exportFile('md')">📄 MD</button>
+                    <button class="export-btn" onclick="exportFile('pdf')">📕 PDF</button>
+                    <button class="export-btn" onclick="exportFile('word')">📘 Word</button>
+                    <button class="export-btn" onclick="exportFile('excel')">📗 Excel</button>
+                </div>
                 <button id="backToListBtn" class="back-btn" onclick="backToList()">返回列表</button>
                 <select id="filterSelect" onchange="handleFilter(this.value)">
                     <option value="all">全部显示</option>
@@ -1138,6 +1168,23 @@
         } else {
             showPage(1);
         }
+    }
+
+    function exportFile(format) {
+        const urlMap = {
+            'md': '/api/export/md',
+            'pdf': '/api/export/pdf',
+            'word': '/api/export/word',
+            'excel': '/api/export/excel'
+        };
+
+        const url = urlMap[format];
+        if (!url) {
+            alert('不支持的格式');
+            return;
+        }
+
+        window.open(url, '_blank');
     }
 
     init();

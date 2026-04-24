@@ -68,4 +68,41 @@ public class WordController {
     public List<Map<String, Object>> getCatalogStructure() {
         return wordService.buildCatalogStructure();
     }
+
+    @GetMapping("/export/md")
+    public ResponseEntity<byte[]> exportMarkdown() {
+        byte[] mdContent = wordService.exportToMarkdown();
+        return ResponseEntity.ok()
+                .header("Content-Type", "application/octet-stream")
+                .header("Content-Disposition", "attachment; filename*=UTF-8''%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.md")
+                .body(mdContent);
+    }
+
+    @GetMapping("/export/pdf")
+    public ResponseEntity<byte[]> exportPdf() {
+        byte[] pdfContent = wordService.exportToPdf();
+        return ResponseEntity.ok()
+                .header("Content-Type", "application/octet-stream")
+                .header("Content-Disposition", "attachment; filename*=UTF-8''%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.pdf")
+                .body(pdfContent);
+    }
+
+    @GetMapping("/export/word")
+    public ResponseEntity<byte[]> exportWord() {
+        byte[] wordContent = wordService.exportToWord();
+        return ResponseEntity.ok()
+                .header("Content-Type", "application/octet-stream")
+                .header("Content-Disposition", "attachment; filename*=UTF-8''%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.docx")
+                .body(wordContent);
+    }
+
+    @GetMapping("/export/excel")
+    public ResponseEntity<byte[]> exportExcel() {
+        byte[] excelContent = wordService.exportToExcel();
+        return ResponseEntity.ok()
+                .header("Content-Type", "application/octet-stream")
+                .header("Content-Disposition", "attachment; filename*=UTF-8''%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.xlsx")
+                .body(excelContent);
+    }
+
 }
