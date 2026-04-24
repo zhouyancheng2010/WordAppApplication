@@ -1,0 +1,62 @@
+2026-04-23T14:03:58.990+08:00  INFO 7780 --- [main] com.example.WordAppApplication           : Starting WordAppApplication using Java 17.0.16 with PID 7780 (D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication\target\classes started by Administrator in D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication)
+2026-04-23T14:03:58.992+08:00 DEBUG 7780 --- [main] com.example.WordAppApplication           : Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-04-23T14:03:58.993+08:00  INFO 7780 --- [main] com.example.WordAppApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-04-23T14:03:59.720+08:00  INFO 7780 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-04-23T14:03:59.785+08:00  INFO 7780 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2026-04-23T14:04:00.428+08:00  INFO 7780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2026-04-23T14:04:00.442+08:00  INFO 7780 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-23T14:04:00.443+08:00  INFO 7780 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-04-23T14:04:00.531+08:00  INFO 7780 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-23T14:04:00.532+08:00  INFO 7780 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1495 ms
+2026-04-23T14:04:00.733+08:00  INFO 7780 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-04-23T14:04:00.815+08:00  INFO 7780 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-04-23T14:04:00.855+08:00  INFO 7780 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-04-23T14:04:01.131+08:00  INFO 7780 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-04-23T14:04:01.163+08:00  INFO 7780 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-04-23T14:04:01.326+08:00  INFO 7780 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18026052
+2026-04-23T14:04:01.329+08:00  INFO 7780 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-04-23T14:04:01.404+08:00  WARN 7780 --- [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-04-23T14:04:02.319+08:00  INFO 7780 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-04-23T14:04:02.366+08:00  INFO 7780 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-04-23T14:04:02.696+08:00  INFO 7780 --- [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-04-23T14:04:03.113+08:00  WARN 7780 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-04-23T14:04:03.137+08:00  INFO 7780 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2026-04-23T14:04:03.591+08:00  INFO 7780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2026-04-23T14:04:03.616+08:00  INFO 7780 --- [main] com.example.WordAppApplication           : Started WordAppApplication in 5.099 seconds (process running for 5.685)
+2026-04-23T14:04:40.705+08:00  INFO 11964 --- [main] com.example.WordAppApplicationTests      : Starting WordAppApplicationTests using Java 17.0.16 with PID 11964 (started by Administrator in D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(Դ����)\WordAppApplication)
+2026-04-23T14:04:40.707+08:00 DEBUG 11964 --- [main] com.example.WordAppApplicationTests      : Running with Spring Boot v3.2.4, Spring v6.1.5
+2026-04-23T14:04:40.709+08:00  INFO 11964 --- [main] com.example.WordAppApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2026-04-23T14:04:41.951+08:00  INFO 11964 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-04-23T14:04:42.053+08:00  INFO 11964 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 90 ms. Found 1 JPA repository interface.
+2026-04-23T14:04:42.866+08:00  INFO 11964 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-04-23T14:04:42.989+08:00  INFO 11964 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-04-23T14:04:43.053+08:00  INFO 11964 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-04-23T14:04:43.505+08:00  INFO 11964 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-04-23T14:04:43.548+08:00  INFO 11964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-04-23T14:04:43.821+08:00  INFO 11964 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64bba0eb
+2026-04-23T14:04:43.824+08:00  INFO 11964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-04-23T14:04:43.896+08:00  WARN 11964 --- [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-04-23T14:04:45.219+08:00  INFO 11964 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-04-23T14:04:45.289+08:00  INFO 11964 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-04-23T14:04:45.810+08:00  INFO 11964 --- [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2026-04-23T14:04:46.794+08:00  WARN 11964 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-04-23T14:04:46.836+08:00  INFO 11964 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2026-04-23T14:04:48.629+08:00  INFO 11964 --- [main] com.example.WordAppApplicationTests      : Started WordAppApplicationTests in 8.364 seconds (process running for 9.724)
+2026-04-23T14:04:59.446+08:00  INFO 11964 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-04-23T14:04:59.449+08:00  INFO 11964 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-04-23T14:04:59.500+08:00  INFO 11964 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-04-23T14:09:32.563+08:00  INFO 7780 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-04-23T14:09:32.571+08:00  INFO 7780 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-04-23T14:09:32.606+08:00  INFO 7780 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-04-23 14:09:51 [main] INFO  com.example.WordAppApplication - Starting WordAppApplication using Java 17.0.16 with PID 8052 (D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication\target\classes started by Administrator in D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication)
+2026-04-23 14:09:51 [main] INFO  com.example.WordAppApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-23 14:09:53 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-04-23 14:09:55 [main] INFO  com.example.WordAppApplication - Started WordAppApplication in 5.154 seconds (process running for 5.756)
+2026-04-23 14:11:44 [main] INFO  com.example.WordAppApplicationTests - Starting WordAppApplicationTests using Java 17.0.16 with PID 13272 (started by Administrator in D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(Դ����)\WordAppApplication)
+2026-04-23 14:11:44 [main] INFO  com.example.WordAppApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-04-23 14:11:47 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-04-23 14:11:51 [main] INFO  com.example.WordAppApplicationTests - Started WordAppApplicationTests in 7.574 seconds (process running for 9.166)
+2026-04-23 14:51:08 [main] INFO  com.example.WordAppApplication - Starting WordAppApplication using Java 17.0.16 with PID 3632 (D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication\target\classes started by Administrator in D:\Program Files\CustomSoftware\WordApp\0-WordAppApplication(源代码)\WordAppApplication)
+2026-04-23 14:51:08 [main] INFO  com.example.WordAppApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-23 14:51:12 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-04-23 14:51:15 [main] INFO  com.example.WordAppApplication - Started WordAppApplication in 8.314 seconds (process running for 10.885)
