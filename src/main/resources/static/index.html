@@ -637,9 +637,195 @@
                 padding: 10px;
             }
         }
+
+        @media (max-width: 768px) {
+            .app-container {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                height: 35vh;
+                border-right: none;
+                border-bottom: 1px solid #e4e7ed;
+            }
+
+            .sidebar-header {
+                padding: 12px 15px;
+            }
+
+            .sidebar-header h1 {
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+
+            .search-box input {
+                padding: 8px 12px 8px 34px;
+                font-size: 13px;
+            }
+
+            .catalog-title {
+                padding: 10px 15px !important;
+                font-size: 14px !important;
+            }
+
+            .catalog-word-item {
+                padding: 8px 15px !important;
+                font-size: 13px;
+            }
+
+            .content-header {
+                padding: 10px 15px;
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+
+            .content-header h2 {
+                font-size: 16px;
+                width: 100%;
+            }
+
+            .filter-controls {
+                width: 100%;
+                justify-content: space-between;
+                flex-wrap: wrap;
+            }
+
+            .export-group {
+                order: 1;
+                width: 100%;
+                display: flex;
+                gap: 6px;
+            }
+
+            .export-btn {
+                flex: 1;
+                padding: 8px 10px;
+                font-size: 12px;
+                justify-content: center;
+            }
+
+            .read-all-btn {
+                flex: 1;
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            #filterSelect {
+                flex: 2;
+                padding: 8px 10px;
+                font-size: 13px;
+            }
+
+            .back-btn {
+                flex: 1;
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            .content-body {
+                padding: 10px;
+            }
+
+            .word-card {
+                padding: 14px 16px;
+                margin-bottom: 12px;
+            }
+
+            .word-card .word-title {
+                font-size: 18px;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 6px;
+            }
+
+            .word-card .word-pronunciation {
+                font-size: 14px;
+            }
+
+            .speak-btn {
+                padding: 6px 14px 6px 24px;
+                font-size: 13px;
+                width: 100%;
+                justify-content: center;
+            }
+
+            .word-card .markdown-content {
+                font-size: 14px;
+            }
+
+            .word-navigation {
+                gap: 8px;
+                padding: 10px 0;
+            }
+
+            .nav-btn {
+                padding: 8px 14px;
+                font-size: 13px;
+                flex: 1;
+                justify-content: center;
+            }
+
+            .nav-info {
+                font-size: 13px;
+            }
+
+            .pagination {
+                padding: 10px;
+                gap: 6px;
+                flex-wrap: wrap;
+            }
+
+            .pagination button {
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            .page-info {
+                font-size: 13px;
+                order: -1;
+                width: 100%;
+                text-align: center;
+                margin-bottom: 6px;
+            }
+
+            .jump-input {
+                padding: 6px 8px;
+                font-size: 13px;
+            }
+
+            .jump-btn {
+                padding: 6px 12px;
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .sidebar {
+                height: 30vh;
+            }
+
+            .sidebar-header h1 {
+                font-size: 15px;
+            }
+
+            .word-card .word-title {
+                font-size: 17px;
+            }
+
+            .word-card .markdown-content {
+                font-size: 13px;
+            }
+
+            .export-btn {
+                padding: 7px 8px;
+                font-size: 11px;
+            }
+        }
     </style>
 </head>
 <body>
+
 <div class="app-container">
     <div class="sidebar">
         <div class="sidebar-header">
