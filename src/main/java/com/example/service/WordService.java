@@ -325,111 +325,186 @@ public class WordService {
         try {
             System.out.println("开始导出PDF...");
 
-            List<Map<String, Object>> catalog = buildCatalogStructure();
+            // 第一步：生成 Markdown 内容
+            byte[] mdBytes = exportToMarkdown();
+            String markdownContent = new String(mdBytes, StandardCharsets.UTF_8);
+            System.out.println("Markdown 生成完成，长度: " + markdownContent.length());
 
-            // 生成带书签标记的 HTML
-            StringBuilder html = new StringBuilder();
-            html.append("<!DOCTYPE html><html lang='zh-CN'><head><meta charset='UTF-8'/><title>英语单词手册</title>");
-            html.append("<style>");
-            html.append("@page { size: A4; margin: 2cm; }");
-            html.append("body { font-family: 'SimHei', Arial, sans-serif; padding: 0; line-height: 1.6; font-size: 12pt; color: #000; }");
-            html.append("h1 { font-size: 24pt; text-align: center; margin: 20pt 0; page-break-after: always; -fs-bookmark-level: 1; }");
-            html.append("h2 { font-size: 18pt; margin: 16pt 0 8pt 0; page-break-after: always; -fs-bookmark-level: 2; }");
-            html.append("h3 { font-size: 16pt; margin: 14pt 0 6pt 0; -fs-bookmark-level: 3; }");
-            html.append("h4 { font-size: 14pt; margin: 12pt 0 6pt 0; -fs-bookmark-level: 4; }");
-            html.append("h5 { font-size: 13pt; margin: 10pt 0 4pt 0; -fs-bookmark-level: 5; }");
-            html.append("h6 { font-size: 12pt; margin: 8pt 0 4pt 0; -fs-bookmark-level: 6; }");
-            html.append(".toc { margin: 20pt 0; page-break-after: always; }");
-            html.append(".toc-item { margin: 3pt 0; line-height: 1.4; }");
-            html.append(".word-card { margin: 12pt 0; padding: 8pt 0; page-break-inside: avoid; }");
-            html.append(".word-number { font-weight: bold; }");
-            html.append("p { margin: 4pt 0; }");
-            html.append("strong { font-weight: bold; }");
-            html.append("hr { border: none; border-top: 1pt solid #ccc; margin: 12pt 0; }");
-            html.append("</style></head><body>");
+            // 第二步：将 Markdown 转换为 HTML
+            String html = convertMarkdownToHtmlWithBookmarks(markdownContent);
+            System.out.println("HTML 生成完成，长度: " + html.length());
 
-            // 添加标题
-            html.append("<h1>英语单词手册</h1>");
-
-            // 添加目录
-            html.append("<h2>目录</h2>");
-            html.append("<div class='toc'>");
-            generateHtmlBookmarks(html, catalog, 0);
-            html.append("</div>");
-
-            html.append("<hr/>");
-
-            // 添加内容（带书签标记）
-            appendHtmlCatalogContentWithBookmarks(html, catalog);
-
-            html.append("</body></html>");
-
-            // ***** 删除以下重复的代码 *****
-            // html.append("<h1 data-bookmark='英语单词手册'>英语单词手册</h1>");
-            // html.append("<h2 class='toc' data-bookmark='目录'>目录</h2>");
-            // html.append("<div class='toc'>");
-            // generateHtmlBookmarks(html, catalog, 0);
-            // html.append("</div>");
-            // html.append("<hr/>");
-            // appendHtmlCatalogContentWithBookmarks(html, catalog);
-            // html.append("</body></html>");
-
-            System.out.println("生成PDF文件，HTML长度: " + html.length());
-
-            // 调试：保存 HTML 到文件以便检查
-            try {
-                java.nio.file.Files.write(java.nio.file.Paths.get("debug_output.html"), html.toString().getBytes(java.nio.charset.StandardCharsets.UTF_8));
-                System.out.println("✅ HTML 已保存到 debug_output.html");
-            } catch (Exception e) {
-                System.err.println("保存调试文件失败: " + e.getMessage());
-            }
-
+            // 第三步：HTML 转 PDF
             ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
 
+            PdfRendererBuilder builder = new PdfRendererBuilder();
+            builder.withHtmlContent(html, null);
+            builder.toStream(outputStream);
+
+            // 正确配置字体（支持中文和音标）
             try {
-                PdfRendererBuilder builder = new PdfRendererBuilder();
-                builder.withHtmlContent(html.toString(), null);
-                builder.toStream(outputStream);
+                // 方式1：使用 Windows 系统字体（如果部署在 Windows 上）
+                // File fontFile = new File("C:/Windows/Fonts/simhei.ttf");
 
-                // 从 classpath 加载字体文件
-                try {
-                    org.springframework.core.io.ClassPathResource simheiResource =
-                            new org.springframework.core.io.ClassPathResource("fonts/simhei.ttf");
-                    if (simheiResource.exists()) {
-                        builder.useFont(new com.openhtmltopdf.extend.FSSupplier<java.io.InputStream>() {
-                            @Override
-                            public java.io.InputStream supply() {
-                                try {
-                                    return simheiResource.getInputStream();
-                                } catch (java.io.IOException e) {
-                                    throw new RuntimeException("Failed to load font", e);
-                                }
-                            }
-                        }, "SimHei");
-                        System.out.println("✅ 成功加载字体: fonts/simhei.ttf");
-                    } else {
-                        System.out.println("⚠️ 未找到字体文件");
-                    }
-                } catch (Exception fontEx) {
-                    System.err.println("字体加载异常: " + fontEx.getMessage());
+                // 方式2：从 classpath 加载（推荐）
+                ClassPathResource fontResource = new ClassPathResource("fonts/simhei.ttf");
+                if (fontResource.exists()) {
+                    builder.useFont(() -> {
+                        try {
+                            return fontResource.getInputStream();
+                        } catch (Exception e) {
+                            throw new RuntimeException(e);
+                        }
+                    }, "SimHei");
+                    System.out.println("✅ 成功加载字体: fonts/simhei.ttf");
+                } else {
+                    // 备用：尝试加载系统字体
+                    System.out.println("⚠️ 未找到 simhei.ttf，尝试使用系统字体");
+                    // openhtmltopdf 会使用默认字体
                 }
-
-                builder.useFastMode();
-                builder.run();
-
-                System.out.println("PDF导出成功，大小: " + outputStream.size() + " bytes");
-                return outputStream.toByteArray();
-            } catch (Exception pdfEx) {
-                System.err.println("PDF渲染失败: " + pdfEx.getMessage());
-                pdfEx.printStackTrace();
-                throw new RuntimeException("PDF导出失败: " + pdfEx.getMessage(), pdfEx);
+            } catch (Exception fontEx) {
+                System.err.println("字体加载警告: " + fontEx.getMessage());
+                // 继续使用默认字体
             }
+
+            builder.useFastMode();
+            builder.run();
+
+            System.out.println("PDF导出成功，大小: " + outputStream.size() + " bytes");
+            return outputStream.toByteArray();
         } catch (Exception e) {
             System.err.println("PDF导出失败: " + e.getMessage());
             e.printStackTrace();
             throw new RuntimeException("导出PDF失败: " + e.getMessage(), e);
         }
     }
+
+    private String convertMarkdownToHtmlWithBookmarks(String markdown) {
+        StringBuilder html = new StringBuilder();
+        html.append("<!DOCTYPE html><html lang='zh-CN'><head><meta charset='UTF-8'/><title>英语单词手册</title>");
+        html.append("<style>");
+        html.append("@page { size: A4; margin: 2cm; }");
+        html.append("body { font-family: 'SimHei', 'Noto Sans SC', '微软雅黑', Arial, sans-serif; padding: 0; line-height: 1.6; font-size: 12pt; color: #000; }");
+        html.append("h1 { font-size: 24pt; text-align: center; margin: 20pt 0; page-break-after: always; -fs-bookmark-level: 1; }");
+        html.append("h2 { font-size: 20pt; margin: 16pt 0 8pt 0; -fs-bookmark-level: 2; }");
+        html.append("h3 { font-size: 18pt; margin: 14pt 0 6pt 0; -fs-bookmark-level: 3; }");
+        html.append("h4 { font-size: 16pt; margin: 12pt 0 6pt 0; -fs-bookmark-level: 4; }");
+        html.append("h5 { font-size: 14pt; margin: 10pt 0 4pt 0; -fs-bookmark-level: 5; }");
+        html.append("h6 { font-size: 12pt; margin: 8pt 0 4pt 0; -fs-bookmark-level: 6; }");
+        html.append(".toc { margin: 20pt 0; page-break-after: always; }");
+        html.append(".toc-item { margin: 3pt 0; line-height: 1.4; }");
+        html.append(".word-card { margin: 12pt 0; padding: 8pt 0; page-break-inside: avoid; }");
+        html.append(".word-number { font-weight: bold; color: #667eea; }");
+        html.append("p { margin: 4pt 0; }");
+        html.append("strong { font-weight: bold; }");
+        html.append("hr { border: none; border-top: 1pt solid #ccc; margin: 12pt 0; }");
+        html.append("</style></head><body>");
+
+        // 按行处理 Markdown
+        String[] lines = markdown.split("\\r?\\n");
+
+        for (String line : lines) {
+            String trimmed = line.trim();
+
+            if (trimmed.isEmpty()) {
+                html.append("<br/>\n");
+                continue;
+            }
+
+            // 跳过纯 # 行
+            if (trimmed.matches("^#+$") || trimmed.matches("^#[\\s#]*$")) {
+                continue;
+            }
+
+            // 处理分隔线
+            if (trimmed.equals("---") || trimmed.equals("----")) {
+                html.append("<hr/>\n");
+                continue;
+            }
+
+            // 处理标题（先检查标题，因为标题以 # 开头）
+            if (trimmed.startsWith("###### ")) {
+                String content = trimmed.substring(7);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h6>%s</h6>\n", content));
+            } else if (trimmed.startsWith("##### ")) {
+                String content = trimmed.substring(6);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h5>%s</h5>\n", content));
+            } else if (trimmed.startsWith("#### ")) {
+                String content = trimmed.substring(5);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h4>%s</h4>\n", content));
+            } else if (trimmed.startsWith("### ")) {
+                String content = trimmed.substring(4);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h3>%s</h3>\n", content));
+            } else if (trimmed.startsWith("## ")) {
+                String content = trimmed.substring(3);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h2>%s</h2>\n", content));
+            } else if (trimmed.startsWith("# ")) {
+                String content = trimmed.substring(2);
+                content = processInlineMarkdown(content);
+                html.append(String.format("<h1>%s</h1>\n", content));
+            } else {
+                // 普通段落：先清理 Typora 缩进标记，再处理内联格式
+                String cleaned = trimmed.replaceAll("^#+\\s*", "");
+                if (!cleaned.isEmpty()) {
+                    String content = processInlineMarkdown(cleaned);
+                    html.append(String.format("<p>%s</p>\n", content));
+                }
+            }
+        }
+
+        html.append("</body></html>");
+        return html.toString();
+    }
+
+
+    /**
+     * 处理 Markdown 内联格式（粗体、斜体等）并转义 HTML
+     */
+    /**
+     * 处理 Markdown 内联格式（不进行 HTML 转义，只转换语法为 HTML 标签）
+     */
+    /**
+     * 处理 Markdown 内联格式（不进行 HTML 转义，只转换语法为 HTML 标签）
+     * 注意：此方法会正确处理音标中的特殊字符
+     */
+    private String processInlineMarkdown(String text) {
+        if (text == null) return "";
+
+        String result = text;
+
+        // 先处理粗体 **text**（避免与斜体冲突）
+        result = result.replaceAll("\\*\\*(.+?)\\*\\*", "<strong>$1</strong>");
+
+        // 处理斜体 *text*（但要避免匹配到粗体中的星号）
+        result = result.replaceAll("(?<!\\*)\\*(?!\\*)(.+?)(?<!\\*)\\*(?!\\*)", "<em>$1</em>");
+
+        // 处理行内代码 `code`
+        result = result.replaceAll("`(.+?)`", "<code>$1</code>");
+
+        // 最后才转义 HTML 特殊字符（保留已生成的标签）
+        result = result.replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace("\"", "&quot;")
+                .replace("'", "&#39;");
+
+        // 恢复 HTML 标签（避免被转义）
+        result = result.replace("&lt;strong&gt;", "<strong>")
+                .replace("&lt;/strong&gt;", "</strong>")
+                .replace("&lt;em&gt;", "<em>")
+                .replace("&lt;/em&gt;", "</em>")
+                .replace("&lt;code&gt;", "<code>")
+                .replace("&lt;/code&gt;", "</code>");
+
+        return result;
+    }
+
+
 
     public byte[] exportToWord() {
         try {
