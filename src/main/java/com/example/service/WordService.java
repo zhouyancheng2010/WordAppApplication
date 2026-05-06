@@ -241,11 +241,17 @@ public class WordService {
 
                     if (foundWord != null) {
                         wordInfo.put("id", foundWord.getId());
+                        wordInfo.put("definition", foundWord.getDefinition() != null ? foundWord.getDefinition() : "");
+                        wordInfo.put("pronunciation", foundWord.getPronunciation() != null ? foundWord.getPronunciation() : "");
                         System.out.println("\u2705 \u5339\u914d\u6210\u529f: " + key + " -> DB ID: " + foundWord.getId());
                     } else {
                         wordInfo.put("id", null);
+                        wordInfo.put("definition", "");
+                        wordInfo.put("pronunciation", "");
                         System.out.println("\u26a0\ufe0f \u672a\u627e\u5230\u6620\u5c04: " + key);
                     }
+
+
 
                     Map<String, Object> currentParent = stack.get(stack.size() - 1);
                     @SuppressWarnings("unchecked")

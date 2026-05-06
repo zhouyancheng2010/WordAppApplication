@@ -26,12 +26,36 @@
 
         .sidebar {
             width: 350px;
+            min-width: 280px;
+            max-width: 600px;
             background: #fff;
             border-right: 1px solid #e4e7ed;
             display: flex;
             flex-direction: column;
             overflow: hidden;
+            position: relative;
         }
+
+        .sidebar-resize-handle {
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            cursor: col-resize;
+            background: transparent;
+            z-index: 10;
+            transition: background 0.2s;
+        }
+
+        .sidebar-resize-handle:hover {
+            background: rgba(102, 126, 234, 0.3);
+        }
+
+        .sidebar-resize-handle.active {
+            background: rgba(102, 126, 234, 0.5);
+        }
+
 
         .sidebar-header {
             padding: 20px;
@@ -99,8 +123,11 @@
             transition: background 0.2s;
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: flex-start;
             user-select: none;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .catalog-title:hover {
@@ -111,10 +138,13 @@
             font-size: 10px;
             transition: transform 0.3s;
             margin-left: 8px;
+            margin-right: 8px;
             width: 14px;
             display: inline-block;
-            order: 1;
+            order: -1;
+            flex-shrink: 0;
         }
+
 
         .catalog-title.expanded .arrow {
             transform: rotate(90deg);
@@ -122,6 +152,9 @@
 
         .catalog-title-text {
             flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .catalog-children {
@@ -181,6 +214,7 @@
             align-items: center;
             justify-content: flex-start;
             gap: 8px;
+            flex-wrap: nowrap;  /*禁止自动换行*/
         }
 
         .level-2 .catalog-word-item { padding-left: 50px; }
@@ -199,6 +233,46 @@
             font-weight: 500;
         }
 
+        .word-definition {
+            /*flex: 1; */ /* 让这个元素占据所有剩余空间 */
+            font-size: 11px;
+            color: #a8abb2;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            /*margin-left: 4px;*/
+            max-width: 180px; /*限制释义最大宽度，超长显示省略号*/
+            flex-shrink: 1; /*允许适度压缩*/
+            min-width: 0; /*允许压缩到更小*/
+        }
+
+        .catalog-word-item:hover .word-definition {
+            color: #909399;
+        }
+
+        .catalog-word-item.active .word-definition {
+            color: #8c93d6;
+        }
+
+        .word-pronunciation-nav {
+            font-size: 10px;
+            color: #b0b5bd;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100px;
+            flex-shrink: 1;
+            min-width: 0;
+        }
+
+        .catalog-word-item:hover .word-pronunciation-nav {
+            color: #909399;
+        }
+
+        .catalog-word-item.active .word-pronunciation-nav {
+            color: #a0a8d0;
+        }
+
         .word-number-badge {
             display: inline-block;
             background: #e2e8f0;
@@ -208,6 +282,8 @@
             font-size: 10px;
             margin-right: 8px;
             font-family: monospace;
+            flex-shrink: 0;
+            white-space: nowrap;/*- 确保不换行*/
         }
 
         .catalog-word-item.active .word-number-badge {
@@ -231,8 +307,6 @@
         .catalog-word-item:hover .speak-icon {
             opacity: 1;
         }
-
-
 
         .content-area {
             flex: 1;
@@ -674,11 +748,17 @@
                 font-size: 13px;
             }
 
+            .word-definition {
+                font-size: 11px;
+                max-width: 120px;
+            }
+
             .content-header {
                 padding: 10px 15px;
                 flex-wrap: wrap;
                 gap: 8px;
             }
+
 
             .content-header h2 {
                 font-size: 16px;
@@ -838,6 +918,7 @@
         <div class="catalog-container" id="catalogContainer">
             <div class="loading">加载中...</div>
         </div>
+        <div class="sidebar-resize-handle" id="resizeHandle"></div>
     </div>
 
     <div class="content-area">
@@ -1049,6 +1130,7 @@
         wordItem.className = 'catalog-word-item';
 
         const leftSpan = document.createElement('span');
+        leftSpan.style.whiteSpace = 'nowrap';
         const numberSpan = document.createElement('span');
         numberSpan.className = 'word-number-badge';
         numberSpan.textContent = word.number || String(word.sortOrder).padStart(3, '0');
@@ -1063,6 +1145,21 @@
         };
 
         wordItem.appendChild(leftSpan);
+
+        if (word.pronunciation) {
+            const pronunciationSpan = document.createElement('span');
+            pronunciationSpan.className = 'word-pronunciation-nav';
+            pronunciationSpan.textContent = word.pronunciation;
+            wordItem.appendChild(pronunciationSpan);
+        }
+
+        if (word.definition) {
+            const definitionSpan = document.createElement('span');
+            definitionSpan.className = 'word-definition';
+            definitionSpan.textContent = word.definition;
+            wordItem.appendChild(definitionSpan);
+        }
+
         wordItem.appendChild(speakIcon);
 
         wordItem.dataset.wordId = word.id || '';
@@ -1083,6 +1180,10 @@
 
         return wordItem;
     }
+
+
+
+
 
     async function showWordById(id) {
         try {
@@ -1372,7 +1473,46 @@
 
         window.open(url, '_blank');
     }
+    function initResizeHandle() {
+        const sidebar = document.querySelector('.sidebar');
+        const resizeHandle = document.getElementById('resizeHandle');
+        let isResizing = false;
+        let startX = 0;
+        let startWidth = 0;
 
+        resizeHandle.addEventListener('mousedown', (e) => {
+            isResizing = true;
+            startX = e.clientX;
+            startWidth = sidebar.offsetWidth;
+            resizeHandle.classList.add('active');
+            document.body.style.cursor = 'col-resize';
+            document.body.style.userSelect = 'none';
+            e.preventDefault();
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (!isResizing) return;
+
+            const newWidth = startWidth + (e.clientX - startX);
+            const minWidth = 280;
+            const maxWidth = 600;
+
+            if (newWidth >= minWidth && newWidth <= maxWidth) {
+                sidebar.style.width = newWidth + 'px';
+            }
+        });
+
+        document.addEventListener('mouseup', () => {
+            if (isResizing) {
+                isResizing = false;
+                resizeHandle.classList.remove('active');
+                document.body.style.cursor = '';
+                document.body.style.userSelect = '';
+            }
+        });
+    }
+
+    initResizeHandle();
     init();
 </script>
 </body>
