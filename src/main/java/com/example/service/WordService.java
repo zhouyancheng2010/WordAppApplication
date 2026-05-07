@@ -7,6 +7,7 @@ import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.apache.poi.xwpf.usermodel.*;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -31,6 +32,9 @@ public class WordService {
 
     @Autowired
     private WordRepository wordRepository;
+
+    @Value("${app.file-md-path:}")
+    private String customFilePath;
 
     public Page<Word> getAllWords(Pageable pageable) {
         return wordRepository.findAll(pageable);
@@ -273,8 +277,21 @@ public class WordService {
         }
     }
 
+
     private String readFileMd() {
         try {
+            if (customFilePath != null && !customFilePath.trim().isEmpty()) {
+                Path path = Paths.get(customFilePath);
+                if (Files.exists(path)) {
+                    System.out.println("📂 使用配置路径读取文件: " + path.toAbsolutePath());
+                    String content = Files.readString(path, StandardCharsets.UTF_8);
+                    System.out.println("📖 文件大小: " + content.length() + " 字符");
+                    return content;
+                } else {
+                    System.err.println("⚠️ 配置的文件路径不存在: " + path.toAbsolutePath());
+                }
+            }
+
             List<Path> possiblePaths = Arrays.asList(
                     Paths.get(System.getProperty("user.dir"), "src", "main", "resources", "file.md"),
                     Paths.get(System.getProperty("user.dir"), "file.md"),
@@ -284,27 +301,28 @@ public class WordService {
 
             for (Path filePath : possiblePaths) {
                 if (Files.exists(filePath)) {
-                    System.out.println("\ud83d\udcc2 \u627e\u5230\u6587\u4ef6: " + filePath.toAbsolutePath());
+                    System.out.println("📂 找到文件: " + filePath.toAbsolutePath());
                     String content = Files.readString(filePath, StandardCharsets.UTF_8);
-                    System.out.println("\ud83d\udcd6 \u6587\u4ef6\u5927\u5c0f: " + content.length() + " \u5b57\u7b26");
+                    System.out.println("📖 文件大小: " + content.length() + " 字符");
                     return content;
                 }
             }
 
             ClassPathResource resource = new ClassPathResource("file.md");
             if (resource.exists()) {
-                System.out.println("\ud83d\udcc2 \u4ece classpath \u8bfb\u53d6 file.md");
+                System.out.println("📂 从 classpath 读取 file.md");
                 return new String(resource.getInputStream().readAllBytes(), StandardCharsets.UTF_8);
             }
 
-            System.err.println("\u274c \u65e0\u6cd5\u627e\u5230 file.md \u6587\u4ef6");
+            System.err.println("❌ 无法找到 file.md 文件");
             return null;
         } catch (Exception e) {
-            System.err.println("\u274c \u8bfb\u53d6 file.md \u5931\u8d25: " + e.getMessage());
+            System.err.println("❌ 读取 file.md 失败: " + e.getMessage());
             e.printStackTrace();
             return null;
         }
     }
+
 
     public byte[] exportToMarkdown() {
         try {
