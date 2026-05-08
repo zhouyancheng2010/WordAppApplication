@@ -56,6 +56,38 @@
             background: rgba(102, 126, 234, 0.5);
         }
 
+        @media (max-width: 768px) {
+            .sidebar-resize-handle {
+                width: 100%;
+                height: 15px;
+                right: 0;
+                left: 0;
+                top: auto;
+                bottom: 0;
+                cursor: row-resize;
+                background: transparent;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .sidebar-resize-handle::after {
+                content: '';
+                width: 40px;
+                height: 4px;
+                background: rgba(102, 126, 234, 0.3);
+                border-radius: 2px;
+            }
+
+            .sidebar-resize-handle:hover::after {
+                background: rgba(102, 126, 234, 0.6);
+            }
+
+            .sidebar-resize-handle.active::after {
+                background: rgba(102, 126, 234, 0.8);
+            }
+        }
+
 
         .sidebar-header {
             padding: 20px;
@@ -214,7 +246,7 @@
             align-items: center;
             justify-content: flex-start;
             gap: 8px;
-            flex-wrap: nowrap;  /*禁止自动换行*/
+            flex-wrap: nowrap;
         }
 
         .level-2 .catalog-word-item { padding-left: 50px; }
@@ -234,16 +266,14 @@
         }
 
         .word-definition {
-            /*flex: 1; */ /* 让这个元素占据所有剩余空间 */
             font-size: 11px;
             color: #a8abb2;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
-            /*margin-left: 4px;*/
-            max-width: 180px; /*限制释义最大宽度，超长显示省略号*/
-            flex-shrink: 1; /*允许适度压缩*/
-            min-width: 0; /*允许压缩到更小*/
+            max-width: 180px;
+            flex-shrink: 1;
+            min-width: 0;
         }
 
         .catalog-word-item:hover .word-definition {
@@ -283,7 +313,7 @@
             margin-right: 8px;
             font-family: monospace;
             flex-shrink: 0;
-            white-space: nowrap;/*- 确保不换行*/
+            white-space: nowrap;
         }
 
         .catalog-word-item.active .word-number-badge {
@@ -702,7 +732,8 @@
 
             .sidebar {
                 width: 100%;
-                height: 40vh;
+                height: 50vh;
+                min-height: 300px;
                 border-right: none;
                 border-bottom: 1px solid #e4e7ed;
             }
@@ -719,7 +750,8 @@
 
             .sidebar {
                 width: 100%;
-                height: 35vh;
+                height: 50vh;
+                min-height: 300px;
                 border-right: none;
                 border-bottom: 1px solid #e4e7ed;
             }
@@ -744,8 +776,9 @@
             }
 
             .catalog-word-item {
-                padding: 8px 15px !important;
+                padding: 10px 15px !important;
                 font-size: 13px;
+                min-height: 40px;
             }
 
             .word-definition {
@@ -882,7 +915,8 @@
 
         @media (max-width: 480px) {
             .sidebar {
-                height: 30vh;
+                height: 50vh;
+                min-height: 250px;
             }
 
             .sidebar-header h1 {
@@ -972,19 +1006,35 @@
     let isReadingAll = false;
     let readAllIndex = 0;
     let expandedNodes = new Set();
+    let isMobileResizing = false;
+    let mobileStartY = 0;
+    let mobileStartHeight = 0;
 
     marked.setOptions({ breaks: true, gfm: true });
 
     async function init() {
         try {
-            const [wordsRes, catalogRes] = await Promise.all([
-                fetch('/api/all-words'),
-                fetch('/api/catalog')
-            ]);
+            console.log('🔄 开始加载数据...');
+
+            const wordsRes = await fetch('/api/all-words');
+            console.log('📊 all-words 响应状态:', wordsRes.status);
+
+            if (!wordsRes.ok) {
+                throw new Error(`all-words API 请求失败: ${wordsRes.status} ${wordsRes.statusText}`);
+            }
+
+            const catalogRes = await fetch('/api/catalog');
+            console.log('📂 catalog 响应状态:', catalogRes.status);
+
+            if (!catalogRes.ok) {
+                throw new Error(`catalog API 请求失败: ${catalogRes.status} ${catalogRes.statusText}`);
+            }
+
             allWords = await wordsRes.json();
             catalogStructure = await catalogRes.json();
 
             console.log('\u2705 \u52a0\u8f7d\u5b8c\u6210:', allWords.length, '\u4e2a\u5355\u8bcd');
+            console.log('📁 目录结构层级数:', catalogStructure.length);
 
             const numberMap = buildNumberMap(catalogStructure);
             allWords = allWords.map(word => {
@@ -1007,9 +1057,16 @@
             if (filteredWords.length > 0) showPage(1);
         } catch (error) {
             console.error('\u274c \u52a0\u8f7d\u5931\u8d25:', error);
-            document.getElementById('catalogContainer').innerHTML = '<div class="no-data"><div class="icon">\u26a0\ufe0f</div><p>\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u5237\u65b0\u91cd\u8bd5</p></div>';
+            document.getElementById('catalogContainer').innerHTML =
+                '<div class="no-data">' +
+                '<div class="icon">\u26a0\ufe0f</div>' +
+                '<p>\u52a0\u8f7d\u5931\u8d25</p>' +
+                '<p style="font-size: 12px; color: #999; margin-top: 10px;">' + error.message + '</p>' +
+                '<p style="font-size: 12px; color: #667eea; margin-top: 15px; cursor: pointer;" onclick="location.reload()">点击刷新重试</p>' +
+                '</div>';
         }
     }
+
 
     function buildNumberMap(nodes, map = {}) {
         for (const node of nodes) {
@@ -1184,7 +1241,6 @@
 
 
 
-
     async function showWordById(id) {
         try {
             console.log('\u901a\u8fc7ID\u67e5\u627e\u5355\u8bcd:', id);
@@ -1333,14 +1389,39 @@
             toggleReadAll();
             return;
         }
-        const utterance = new SpeechSynthesisUtterance(filteredWords[readAllIndex].word);
-        utterance.lang = 'en-US';
-        utterance.rate = 0.8;
-        utterance.onend = () => {
-            readAllIndex++;
-            setTimeout(readNextWord, 300);
-        };
-        speechSynth.speak(utterance);
+
+        const word = filteredWords[readAllIndex];
+        const number = word.number || String(word.sortOrder).padStart(3, '0');
+        const definition = word.definition || '';
+
+        const textToRead = `${number} ${word.word} ${definition}`;
+
+        let repeatCount = 0;
+        const maxRepeats = 2;
+
+        function speakCurrent() {
+            if (!isReadingAll) return;
+
+            if (repeatCount < maxRepeats) {
+                const utterance = new SpeechSynthesisUtterance(textToRead);
+                utterance.lang = 'en-US';
+                utterance.rate = 0.8;
+                utterance.onend = () => {
+                    repeatCount++;
+                    setTimeout(speakCurrent, 500);
+                };
+                utterance.onerror = () => {
+                    repeatCount++;
+                    setTimeout(speakCurrent, 500);
+                };
+                speechSynth.speak(utterance);
+            } else {
+                readAllIndex++;
+                setTimeout(readNextWord, 800);
+            }
+        }
+
+        speakCurrent();
     }
 
     function backToList() {
@@ -1473,6 +1554,7 @@
 
         window.open(url, '_blank');
     }
+
     function initResizeHandle() {
         const sidebar = document.querySelector('.sidebar');
         const resizeHandle = document.getElementById('resizeHandle');
@@ -1510,9 +1592,74 @@
                 document.body.style.userSelect = '';
             }
         });
+
+        resizeHandle.addEventListener('touchstart', (e) => {
+            isResizing = true;
+            startX = e.touches[0].clientX;
+            startWidth = sidebar.offsetWidth;
+            resizeHandle.classList.add('active');
+            e.preventDefault();
+        });
+
+        document.addEventListener('touchmove', (e) => {
+            if (!isResizing) return;
+
+            const newWidth = startWidth + (e.touches[0].clientX - startX);
+            const minWidth = 280;
+            const maxWidth = 600;
+
+            if (newWidth >= minWidth && newWidth <= maxWidth) {
+                sidebar.style.width = newWidth + 'px';
+            }
+            e.preventDefault();
+        });
+
+        document.addEventListener('touchend', () => {
+            if (isResizing) {
+                isResizing = false;
+                resizeHandle.classList.remove('active');
+            }
+        });
+    }
+
+    function initMobileResize() {
+        const sidebar = document.querySelector('.sidebar');
+        const resizeHandle = document.getElementById('resizeHandle');
+
+        if (!resizeHandle || !sidebar) return;
+
+        resizeHandle.addEventListener('touchstart', (e) => {
+            isMobileResizing = true;
+            mobileStartY = e.touches[0].clientY;
+            mobileStartHeight = sidebar.offsetHeight;
+            resizeHandle.classList.add('active');
+            e.preventDefault();
+        }, { passive: false });
+
+        document.addEventListener('touchmove', (e) => {
+            if (!isMobileResizing) return;
+
+            const deltaY = e.touches[0].clientY - mobileStartY;
+            const newHeight = mobileStartHeight + deltaY;
+            const minHeight = 200;
+            const maxHeight = window.innerHeight * 0.8;
+
+            if (newHeight >= minHeight && newHeight <= maxHeight) {
+                sidebar.style.height = newHeight + 'px';
+            }
+            e.preventDefault();
+        }, { passive: false });
+
+        document.addEventListener('touchend', () => {
+            if (isMobileResizing) {
+                isMobileResizing = false;
+                resizeHandle.classList.remove('active');
+            }
+        });
     }
 
     initResizeHandle();
+    initMobileResize();
     init();
 </script>
 </body>
