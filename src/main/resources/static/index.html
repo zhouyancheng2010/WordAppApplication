@@ -1385,43 +1385,152 @@
     }
 
     function readNextWord() {
+        // 检查是否还在朗读模式，以及是否已经读完所有单词
         if (!isReadingAll || readAllIndex >= filteredWords.length) {
-            toggleReadAll();
+            toggleReadAll();  // 停止朗读
             return;
         }
 
+        // 获取当前要朗读的单词信息
         const word = filteredWords[readAllIndex];
-        const number = word.number || String(word.sortOrder).padStart(3, '0');
-        const definition = word.definition || '';
+        const number = word.number || String(word.sortOrder).padStart(3, '0');  // 序号，如 "001"
+        const definition = word.definition || '';  // 中文释义
 
-        const textToRead = `${number} ${word.word} ${definition}`;
+        // 将序号数字拆分成单个字符，用空格分隔，这样会逐个读数字
+        // 例如 "001" 变成 "0 0 1"，读作"零零一"而不是"one"
+        const numberText = number.split('').join(' ');
 
-        let repeatCount = 0;
-        const maxRepeats = 2;
+        let repeatCount = 0;  // 当前已朗读次数
+        const maxRepeats = 2;  // 最多朗读2遍
 
+        // 定义朗读当前单词的函数
         function speakCurrent() {
-            if (!isReadingAll) return;
+            if (!isReadingAll) return;  // 如果已停止朗读，直接返回
 
             if (repeatCount < maxRepeats) {
-                const utterance = new SpeechSynthesisUtterance(textToRead);
-                utterance.lang = 'en-US';
-                utterance.rate = 0.8;
-                utterance.onend = () => {
-                    repeatCount++;
-                    setTimeout(speakCurrent, 500);
-                };
-                utterance.onerror = () => {
-                    repeatCount++;
-                    setTimeout(speakCurrent, 500);
-                };
-                speechSynth.speak(utterance);
+                // 带停顿地朗读：序号 -> 停顿1秒 -> 单词 -> 停顿1秒 -> 释义
+                speakWithPauses(numberText, word.word, definition, () => {
+                    repeatCount++;  // 完成一遍朗读
+
+                    if (repeatCount < maxRepeats) {
+                        // 如果还没读够2遍，等待2秒后读第二遍
+                        setTimeout(speakCurrent, 2000);
+                    } else {
+                        // 已完成2遍朗读，等待0.5秒后处理下一个单词
+                        readAllIndex++;
+                        setTimeout(readNextWord, 500);
+                    }
+                });
             } else {
+                // 异常情况处理：移动到下一个单词
                 readAllIndex++;
-                setTimeout(readNextWord, 800);
+                setTimeout(readNextWord, 500);
             }
         }
 
+        // 开始朗读当前单词
         speakCurrent();
+    }
+
+    /**
+     * 带停顿的朗读函数
+     * 按照以下顺序朗读：
+     * 1. 朗读序号（中文读音）
+     * 2. 停顿1秒
+     * 3. 朗读英文单词
+     * 4. 停顿1秒
+     * 5. 朗读中文释义
+     * @param {string} numberText - 序号文本（如 "0 0 1"）
+     * @param {string} word - 英文单词
+     * @param {string} definition - 中文释义
+     * @param {function} callback - 朗读完成后的回调函数
+     */
+    function speakWithPauses(numberText, word, definition, callback) {
+        // 如果已停止朗读，直接执行回调
+        if (!isReadingAll) {
+            if (callback) callback();
+            return;
+        }
+
+        // ===== 第一步：朗读序号 =====
+        const numberUtterance = new SpeechSynthesisUtterance(numberText);
+        numberUtterance.lang = 'zh-CN';  // 使用中文语音，这样数字会读成"零零一"
+        numberUtterance.rate = 0.7;  // 语速较慢
+
+        // 序号朗读完成后
+        numberUtterance.onend = () => {
+            if (!isReadingAll) {
+                if (callback) callback();
+                return;
+            }
+
+            // ===== 停顿1秒 =====
+            setTimeout(() => {
+                if (!isReadingAll) {
+                    if (callback) callback();
+                    return;
+                }
+
+                // ===== 第二步：朗读英文单词 =====
+                const wordUtterance = new SpeechSynthesisUtterance(word);
+                wordUtterance.lang = 'en-US';  // 使用英文语音
+                wordUtterance.rate = 0.7;  // 语速较慢
+
+                // 单词朗读完成后
+                wordUtterance.onend = () => {
+                    if (!isReadingAll) {
+                        if (callback) callback();
+                        return;
+                    }
+
+                    // ===== 停顿1秒 =====
+                    setTimeout(() => {
+                        if (!isReadingAll) {
+                            if (callback) callback();
+                            return;
+                        }
+
+                        // ===== 第三步：朗读中文释义（如果有）=====
+                        if (definition && definition.trim()) {
+                            const defUtterance = new SpeechSynthesisUtterance(definition);
+                            defUtterance.lang = 'zh-CN';  // 使用中文语音
+                            defUtterance.rate = 0.8;  // 语速适中
+
+                            // 释义朗读完成后，执行回调（然后会停顿2秒再读第二遍）
+                            defUtterance.onend = () => {
+                                if (callback) callback();
+                            };
+
+                            // 如果出错，也执行回调
+                            defUtterance.onerror = () => {
+                                if (callback) callback();
+                            };
+
+                            speechSynth.speak(defUtterance);
+                        } else {
+                            // 如果没有释义，直接执行回调
+                            if (callback) callback();
+                        }
+                    }, 1000);  // 单词和释义之间停顿1秒
+                };
+
+                // 单词朗读出错处理
+                wordUtterance.onerror = () => {
+                    if (callback) callback();
+                };
+
+                // 开始朗读单词
+                speechSynth.speak(wordUtterance);
+            }, 1000);  // 序号和单词之间停顿1秒
+        };
+
+        // 序号朗读出错处理
+        numberUtterance.onerror = () => {
+            if (callback) callback();
+        };
+
+        // 开始朗读序号
+        speechSynth.speak(numberUtterance);
     }
 
     function backToList() {
