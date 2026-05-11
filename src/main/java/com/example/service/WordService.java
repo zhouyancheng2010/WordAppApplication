@@ -250,9 +250,15 @@ public class WordService {
                         System.out.println("\u2705 \u5339\u914d\u6210\u529f: " + key + " -> DB ID: " + foundWord.getId());
                     } else {
                         wordInfo.put("id", null);
-                        wordInfo.put("definition", "");
-                        wordInfo.put("pronunciation", "");
-                        System.out.println("\u26a0\ufe0f \u672a\u627e\u5230\u6620\u5c04: " + key);
+
+                        // 尝试从当前行提取音标和释义
+                        String pronunciation = extractPronunciationFromLine(trimmedLine, wordName);
+                        String definition = extractDefinitionFromLine(trimmedLine, wordName);
+
+                        wordInfo.put("definition", definition != null && !definition.isEmpty() ? definition : "");
+                        wordInfo.put("pronunciation", pronunciation != null && !pronunciation.isEmpty() ? pronunciation : "");
+
+                        System.out.println("\u26a0\ufe0f \u672a\u627e\u5230\u6620\u5c04: " + key + ", \u63d0\u53d6\u5230\u97f3\u6807=" + pronunciation + ", \u91ca\u4e49=" + definition);
                     }
 
 
@@ -277,6 +283,34 @@ public class WordService {
         }
     }
 
+    private String extractPronunciationFromLine(String line, String wordName) {
+        if (line == null || line.isEmpty()) return null;
+
+        // 匹配音标格式：/xxx/
+        Pattern pattern = Pattern.compile("/([^/]+)/");
+        Matcher matcher = pattern.matcher(line);
+        if (matcher.find()) {
+            return "/" + matcher.group(1) + "/";
+        }
+        return null;
+    }
+
+    private String extractDefinitionFromLine(String line, String wordName) {
+        if (line == null || line.isEmpty()) return null;
+
+        // 移除序号和单词部分
+        String cleaned = line.replaceAll("^\\*?\\*?\\d{3}\\s+\\*?\\*?" + Pattern.quote(wordName) + "\\*?\\*?", "").trim();
+
+        // 如果还有音标，移除音标部分
+        cleaned = cleaned.replaceAll("/[^/]+/", "").trim();
+
+        // 如果内容为空或是引用说明，返回null
+        if (cleaned.isEmpty() || cleaned.contains("已解析过")) {
+            return null;
+        }
+
+        return cleaned;
+    }
 
     private String readFileMd() {
         try {

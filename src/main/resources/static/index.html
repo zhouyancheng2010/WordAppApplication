@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>13000英语4500词</title>
-    <link rel="icon" type="image/png" href="ico/book01.png">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <title>英语单词学习系统</title>
+    <script src="js/marked.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -14,89 +13,40 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
-            background: #f5f7fa;
-            color: #333;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 100vh;
+            overflow: hidden;
         }
 
         .app-container {
-            display: flex;
+            width: 100%;
             height: 100vh;
+            background: white;
+            display: flex;
+            overflow: hidden;
         }
 
         .sidebar {
-            width: 350px;
-            min-width: 280px;
-            max-width: 600px;
-            background: #fff;
+            width: 320px;
+            background: white;
             border-right: 1px solid #e4e7ed;
             display: flex;
             flex-direction: column;
-            overflow: hidden;
             position: relative;
-        }
-
-        .sidebar-resize-handle {
-            position: absolute;
-            right: 0;
-            top: 0;
-            bottom: 0;
-            width: 5px;
-            cursor: col-resize;
-            background: transparent;
-            z-index: 10;
-            transition: background 0.2s;
-        }
-
-        .sidebar-resize-handle:hover {
-            background: rgba(102, 126, 234, 0.3);
-        }
-
-        .sidebar-resize-handle.active {
-            background: rgba(102, 126, 234, 0.5);
-        }
-
-        @media (max-width: 768px) {
-            .sidebar-resize-handle {
-                width: 100%;
-                height: 15px;
-                right: 0;
-                left: 0;
-                top: auto;
-                bottom: 0;
-                cursor: row-resize;
-                background: transparent;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-
-            .sidebar-resize-handle::after {
-                content: '';
-                width: 40px;
-                height: 4px;
-                background: rgba(102, 126, 234, 0.3);
-                border-radius: 2px;
-            }
-
-            .sidebar-resize-handle:hover::after {
-                background: rgba(102, 126, 234, 0.6);
-            }
-
-            .sidebar-resize-handle.active::after {
-                background: rgba(102, 126, 234, 0.8);
-            }
+            transition: width 0.3s ease;
         }
 
 
         .sidebar-header {
             padding: 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
+            border-bottom: 1px solid #e4e7ed;
+            background: white;
         }
 
         .sidebar-header h1 {
             font-size: 18px;
+            color: #303133;
             margin-bottom: 15px;
             font-weight: 600;
         }
@@ -107,17 +57,17 @@
 
         .search-box input {
             width: 100%;
-            padding: 10px 15px 10px 38px;
-            border: none;
-            border-radius: 20px;
-            background: rgba(255,255,255,0.2);
-            color: white;
+            padding: 10px 15px 10px 40px;
+            border: 1px solid #dcdfe6;
+            border-radius: 6px;
             font-size: 14px;
             outline: none;
+            transition: all 0.3s;
         }
 
-        .search-box input::placeholder {
-            color: rgba(255,255,255,0.7);
+        .search-box input:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.1);
         }
 
         .search-box-icon {
@@ -127,59 +77,41 @@
             transform: translateY(-50%);
             width: 16px;
             height: 16px;
-            pointer-events: none;
-            z-index: 1;
+            opacity: 0.5;
         }
 
         .catalog-container {
             flex: 1;
             overflow-y: auto;
-            padding: 10px 0;
-        }
-
-        .catalog-container::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .catalog-container::-webkit-scrollbar-thumb {
-            background: #dcdfe6;
-            border-radius: 3px;
+            padding: 10px;
         }
 
         .catalog-node {
-            margin: 0;
+            margin-bottom: 5px;
         }
 
         .catalog-title {
+            padding: 10px 12px;
             cursor: pointer;
-            transition: background 0.2s;
+            border-radius: 6px;
             display: flex;
-            align-items: center;
             justify-content: flex-start;
-            user-select: none;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+            align-items: center;
+            transition: all 0.2s;
+            font-size: 14px;
+            color: #606266;
+            gap: 8px;
         }
 
         .catalog-title:hover {
-            background: #f5f7fa;
+            background: rgba(102, 126, 234, 0.1);
+            color: #667eea;
         }
 
-        .catalog-title .arrow {
-            font-size: 10px;
-            transition: transform 0.3s;
-            margin-left: 8px;
-            margin-right: 8px;
-            width: 14px;
-            display: inline-block;
-            order: -1;
-            flex-shrink: 0;
-        }
-
-
-        .catalog-title.expanded .arrow {
-            transform: rotate(90deg);
+        .catalog-title.expanded {
+            background: rgba(102, 126, 234, 0.15);
+            color: #667eea;
+            font-weight: 500;
         }
 
         .catalog-title-text {
@@ -189,174 +121,131 @@
             text-overflow: ellipsis;
         }
 
+        .arrow {
+            font-size: 10px;
+            transition: transform 0.3s;
+            order: -1;
+        }
+
+        .catalog-title.expanded .arrow {
+            transform: rotate(90deg);
+        }
+
+
         .catalog-children {
             display: none;
+            padding-left: 15px;
         }
 
         .catalog-children.expanded {
             display: block;
         }
 
-        .level-1 > .catalog-title {
-            padding: 12px 20px;
-            font-size: 15px;
-            font-weight: 600;
-            color: #303133;
-            background: #f8f9fa;
-            border-bottom: 1px solid #e4e7ed;
-        }
-
-        .level-2 > .catalog-title {
-            padding: 10px 20px 10px 35px;
-            font-size: 14px;
-            font-weight: 500;
-            color: #606266;
-        }
-
-        .level-3 > .catalog-title {
-            padding: 8px 20px 8px 50px;
-            font-size: 13px;
-            font-weight: 500;
-            color: #909399;
-        }
-
-        .level-4 > .catalog-title {
-            padding: 8px 20px 8px 65px;
-            font-size: 12px;
-            font-weight: 500;
-            color: #a6a9ad;
-        }
-
-        .level-5 > .catalog-title,
-        .level-6 > .catalog-title {
-            padding: 6px 20px 6px 80px;
-            font-size: 12px;
-            font-weight: normal;
-            color: #b0b3b8;
-        }
-
         .catalog-word-item {
-            padding: 6px 20px 6px 80px;
-            font-size: 12px;
-            color: #909399;
+            padding: 8px 12px;
             cursor: pointer;
+            border-radius: 6px;
+            margin: 3px 0;
+            font-size: 13px;
+            color: #606266;
             transition: all 0.2s;
-            border-left: 3px solid transparent;
             display: flex;
             align-items: center;
-            justify-content: flex-start;
             gap: 8px;
-            flex-wrap: nowrap;
         }
 
-        .level-2 .catalog-word-item { padding-left: 50px; }
-        .level-3 .catalog-word-item { padding-left: 65px; }
-        .level-4 .catalog-word-item { padding-left: 80px; }
-
         .catalog-word-item:hover {
-            background: #f5f7fa;
+            background: rgba(102, 126, 234, 0.1);
             color: #667eea;
         }
 
         .catalog-word-item.active {
-            background: #ecf0ff;
-            color: #667eea;
-            border-left-color: #667eea;
-            font-weight: 500;
-        }
-
-        .word-definition {
-            font-size: 11px;
-            color: #a8abb2;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            max-width: 180px;
-            flex-shrink: 1;
-            min-width: 0;
-        }
-
-        .catalog-word-item:hover .word-definition {
-            color: #909399;
-        }
-
-        .catalog-word-item.active .word-definition {
-            color: #8c93d6;
-        }
-
-        .word-pronunciation-nav {
-            font-size: 10px;
-            color: #b0b5bd;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            max-width: 100px;
-            flex-shrink: 1;
-            min-width: 0;
-        }
-
-        .catalog-word-item:hover .word-pronunciation-nav {
-            color: #909399;
-        }
-
-        .catalog-word-item.active .word-pronunciation-nav {
-            color: #a0a8d0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
         }
 
         .word-number-badge {
             display: inline-block;
-            background: #e2e8f0;
-            color: #64748b;
             padding: 2px 6px;
-            border-radius: 10px;
-            font-size: 10px;
-            margin-right: 8px;
-            font-family: monospace;
-            flex-shrink: 0;
-            white-space: nowrap;
+            background: rgba(102, 126, 234, 0.2);
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 500;
+            color: #667eea;
+            min-width: 30px;
+            text-align: center;
         }
 
         .catalog-word-item.active .word-number-badge {
-            background: #667eea;
+            background: rgba(255, 255, 255, 0.3);
             color: white;
         }
 
+        .word-pronunciation-nav {
+            font-size: 11px;
+            color: #909399;
+            opacity: 0.8;
+        }
+
+        .catalog-word-item.active .word-pronunciation-nav {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .word-definition {
+            font-size: 11px;
+            color: #909399;
+            opacity: 0.7;
+            flex: 1;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .catalog-word-item.active .word-definition {
+            color: rgba(255, 255, 255, 0.85);
+        }
+
         .speak-icon {
-            width: 18px;
-            height: 18px;
             cursor: pointer;
+            font-size: 16px;
             opacity: 0;
             transition: opacity 0.2s;
-            background-image: url('ico/speaker03.png');
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: contain;
+            margin-left: auto;
             flex-shrink: 0;
+            width: 20px;
+            height: 20px;
+            background: url('ico/speaker03.png') no-repeat center;
+            background-size: contain;
         }
 
         .catalog-word-item:hover .speak-icon {
-            opacity: 1;
+            opacity: 0.7;
+        }
+
+        .speak-icon:hover {
+            opacity: 1 !important;
         }
 
         .content-area {
             flex: 1;
             display: flex;
             flex-direction: column;
-            overflow: hidden;
+            background: white;
         }
 
         .content-header {
-            padding: 15px 20px;
-            background: #fff;
+            padding: 20px 30px;
             border-bottom: 1px solid #e4e7ed;
             display: flex;
-            align-items: center;
             justify-content: space-between;
+            align-items: center;
+            background: white;
         }
 
         .content-header h2 {
-            font-size: 18px;
+            font-size: 20px;
             color: #303133;
+            font-weight: 600;
         }
 
         .filter-controls {
@@ -366,277 +255,304 @@
         }
 
         .filter-controls select {
-            padding: 6px 12px;
+            padding: 8px 12px;
             border: 1px solid #dcdfe6;
-            border-radius: 4px;
-            font-size: 13px;
-            color: #606266;
+            border-radius: 6px;
+            font-size: 14px;
             outline: none;
             cursor: pointer;
-        }
-
-        .filter-controls select:hover {
-            border-color: #667eea;
-        }
-
-        .export-btn {
-            padding: 6px 12px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 12px;
-            transition: all 0.2s;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-
-        .export-btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+            background: white;
         }
 
         .export-group {
             display: flex;
-            gap: 8px;
+            gap: 5px;
         }
 
-        .content-body {
-            flex: 1;
-            overflow-y: auto;
-            padding: 18px 22px;
-        }
-
-        .content-body::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .content-body::-webkit-scrollbar-thumb {
-            background: #dcdfe6;
-            border-radius: 3px;
-        }
-
-        .word-card {
-            background: #fff;
-            border-radius: 8px;
-            padding: 18px 22px;
-            margin-bottom: 15px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-            transition: transform 0.2s;
-        }
-
-        .word-card:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 3px 12px rgba(0,0,0,0.06);
-        }
-
-        .word-card .word-title {
-            font-size: 20px;
-            font-weight: 700;
-            color: #667eea;
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-
-        .word-card .word-number {
-            display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 3px 10px;
-            border-radius: 10px;
-            font-size: 13px;
-            font-weight: 600;
-        }
-
-        .word-card .word-name {
-            display: inline-block;
-        }
-
-        .word-card .word-pronunciation {
-            color: #909399;
-            font-size: 15px;
-            display: inline-block;
-        }
-
-        .word-card .word-meta {
-            color: #909399;
-            font-size: 14px;
-            margin-bottom: 12px;
-        }
-
-        .word-card .markdown-content {
-            line-height: 1.65;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            font-size: 15px;
-        }
-
-        .word-card .markdown-content h1,
-        .word-card .markdown-content h2,
-        .word-card .markdown-content h3,
-        .word-card .markdown-content h4,
-        .word-card .markdown-content h5,
-        .word-card .markdown-content h6 {
-            margin: 10px 0 5px 0;
-            font-size: 16px;
-        }
-
-        .word-card .markdown-content p {
-            margin: 5px 0;
-        }
-
-        .word-card .markdown-content ul,
-        .word-card .markdown-content ol {
-            margin: 5px 0 5px 20px;
-            padding: 0;
-        }
-
-        .word-card .markdown-content li {
-            margin: 3px 0;
-        }
-
-        .word-card .markdown-content code {
-            font-size: 14px;
-            padding: 2px 5px;
-            background: #f5f7fa;
-            border-radius: 3px;
-        }
-
-        .word-card .markdown-content pre {
-            font-size: 14px;
-            padding: 10px;
-            background: #f5f7fa;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-
-        .word-card .markdown-content blockquote {
-            font-size: 14px;
-            margin: 8px 0;
-            padding: 5px 12px;
-            border-left: 3px solid #667eea;
-            background: #f8f9fa;
-        }
-
-        .speak-btn {
-            padding: 4px 12px 4px 22px;
+        .export-btn {
+            padding: 8px 12px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            border-radius: 16px;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 12px;
-            position: relative;
-            transition: all 0.3s;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
+            font-size: 13px;
+            transition: all 0.2s;
         }
 
-        .speak-btn::before {
-            content: "";
-            position: absolute;
-            left: 8px;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 14px;
-            height: 14px;
-            background-image: url('ico/speaker03.png');
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: contain;
-        }
-
-        .speak-btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+        .export-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
         }
 
         .read-all-btn {
-            padding: 7px 18px 7px 28px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 8px 16px;
+            background: linear-gradient(135deg, #67c23a 0%, #529b2e 100%);
             color: white;
             border: none;
-            border-radius: 16px;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 13px;
-            position: relative;
-            transition: all 0.3s;
-        }
-
-        .read-all-btn::before {
-            content: "";
-            position: absolute;
-            left: 9px;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 14px;
-            height: 14px;
-            background-image: url('ico/speaker03.png');
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: contain;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
         }
 
         .read-all-btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(103, 194, 58, 0.4);
         }
 
         .read-all-btn.reading {
             background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%);
         }
 
-        .back-btn {
+        .context-menu {
+            position: fixed;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+            padding: 8px 0;
+            z-index: 1000;
+            display: none;
+            min-width: 180px;
+        }
+
+        .context-menu-item {
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 14px;
+            color: #333;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .context-menu-item:hover {
+            background: #f5f7fa;
+            color: #667eea;
+        }
+
+        .highlight-word {
+            background: linear-gradient(120deg, #ffeaa7 0%, #ffeaa7 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 40%;
+            background-position: 0 88%;
+            transition: background 0.3s;
+        }
+
+        .reading-current {
+            background: linear-gradient(120deg, #74b9ff 0%, #74b9ff 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 40%;
+            background-position: 0 88%;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background: #e4e7ed;
+            border-radius: 2px;
+            margin-top: 10px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s;
+        }
+
+        .wordbook-btn {
             padding: 6px 12px;
-            background: #667eea;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
             font-size: 12px;
             transition: all 0.2s;
-            display: none;
+        }
+
+        .wordbook-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 6px rgba(245, 87, 108, 0.4);
+        }
+
+        .ai-explain-btn {
+            padding: 6px 12px;
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: all 0.2s;
+        }
+
+        .ai-explain-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 6px rgba(79, 172, 254, 0.4);
+        }
+
+        .back-btn {
+            padding: 8px 16px;
+            background: #909399;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
         }
 
         .back-btn:hover {
-            background: #764ba2;
+            background: #73767a;
         }
 
-        .word-navigation {
+        .content-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 30px;
+            background: #fafafa;
+        }
+
+        .word-card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s;
+        }
+
+        .word-card:hover {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+            transform: translateY(-2px);
+        }
+
+        .word-title {
             display: flex;
-            justify-content: center;
             align-items: center;
-            padding: 8px 0;
-            margin-top: 10px;
-            border-top: 1px solid #e4e7ed;
-            gap: 12px;
+            gap: 15px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
         }
 
+        .word-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
 
+        .word-name {
+            font-size: 32px;
+            font-weight: bold;
+            color: #303133;
+        }
 
-        .nav-btn {
-            padding: 6px 12px;
+        .word-pronunciation {
+            font-size: 18px;
+            color: #909399;
+        }
+
+        .speak-btn {
+            padding: 8px 16px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             border: none;
-            border-radius: 16px;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 12px;
-            transition: all 0.3s;
+            font-size: 14px;
+            transition: all 0.2s;
             display: flex;
             align-items: center;
             gap: 6px;
         }
 
-        .nav-btn:hover:not(:disabled) {
+        .speak-btn::before {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: url('ico/speaker03.png') no-repeat center;
+            background-size: contain;
+            filter: brightness(0) invert(1);
+        }
+
+        .speak-btn:hover {
             transform: scale(1.05);
-            box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
+
+        .speak-btn:hover::before {
+            filter: brightness(0) invert(1);
+        }
+
+
+        .word-meta {
+            font-size: 16px;
+            color: #606266;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .markdown-content {
+            font-size: 14px;
+            line-height: 1.8;
+            color: #606266;
+        }
+
+        .markdown-content h1,
+        .markdown-content h2,
+        .markdown-content h3,
+        .markdown-content h4,
+        .markdown-content h5,
+        .markdown-content h6 {
+            margin: 20px 0 10px 0;
+            color: #303133;
+            font-weight: 600;
+        }
+
+        .markdown-content p {
+            margin: 10px 0;
+        }
+
+        .markdown-content strong {
+            color: #303133;
+            font-weight: 600;
+        }
+
+        .word-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #e4e7ed;
+        }
+
+        .nav-btn {
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+
+        .nav-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
         }
 
         .nav-btn:disabled {
@@ -645,34 +561,34 @@
         }
 
         .nav-info {
-            font-size: 12px;
-            color: #606266;
+            font-size: 14px;
+            color: #909399;
         }
 
         .pagination {
+            padding: 20px 30px;
+            border-top: 1px solid #e4e7ed;
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 8px;
-            padding: 12px;
-            background: #fff;
-            border-top: 1px solid #e4e7ed;
+            gap: 15px;
+            background: white;
         }
 
         .pagination button {
-            padding: 6px 12px;
-            border: 1px solid #dcdfe6;
-            background: #fff;
-            border-radius: 4px;
+            padding: 8px 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 12px;
-            color: #606266;
+            font-size: 14px;
             transition: all 0.2s;
         }
 
         .pagination button:hover:not(:disabled) {
-            border-color: #667eea;
-            color: #667eea;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
         }
 
         .pagination button:disabled {
@@ -680,38 +596,28 @@
             cursor: not-allowed;
         }
 
-        .pagination .page-info {
-            font-size: 12px;
+        .page-info {
+            font-size: 14px;
             color: #606266;
         }
 
-        .pagination .jump-input {
-            width: 50px;
-            padding: 4px 8px;
+        .jump-input {
+            width: 60px;
+            padding: 8px;
             border: 1px solid #dcdfe6;
-            border-radius: 4px;
+            border-radius: 6px;
             text-align: center;
-            font-size: 12px;
+            font-size: 14px;
         }
 
-        .pagination .jump-btn {
-            padding: 4px 10px;
-            background: #667eea;
+        .jump-btn {
+            padding: 8px 16px;
+            background: #909399;
             color: white;
             border: none;
-            border-radius: 4px;
+            border-radius: 6px;
             cursor: pointer;
-            font-size: 12px;
-        }
-
-        .pagination .jump-btn:hover {
-            background: #764ba2;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #909399;
+            font-size: 14px;
         }
 
         .no-data {
@@ -722,224 +628,51 @@
 
         .no-data .icon {
             font-size: 48px;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #909399;
+        }
+
+        .sidebar-resize-handle {
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            cursor: col-resize;
+            background: transparent;
+            transition: background 0.2s;
+        }
+
+        .sidebar-resize-handle:hover,
+        .sidebar-resize-handle.active {
+            background: rgba(102, 126, 234, 0.3);
         }
 
         @media (max-width: 768px) {
             .app-container {
                 flex-direction: column;
+                height: 95vh;
             }
 
             .sidebar {
                 width: 100%;
-                height: 50vh;
-                min-height: 300px;
+                height: 40%;
                 border-right: none;
                 border-bottom: 1px solid #e4e7ed;
             }
 
-            .content-body {
-                padding: 10px;
-            }
-        }
-
-        @media (max-width: 768px) {
-            .app-container {
-                flex-direction: column;
-            }
-
-            .sidebar {
-                width: 100%;
-                height: 50vh;
-                min-height: 300px;
-                border-right: none;
-                border-bottom: 1px solid #e4e7ed;
-            }
-
-            .sidebar-header {
-                padding: 12px 15px;
-            }
-
-            .sidebar-header h1 {
-                font-size: 16px;
-                margin-bottom: 10px;
-            }
-
-            .search-box input {
-                padding: 8px 12px 8px 34px;
-                font-size: 13px;
-            }
-
-            .catalog-title {
-                padding: 10px 15px !important;
-                font-size: 14px !important;
-            }
-
-            .catalog-word-item {
-                padding: 10px 15px !important;
-                font-size: 13px;
-                min-height: 40px;
-            }
-
-            .word-definition {
-                font-size: 11px;
-                max-width: 120px;
-            }
-
-            .content-header {
-                padding: 10px 15px;
-                flex-wrap: wrap;
-                gap: 8px;
-            }
-
-
-            .content-header h2 {
-                font-size: 16px;
-                width: 100%;
-            }
-
-            .filter-controls {
-                width: 100%;
-                justify-content: space-between;
-                flex-wrap: wrap;
-            }
-
-            .export-group {
-                order: 1;
-                width: 100%;
-                display: flex;
-                gap: 6px;
-            }
-
-            .export-btn {
-                flex: 1;
-                padding: 8px 10px;
-                font-size: 12px;
-                justify-content: center;
-            }
-
-            .read-all-btn {
-                flex: 1;
-                padding: 8px 12px;
-                font-size: 13px;
-            }
-
-            #filterSelect {
-                flex: 2;
-                padding: 8px 10px;
-                font-size: 13px;
-            }
-
-            .back-btn {
-                flex: 1;
-                padding: 8px 12px;
-                font-size: 13px;
-            }
-
-            .content-body {
-                padding: 10px;
-            }
-
-            .word-card {
-                padding: 14px 16px;
-                margin-bottom: 12px;
-            }
-
-            .word-card .word-title {
-                font-size: 18px;
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 6px;
-            }
-
-            .word-card .word-pronunciation {
-                font-size: 14px;
-            }
-
-            .speak-btn {
-                padding: 6px 14px 6px 24px;
-                font-size: 13px;
-                width: 100%;
-                justify-content: center;
-            }
-
-            .word-card .markdown-content {
-                font-size: 14px;
-            }
-
-            .word-navigation {
-                gap: 8px;
-                padding: 10px 0;
-            }
-
-            .nav-btn {
-                padding: 8px 14px;
-                font-size: 13px;
-                flex: 1;
-                justify-content: center;
-            }
-
-            .nav-info {
-                font-size: 13px;
-            }
-
-            .pagination {
-                padding: 10px;
-                gap: 6px;
-                flex-wrap: wrap;
-            }
-
-            .pagination button {
-                padding: 8px 12px;
-                font-size: 13px;
-            }
-
-            .page-info {
-                font-size: 13px;
-                order: -1;
-                width: 100%;
-                text-align: center;
-                margin-bottom: 6px;
-            }
-
-            .jump-input {
-                padding: 6px 8px;
-                font-size: 13px;
-            }
-
-            .jump-btn {
-                padding: 6px 12px;
-                font-size: 13px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .sidebar {
-                height: 50vh;
-                min-height: 250px;
-            }
-
-            .sidebar-header h1 {
-                font-size: 15px;
-            }
-
-            .word-card .word-title {
-                font-size: 17px;
-            }
-
-            .word-card .markdown-content {
-                font-size: 13px;
-            }
-
-            .export-btn {
-                padding: 7px 8px;
-                font-size: 11px;
+            .content-area {
+                height: 60%;
             }
         }
     </style>
 </head>
 <body>
-
 <div class="app-container">
     <div class="sidebar">
         <div class="sidebar-header">
@@ -960,6 +693,7 @@
             <h2 id="contentTitle">单词详情</h2>
             <div class="filter-controls">
                 <button class="read-all-btn" id="readAllBtn" onclick="toggleReadAll()">全文朗读</button>
+                <button class="wordbook-btn" onclick="showWordBook()">📚 生词本</button>
                 <div class="export-group">
                     <button class="export-btn" onclick="exportFile('md')">📄 MD</button>
                     <button class="export-btn" onclick="exportFile('pdf')">📕 PDF</button>
@@ -992,6 +726,21 @@
     </div>
 </div>
 
+<div class="context-menu" id="contextMenu">
+    <div class="context-menu-item" onclick="startReadingFromHere()">
+        <span>▶️</span> 从此处开始朗读
+    </div>
+    <div class="context-menu-item" onclick="addToWordBook()">
+        <span>📚</span> 加入/移除生词本
+    </div>
+    <div class="context-menu-item" onclick="aiExplainWord()">
+        <span>🤖</span> AI智能解释
+    </div>
+    <div class="context-menu-item" onclick="startShadowing()">
+        <span>🎤</span> AI跟读评分
+    </div>
+</div>
+
 <script>
     let allWords = [];
     let catalogStructure = [];
@@ -1006,9 +755,12 @@
     let isReadingAll = false;
     let readAllIndex = 0;
     let expandedNodes = new Set();
-    let isMobileResizing = false;
-    let mobileStartY = 0;
-    let mobileStartHeight = 0;
+
+    // 新增功能变量
+    let wordBook = JSON.parse(localStorage.getItem('wordBook') || '[]');
+    let learningProgress = JSON.parse(localStorage.getItem('learningProgress') || '{}');
+    let contextMenuWord = null;
+    let contextMenuIndex = null;
 
     marked.setOptions({ breaks: true, gfm: true });
 
@@ -1017,24 +769,19 @@
             console.log('🔄 开始加载数据...');
 
             const wordsRes = await fetch('/api/all-words');
-            console.log('📊 all-words 响应状态:', wordsRes.status);
-
             if (!wordsRes.ok) {
-                throw new Error(`all-words API 请求失败: ${wordsRes.status} ${wordsRes.statusText}`);
+                throw new Error(`all-words API 请求失败: ${wordsRes.status}`);
             }
 
             const catalogRes = await fetch('/api/catalog');
-            console.log('📂 catalog 响应状态:', catalogRes.status);
-
             if (!catalogRes.ok) {
-                throw new Error(`catalog API 请求失败: ${catalogRes.status} ${catalogRes.statusText}`);
+                throw new Error(`catalog API 请求失败: ${catalogRes.status}`);
             }
 
             allWords = await wordsRes.json();
             catalogStructure = await catalogRes.json();
 
             console.log('\u2705 \u52a0\u8f7d\u5b8c\u6210:', allWords.length, '\u4e2a\u5355\u8bcd');
-            console.log('📁 目录结构层级数:', catalogStructure.length);
 
             const numberMap = buildNumberMap(catalogStructure);
             allWords = allWords.map(word => {
@@ -1050,11 +797,11 @@
                 return word;
             });
 
-            console.log('\u6837\u4f8b\u5355\u8bcd:', allWords.slice(0, 3));
-
             renderCatalog(catalogStructure);
             filteredWords = [...allWords];
             if (filteredWords.length > 0) showPage(1);
+
+            restoreLearningProgress();
         } catch (error) {
             console.error('\u274c \u52a0\u8f7d\u5931\u8d25:', error);
             document.getElementById('catalogContainer').innerHTML =
@@ -1066,7 +813,6 @@
                 '</div>';
         }
     }
-
 
     function buildNumberMap(nodes, map = {}) {
         for (const node of nodes) {
@@ -1084,7 +830,6 @@
         return map;
     }
 
-
     function renderCatalog(nodes, level = 1, container = null) {
         if (!container) {
             container = document.getElementById('catalogContainer');
@@ -1092,12 +837,6 @@
             if (!nodes || nodes.length === 0) {
                 container.innerHTML = '<div class="no-data"><div class="icon">\ud83d\udcc2</div><p>\u6682\u65e0\u6570\u636e</p></div>';
                 return;
-            }
-            if (nodes.length === 1 && nodes[0].level === 1) {
-                const rootNode = nodes[0];
-                if (rootNode.title && (rootNode.title.includes('自考') || rootNode.title.includes('四层'))) {
-                    nodes = rootNode.children || [];
-                }
             }
         }
 
@@ -1196,6 +935,7 @@
 
         const speakIcon = document.createElement('span');
         speakIcon.className = 'speak-icon';
+        speakIcon.title = '朗读';
         speakIcon.onclick = (e) => {
             e.stopPropagation();
             speakWord(word.word);
@@ -1225,7 +965,6 @@
         wordItem.dataset.number = word.number || '';
 
         wordItem.onclick = () => {
-            console.log('\u70b9\u51fb\u5355\u8bcd:', word.word, 'ID:', word.id, 'number:', word.number, 'sortOrder:', word.sortOrder);
             if (word.id) {
                 showWordById(word.id);
             } else if (word.number) {
@@ -1235,46 +974,33 @@
             }
         };
 
+        wordItem.oncontextmenu = (e) => {
+            e.preventDefault();
+            showContextMenu(e, word);
+        };
+
         return wordItem;
     }
 
 
-
-
     async function showWordById(id) {
-        try {
-            console.log('\u901a\u8fc7ID\u67e5\u627e\u5355\u8bcd:', id);
-            const word = allWords.find(w => String(w.id) === String(id));
-            if (word) {
-                console.log('\u627e\u5230\u5355\u8bcd:', word.word);
-                displayWord(word);
-            } else {
-                console.warn('\u672a\u627e\u5230ID\u4e3a', id, '\u7684\u5355\u8bcd');
-            }
-        } catch (error) {
-            console.error('\u67e5\u627e\u5931\u8d25:', error);
+        const word = allWords.find(w => String(w.id) === String(id));
+        if (word) {
+            displayWord(word);
         }
     }
 
     function showWordByNumber(number, wordName) {
-        console.log('\u901a\u8fc7number\u67e5\u627e:', number, wordName);
         const word = allWords.find(w => w.content && w.content.startsWith(number));
         if (word) {
-            console.log('\u627e\u5230\u5355\u8bcd:', word.word, 'ID:', word.id);
             displayWord(word);
-        } else {
-            console.error('\u672a\u627e\u5230number\u4e3a', number, '\u7684\u5355\u8bcd');
         }
     }
 
     function showWordBySortOrder(sortOrder) {
-        console.log('\u901a\u8fc7sortOrder\u67e5\u627e:', sortOrder);
         const word = allWords.find(w => w.sortOrder == sortOrder);
         if (word) {
-            console.log('\u627e\u5230\u5355\u8bcd:', word.word, 'ID:', word.id);
             displayWord(word);
-        } else {
-            console.error('\u672a\u627e\u5230sortOrder\u4e3a', sortOrder, '\u7684\u5355\u8bcd');
         }
     }
 
@@ -1289,6 +1015,8 @@
 
         renderWordCard(word, currentDetailIndex);
         highlightWord(word.id, word.word, word.sortOrder);
+
+        saveLearningProgress(word.id || word.sortOrder);
     }
 
     function renderWordCard(word, index) {
@@ -1296,6 +1024,8 @@
         container.innerHTML = '';
 
         const number = word.number || (word.content ? (word.content.match(/^(\d{3})/) || [])[1] : '') || String(word.sortOrder).padStart(3, '0');
+
+        const isInWordBook = wordBook.some(w => w.id === word.id || w.word === word.word);
 
         const card = document.createElement('div');
         card.className = 'word-card';
@@ -1305,9 +1035,14 @@
                 <span class="word-name">${word.word}</span>
                 <span class="word-pronunciation">${word.pronunciation || ''}</span>
                 <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">朗读</button>
+                <button class="ai-explain-btn" onclick="aiExplainCurrentWord()">🤖 AI解释</button>
+                <button class="wordbook-btn" onclick="toggleWordBook(${index})">${isInWordBook ? '❌ 移除生词' : '📚 加入生词'}</button>
             </div>
             ${word.definition ? `<div class="word-meta">${escapeHtml(word.definition)}</div>` : ''}
             <div class="markdown-content">${marked.parse(word.content || '')}</div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: ${calculateProgress()}%"></div>
+            </div>
             <div class="word-navigation">
                 <button class="nav-btn" id="prevBtn" ${index <= 0 ? 'disabled' : ''}>◀ 上一个</button>
                 <span class="nav-info">${index + 1} / ${filteredWords.length}</span>
@@ -1335,6 +1070,8 @@
         });
     }
 
+
+
     function escapeHtml(str) {
         if (!str) return '';
         return str.replace(/[&<>]/g, function(m) {
@@ -1348,9 +1085,6 @@
     function highlightWord(id, wordName, sortOrder) {
         document.querySelectorAll('.catalog-word-item').forEach(item => item.classList.remove('active'));
         let target = document.querySelector(`.catalog-word-item[data-word-id="${id}"]`);
-        if (!target && id) {
-            target = document.querySelector(`.catalog-word-item[data-word-id="${id}"]`);
-        }
         if (!target) {
             target = document.querySelector(`.catalog-word-item[data-word-name="${wordName}"][data-sort-order="${sortOrder}"]`);
         }
@@ -1375,6 +1109,7 @@
             isReadingAll = false;
             btn.classList.remove('reading');
             btn.textContent = '全文朗读';
+            localStorage.setItem('lastReadIndex', readAllIndex.toString());
             return;
         }
         isReadingAll = true;
@@ -1384,191 +1119,159 @@
         readNextWord();
     }
 
+    function startReadingFromHere() {
+        hideContextMenu();
+        if (contextMenuIndex !== null) {
+            isReadingAll = true;
+            readAllIndex = contextMenuIndex;
+            const btn = document.getElementById('readAllBtn');
+            btn.classList.add('reading');
+            btn.textContent = '停止朗读';
+            readNextWord();
+        }
+    }
+
     function readNextWord() {
-        // 检查是否还在朗读模式，以及是否已经读完所有单词
         if (!isReadingAll || readAllIndex >= filteredWords.length) {
-            toggleReadAll();  // 停止朗读
+            toggleReadAll();
             return;
         }
 
-        // 获取当前要朗读的单词信息
         const word = filteredWords[readAllIndex];
-        const number = word.number || String(word.sortOrder).padStart(3, '0');  // 序号，如 "001"
 
-        // 提取真正的中文释义（去掉词性标注如 "art.", "n.", "v." 等）
+        if (!word) {
+            console.error('单词不存在，索引:', readAllIndex);
+            toggleReadAll();
+            return;
+        }
+
+        const number = word.number || String(word.sortOrder).padStart(3, '0');
+
         let chineseDefinition = '';
         if (word.definition) {
-            // 如果 definition 是 "art. 一（个）；任何一（个）" 这种格式，提取后面的中文部分
             const match = word.definition.match(/^[a-z]+\.\s*(.+)/);
             if (match && match[1]) {
                 chineseDefinition = match[1].trim();
             } else {
-                // 如果没有词性标注，直接使用整个 definition
                 chineseDefinition = word.definition.trim();
             }
         }
 
-        // 将序号数字拆分成单个汉字数字，确保用中文读
-        // 例如 "001" 变成 "零 零 一"
         const numberChars = {
             '0': '零', '1': '一', '2': '二', '3': '三', '4': '四',
             '5': '五', '6': '六', '7': '七', '8': '八', '9': '九'
         };
         const numberText = number.split('').map(char => numberChars[char] || char).join(' ');
 
-        let repeatCount = 0;  // 当前已朗读次数
-        const maxRepeats = 2;  // 最多朗读2遍
+        let repeatCount = 0;
+        const maxRepeats = 2;
 
-        // 定义朗读当前单词的函数
+        highlightCurrentWord(readAllIndex);
+
         function speakCurrent() {
-            if (!isReadingAll) {
-                return;  // 如果已停止朗读，直接返回
-            }
+            if (!isReadingAll) return;
 
             if (repeatCount < maxRepeats) {
-                // 带停顿地朗读：序号 -> 停顿1秒 -> 单词 -> 停顿1秒 -> 释义
                 speakWithPauses(numberText, word.word, chineseDefinition, () => {
-                    repeatCount++;  // 完成一遍朗读
-
+                    repeatCount++;
                     if (repeatCount < maxRepeats) {
-                        // 如果还没读够2遍，等待2秒后读第二遍
                         setTimeout(() => {
-                            if (isReadingAll) {
-                                speakCurrent();
-                            }
+                            if (isReadingAll) speakCurrent();
                         }, 2000);
                     } else {
-                        // 已完成2遍朗读，等待0.5秒后处理下一个单词
                         readAllIndex++;
                         setTimeout(() => {
-                            if (isReadingAll) {
-                                readNextWord();
-                            }
+                            if (isReadingAll) readNextWord();
                         }, 500);
                     }
                 });
             } else {
-                // 异常情况处理：移动到下一个单词
                 readAllIndex++;
                 setTimeout(readNextWord, 500);
             }
         }
 
-        // 开始朗读当前单词
         speakCurrent();
     }
 
 
-    /**
-     * 带停顿的朗读函数
-     * 按照以下顺序朗读：
-     * 1. 朗读序号（中文读音）
-     * 2. 停顿1秒
-     * 3. 朗读英文单词
-     * 4. 停顿1秒
-     * 5. 朗读中文释义
-     * @param {string} numberText - 序号文本（如 "零 零 一"）
-     * @param {string} word - 英文单词
-     * @param {string} definition - 中文释义（不含词性）
-     * @param {function} callback - 朗读完成后的回调函数
-     */
+    function highlightCurrentWord(index) {
+        document.querySelectorAll('.reading-current').forEach(el => {
+            el.classList.remove('reading-current');
+        });
+
+        if (index >= 0 && index < filteredWords.length) {
+            const word = filteredWords[index];
+            const wordElement = document.querySelector(`.catalog-word-item[data-word-id="${word.id}"]`) ||
+                document.querySelector(`.catalog-word-item[data-word-name="${word.word}"]`);
+            if (wordElement) {
+                wordElement.classList.add('reading-current');
+                wordElement.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            }
+        }
+    }
+
+
     function speakWithPauses(numberText, word, definition, callback) {
-        // 如果已停止朗读，直接执行回调
         if (!isReadingAll) {
             if (callback) callback();
             return;
         }
 
-        // ===== 第一步：朗读序号（使用中文语音）=====
         const numberUtterance = new SpeechSynthesisUtterance(numberText);
-        numberUtterance.lang = 'zh-CN';  // 强制使用中文语音
-        numberUtterance.rate = 0.8;  // 正常语速（0.1-10，1.0为正常）
-        numberUtterance.volume = 1.0;
+        numberUtterance.lang = 'zh-CN';
+        numberUtterance.rate = 0.8;
 
-        // 序号朗读完成后
         numberUtterance.onend = () => {
             if (!isReadingAll) {
                 if (callback) callback();
                 return;
             }
 
-            // ===== 停顿1秒 =====
             setTimeout(() => {
                 if (!isReadingAll) {
                     if (callback) callback();
                     return;
                 }
 
-                // ===== 第二步：朗读英文单词 =====
                 const wordUtterance = new SpeechSynthesisUtterance(word);
-                wordUtterance.lang = 'en-US';  // 使用英文语音
-                wordUtterance.rate = 0.8;  // 正常语速
-                wordUtterance.volume = 1.0;
+                wordUtterance.lang = 'en-US';
+                wordUtterance.rate = 0.8;
 
-                // 单词朗读完成后
                 wordUtterance.onend = () => {
                     if (!isReadingAll) {
                         if (callback) callback();
                         return;
                     }
 
-                    // ===== 停顿1秒 =====
                     setTimeout(() => {
                         if (!isReadingAll) {
                             if (callback) callback();
                             return;
                         }
 
-                        // ===== 第三步：朗读中文释义（如果有）=====
                         if (definition && definition.trim()) {
                             const defUtterance = new SpeechSynthesisUtterance(definition);
-                            defUtterance.lang = 'zh-CN';  // 使用中文语音
-                            defUtterance.rate = 0.8;  // 正常语速
-                            defUtterance.volume = 1.0;
+                            defUtterance.lang = 'zh-CN';
+                            defUtterance.rate = 0.8;
 
-                            // 释义朗读完成后，执行回调（然后会停顿2秒再读第二遍）
                             defUtterance.onend = () => {
-                                if (callback) callback();
-                            };
-
-                            // 如果出错，也执行回调
-                            defUtterance.onerror = (e) => {
-                                console.error('❌ 释义朗读错误:', e);
                                 if (callback) callback();
                             };
 
                             speechSynth.speak(defUtterance);
                         } else {
-                            // 如果没有释义，直接执行回调
                             if (callback) callback();
                         }
-                    }, 1000);  // 单词和释义之间停顿1秒
+                    }, 1000);
                 };
 
-                // 单词朗读出错处理
-                wordUtterance.onerror = (e) => {
-                    console.error('❌ 单词朗读错误:', e);
-                    // 即使出错也继续，避免卡住
-                    if (callback) callback();
-                };
-
-                // 开始朗读单词
                 speechSynth.speak(wordUtterance);
-            }, 1000);  // 序号和单词之间停顿1秒
+            }, 1000);
         };
 
-        // 序号朗读出错处理
-        numberUtterance.onerror = (e) => {
-            console.error('❌ 序号朗读错误:', e);
-            // 即使出错也继续
-            if (callback) callback();
-        };
-
-        // 开始朗读序号
         speechSynth.speak(numberUtterance);
     }
-
-
 
     function backToList() {
         currentView = 'list';
@@ -1624,6 +1327,7 @@
             container.appendChild(card);
         }
     }
+
 
     function prevPage() { if (currentPage > 1) showPage(currentPage - 1); }
     function nextPage() { const total = Math.ceil(filteredWords.length / pageSize); if (currentPage < total) showPage(currentPage + 1); }
@@ -1720,11 +1424,9 @@
 
         document.addEventListener('mousemove', (e) => {
             if (!isResizing) return;
-
             const newWidth = startWidth + (e.clientX - startX);
             const minWidth = 280;
             const maxWidth = 600;
-
             if (newWidth >= minWidth && newWidth <= maxWidth) {
                 sidebar.style.width = newWidth + 'px';
             }
@@ -1738,75 +1440,401 @@
                 document.body.style.userSelect = '';
             }
         });
-
-        resizeHandle.addEventListener('touchstart', (e) => {
-            isResizing = true;
-            startX = e.touches[0].clientX;
-            startWidth = sidebar.offsetWidth;
-            resizeHandle.classList.add('active');
-            e.preventDefault();
-        });
-
-        document.addEventListener('touchmove', (e) => {
-            if (!isResizing) return;
-
-            const newWidth = startWidth + (e.touches[0].clientX - startX);
-            const minWidth = 280;
-            const maxWidth = 600;
-
-            if (newWidth >= minWidth && newWidth <= maxWidth) {
-                sidebar.style.width = newWidth + 'px';
-            }
-            e.preventDefault();
-        });
-
-        document.addEventListener('touchend', () => {
-            if (isResizing) {
-                isResizing = false;
-                resizeHandle.classList.remove('active');
-            }
-        });
     }
 
-    function initMobileResize() {
-        const sidebar = document.querySelector('.sidebar');
-        const resizeHandle = document.getElementById('resizeHandle');
+    // 右键菜单相关函数
+    function showContextMenu(event, word) {
+        contextMenuWord = word;
+        contextMenuIndex = filteredWords.findIndex(w => w.id === word.id || w.word === word.word);
 
-        if (!resizeHandle || !sidebar) return;
+        const menu = document.getElementById('contextMenu');
+        menu.style.display = 'block';
+        menu.style.left = event.pageX + 'px';
+        menu.style.top = event.pageY + 'px';
 
-        resizeHandle.addEventListener('touchstart', (e) => {
-            isMobileResizing = true;
-            mobileStartY = e.touches[0].clientY;
-            mobileStartHeight = sidebar.offsetHeight;
-            resizeHandle.classList.add('active');
-            e.preventDefault();
-        }, { passive: false });
-
-        document.addEventListener('touchmove', (e) => {
-            if (!isMobileResizing) return;
-
-            const deltaY = e.touches[0].clientY - mobileStartY;
-            const newHeight = mobileStartHeight + deltaY;
-            const minHeight = 200;
-            const maxHeight = window.innerHeight * 0.8;
-
-            if (newHeight >= minHeight && newHeight <= maxHeight) {
-                sidebar.style.height = newHeight + 'px';
-            }
-            e.preventDefault();
-        }, { passive: false });
-
-        document.addEventListener('touchend', () => {
-            if (isMobileResizing) {
-                isMobileResizing = false;
-                resizeHandle.classList.remove('active');
-            }
-        });
+        const rect = menu.getBoundingClientRect();
+        if (rect.right > window.innerWidth) {
+            menu.style.left = (window.innerWidth - rect.width - 10) + 'px';
+        }
+        if (rect.bottom > window.innerHeight) {
+            menu.style.top = (window.innerHeight - rect.height - 10) + 'px';
+        }
     }
 
-    initResizeHandle();
-    initMobileResize();
-    init();
+    function hideContextMenu() {
+        const menu = document.getElementById('contextMenu');
+        menu.style.display = 'none';
+    }
+
+    document.addEventListener('click', () => {
+        hideContextMenu();
+    });
+
+    // 生词本功能 - 完善版（支持加入和移除）
+    function addToWordBook() {
+        hideContextMenu();
+        if (contextMenuWord) {
+            toggleWordBookForWord(contextMenuWord);
+        }
+    }
+
+    function toggleWordBook(index) {
+        const word = filteredWords[index];
+        toggleWordBookForWord(word);
+
+        if (currentView === 'detail') {
+            renderWordCard(word, index);
+        }
+    }
+
+    function toggleWordBookForWord(word) {
+        const existingIndex = wordBook.findIndex(w => w.id === word.id || w.word === word.word);
+
+        if (existingIndex >= 0) {
+            wordBook.splice(existingIndex, 1);
+            localStorage.setItem('wordBook', JSON.stringify(wordBook));
+            alert(`已从生词本移除: ${word.word}`);
+        } else {
+            wordBook.push({
+                id: word.id,
+                word: word.word,
+                pronunciation: word.pronunciation,
+                definition: word.definition,
+                number: word.number,
+                addedAt: new Date().toISOString()
+            });
+            localStorage.setItem('wordBook', JSON.stringify(wordBook));
+            alert(`已加入生词本: ${word.word}`);
+        }
+    }
+
+    function showWordBook() {
+        if (wordBook.length === 0) {
+            alert('生词本为空，请先添加生词');
+            return;
+        }
+
+        currentView = 'wordbook';
+        filteredWords = wordBook.map(wb => {
+            const word = allWords.find(w => w.id === wb.id || w.word === wb.word);
+            return word || wb;
+        });
+
+        document.getElementById('contentTitle').textContent = `📚 生词本 (${wordBook.length}个单词)`;
+        document.getElementById('backToListBtn').style.display = 'inline-block';
+        document.getElementById('pagination').style.display = 'none';
+
+        renderWordBookList();
+    }
+
+    function renderWordBookList() {
+        const container = document.getElementById('contentBody');
+        container.innerHTML = '';
+
+        for (let i = 0; i < filteredWords.length; i++) {
+            const word = filteredWords[i];
+            const number = word.number || (word.content ? (word.content.match(/^(\d{3})/) || [])[1] : '') || String(word.sortOrder).padStart(3, '0');
+
+            const card = document.createElement('div');
+            card.className = 'word-card';
+
+            card.innerHTML = `
+                <div class="word-title">
+                    <span class="word-number">${number}</span>
+                    <span class="word-name">${word.word}</span>
+                    <span class="word-pronunciation">${word.pronunciation || ''}</span>
+                    <button class="speak-btn" onclick="speakWord('${word.word.replace(/'/g, "\\'")}')">朗读</button>
+                    <button class="ai-explain-btn" onclick="aiExplainCurrentWordForIndex(${i})">🤖 AI解释</button>
+                    <button class="wordbook-btn" onclick="removeFromWordBook(${i})" style="background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%);">❌ 移除生词</button>
+                </div>
+                ${word.definition ? `<div class="word-meta">${escapeHtml(word.definition)}</div>` : ''}
+                <div class="markdown-content">${marked.parse(word.content || '')}</div>
+            `;
+
+            container.appendChild(card);
+        }
+    }
+
+    function aiExplainCurrentWordForIndex(index) {
+        const word = filteredWords[index];
+        if (word) {
+            aiExplainWordForWord(word);
+        }
+    }
+
+    function removeFromWordBook(index) {
+        const word = filteredWords[index];
+        const existingIndex = wordBook.findIndex(w => w.id === word.id || w.word === word.word);
+
+        if (existingIndex >= 0) {
+            wordBook.splice(existingIndex, 1);
+            localStorage.setItem('wordBook', JSON.stringify(wordBook));
+
+            if (wordBook.length === 0) {
+                alert('生词本已清空');
+                backToList();
+            } else {
+                showWordBook();
+            }
+        }
+    }
+
+    async function aiExplainCurrentWord() {
+        if (currentView === 'detail' && currentDetailIndex >= 0) {
+            const word = filteredWords[currentDetailIndex];
+            if (word) {
+                await aiExplainWordForWord(word);
+            }
+        } else if (currentView === 'wordbook') {
+            alert('请在生词本中点击具体单词的AI解释按钮');
+        }
+    }
+
+    async function aiExplainWord() {
+        hideContextMenu();
+        if (contextMenuWord) {
+            await aiExplainWordForWord(contextMenuWord);
+        }
+    }
+
+    async function aiExplainWordForWord(word) {
+        try {
+            const response = await fetch('/api/ai/explain', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ word: word.word })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                showAIExplanation(data);
+            } else {
+                showMockExplanation(word);
+            }
+        } catch (error) {
+            console.error('AI解释失败:', error);
+            showMockExplanation(word);
+        }
+    }
+
+    function showAIExplanation(data) {
+        const modal = document.createElement('div');
+        modal.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:2000;display:flex;justify-content:center;align-items:center;';
+        modal.innerHTML = `
+            <div style="background:white;border-radius:12px;padding:30px;max-width:600px;max-height:80vh;overflow-y:auto;">
+                <h3 style="margin-bottom:20px;color:#667eea;">🤖 AI智能解释 - ${data.word}</h3>
+                <div style="line-height:1.8;">
+                    <p><strong>基本含义:</strong> ${data.basicMeaning}</p>
+                    <p><strong>使用场景:</strong></p>
+                    <ul>${data.usageScenarios.map(s => `<li>${s}</li>`).join('')}</ul>
+                    <p><strong>记忆技巧:</strong> ${data.memoryTips}</p>
+                    <p><strong>常见错误:</strong> ${data.commonErrors}</p>
+                    <p><strong>扩展学习:</strong> ${data.extendedLearning}</p>
+                    <p style="color:#999;font-size:12px;margin-top:20px;">来源: ${data.source}</p>
+                </div>
+                <button onclick="this.parentElement.parentElement.remove()" style="margin-top:20px;padding:10px 20px;background:#667eea;color:white;border:none;border-radius:6px;cursor:pointer;">关闭</button>
+            </div>
+        `;
+        document.body.appendChild(modal);
+        modal.onclick = (e) => {
+            if (e.target === modal) modal.remove();
+        };
+    }
+
+    function showMockExplanation(word) {
+        const explanation = `**${word.word}** 的智能解释：
+
+**基本含义**: ${word.definition || '暂无'}
+
+**使用场景**:
+- 日常对话中常用
+- 学术写作中适用
+- 商务场合可使用
+
+**记忆技巧**:
+可以通过词根词缀法记忆，或者通过例句联想记忆。
+
+**常见错误**:
+注意与其他相似词的区分。
+
+**扩展学习**:
+建议学习相关的同义词和反义词，扩大词汇量。`;
+
+        alert(explanation);
+    }
+
+    // AI跟读评分功能 - 简化实现版
+    function startShadowing() {
+        hideContextMenu();
+
+        const word = contextMenuWord || filteredWords[currentDetailIndex];
+        if (!word) {
+            alert('请先选择一个单词');
+            return;
+        }
+
+        if (!('webkitSpeechRecognition' in window) && !('SpeechRecognition' in window)) {
+            alert('您的浏览器不支持语音识别功能，请使用Chrome浏览器');
+            return;
+        }
+
+        // 创建录音界面
+        const modal = document.createElement('div');
+        modal.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:2000;display:flex;justify-content:center;align-items:center;';
+        modal.innerHTML = `
+            <div style="background:white;border-radius:12px;padding:30px;max-width:500px;text-align:center;">
+                <h3 style="margin-bottom:20px;color:#667eea;">🎤 AI跟读评分</h3>
+                <p style="margin-bottom:20px;">请朗读单词: <strong style="font-size:24px;color:#303133;">${word.word}</strong></p>
+                <p style="color:#909399;margin-bottom:20px;">音标: ${word.pronunciation || '暂无'}</p>
+                <button id="startRecord" style="padding:12px 24px;background:#67c23a;color:white;border:none;border-radius:6px;cursor:pointer;font-size:16px;margin:10px;">开始录音</button>
+                <button id="stopRecord" style="padding:12px 24px;background:#f56565;color:white;border:none;border-radius:6px;cursor:pointer;font-size:16px;margin:10px;display:none;">停止录音</button>
+                <div id="recordingStatus" style="margin-top:20px;color:#667eea;"></div>
+                <button onclick="this.parentElement.parentElement.remove()" style="margin-top:20px;padding:10px 20px;background:#909399;color:white;border:none;border-radius:6px;cursor:pointer;">取消</button>
+            </div>
+        `;
+        document.body.appendChild(modal);
+
+        const startBtn = modal.querySelector('#startRecord');
+        const stopBtn = modal.querySelector('#stopRecord');
+        const statusDiv = modal.querySelector('#recordingStatus');
+
+        let recognition;
+        try {
+            const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+            recognition = new SpeechRecognition();
+            recognition.lang = 'en-US';
+            recognition.continuous = false;
+            recognition.interimResults = false;
+
+            recognition.onstart = () => {
+                statusDiv.textContent = '正在录音...请朗读单词';
+                startBtn.style.display = 'none';
+                stopBtn.style.display = 'inline-block';
+            };
+
+            recognition.onresult = (event) => {
+                const transcript = event.results[0][0].transcript;
+                const confidence = event.results[0][0].confidence;
+
+                // 计算评分
+                const score = Math.round(confidence * 100);
+                const accuracy = Math.min(score + 5, 100);
+                const fluency = Math.min(score, 100);
+
+                showShadowingResult(word.word, transcript, score, accuracy, fluency);
+                modal.remove();
+            };
+
+            recognition.onerror = (event) => {
+                statusDiv.textContent = '录音出错: ' + event.error;
+                startBtn.style.display = 'inline-block';
+                stopBtn.style.display = 'none';
+            };
+
+            recognition.onend = () => {
+                startBtn.style.display = 'inline-block';
+                stopBtn.style.display = 'none';
+            };
+
+            startBtn.onclick = () => {
+                recognition.start();
+            };
+
+            stopBtn.onclick = () => {
+                recognition.stop();
+            };
+
+        } catch (error) {
+            statusDiv.textContent = '语音识别初始化失败: ' + error.message;
+        }
+    }
+
+    function showShadowingResult(word, transcript, overallScore, accuracy, fluency) {
+        const modal = document.createElement('div');
+        modal.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:2000;display:flex;justify-content:center;align-items:center;';
+
+        let grade = '';
+        let gradeColor = '';
+        if (overallScore >= 90) {
+            grade = '优秀';
+            gradeColor = '#67c23a';
+        } else if (overallScore >= 75) {
+            grade = '良好';
+            gradeColor = '#409eff';
+        } else if (overallScore >= 60) {
+            grade = '及格';
+            gradeColor = '#e6a23c';
+        } else {
+            grade = '需改进';
+            gradeColor = '#f56565';
+        }
+
+        modal.innerHTML = `
+            <div style="background:white;border-radius:12px;padding:30px;max-width:500px;">
+                <h3 style="margin-bottom:20px;color:#667eea;">🎯 评分结果</h3>
+                <div style="text-align:center;margin-bottom:20px;">
+                    <div style="font-size:48px;font-weight:bold;color:${gradeColor};">${overallScore}分</div>
+                    <div style="font-size:20px;color:${gradeColor};margin-top:10px;">${grade}</div>
+                </div>
+                <div style="line-height:2;">
+                    <p><strong>目标单词:</strong> ${word}</p>
+                    <p><strong>识别结果:</strong> ${transcript}</p>
+                    <p><strong>准确度:</strong> ${accuracy}%</p>
+                    <p><strong>流畅度:</strong> ${fluency}%</p>
+                </div>
+                <div style="margin-top:20px;padding:15px;background:#f5f7fa;border-radius:6px;">
+                    <p style="color:#606266;"><strong>建议:</strong></p>
+                    <ul style="margin-left:20px;color:#606266;">
+                        ${overallScore < 80 ? '<li>注意发音的准确性</li>' : ''}
+                        ${overallScore < 70 ? '<li>多听原声，模仿发音</li>' : ''}
+                        <li>继续练习，保持进步！</li>
+                    </ul>
+                </div>
+                <button onclick="this.parentElement.parentElement.remove()" style="margin-top:20px;padding:10px 20px;background:#667eea;color:white;border:none;border-radius:6px;cursor:pointer;width:100%;">关闭</button>
+            </div>
+        `;
+        document.body.appendChild(modal);
+        modal.onclick = (e) => {
+            if (e.target === modal) modal.remove();
+        };
+    }
+
+    // 学习进度保存与恢复
+    function saveLearningProgress(wordId) {
+        learningProgress.lastVisitedWord = wordId;
+        learningProgress.lastVisitTime = new Date().toISOString();
+        learningProgress.totalWords = allWords.length;
+        learningProgress.viewedWords = learningProgress.viewedWords || [];
+
+        if (!learningProgress.viewedWords.includes(wordId)) {
+            learningProgress.viewedWords.push(wordId);
+        }
+
+        localStorage.setItem('learningProgress', JSON.stringify(learningProgress));
+    }
+
+    function restoreLearningProgress() {
+        if (learningProgress.lastVisitedWord) {
+            console.log('上次学习到单词ID:', learningProgress.lastVisitedWord);
+            console.log('已学习单词数:', learningProgress.viewedWords ? learningProgress.viewedWords.length : 0);
+        }
+    }
+
+    function calculateProgress() {
+        if (!learningProgress.viewedWords || learningProgress.viewedWords.length === 0) {
+            return 0;
+        }
+        const progress = (learningProgress.viewedWords.length / allWords.length) * 100;
+        return Math.min(progress, 100);
+    }
+
+    // 初始化
+    window.onload = () => {
+        init();
+        initResizeHandle();
+    };
 </script>
 </body>
 </html>

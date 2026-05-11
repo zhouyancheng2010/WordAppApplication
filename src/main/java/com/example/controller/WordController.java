@@ -1,6 +1,7 @@
 package com.example.controller;
 
 import com.example.model.Word;
+import com.example.service.AIService;
 import com.example.service.WordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
@@ -9,6 +10,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 import java.util.Map;
@@ -21,6 +23,9 @@ public class WordController {
 
     @Autowired
     private WordService wordService;
+
+    @Autowired
+    private AIService aiService;
 
     @GetMapping("/words")
     public Page<Word> getAllWords(
@@ -103,6 +108,39 @@ public class WordController {
                 .header("Content-Type", "application/octet-stream")
                 .header("Content-Disposition", "attachment; filename*=UTF-8''%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D.xlsx")
                 .body(excelContent);
+    }
+
+    @PostMapping("/ai/explain")
+    public ResponseEntity<Map<String, Object>> getAIExplanation(@RequestBody Map<String, String> request) {
+        String word = request.get("word");
+        if (word == null || word.trim().isEmpty()) {
+            return ResponseEntity.badRequest().build();
+        }
+
+        Map<String, Object> explanation = aiService.getAIExplanation(word.trim());
+        return ResponseEntity.ok(explanation);
+    }
+
+    @PostMapping("/ai/shadowing")
+    public ResponseEntity<Map<String, Object>> evaluateShadowing(
+            @RequestParam String word,
+            @RequestParam(required = false) MultipartFile audio) {
+
+        if (word == null || word.trim().isEmpty()) {
+            return ResponseEntity.badRequest().build();
+        }
+
+        String audioData = null;
+        if (audio != null && !audio.isEmpty()) {
+            try {
+                audioData = java.util.Base64.getEncoder().encodeToString(audio.getBytes());
+            } catch (Exception e) {
+                return ResponseEntity.internalServerError().build();
+            }
+        }
+
+        Map<String, Object> evaluation = aiService.evaluatePronunciation(word.trim(), audioData);
+        return ResponseEntity.ok(evaluation);
     }
 
 }

@@ -71,6 +71,13 @@
             <artifactId>poi-scratchpad</artifactId>
             <version>5.2.5</version>
         </dependency>
+
+        <!-- HTTP客户端用于调用AI API -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-webflux</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
